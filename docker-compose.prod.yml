@@ -11,9 +11,9 @@ services:
       PYTHONDONTWRITEBYTECODE: 1
       PYTHONUNBUFFERED: 1
     ports:
-      - "8000:8000"
+      - "8777:8000"
     volumes:
-      - ./public/data:/app/public/data:ro
+      - ./public/data:/app/public/data
       - ./logs:/var/log/app
     healthcheck:
       test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/', timeout=5)"]
