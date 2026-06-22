@@ -1,0 +1,85 @@
+{
+  "chapter": "2",
+  "sloka_number": "19",
+  "source_citation": "",
+  "original_text_telugu": "తతః సమస్తదేవానాం తేజోరాశిసముద్భవామ్। తాం విలోక్య ముదం ప్రాపురమరా మహిషార్దితాః ॥ 19 ॥",
+  "normalized_sanskrit": "ततः समस्तदेवानां तेजोराशिसमुद्भवाम् । तां विलोक्य मुदं प्रापुरमरा महिषार्दिताः ॥ १९ ॥",
+  "iast": "tataḥ samastadevānāṃ tejorāśisamudbhavām | tāṃ vilokya mudaṃ prāpur amarā mahiṣārditāḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.19.1",
+      "text": "ततः समस्तदेवानां तेजोराशिसमुद्भवां तां विलोक्य मुदं प्रापुरमरा महिषार्दिताः",
+      "anvaya": "ततः महिषार्दिताः अमराः समस्तदेवानां तेजोराशिसमुद्भवां तां विलोक्य मुदं प्रापुः।",
+      "sandhi": [
+        {
+          "joined": "तेजोराशि",
+          "split": "तेजः + राशि",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before र् becomes ओ"
+        },
+        {
+          "joined": "प्रापुरमरा",
+          "split": "प्रापुः + अमराः",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before vowel becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ततः",
+          "lemma": "ततः",
+          "grammar": "अव्ययम्",
+          "meaning": "then"
+        },
+        {
+          "word": "महिषार्दिताः",
+          "lemma": "महिषार्दित",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "tormented by Mahisha"
+        },
+        {
+          "word": "अमराः",
+          "lemma": "अमर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "the immortals, gods"
+        },
+        {
+          "word": "समस्तदेवानाम्",
+          "lemma": "समस्तदेव",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of all the gods"
+        },
+        {
+          "word": "तेजोराशिसमुद्भवाम्",
+          "lemma": "तेजोराशिसमुद्भवा",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "born from the mass of radiance"
+        },
+        {
+          "word": "ताम्",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "her"
+        },
+        {
+          "word": "विलोक्य",
+          "lemma": "वि-लोक्",
+          "grammar": "ल्यबन्त अव्ययम्",
+          "meaning": "having beheld"
+        },
+        {
+          "word": "मुदम्",
+          "lemma": "मुद्",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "joy"
+        },
+        {
+          "word": "प्रापुः",
+          "lemma": "प्र-आप्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्, परस्मैपदम्",
+          "meaning": "attained"
+        }
+      ],
+      "devotional_meaning_english": "Then the gods, tormented by Mahisha, beheld Her who had arisen from the mass of all divine radiances and became filled with joy.",
+      "devotional_meaning_telugu": "మహిషునిచేత పీడింపబడిన దేవతలు సకల దేవతల తేజోరాశి నుండి ఉద్భవించిన ఆమెను చూచి ఆనందము పొందిరి."
+    }
+  ]
+}

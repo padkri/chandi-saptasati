@@ -1,0 +1,62 @@
+{
+  "id": "durga_saptashati_keelakam_1",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 1,
+  "sloka_original": "ఓం విశుద్ధజ్ఞానదేహాయ త్రివేదీదివ్యచక్షుషే! శ్రేయఃప్రాప్తినిమిత్తాయ నమః సోమార్థధారిణే || 1 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "Om",
+      "grammar": "అవ్యయం (Indeclinable)"
+    },
+    {
+      "word": "విశుద్ధజ్ఞానదేహాయ",
+      "meaning": "To the one whose body is pure knowledge",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "త్రివేదీదివ్యచక్షుషే",
+      "meaning": "To the one whose divine eyes are the three Vedas",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "శ్రేయఃప్రాప్తినిమిత్తాయ",
+      "meaning": "To the one who is the cause for attaining auspiciousness",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "నమః",
+      "meaning": "Salutations",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సోమార్థధారిణే",
+      "meaning": "To the one who wears the half-moon",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, పుంలింగం"
+    }
+  ],
+  "anvaya": "విశుద్ధజ్ఞానదేహాయ, త్రివేదీదివ్యచక్షుషే, శ్రేయఃప్రాప్తినిమిత్తాయ, సోమార్థధారిణే (శివాయ) నమః అస్తు.",
+  "tatparyam": {
+    "english": "Salutations to Lord Shiva, whose body is pure knowledge, whose divine eyes are the three Vedas, who is the cause of attaining all auspiciousness, and who wears the crescent moon.",
+    "telugu": "స్వచ్ఛమైన జ్ఞానమే శరీరంగా కలవాడు, మూడు వేదాలనే దివ్యమైన నేత్రాలుగా కలవాడు, సకల శుభాలను పొందడానికి కారణభూతుడు, మరియు తలపై అర్థచంద్రుని ధరించినవాడైన పరమశివునికి నమస్కారము."
+  },
+  "samasas": [
+    {
+      "compound": "విశుద్ధజ్ఞానదేహాయ",
+      "type": "బహువ్రీహి సమాసం (Bahuvrihi)"
+    },
+    {
+      "compound": "సోమార్థధారిణే",
+      "type": "ఉపపద తత్పురుష (Upapada Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "శ్రేయఃప్రాప్తి",
+      "split_words": "శ్రేయః + ప్రాప్తి",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup). Alamkaram: రూపక (Rūpaka)."
+}

@@ -1,0 +1,98 @@
+{
+  "id": "durga_saptasloki_1",
+  "source": "Durga Saptashati - Saptasloki",
+  "chapter": 0,
+  "sloka_number": 1,
+  "sloka_original": "ఓం జ్ఞానినామపి చేతాంసి దేవీ భగవతీ హి సా। బలాదాకృప్య మోహాయ మహామాయా ప్రయచ్ఛతి || 1 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "Om (the sacred syllable)",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "జ్ఞానినామ్",
+      "meaning": "Of the wise",
+      "grammar": "Genitive, plural, masculine"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Even",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "చేతాంసి",
+      "meaning": "Minds",
+      "grammar": "Accusative, plural, neuter"
+    },
+    {
+      "word": "దేవీ",
+      "meaning": "The Goddess",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "భగవతీ",
+      "meaning": "The divine/majestic one",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "హి",
+      "meaning": "Indeed",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "సా",
+      "meaning": "She",
+      "grammar": "Nominative, singular, feminine pronoun"
+    },
+    {
+      "word": "బలాత్",
+      "meaning": "By force",
+      "grammar": "Ablative, singular, neuter"
+    },
+    {
+      "word": "ఆకృష్య",
+      "meaning": "Having drawn / attracted",
+      "grammar": "Gerund (Lyap)"
+    },
+    {
+      "word": "మోహాయ",
+      "meaning": "Into delusion",
+      "grammar": "Dative, singular, masculine"
+    },
+    {
+      "word": "మహామాయా",
+      "meaning": "The Great Illusion",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "ప్రయచ్ఛతి",
+      "meaning": "Casts / throws / gives",
+      "grammar": "Present tense, 3rd person, singular, Parasmaipada"
+    }
+  ],
+  "anvaya": "సా భగవతీ మహామాయా దేవీ జ్ఞానినామ్ అపి చేతాంసి బలాత్ ఆకృష్య మోహాయ ప్రయచ్ఛతి హి.",
+  "tatparyam": {
+    "english": "That divine Goddess Mahamaya (the Great Illusion) forcefully draws the minds of even the wise and casts them into delusion.",
+    "telugu": "ఆ భగవతీ మహామాయా దేవీ జ్ఞానుల మనస్సులను సైతం బలవంతంగా ఆకర్షించి మోహంలో పడవేస్తుంది."
+  },
+  "samasas": [
+    {
+      "compound": "మహామాయా",
+      "type": "కర్మధారయ (Karmadharaya)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "జ్ఞానినామపి",
+      "split_words": "జ్ఞానినామ్ + అపి",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    },
+    {
+      "joined_word": "బలాదాకృష్య",
+      "split_words": "బలాత్ + ఆకృష్య",
+      "sandhi_rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup). Alamkaram: స్వభావోక్తి (Svabhāvokti)."
+}

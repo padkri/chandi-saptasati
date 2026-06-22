@@ -1,0 +1,62 @@
+{
+  "id": "durga_saptashati_1_58",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 58,
+  "sloka_original": "సంసారబంధహేతుశ్చ సైవ సర్వేశ్వరేశ్వరీ || 58 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సంసారబంధహేతుః",
+      "meaning": "సంసారబంధానికి కారణమైనది",
+      "grammar": "సమాస పదం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగ భావంలో పుంలింగ రూప ప్రయోగం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సా",
+      "meaning": "ఆమె",
+      "grammar": "తద్ సర్వనామం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "తానే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సర్వేశ్వరేశ్వరీ",
+      "meaning": "సమస్త ఈశ్వరులకు కూడా ఈశ్వరి",
+      "grammar": "సమాస పదం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    }
+  ],
+  "anvaya": "సా ఏవ సంసారబంధహేతుః చ సర్వేశ్వరేశ్వరీ.",
+  "tatparyam": {
+    "english": "She alone is also the cause of bondage in worldly existence, and she is the supreme ruler even of all rulers.",
+    "telugu": "ఆమెయే సంసారబంధానికి కారణమూ; సమస్త ఈశ్వరులకూ ఈశ్వరీయైన పరాశక్తియూ ఆమెయే."
+  },
+  "samasas": [
+    {
+      "compound": "సంసారబంధహేతుః",
+      "type": "షష్ఠీ తత్పురుష సమాసం"
+    },
+    {
+      "compound": "సర్వేశ్వరేశ్వరీ",
+      "type": "షష్ఠీ తత్పురుష సమాసం"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సంసారబంధహేతుశ్చ",
+      "split_words": "సంసారబంధహేతుః + చ",
+      "sandhi_rule": "విసర్గ సంధి"
+    },
+    {
+      "joined_word": "సైవ",
+      "split_words": "సా + ఏవ",
+      "sandhi_rule": "వృద్ధి సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ భాగం; శ్లోక 57తో భావపూర్ణత పొందుతుంది."
+}

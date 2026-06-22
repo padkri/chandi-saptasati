@@ -1,0 +1,47 @@
+{
+  "id": "durga_saptashati_argala_17",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 17,
+  "sloka_original": "ప్రచండదైత్యదర్పఘ్నే చండికే ప్రణతాయ మే। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 17 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ప్రచండదైత్యదర్పఘ్నే",
+      "meaning": "క్రూరులైన రాక్షసుల గర్వాన్ని అణచినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "చండికే",
+      "meaning": "ఓ చండికా దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "ప్రణతాయ",
+      "meaning": "నమస్కరించిన",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మే",
+      "meaning": "నాకు",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, సర్వనామం"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే ప్రచండదైత్యదర్పఘ్నే చండికే! ప్రణతాయ మే రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Chandika, destroyer of the pride of fierce demons! To me who bows down to You, grant form, victory, fame, and destroy my enemies.",
+    "telugu": "క్రూరులైన రాక్షసుల అహంకారాన్ని అణచివేసిన ఓ చండికా దేవీ! నీకు నమస్కరించిన నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, నా శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "ప్రచండదైత్యదర్పఘ్నే",
+      "type": "ఉపపద తత్పురుష (Upapada Tatpurusha)"
+    }
+  ],
+  "sandhis": [],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

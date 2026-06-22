@@ -1,0 +1,92 @@
+{
+  "id": "durga_saptashati_keelakam_12",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 12,
+  "sloka_original": "సౌభాగ్యాది చ యత్కిఞ్చద్ దృశ్యతే లలనాజనే। తత్సర్వం తత్ప్రసాదేన తేన జాప్యమిదం శుభమ్ || 12 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సౌభాగ్యాది",
+      "meaning": "Auspiciousness, beauty, etc.",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "And",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "యత్కిఞ్చిత్",
+      "meaning": "Whatever",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దృశ్యతే",
+      "meaning": "Is seen",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం, కర్మణి (Passive)"
+    },
+    {
+      "word": "లలనాజనే",
+      "meaning": "Among women",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తత్",
+      "meaning": "That",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సర్వమ్",
+      "meaning": "All",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తత్ప్రసాదేన",
+      "meaning": "By Her (the Goddess's) grace",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తేన",
+      "meaning": "Therefore / By that",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "జాప్యమ్",
+      "meaning": "To be chanted",
+      "grammar": "కృదంతం (Gerundive)"
+    },
+    {
+      "word": "ఇదమ్",
+      "meaning": "This",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "శుభమ్",
+      "meaning": "Auspicious",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "లలనాజనే యత్కిఞ్చిత్ సౌభాగ్యాది చ దృశ్యతే, తత్ సర్వమ్ తత్ప్రసాదేన (భవతి). తేన ఇదం శుభమ్ జాప్యమ్.",
+  "tatparyam": {
+    "english": "Whatever auspiciousness, beauty, and grace are seen in women, all of it is the result of Her (the Goddess's) grace. Therefore, this highly auspicious hymn must be chanted.",
+    "telugu": "స్త్రీజనంలో కనిపించే సౌందర్యం, సౌభాగ్యం మొదలైనవన్నీ ఆ అమ్మవారి అనుగ్రహం వల్లనే కలుగుతాయి. కాబట్టి ఈ శుభప్రదమైన దేవీ స్తోత్రాన్ని తప్పక జపించాలి."
+  },
+  "samasas": [
+    {
+      "compound": "లలనాజనే",
+      "type": "కర్మధారయ / షష్ఠీ తత్పురుష (Karmadharaya / Shashthi Tatpurusha)"
+    },
+    {
+      "compound": "తత్ప్రసాదేన",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "యత్కిఞ్చద్దృశ్యతే",
+      "split_words": "యత్ + కిఞ్చిత్ + దృశ్యతే",
+      "sandhi_rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

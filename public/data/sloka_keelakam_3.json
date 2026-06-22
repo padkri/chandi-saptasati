@@ -1,0 +1,87 @@
+{
+  "id": "durga_saptashati_keelakam_3",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 3,
+  "sloka_original": "సిద్ధ్యంత్యుచ్చాటనాదీని వస్తూని సకలాన్యపి। ఏతేన స్తువతాం దేవి స్తోత్రమాత్రేణ సిద్ధ్యతి || 3 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సిద్ధ్యంతి",
+      "meaning": "Are accomplished",
+      "grammar": "క్రియ, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "ఉచ్చాటనాదీని",
+      "meaning": "Uchatana (driving away) and others",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "వస్తూని",
+      "meaning": "Things / aims",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "సకలాని",
+      "meaning": "All",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Even",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఏతేన",
+      "meaning": "By this",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "స్తువతామ్",
+      "meaning": "Of those who praise",
+      "grammar": "షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "O Goddess",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "స్తోత్రమాత్రేణ",
+      "meaning": "Merely by this hymn",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సిద్ధ్యతి",
+      "meaning": "Is accomplished",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    }
+  ],
+  "anvaya": "హే దేవి! ఏతేన స్తోత్రమాత్రేణ స్తువతాం ఉచ్చాటనాదీని సకలాని అపి వస్తూని సిద్ధ్యంతి, (సర్వం) సిద్ధ్యతి.",
+  "tatparyam": {
+    "english": "O Goddess! For those who praise You merely with this hymn, all objectives, including magical acts like Uchatana (driving away enemies), are effortlessly accomplished.",
+    "telugu": "ఓ దేవీ! కేవలం ఈ స్తోత్రము ద్వారా నిన్ను స్తుతించేవారికి, ఉచ్చాటనము మొదలైన సకల కార్యాలు కూడా సులభంగా సిద్ధిస్తాయి."
+  },
+  "samasas": [
+    {
+      "compound": "ఉచ్చాటనాదీని",
+      "type": "బహువ్రీహి సమాసం (Bahuvrihi)"
+    },
+    {
+      "compound": "స్తోత్రమాత్రేణ",
+      "type": "మయట్ ప్రత్యయాంతం (Mayat / Tatpurusha variant)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సిద్ధ్యంత్యుచ్చాటనాదీని",
+      "split_words": "సిద్ధ్యంతి + ఉచ్చాటనాదీని",
+      "sandhi_rule": "యణాదేశ సంధి (Yanadesha Sandhi)"
+    },
+    {
+      "joined_word": "సకలాన్యపి",
+      "split_words": "సకలాని + అపి",
+      "sandhi_rule": "యణాదేశ సంధి (Yanadesha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

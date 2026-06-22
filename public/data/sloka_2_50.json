@@ -1,0 +1,85 @@
+{
+  "chapter": "2",
+  "sloka_number": "50",
+  "source_citation": "",
+  "original_text_telugu": "లీలయైవ ప్రచిచ్ఛేద నిజశస్త్రాస్త్రవర్షిణీ అనాయస్తాననా దేవీ స్తూయమానా సురర్షిభిః ॥ 50 ॥",
+  "normalized_sanskrit": "लीलयैव प्रचिच्छेद निजशस्त्रास्त्रवर्षिणी । अनायस्तानना देवी स्तूयमाना सुरर्षिभिः ॥ ५० ॥",
+  "iast": "līlayaiva praciccheda nijaśastrāstravarṣiṇī | anāyastānanā devī stūyamānā surarṣibhiḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.50.1",
+      "text": "लीलयैव प्रचिच्छेद निजशस्त्रास्त्रवर्षिणी अनायस्तानना देवी स्तूयमाना सुरर्षिभिः",
+      "anvaya": "निजशस्त्रास्त्रवर्षिणी, अनायस्तानना, सुरर्षिभिः स्तूयमाना देवी लीलया एव तानि प्रचिच्छेद।",
+      "sandhi": [
+        {
+          "joined": "लीलयैव",
+          "split": "लीलया + एव",
+          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: आ + ए = ऐ"
+        },
+        {
+          "joined": "शस्त्रास्त्र",
+          "split": "शस्त्र + अस्त्र",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "देवी",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the Goddess"
+        },
+        {
+          "word": "निजशस्त्रास्त्रवर्षिणी",
+          "lemma": "निजशस्त्रास्त्रवर्षिणी",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "showering Her own weapons and missiles"
+        },
+        {
+          "word": "अनायस्तानना",
+          "lemma": "अनायस्तानना",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "with an unwearied face"
+        },
+        {
+          "word": "सुरर्षिभिः",
+          "lemma": "सुरर्षि",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "by divine sages"
+        },
+        {
+          "word": "स्तूयमाना",
+          "lemma": "स्तूयमान",
+          "grammar": "वर्तमान कर्मणि कृदन्तम्, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "being praised"
+        },
+        {
+          "word": "लीलया",
+          "lemma": "लीला",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "playfully, effortlessly"
+        },
+        {
+          "word": "एव",
+          "lemma": "एव",
+          "grammar": "अव्ययम्",
+          "meaning": "indeed"
+        },
+        {
+          "word": "तानि",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्; supplied from previous sloka",
+          "meaning": "those weapons"
+        },
+        {
+          "word": "प्रचिच्छेद",
+          "lemma": "प्र-छिद्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "cut apart"
+        }
+      ],
+      "devotional_meaning_english": "The Goddess, showering Her own weapons and missiles, praised by divine sages and with a face free of strain, cut them apart as mere play.",
+      "devotional_meaning_telugu": "తన శస్త్రాస్త్రములను వర్షింపజేయుచూ, దేవర్షులచే స్తుతింపబడుచూ, అలసటలేని ముఖముతో దేవి ఆ ఆయుధములను లీలగా ఛేదించెను."
+    }
+  ]
+}

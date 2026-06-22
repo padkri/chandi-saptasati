@@ -1,0 +1,122 @@
+{
+  "id": "durga_saptashati_7_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 7,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం ధ్యాయేయం రత్నపీఠే శుకకలపఠితం శృణ్వతీం శ్యామలాజీం న్యసైకాజ్ఞిం సరోజే శశిశకలధరాం వల్లకీం వాదయంతీమ్। కల్హారాబద్ధమాలాం నియమితవిలసచ్చోలికాం రక్తవస్త్రాం మాతఙ్గం శఙ్ఞపాత్రాం మధురమధుమదాం చిత్రకోద్భాసిభాలామ్ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "ధ్యాయేయమ్",
+      "meaning": "I should meditate",
+      "grammar": "Optative, 1st person, singular"
+    },
+    {
+      "word": "రత్నపీఠే",
+      "meaning": "On a jeweled throne",
+      "grammar": "Locative, singular, neuter"
+    },
+    {
+      "word": "శుకకలపఠితమ్",
+      "meaning": "The sweet recitation of the parrot",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "శృణ్వతీమ్",
+      "meaning": "Listening to",
+      "grammar": "Accusative, singular, feminine (Present participle)"
+    },
+    {
+      "word": "శ్యామలాఙ్గీమ్",
+      "meaning": "The dark-complexioned one",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "న్యస్తైకాఙ్ఘ్రిమ్",
+      "meaning": "With one foot placed",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "సరోజే",
+      "meaning": "On a lotus",
+      "grammar": "Locative, singular, neuter"
+    },
+    {
+      "word": "శశిశకలధరామ్",
+      "meaning": "Wearing the crescent moon",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "వల్లకీమ్",
+      "meaning": "The Veena (lute)",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "వాదయంతీమ్",
+      "meaning": "Playing (an instrument)",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "కల్హారాబద్ధమాలామ్",
+      "meaning": "Wearing a garland of Kalhara flowers",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "నియమితవిలసచ్చోలికామ్",
+      "meaning": "Adorned with a tightly-fitted bright bodice",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "రక్తవస్త్రామ్",
+      "meaning": "Wearing red garments",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "మాతఙ్గీమ్",
+      "meaning": "Goddess Matangi",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "శఙ్ఖపాత్రామ్",
+      "meaning": "Holding a conch vessel",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "మధురమధుమదామ్",
+      "meaning": "Intoxicated by sweet wine",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "చిత్రకోద్భాసిభాలామ్",
+      "meaning": "With a forehead shining with a beautiful bindi/mark",
+      "grammar": "Accusative, singular, feminine"
+    }
+  ],
+  "anvaya": "రత్నపీఠే (స్థితాం), సరోజే న్యస్తైకాఙ్ఘ్రిం, శుకకలపఠితం శృణ్వతీం, వల్లకీం వాదయంతీం, శశిశకలధరాం, కల్హారాబద్ధమాలాం, నియమితవిలసచ్చోలికాం, రక్తవస్త్రాం, శఙ్ఖపాత్రాం, మధురమధుమదాం, చిత్రకోద్భాసిభాలాం శ్యామలాఙ్గీం మాతఙ్గీం అహం ధ్యాయేయమ్.",
+  "tatparyam": {
+    "english": "I meditate on Goddess Matangi, who is dark-complexioned. Seated on a jeweled throne with one foot resting on a lotus, She listens to the sweet prattle of a parrot while playing the Veena. She wears a garland of Kalhara flowers, a bright bodice, and red garments. She bears the crescent moon, holds a conch vessel, is joyfully intoxicated by sweet wine, and Her forehead shines with a vibrant mark.",
+    "telugu": "రత్న సింహాసనంపై ఆసీనురాలై, ఒక పాదాన్ని పద్మంపై ఉంచి, చిలుక పలికే మధురమైన పలుకులను వింటూ వీణ వాయిస్తున్న శ్యామల వర్ణం గల మాతంగీ దేవిని ధ్యానిస్తున్నాను. ఆమె కల్హార పుష్పాల మాలను, ప్రకాశించే రవికను, ఎర్రని వస్త్రాలను ధరించి, తలపై చంద్రరేఖను దాల్చి, చేతిలో శంఖ పాత్రను పట్టుకుని, మధురమైన మధువుచే ఆనంద పరవశురాలై, నుదుట అందమైన తిలకంతో ప్రకాశిస్తోంది."
+  },
+  "samasas": [
+    {
+      "compound": "శశిశకలధరామ్",
+      "type": "ఉపపద తత్పురుష (Upapada Tatpurusha)"
+    },
+    {
+      "compound": "రక్తవస్త్రామ్",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "విలసచ్చోలికామ్",
+      "split_words": "విలసత్ + చోలికామ్",
+      "sandhi_rule": "శ్చుత్వ సంధి (Ścutva Sandhi)"
+    },
+    {
+      "joined_word": "చిత్రకోద్భాసి",
+      "split_words": "చిత్రక + ఉద్భాసి",
+      "sandhi_rule": "గుణ సంధి (Guna Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: స్రగ్ధరా (Sragdharā). Alamkaram: స్వభావోక్తి (Svabhāvokti)."
+}

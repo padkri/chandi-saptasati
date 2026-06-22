@@ -1,0 +1,113 @@
+{
+  "id": "5.6",
+  "sloka_text": "तयास्माकं वरो दत्तो यथापत्सु स्मृताखिलाः। भवतां नाशयिष्यामि तत्क्षणात्परमापदः ॥ 6 ॥",
+  "anvaya": "तया अस्माकं वरः दत्तः — यथा आपत्सु स्मृता अहं भवतां परमापदः तत्क्षणात् नाशयिष्यामि।",
+  "word_by_word": [
+    {
+      "word": "तया",
+      "lemma": "तद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "तृतीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "by her"
+    },
+    {
+      "word": "अस्माकम्",
+      "lemma": "अस्मद्",
+      "case_vibhakti": "षष्ठी विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "to us, for us"
+    },
+    {
+      "word": "वरः",
+      "lemma": "वर",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "boon"
+    },
+    {
+      "word": "दत्तः",
+      "lemma": "दा",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "was given"
+    },
+    {
+      "word": "यथा",
+      "pos": "अव्ययम्",
+      "meaning": "that, in such a manner"
+    },
+    {
+      "word": "आपत्सु",
+      "lemma": "आपद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "सप्तमी विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "in calamities"
+    },
+    {
+      "word": "स्मृता",
+      "lemma": "स्मृ",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "remembered"
+    },
+    {
+      "word": "भवताम्",
+      "lemma": "भवत्",
+      "case_vibhakti": "षष्ठी विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "your"
+    },
+    {
+      "word": "नाशयिष्यामि",
+      "lemma": "नश्/नाशय्",
+      "pos": "क्रियापदम्",
+      "lakara": "लृट्",
+      "purusha": "उत्तमपुरुषः",
+      "number": "एकवचनम्",
+      "meaning": "I shall destroy"
+    },
+    {
+      "word": "तत्क्षणात्",
+      "lemma": "तत्-क्षण",
+      "compound": "अव्ययीभाव-सदृशः प्रयोगः",
+      "case_vibhakti": "पञ्चमी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "at that very moment"
+    },
+    {
+      "word": "परमापदः",
+      "lemma": "परम-आपद्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "great calamities"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "तयास्माकम्",
+      "split": "तया + अस्माकम्",
+      "sandhi_name": "सवर्णदीर्घ-सन्धिः",
+      "rule_description": "आ + अ → आ."
+    },
+    {
+      "form": "यथापत्सु",
+      "split": "यथा + आपत्सु",
+      "sandhi_name": "सवर्णदीर्घ-सन्धिः",
+      "rule_description": "आ + आ → आ."
+    },
+    {
+      "form": "तत्क्षणात्परमापदः",
+      "split": "तत्क्षणात् + परमापदः",
+      "sandhi_name": "हल्-सन्धिः",
+      "rule_description": "Final त् remains before प् in close conjunction."
+    }
+  ],
+  "overall_meaning": "She had given us a boon: ‘When remembered in calamities, I shall destroy your greatest dangers at that very moment.’"
+}

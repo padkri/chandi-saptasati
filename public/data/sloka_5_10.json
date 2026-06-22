@@ -1,0 +1,81 @@
+{
+  "id": "5.10",
+  "sloka_text": "रौद्रायै नमो नित्यायै गौर्यै धात्र्यै नमो नमः। ज्योत्स्नायै चेन्दुरूपिण्यै सुखायै सततं नमः ॥ 10 ॥",
+  "anvaya": "रौद्रायै नमः। नित्यायै गौर्यै धात्र्यै नमः नमः। ज्योत्स्नायै च इन्दुरूपिण्यै सुखायै सततं नमः।",
+  "word_by_word": [
+    {
+      "word": "रौद्रायै",
+      "lemma": "रौद्रा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the fierce one"
+    },
+    {
+      "word": "नमः",
+      "pos": "अव्ययम्",
+      "meaning": "salutation"
+    },
+    {
+      "word": "नित्यायै",
+      "lemma": "नित्या",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the eternal one"
+    },
+    {
+      "word": "गौर्यै",
+      "lemma": "गौरी",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to Gauri, the fair/radiant Goddess"
+    },
+    {
+      "word": "धात्र्यै",
+      "lemma": "धात्री",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the sustainer"
+    },
+    {
+      "word": "ज्योत्स्नायै",
+      "lemma": "ज्योत्स्ना",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to moonlight"
+    },
+    {
+      "word": "च",
+      "pos": "अव्ययम्",
+      "meaning": "and"
+    },
+    {
+      "word": "इन्दुरूपिण्यै",
+      "lemma": "इन्दुरूपिणी",
+      "compound": "बहुव्रीहि/कर्मधारय-भावः",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to her whose form is the moon"
+    },
+    {
+      "word": "सुखायै",
+      "lemma": "सुखा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to bliss, to the giver of happiness"
+    },
+    {
+      "word": "सततम्",
+      "pos": "अव्ययम्",
+      "meaning": "always"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "चेन्दुरूपिण्यै",
+      "split": "च + इन्दुरूपिण्यै",
+      "sandhi_name": "गुण-सन्धिः",
+      "rule_description": "अ + इ → ए."
+    }
+  ],
+  "overall_meaning": "Salutations to the fierce one, the eternal one, Gauri, the sustainer; salutations always to moonlight, to her who has the moon as her form, and to the giver of happiness."
+}

@@ -1,0 +1,107 @@
+{
+  "chapter": "2",
+  "sloka_number": "22",
+  "source_citation": "",
+  "original_text_telugu": "వజ్రమింద్రః సముత్పాద్య కులిశాదమరాధిపః దదౌ తస్యై సహస్రాక్షో ఘంటామైరావతాద్ గజాత్ ॥ 22 ॥",
+  "normalized_sanskrit": "वज्रमिन्द्रः समुत्पाद्य कुलिशादमराधिपः । ददौ तस्यै सहस्राक्षो घण्टामैरावताद्गजात् ॥ २२ ॥",
+  "iast": "vajram indraḥ samutpādya kuliśād amarādhipaḥ | dadau tasyai sahasrākṣo ghaṇṭām airāvatād gajāt",
+  "sentence_split": [
+    {
+      "sentence_id": "2.22.1",
+      "text": "वज्रमिन्द्रः समुत्पाद्य कुलिशादमराधिपः ददौ तस्यै सहस्राक्षो घण्टामैरावताद्गजात्",
+      "anvaya": "अमराधिपः सहस्राक्षः इन्द्रः कुलिशात् वज्रं समुत्पाद्य तस्यै ददौ; ऐरावताद् गजात् घण्टां च ददौ।",
+      "sandhi": [
+        {
+          "joined": "वज्रमिन्द्रः",
+          "split": "वज्रम् + इन्द्रः",
+          "sandhi_name": "म् before vowel retained"
+        },
+        {
+          "joined": "कुलिशादमराधिपः",
+          "split": "कुलिशात् + अमराधिपः",
+          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before vowel"
+        },
+        {
+          "joined": "घण्टामैरावतात्",
+          "split": "घण्टाम् + ऐरावतात्",
+          "sandhi_name": "म् before vowel retained"
+        },
+        {
+          "joined": "ऐरावताद्गजात्",
+          "split": "ऐरावतात् + गजात्",
+          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before ग्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "इन्द्रः",
+          "lemma": "इन्द्र",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Indra"
+        },
+        {
+          "word": "अमराधिपः",
+          "lemma": "अमराधिप",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "lord of the immortals"
+        },
+        {
+          "word": "सहस्राक्षः",
+          "lemma": "सहस्राक्ष",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "thousand-eyed one"
+        },
+        {
+          "word": "कुलिशात्",
+          "lemma": "कुलिश",
+          "grammar": "नपुंसकलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
+          "meaning": "from the thunderbolt"
+        },
+        {
+          "word": "वज्रम्",
+          "lemma": "वज्र",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "thunderbolt"
+        },
+        {
+          "word": "समुत्पाद्य",
+          "lemma": "सम्-उत्-पद्",
+          "grammar": "णिच्-ल्यबन्त अव्ययम्",
+          "meaning": "having produced"
+        },
+        {
+          "word": "ऐरावतात्",
+          "lemma": "ऐरावत",
+          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
+          "meaning": "from Airāvata"
+        },
+        {
+          "word": "गजात्",
+          "lemma": "गज",
+          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
+          "meaning": "from the elephant"
+        },
+        {
+          "word": "घण्टाम्",
+          "lemma": "घण्टा",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "bell"
+        },
+        {
+          "word": "तस्यै",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, चतुर्थी विभक्ति, एकवचनम्",
+          "meaning": "to Her"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Indra, lord of the immortals and thousand-eyed one, produced a thunderbolt from his own thunderbolt and gave it to Her; he also gave Her a bell from his elephant Airāvata.",
+      "devotional_meaning_telugu": "అమరాధిపుడైన సహస్రాక్ష ఇంద్రుడు తన వజ్రము నుండి వజ్రాయుధమును ఉత్పత్తి చేసి ఆమెకు ఇచ్చెను; ఐరావత గజము నుండి ఘంటను కూడ ఇచ్చెను."
+    }
+  ]
+}

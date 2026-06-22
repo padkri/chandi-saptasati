@@ -1,0 +1,102 @@
+{
+  "chapter": "2",
+  "sloka_number": "12",
+  "source_citation": "",
+  "original_text_telugu": "అతీవ తేజసః కూటం జ్వలంతమిన పర్వతమ్। దదృశుస్తే సురాస్తత్ర జ్వాలావ్యాప్తదిగంతరమ్ ॥ 12 ॥",
+  "normalized_sanskrit": "अतीव तेजसः कूटं ज्वलन्तमिव पर्वतम् । ददृशुस्ते सुरास्तत्र ज्वालाव्याप्तदिगन्तरम् ॥ १२ ॥",
+  "iast": "atīva tejasaḥ kūṭaṃ jvalantam iva parvatam | dadṛśus te surās tatra jvālāvyāpta-digantaram",
+  "sentence_split": [
+    {
+      "sentence_id": "2.12.1",
+      "text": "अतीव तेजसः कूटं ज्वलन्तमिव पर्वतं ददृशुस्ते सुरास्तत्र ज्वालाव्याप्तदिगन्तरम्",
+      "anvaya": "ते सुराः तत्र ज्वालाव्याप्तदिगन्तरम् अतीव तेजसः कूटं ज्वलन्तम् इव पर्वतं ददृशुः।",
+      "sandhi": [
+        {
+          "joined": "ज्वलन्तमिव",
+          "split": "ज्वलन्तम् + इव",
+          "sandhi_name": "म् before vowel retained"
+        },
+        {
+          "joined": "ददृशुस्ते",
+          "split": "ददृशुः + ते",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        },
+        {
+          "joined": "सुरास्तत्र",
+          "split": "सुराः + तत्र",
+          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ते",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "those"
+        },
+        {
+          "word": "सुराः",
+          "lemma": "सुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "gods"
+        },
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "ज्वालाव्याप्तदिगन्तरम्",
+          "lemma": "ज्वालाव्याप्तदिगन्तर",
+          "grammar": "पुंलिङ्गम्/नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "whose surrounding quarters were pervaded by flames"
+        },
+        {
+          "word": "अतीव",
+          "lemma": "अतीव",
+          "grammar": "अव्ययम्",
+          "meaning": "exceedingly"
+        },
+        {
+          "word": "तेजसः",
+          "lemma": "तेजस्",
+          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
+          "meaning": "of radiance"
+        },
+        {
+          "word": "कूटम्",
+          "lemma": "कूट",
+          "grammar": "पुंलिङ्गम्/नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "mass, peak"
+        },
+        {
+          "word": "ज्वलन्तम्",
+          "lemma": "ज्वलत्",
+          "grammar": "वर्तमान कृदन्तम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "blazing"
+        },
+        {
+          "word": "इव",
+          "lemma": "इव",
+          "grammar": "अव्ययम्",
+          "meaning": "like"
+        },
+        {
+          "word": "पर्वतम्",
+          "lemma": "पर्वत",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "a mountain"
+        },
+        {
+          "word": "ददृशुः",
+          "lemma": "दृश्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "they saw"
+        }
+      ],
+      "devotional_meaning_english": "There the gods beheld an immense mass of radiance, blazing like a mountain and filling all directions with flames.",
+      "devotional_meaning_telugu": "అక్కడ దేవతలు జ్వాలలతో దిక్కులన్నిటిని వ్యాపింపజేసి పర్వతంలా దహించుచున్న మహా తేజోరాశిని చూచిరి."
+    }
+  ]
+}

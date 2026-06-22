@@ -1,0 +1,21 @@
+services:
+  reader-app:
+    build: .
+    image: durga-saptasati-reader-app:latest
+    env_file:
+      - .env
+    environment:
+      APP_ENV: development
+      APP_MODE: dev
+    ports:
+      - "8777:8000"
+    volumes:
+      - ./public/data:/app/public/data
+      - ./logs:/var/log/app
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/', timeout=5)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped

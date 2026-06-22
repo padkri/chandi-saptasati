@@ -1,0 +1,101 @@
+{
+  "chapter": "2",
+  "sloka_number": "25",
+  "source_citation": "",
+  "original_text_telugu": "క్షీరోదశ్చామలం హారమజరే చ తథాంబరే। చూడామణిం తథా దివ్యం కుండలే కటకాని చ ॥ 25 ॥",
+  "normalized_sanskrit": "क्षीरोदश्चामलं हारमजरे च तथाम्बरे । चूडामणिं तथा दिव्यं कुण्डले कटकानि च ॥ २५ ॥",
+  "iast": "kṣīrodaś cāmalaṃ hāram ajare ca tathāmbare | cūḍāmaṇiṃ tathā divyaṃ kuṇḍale kaṭakāni ca",
+  "sentence_split": [
+    {
+      "sentence_id": "2.25.1",
+      "text": "क्षीरोदश्चामलं हारमजरे च तथाम्बरे चूडामणिं तथा दिव्यं कुण्डले कटकानि च",
+      "anvaya": "क्षीरोदः च अमलं हारम्, अजरे अम्बरे च, तथा दिव्यं चूडामणिं, कुण्डले, कटकानि च ददौ।",
+      "sandhi": [
+        {
+          "joined": "क्षीरोदश्च",
+          "split": "क्षीरोदः + च",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        },
+        {
+          "joined": "चामलम्",
+          "split": "च + अमलम्",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "हारमजरे",
+          "split": "हारम् + अजरे",
+          "sandhi_name": "म् before vowel retained"
+        },
+        {
+          "joined": "तथाम्बरे",
+          "split": "तथा + अम्बरे",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "क्षीरोदः",
+          "lemma": "क्षीरोद",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the Ocean of Milk"
+        },
+        {
+          "word": "अमलम्",
+          "lemma": "अमल",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; हारम्-विशेषणम्",
+          "meaning": "spotless"
+        },
+        {
+          "word": "हारम्",
+          "lemma": "हार",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "necklace"
+        },
+        {
+          "word": "अजरे",
+          "lemma": "अजर",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्; अम्बरे-विशेषणम्",
+          "meaning": "undecaying"
+        },
+        {
+          "word": "अम्बरे",
+          "lemma": "अम्बर",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्",
+          "meaning": "two garments"
+        },
+        {
+          "word": "चूडामणिम्",
+          "lemma": "चूडामणि",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "crest-jewel"
+        },
+        {
+          "word": "दिव्यम्",
+          "lemma": "दिव्य",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "divine"
+        },
+        {
+          "word": "कुण्डले",
+          "lemma": "कुण्डल",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्",
+          "meaning": "two earrings"
+        },
+        {
+          "word": "कटकानि",
+          "lemma": "कटक",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "bracelets"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; supplied from continuing donation-sequence",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "The Ocean of Milk gave Her a spotless necklace, undecaying garments, a divine crest-jewel, earrings, and bracelets.",
+      "devotional_meaning_telugu": "క్షీరసాగరుడు ఆమెకు నిర్మలమైన హారము, క్షయించని వస్త్రములు, దివ్య చూడామణి, కుండలములు మరియు కటకములు ఇచ్చెను."
+    }
+  ]
+}

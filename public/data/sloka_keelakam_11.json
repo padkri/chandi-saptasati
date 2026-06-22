@@ -1,0 +1,93 @@
+{
+  "id": "durga_saptashati_keelakam_11",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 11,
+  "sloka_original": "జ్ఞాత్వా ప్రారభ్య కుర్వీత న కుర్వాణో వినశ్యతి। తతో జ్ఞాత్వైవ సంపన్నమిదం ప్రారభ్యతే బుధైః || 11 ||",
+  "pada_vibhaga": [
+    {
+      "word": "జ్ఞాత్వా",
+      "meaning": "Having known",
+      "grammar": "క్త్వా ప్రత్యయం (Gerund)"
+    },
+    {
+      "word": "ప్రారభ్య",
+      "meaning": "Having commenced",
+      "grammar": "ల్యప్ ప్రత్యయం (Gerund)"
+    },
+    {
+      "word": "కుర్వీత",
+      "meaning": "One should do",
+      "grammar": "విధిలిఙ్, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "న",
+      "meaning": "Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "కుర్వాణః",
+      "meaning": "One who does (without knowing)",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం (Present participle)"
+    },
+    {
+      "word": "వినశ్యతి",
+      "meaning": "Is destroyed / Perishes",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "తతః",
+      "meaning": "Therefore",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "జ్ఞాత్వా",
+      "meaning": "Having known",
+      "grammar": "క్త్వా ప్రత్యయం (Gerund)"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "Only / Indeed",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సంపన్నమ్",
+      "meaning": "Perfect / Endowed",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "ఇదమ్",
+      "meaning": "This",
+      "grammar": "ప్రథమా/ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ప్రారభ్యతే",
+      "meaning": "Is commenced",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం, కర్మణి (Passive)"
+    },
+    {
+      "word": "బుధైః",
+      "meaning": "By the wise",
+      "grammar": "తృతీయా విభక్తి, బహువచనం"
+    }
+  ],
+  "anvaya": "జ్ఞాత్వా ప్రారభ్య కుర్వీత. న కుర్వాణః (అజ్ఞాత్వా కుర్వాణః) వినశ్యతి. తతః బుధైః జ్ఞాత్వా ఏవ సంపన్నమ్ ఇదం ప్రారభ్యతే.",
+  "tatparyam": {
+    "english": "One should commence this practice only after understanding (the Keelakam). One who does it without this knowledge brings about their own ruin. Therefore, the wise commence this perfect practice only after fully understanding it.",
+    "telugu": "దీని (కీలకం) రహస్యాన్ని తెలుసుకుని పారాయణ ఆరంభించాలి. తెలుసుకోకుండా పఠించేవాడు నశిస్తాడు. కాబట్టే, పండితులు ఈ రహస్యాన్ని తెలుసుకున్న తరువాతే, సర్వసంపన్నమైన ఈ స్తోత్ర పఠనాన్ని ప్రారంభిస్తారు."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "కుర్వాణో",
+      "split_words": "కుర్వాణః + (వినశ్యతి)",
+      "sandhi_rule": "విసర్గ ఉకారాదేశ సంధి (Visarga Ukāradesha Sandhi)"
+    },
+    {
+      "joined_word": "జ్ఞాత్వైవ",
+      "split_words": "జ్ఞాత్వా + ఏవ",
+      "sandhi_rule": "వృద్ధి సంధి (Vriddhi Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

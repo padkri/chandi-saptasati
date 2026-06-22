@@ -1,0 +1,113 @@
+{
+  "chapter": "2",
+  "sloka_number": "58",
+  "source_citation": "",
+  "original_text_telugu": "విపోథితా నిపాతేన గదయా భువి శేరతే వేముశ్చ కేచిద్రుధిరం ముసలేన భృశం హతాః ॥ 58 ॥",
+  "normalized_sanskrit": "विपोथिता निपातेन गदया भुवि शेरते । वेमुश्च केचिद्रुधिरं मुसलेन भृशं हताः ॥ ५८ ॥",
+  "iast": "vipothitā nipātena gadayā bhuvi śerate | vemuś ca kecid rudhiraṃ musalena bhṛśaṃ hatāḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.58.1",
+      "text": "विपोथिता निपातेन गदया भुवि शेरते",
+      "anvaya": "अपरे गदया निपातेन विपोथिताः भुवि शेरते।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "अपरे",
+          "lemma": "अपर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्; supplied from previous sloka",
+          "meaning": "others"
+        },
+        {
+          "word": "गदया",
+          "lemma": "गदा",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by the mace"
+        },
+        {
+          "word": "निपातेन",
+          "lemma": "निपात",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by a blow, by being struck down"
+        },
+        {
+          "word": "विपोथिताः",
+          "lemma": "विपोथित",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "crushed, battered"
+        },
+        {
+          "word": "भुवि",
+          "lemma": "भू",
+          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "on the earth"
+        },
+        {
+          "word": "शेरते",
+          "lemma": "शी",
+          "grammar": "लट् लकारः, प्रथमपुरुषः, बहुवचनम्, आत्मनेपदम्",
+          "meaning": "lie down"
+        }
+      ],
+      "devotional_meaning_english": "Others, crushed by the fall of Her mace, lay upon the earth.",
+      "devotional_meaning_telugu": "ఇంకొందరు గదాప్రహారముతో నలిగిపోయి భూమిపై పడిరి."
+    },
+    {
+      "sentence_id": "2.58.2",
+      "text": "वेमुश्च केचिद्रुधिरं मुसलेन भृशं हताः",
+      "anvaya": "केचित् मुसलेन भृशं हताः रुधिरं वेमुः च।",
+      "sandhi": [
+        {
+          "joined": "वेमुश्च",
+          "split": "वेमुः + च",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before च् becomes श्"
+        },
+        {
+          "joined": "केचिद्रुधिरम्",
+          "split": "केचित् + रुधिरम्",
+          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "केचित्",
+          "lemma": "कश्चित्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "some"
+        },
+        {
+          "word": "मुसलेन",
+          "lemma": "मुसल",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by the club/pestle"
+        },
+        {
+          "word": "भृशम्",
+          "lemma": "भृशम्",
+          "grammar": "अव्ययम्",
+          "meaning": "severely"
+        },
+        {
+          "word": "हताः",
+          "lemma": "हत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "struck, slain"
+        },
+        {
+          "word": "रुधिरम्",
+          "lemma": "रुधिर",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "blood"
+        },
+        {
+          "word": "वेमुः",
+          "lemma": "वि-मि/वम्",
+          "grammar": "लिट्/लुङ्-प्रयोगः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "vomited, emitted"
+        }
+      ],
+      "devotional_meaning_english": "Some, struck severely by the club, vomited blood.",
+      "devotional_meaning_telugu": "ముసలప్రహారముతో తీవ్రముగా దెబ్బతిన్న కొందరు రక్తమును కక్కిరి."
+    }
+  ]
+}

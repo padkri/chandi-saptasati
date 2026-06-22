@@ -1,0 +1,47 @@
+{
+  "id": "durga_saptashati_argala_8",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 8,
+  "sloka_original": "అచింత్యరూపచరితే సర్వశత్రువినాశిని। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 8 ||",
+  "pada_vibhaga": [
+    {
+      "word": "అచింత్యరూపచరితే",
+      "meaning": "ఊహకు అందని రూపము, చరిత్ర గలదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "సర్వశత్రువినాశిని",
+      "meaning": "సమస్త శత్రువులను నాశనం చేయుదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం (Phrase)"
+    }
+  ],
+  "anvaya": "హే అచింత్యరూపచరితే! హే సర్వశత్రువినాశిని! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Goddess whose form and deeds are beyond comprehension, O destroyer of all enemies! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "ఊహకు అందని అద్భుతమైన రూపము మరియు లీలలు గలదానా! సమస్త శత్రువులను సంహరించే తల్లీ! నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "అచింత్యరూపచరితే",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    },
+    {
+      "compound": "సర్వశత్రువినాశిని",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సర్వశత్రు",
+      "split_words": "సర్వ + శత్రు",
+      "sandhi_rule": "సమాస పదం (Compound joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

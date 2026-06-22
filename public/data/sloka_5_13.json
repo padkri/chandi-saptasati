@@ -1,0 +1,82 @@
+{
+  "id": "5.13",
+  "sloka_text": "अतिसौम्यातिरौद्रायै नतास्तस्यै नमो नमः। नमो जगत्प्रतिष्ठायै देव्यै कृत्यै नमो नमः ॥ 13 ॥",
+  "anvaya": "अतिसौम्या अतिरौद्रायै तस्यै नताः नमः नमः। जगत्प्रतिष्ठायै देव्यै कृत्यै नमः नमः।",
+  "word_by_word": [
+    {
+      "word": "अतिसौम्यायै",
+      "lemma": "अतिसौम्या",
+      "compound": "कर्मधारयः",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the exceedingly gentle one"
+    },
+    {
+      "word": "अतिरौद्रायै",
+      "lemma": "अतिरौद्रा",
+      "compound": "कर्मधारयः",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the exceedingly fierce one"
+    },
+    {
+      "word": "नताः",
+      "lemma": "नम्",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "bowed"
+    },
+    {
+      "word": "तस्यै",
+      "lemma": "तद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to her"
+    },
+    {
+      "word": "नमः नमः",
+      "pos": "अव्ययम्",
+      "meaning": "repeated salutations"
+    },
+    {
+      "word": "जगत्प्रतिष्ठायै",
+      "lemma": "जगत्-प्रतिष्ठा",
+      "compound": "षष्ठी-तत्पुरुषः",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the foundation of the universe"
+    },
+    {
+      "word": "देव्यै",
+      "lemma": "देवी",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the Goddess"
+    },
+    {
+      "word": "कृत्यै",
+      "lemma": "कृत्या",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to sacred action; to the power that accomplishes what must be done"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "अतिसौम्यातिरौद्रायै",
+      "split": "अतिसौम्यायै + अतिरौद्रायै",
+      "sandhi_name": "स्वर-सन्धिः with elision in metrical recitation",
+      "rule_description": "The transmitted compact form joins the two dative epithets in continuous recitation."
+    },
+    {
+      "form": "नतास्तस्यै",
+      "split": "नताः + तस्यै",
+      "sandhi_name": "विसर्ग-सन्धिः",
+      "rule_description": "Final ः before त् becomes स्."
+    }
+  ],
+  "overall_meaning": "Bowed down, we offer repeated salutations to her who is exceedingly gentle and exceedingly fierce. Repeated salutations to the Goddess who is the foundation of the universe and the power of sacred action."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "durga_saptashati_1_96",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 96,
+  "sloka_original": "శ్రీభగవానువాచ || 96 ||",
+  "pada_vibhaga": [
+    {
+      "word": "శ్రీభగవాన్",
+      "meaning": "శ్రీభగవానుడు",
+      "grammar": "శ్రీభగవత్ శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "పలికాడు",
+      "grammar": "వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "శ్రీభగవాన్ ఉవాచ.",
+  "tatparyam": {
+    "english": "The Blessed Lord said.",
+    "telugu": "శ్రీభగవానుడు పలికాడు."
+  },
+  "samasas": [
+    {
+      "compound": "శ్రీభగవాన్",
+      "type": "కర్మధారయ సమాస భావం"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "శ్రీభగవానువాచ",
+      "split_words": "శ్రీభగవాన్ + ఉవాచ",
+      "sandhi_rule": "నకారాంత పదసంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: సంభాషణ సూచక వాక్యం."
+}

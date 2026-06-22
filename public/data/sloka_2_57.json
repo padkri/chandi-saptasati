@@ -1,0 +1,130 @@
+{
+  "chapter": "2",
+  "sloka_number": "57",
+  "source_citation": "",
+  "original_text_telugu": "అసురాన్ భువి పాశేన బద్ధ్వా చాన్యానకర్షయత్। కేచిద్ ద్విధా కృతాస్తీక్షైః ఖడ్గపాతైస్తథాపరే ॥ 57 ॥",
+  "normalized_sanskrit": "असुरान् भुवि पाशेन बद्ध्वा चान्यानकर्षयत् । केचिद् द्विधा कृतास्तीक्ष्णैः खड्गपातैस्तथापरे ॥ ५७ ॥",
+  "iast": "asurān bhuvi pāśena baddhvā cānyān akarṣayat | kecid dvidhā kṛtās tīkṣṇaiḥ khaḍgapātais tathāpare",
+  "sentence_split": [
+    {
+      "sentence_id": "2.57.1",
+      "text": "असुरान् भुवि पाशेन बद्ध्वा चान्यानकर्षयत्",
+      "anvaya": "भुवि पाशेन बद्ध्वा च अन्यान् असुरान् अकर्षयत्।",
+      "sandhi": [
+        {
+          "joined": "चान्यान्",
+          "split": "च + अन्यान्",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి / Savarṇa-dīrgha Sandhi: अ + अ = आ"
+        },
+        {
+          "joined": "अन्यानकर्षयत्",
+          "split": "अन्यान् + अकर्षयत्",
+          "sandhi_name": "न् before vowel retained in continuous recitation"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "भुवि",
+          "lemma": "भू",
+          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "on the earth"
+        },
+        {
+          "word": "पाशेन",
+          "lemma": "पाश",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with the noose"
+        },
+        {
+          "word": "बद्ध्वा",
+          "lemma": "बन्ध्",
+          "grammar": "क्त्वान्त अव्ययम्",
+          "meaning": "having bound"
+        },
+        {
+          "word": "अन्यान्",
+          "lemma": "अन्य",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "others"
+        },
+        {
+          "word": "असुरान्",
+          "lemma": "असुर",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "asuras"
+        },
+        {
+          "word": "अकर्षयत्",
+          "lemma": "कृष् causative",
+          "grammar": "णिच्-लङ्, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "dragged"
+        }
+      ],
+      "devotional_meaning_english": "Binding some asuras on the earth with Her noose, She dragged others along.",
+      "devotional_meaning_telugu": "పాశముతో కొందరు అసురులను భూమిపై కట్టి, మరికొందరిని దేవి లాగెను."
+    },
+    {
+      "sentence_id": "2.57.2",
+      "text": "केचिद् द्विधा कृतास्तीक्ष्णैः खड्गपातैस्तथापरे",
+      "anvaya": "केचित् तीक्ष्णैः खड्गपातैः द्विधा कृताः। तथा अपरे...",
+      "sandhi": [
+        {
+          "joined": "कृतास्तीक्ष्णैः",
+          "split": "कृताः + तीक्ष्णैः",
+          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्"
+        },
+        {
+          "joined": "खड्गपातैस्तथा",
+          "split": "खड्गपातैः + तथा",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        },
+        {
+          "joined": "तथापरे",
+          "split": "तथा + अपरे",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "केचित्",
+          "lemma": "कश्चित्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "some"
+        },
+        {
+          "word": "तीक्ष्णैः",
+          "lemma": "तीक्ष्ण",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "sharp"
+        },
+        {
+          "word": "खड्गपातैः",
+          "lemma": "खड्गपात",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "sword-blows"
+        },
+        {
+          "word": "द्विधा",
+          "lemma": "द्विधा",
+          "grammar": "अव्ययम्",
+          "meaning": "in two"
+        },
+        {
+          "word": "कृताः",
+          "lemma": "कृत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "made, cut"
+        },
+        {
+          "word": "अपरे",
+          "lemma": "अपर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "others"
+        }
+      ],
+      "continuation_note": "The description of the other asuras continues into sloka 58 with विपोथिताः.",
+      "devotional_meaning_english": "Some were cut in two by sharp sword-blows; others likewise...",
+      "devotional_meaning_telugu": "కొందరు పదునైన ఖడ్గప్రహారములతో రెండుగా కోయబడిరి; మరికొందరు..."
+    }
+  ]
+}

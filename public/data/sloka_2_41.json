@@ -1,0 +1,117 @@
+{
+  "chapter": "2",
+  "sloka_number": "41",
+  "source_citation": "",
+  "original_text_telugu": "యుయుధే చామరశ్చాన్యైశ్చతురఙ్గబలాన్వితః॥ రథానామయుతైః షడ్భిరుదగ్రాఖ్యో మహాసురః ॥ 41 ॥",
+  "normalized_sanskrit": "युयुधे चामरश्चान्यैश्चतुरङ्गबलान्वितः । रथानामयुतैः षड्भिरुदग्राख्यो महासुरः ॥ ४१ ॥",
+  "iast": "yuyudhe cāmaraś cānyaiś caturaṅgabalānvitaḥ | rathānām ayutaiḥ ṣaḍbhir udagrākhyo mahāsuraḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.41.1",
+      "text": "युयुधे चामरश्चान्यैश्चतुरङ्गबलान्वितः",
+      "anvaya": "चिक्षुरः युयुधे। चामरः च अन्यैः चतुरङ्गबलान्वितः युयुधे।",
+      "sandhi": [
+        {
+          "joined": "चामरश्च",
+          "split": "चामरः + च",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        },
+        {
+          "joined": "चो/चान्यैः",
+          "split": "च + अन्यैः",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "अन्यैश्चतुरङ्ग",
+          "split": "अन्यैः + चतुरङ्ग",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "युयुधे",
+          "lemma": "युध्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        },
+        {
+          "word": "चामरः",
+          "lemma": "चामर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Cāmara"
+        },
+        {
+          "word": "अन्यैः",
+          "lemma": "अन्य",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with others"
+        },
+        {
+          "word": "चतुरङ्गबलान्वितः",
+          "lemma": "चतुरङ्गबलान्वित",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "endowed with the fourfold army"
+        }
+      ],
+      "devotional_meaning_english": "Cikṣura fought, and Cāmara too fought, accompanied by others and equipped with the fourfold army.",
+      "devotional_meaning_telugu": "చిక్షురుడు యుద్ధము చేసెను; చామరుడు కూడ ఇతరులతో కలిసి చతురంగబలముతో యుద్ధము చేసెను."
+    },
+    {
+      "sentence_id": "2.41.2",
+      "text": "रथानामयुतैः षड्भिरुदग्राख्यो महासुरः",
+      "anvaya": "उदग्राख्यः महासुरः रथानाम् षड्भिः अयुतैः...",
+      "sandhi": [
+        {
+          "joined": "रथानामयुतैः",
+          "split": "रथानाम् + अयुतैः",
+          "sandhi_name": "म् before vowel retained"
+        },
+        {
+          "joined": "षड्भिः",
+          "split": "षट् + भिः",
+          "sandhi_name": "జశ్త్వ సంధి: ट् becomes ड् before भ्"
+        },
+        {
+          "joined": "षड्भिरुदग्र",
+          "split": "षड्भिः + उदग्र",
+          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "उदग्राख्यः",
+          "lemma": "उदग्राख्य",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "named Udagra"
+        },
+        {
+          "word": "महासुरः",
+          "lemma": "महासुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "great asura"
+        },
+        {
+          "word": "रथानाम्",
+          "lemma": "रथ",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of chariots"
+        },
+        {
+          "word": "अयुतैः",
+          "lemma": "अयुत",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "ten-thousand units"
+        },
+        {
+          "word": "षड्भिः",
+          "lemma": "षष्",
+          "grammar": "संख्यावाचक, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with six"
+        }
+      ],
+      "continuation_note": "This sentence continues into sloka 42 with the verb अयुध्यत.",
+      "devotional_meaning_english": "The great asura named Udagra, with six ten-thousands of chariots...",
+      "devotional_meaning_telugu": "ఉదగ్రుడు అనే మహాసురుడు అరవై వేల రథములతో..."
+    }
+  ]
+}

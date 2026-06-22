@@ -1,0 +1,102 @@
+{
+  "id": "durga_saptashati_9_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 9,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం బంధూకకాఞ్చననిభం రుచిరాక్షమాలాం పాశాఙ్కుశౌ చ వరదాం నిజబాహుదండైః| బిభ్రాణమిందుశకలాభరణం త్రినేత్ర మర్థాంబికేశమనిశం వపురాశ్రయామి ॥",
+  "pada_vibhaga": [
+    {
+      "word": "బంధూకకాఞ్చననిభమ్",
+      "meaning": "Resplendent like the Bandhuka flower and gold",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "రుచిరాక్షమాలామ్",
+      "meaning": "Beautiful rosary of Rudraksha",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "పాశాఙ్కుశౌ",
+      "meaning": "Noose and goad",
+      "grammar": "Accusative, dual, masculine"
+    },
+    {
+      "word": "చ",
+      "meaning": "And",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "వరదామ్",
+      "meaning": "Boon-giving gesture",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "నిజబాహుదండైః",
+      "meaning": "With their own sturdy arms",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "బిభ్రాణమ్",
+      "meaning": "Bearing / Wearing",
+      "grammar": "Accusative, singular, neuter (Present participle)"
+    },
+    {
+      "word": "ఇందుశకలాభరణమ్",
+      "meaning": "Adorned with the crescent moon",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "త్రినేత్రమ్",
+      "meaning": "Having three eyes",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "అర్ధాంబికేశమ్",
+      "meaning": "The form which is half Goddess Ambika and half Lord Shiva",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "అనిశమ్",
+      "meaning": "Constantly",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "వపుః",
+      "meaning": "Body / Form",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "ఆశ్రయామి",
+      "meaning": "I seek refuge",
+      "grammar": "Present tense, 1st person, singular, Parasmaipada"
+    }
+  ],
+  "anvaya": "బంధూకకాఞ్చననిభం నిజబాహుదండైః రుచిరాక్షమాలాం పాశాఙ్కుశౌ వరదాం చ బిభ్రాణమ్ ఇందుశకలాభరణం త్రినేత్రమ్ అర్ధాంబికేశం వపుః అహం అనిశం ఆశ్రయామి.",
+  "tatparyam": {
+    "english": "I constantly seek refuge in the divine form of Ardhanarishwara (half Ambika, half Shiva). This body has the combined radiance of the red Bandhuka flower and pure gold. With its sturdy arms, it bears a beautiful rosary, a noose, a goad, and the boon-giving gesture. It is adorned with the crescent moon and possesses three eyes.",
+    "telugu": "ఎర్రని మంకెన పువ్వు, మరియు స్వచ్ఛమైన బంగారం వలె ప్రకాశించేది, తన చేతులలో సుందరమైన అక్షమాల, పాశము, అంకుశము మరియు వరముద్ర దాల్చినది, చంద్రవంకను ఆభరణంగా కలది, మూడు కన్నులు గలది అయిన సగభాగం అంబిక, సగభాగం ఈశ్వరుడు (అర్ధనారీశ్వర) గా ఉన్న పరమాత్మ స్వరూపాన్ని నేను నిరంతరం ఆశ్రయిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "బంధూకకాఞ్చననిభమ్",
+      "type": "ఉపమిత కర్మధారయ (Upamita Karmadharaya)"
+    },
+    {
+      "compound": "అర్ధాంబికేశమ్",
+      "type": "కర్మధారయ (Karmadharaya - Half Ambika, half Isha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "బిభ్రాణమిందు",
+      "split_words": "బిభ్రాణమ్ + ఇందు",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    },
+    {
+      "joined_word": "వపురాశ్రయామి",
+      "split_words": "వపుః + ఆశ్రయామి",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: వసంతతిలకా (Vasantatilakā). Alamkaram: ఉపమా (Upamā)."
+}

@@ -1,0 +1,130 @@
+{
+  "chapter": "2",
+  "sloka_number": "52",
+  "source_citation": "",
+  "original_text_telugu": "చచారాసురసైన్యేషు వనేష్వివ హుతాశనః నిఃశ్వాసాన్ ముముచే యాంశ్చ యుధ్యమానా రణే అంబికా ॥ 52 ॥",
+  "normalized_sanskrit": "चचारासुरसैन्येषु वनेष्विव हुताशनः । निःश्वासान्मुमुचे यांश्च युध्यमाना रणेऽम्बिका ॥ ५२ ॥",
+  "iast": "cacārāsurasainyeṣu vaneṣv iva hutāśanaḥ | niḥśvāsān mumuce yāṃś ca yudhyamānā raṇe 'mbikā",
+  "sentence_split": [
+    {
+      "sentence_id": "2.52.1",
+      "text": "चचारासुरसैन्येषु वनेष्विव हुताशनः",
+      "anvaya": "हुताशनः वनेषु इव सः असुरसैन्येषु चचार।",
+      "sandhi": [
+        {
+          "joined": "चचारासुरसैन्येषु",
+          "split": "चचार + असुरसैन्येषु",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "वनेष्विव",
+          "split": "वनेषु + इव",
+          "sandhi_name": "యణ్/వకార సంధి: उ before vowel becomes व्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "सः",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्; lion, supplied",
+          "meaning": "he"
+        },
+        {
+          "word": "असुरसैन्येषु",
+          "lemma": "असुरसैन्य",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, बहुवचनम्",
+          "meaning": "among the armies of the asuras"
+        },
+        {
+          "word": "वनेषु",
+          "lemma": "वन",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, बहुवचनम्",
+          "meaning": "in forests"
+        },
+        {
+          "word": "इव",
+          "lemma": "इव",
+          "grammar": "अव्ययम्",
+          "meaning": "like"
+        },
+        {
+          "word": "हुताशनः",
+          "lemma": "हुताशन",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "fire"
+        },
+        {
+          "word": "चचार",
+          "lemma": "चर्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "moved, ranged"
+        }
+      ],
+      "devotional_meaning_english": "He ranged through the asura armies like fire through forests.",
+      "devotional_meaning_telugu": "అతడు అడవులలో అగ్నిలా అసురసైన్యములలో సంచరించెను."
+    },
+    {
+      "sentence_id": "2.52.2",
+      "text": "निःश्वासान्मुमुचे यांश्च युध्यमाना रणेऽम्बिका",
+      "anvaya": "रणे युध्यमाना अम्बिका यान् निःश्वासान् मुमुचे च...",
+      "sandhi": [
+        {
+          "joined": "निःश्वासान्मुमुचे",
+          "split": "निःश्वासान् + मुमुचे",
+          "sandhi_name": "न् before म् retained as nasal contact"
+        },
+        {
+          "joined": "यांश्च",
+          "split": "यान् + च",
+          "sandhi_name": "నకార-శ్చుత్వ సంధి: न् before च् becomes श्-like; यांश्च"
+        },
+        {
+          "joined": "रणेऽम्बिका",
+          "split": "रणे + अम्बिका",
+          "sandhi_name": "पूर्वरूप/अवग्रह-सदृश पाठ: ए + अ = एऽ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "रणे",
+          "lemma": "रण",
+          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in battle"
+        },
+        {
+          "word": "युध्यमाना",
+          "lemma": "युध्यमान",
+          "grammar": "वर्तमान कृदन्तम्, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "fighting"
+        },
+        {
+          "word": "अम्बिका",
+          "lemma": "अम्बिका",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Ambikā"
+        },
+        {
+          "word": "यान्",
+          "lemma": "यद्",
+          "grammar": "सम्बन्ध सर्वनाम, पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "which"
+        },
+        {
+          "word": "निःश्वासान्",
+          "lemma": "निःश्वास",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "breaths"
+        },
+        {
+          "word": "मुमुचे",
+          "lemma": "मुच्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "released"
+        }
+      ],
+      "continuation_note": "This relative clause continues into sloka 53: त एव सद्यः सम्भूता गणाः.",
+      "devotional_meaning_english": "And the breaths that Ambikā released while fighting in battle...",
+      "devotional_meaning_telugu": "యుద్ధరంగములో యుద్ధము చేయుచున్న అంబికా విడిచిన ఆ నిశ్వాసములు..."
+    }
+  ]
+}

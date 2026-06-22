@@ -1,0 +1,124 @@
+{
+  "chapter": "2",
+  "sloka_number": "18",
+  "source_citation": "",
+  "original_text_telugu": "భ్రువౌ చ సంధ్యయోస్తేజః శ్రవణావనిలస్య చూ అన్యేషాం చైవ దేవానాం సంభవస్తేజసాం శివా ॥ 18 ॥",
+  "normalized_sanskrit": "भ्रुवौ च संध्ययोस्तेजः श्रवणावनिलस्य च । अन्येषां चैव देवानां सम्भवस्तेजसां शिवा ॥ १८ ॥",
+  "iast": "bhruvau ca sandhyayos tejaḥ śravaṇāv anilasya ca | anyeṣāṃ caiva devānāṃ sambhavas tejasāṃ śivā",
+  "sentence_split": [
+    {
+      "sentence_id": "2.18.1",
+      "text": "भ्रुवौ च संध्ययोस्तेजः श्रवणावनिलस्य च",
+      "anvaya": "संध्ययोः तेजसा भ्रुवौ च अभवताम्। अनिलस्य तेजसा श्रवणौ च अभवताम्।",
+      "sandhi": [
+        {
+          "joined": "संध्ययोस्तेजः",
+          "split": "संध्ययोः + तेजः",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        },
+        {
+          "joined": "श्रवणावनिलस्य",
+          "split": "श्रवणौ + अनिलस्य",
+          "sandhi_name": "అవ్ आदेश / Vṛddhi-vowel Sandhi: औ before vowel becomes आव्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "संध्ययोः",
+          "lemma": "संध्या",
+          "grammar": "स्त्रीलिङ्गम्, षष्ठी विभक्ति, द्विवचनम्",
+          "meaning": "of the two twilights"
+        },
+        {
+          "word": "तेजः",
+          "lemma": "तेजस्",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "radiance"
+        },
+        {
+          "word": "भ्रुवौ",
+          "lemma": "भ्रू",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, द्विवचनम्",
+          "meaning": "two eyebrows"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "अनिलस्य",
+          "lemma": "अनिल",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
+          "meaning": "of Vāyu, Wind"
+        },
+        {
+          "word": "श्रवणौ",
+          "lemma": "श्रवण",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, द्विवचनम्",
+          "meaning": "two ears"
+        }
+      ],
+      "devotional_meaning_english": "Her two eyebrows came from the radiance of the two twilights, and her two ears from the radiance of Wind.",
+      "devotional_meaning_telugu": "సంధ్యాదేవతల తేజస్సుతో ఆమె భ్రూలతలు, వాయుదేవుని తేజస్సుతో ఆమె చెవులు ఏర్పడెను."
+    },
+    {
+      "sentence_id": "2.18.2",
+      "text": "अन्येषां चैव देवानां सम्भवस्तेजसां शिवा",
+      "anvaya": "शिवा अन्येषां च एव देवानां तेजसां सम्भवः अभवत्।",
+      "sandhi": [
+        {
+          "joined": "चैव",
+          "split": "च + एव",
+          "sandhi_name": "వృద్ధి సంధి: अ + ए = ऐ"
+        },
+        {
+          "joined": "सम्भवस्तेजसाम्",
+          "split": "सम्भवः + तेजसाम्",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "शिवा",
+          "lemma": "शिवा",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the auspicious Goddess"
+        },
+        {
+          "word": "अन्येषाम्",
+          "lemma": "अन्य",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of the other"
+        },
+        {
+          "word": "देवानाम्",
+          "lemma": "देव",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "gods"
+        },
+        {
+          "word": "तेजसाम्",
+          "lemma": "तेजस्",
+          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of the radiances"
+        },
+        {
+          "word": "सम्भवः",
+          "lemma": "सम्भव",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "origin, formation"
+        },
+        {
+          "word": "अभवत्",
+          "lemma": "भू",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्; supplied from context",
+          "meaning": "came into being"
+        }
+      ],
+      "devotional_meaning_english": "Thus the auspicious Goddess came into being from the radiances of all the other gods as well.",
+      "devotional_meaning_telugu": "ఇట్లుగా ఇతర దేవతల తేజస్సులచేత కూడా శివా దేవి యొక్క అవయవ సముద్భవము జరిగింది."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "durga_saptashati_keelakam_7",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 7,
+  "sloka_original": "కృష్ణాయాం వా చతుర్దశ్యామష్టమ్యాం వా సమాహితః || 7 ||",
+  "pada_vibhaga": [
+    {
+      "word": "కృష్ణాయామ్",
+      "meaning": "In the dark fortnight (Krishna Paksha)",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "వా",
+      "meaning": "Or",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చతుర్దశ్యామ్",
+      "meaning": "On the fourteenth day (Chaturdashi)",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "అష్టమ్యామ్",
+      "meaning": "On the eighth day (Ashtami)",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "వా",
+      "meaning": "Or",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సమాహితః",
+      "meaning": "With a concentrated mind",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    }
+  ],
+  "anvaya": "(యః) కృష్ణాయాం చతుర్దశ్యాం వా అష్టమ్యాం వా సమాహితః (భూత్వా దదాతి)...",
+  "tatparyam": {
+    "english": "One who, with a fully concentrated mind, on the fourteenth day (Chaturdashi) or the eighth day (Ashtami) of the dark fortnight...",
+    "telugu": "కృష్ణ పక్షములోని చతుర్దశి నాడు గానీ, లేదా అష్టమి నాడు గానీ ఏకాగ్రతతో కూడిన మనస్సు గలవాడై..."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "చతుర్దశ్యామష్టమ్యామ్",
+      "split_words": "చతుర్దశ్యామ్ + అష్టమ్యామ్",
+      "sandhi_rule": "అజంత సంధి (Consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

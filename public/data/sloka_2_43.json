@@ -1,0 +1,95 @@
+{
+  "chapter": "2",
+  "sloka_number": "43",
+  "source_citation": "",
+  "original_text_telugu": "అయుతానాం శతైః షడ్భిర్బాష్కలో యుయుధే రణే గజవాజిసహస్రౌఘైరనేకైః పరివారితః ॥ 43 ॥",
+  "normalized_sanskrit": "अयुतानां शतैः षड्भिर्बाष्कलो युयुधे रणे । गजवाजिसहस्रौघैरनेकैः परिवारितः ॥ ४३ ॥",
+  "iast": "ayutānāṃ śataiḥ ṣaḍbhir bāṣkalo yuyudhe raṇe | gajavājisahasraughair anekaiḥ parivāritaḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.43.1",
+      "text": "अयुतानां शतैः षड्भिर्बाष्कलो युयुधे रणे गजवाजिसहस्रौघैरनेकैः परिवारितः",
+      "anvaya": "बाष्कलः अयुतानां षड्भिः शतैः अनेकैः गजवाजिसहस्रौघैः परिवारितः रणे युयुधे।",
+      "sandhi": [
+        {
+          "joined": "षड्भिः",
+          "split": "षट् + भिः",
+          "sandhi_name": "జశ్త్వ సంధి: ट् becomes ड् before भ्"
+        },
+        {
+          "joined": "षड्भिर्बाष्कलः",
+          "split": "षड्भिः + बाष्कलः",
+          "sandhi_name": "విసర్గ సంధి: ः before ब् becomes र्"
+        },
+        {
+          "joined": "सहस्रौघैः",
+          "split": "सहस्र + ओघैः",
+          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: अ + ओ = औ"
+        },
+        {
+          "joined": "ओघैरनेकैः",
+          "split": "ओघैः + अनेकैः",
+          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "बाष्कलः",
+          "lemma": "बाष्कल",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Bāṣkala"
+        },
+        {
+          "word": "अयुतानाम्",
+          "lemma": "अयुत",
+          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of ten-thousand groups"
+        },
+        {
+          "word": "षड्भिः",
+          "lemma": "षष्",
+          "grammar": "तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with six"
+        },
+        {
+          "word": "शतैः",
+          "lemma": "शत",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "hundreds"
+        },
+        {
+          "word": "गजवाजिसहस्रौघैः",
+          "lemma": "गज-वाजि-सहस्र-ओघ",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with many streams of thousands of elephants and horses"
+        },
+        {
+          "word": "अनेकैः",
+          "lemma": "अनेक",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "many"
+        },
+        {
+          "word": "परिवारितः",
+          "lemma": "परिवारित",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "surrounded"
+        },
+        {
+          "word": "रणे",
+          "lemma": "रण",
+          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in battle"
+        },
+        {
+          "word": "युयुधे",
+          "lemma": "युध्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        }
+      ],
+      "devotional_meaning_english": "Bāṣkala fought in battle with six hundred ayutas, surrounded by many masses of thousands of elephants and horses.",
+      "devotional_meaning_telugu": "బాష్కలుడు ఆరు వందల అయుతాల సైన్యముతో, అనేక గజాశ్వసహస్రసమూహములతో చుట్టుముట్టబడి యుద్ధము చేసెను."
+    }
+  ]
+}

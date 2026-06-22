@@ -1,0 +1,97 @@
+{
+  "id": "durga_saptashati_argala_2",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 2,
+  "sloka_original": "జయ త్వం దేవి చాముండే జయ భూతార్తిహారిణి | జయ సర్వగతే దేవి కాలరాత్రి నమోzస్తుతే || 2 ||",
+  "pada_vibhaga": [
+    {
+      "word": "జయ",
+      "meaning": "విజయము పొందుము",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "త్వమ్",
+      "meaning": "నీవు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, సర్వనామం"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "ఓ దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "చాముండే",
+      "meaning": "ఓ చాముండేశ్వరీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "జయ",
+      "meaning": "విజయము పొందుము",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "భూతార్తిహారిణి",
+      "meaning": "ప్రాణుల బాధలను పోగొట్టుదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "జయ",
+      "meaning": "విజయము పొందుము",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సర్వగతే",
+      "meaning": "అంతటా వ్యాపించి ఉన్నదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "ఓ దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "కాలరాత్రి",
+      "meaning": "ఓ కాలరాత్రీ (ప్రళయ స్వరూపిణి)",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "నమః",
+      "meaning": "నమస్కారము",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అస్తు",
+      "meaning": "అగుగాక",
+      "grammar": "క్రియ"
+    },
+    {
+      "word": "తే",
+      "meaning": "నీకు",
+      "grammar": "చతుర్థీ విభక్తి, సర్వనామం"
+    }
+  ],
+  "anvaya": "హే దేవి చాముండే! త్వం జయ. హే భూతార్తిహారిణి! జయ. హే సర్వగతే దేవి! జయ. హే కాలరాత్రి! తే నమః అస్తు.",
+  "tatparyam": {
+    "english": "Victory to You, O Goddess Chamunda! Victory to You, O destroyer of the afflictions of living beings! Victory to You, O omnipresent Goddess! O Kalaratri (Dark Night of Time), salutations to You.",
+    "telugu": "ఓ చాముండీ దేవీ! నీకు జయం కలుగుగాక. ప్రాణుల కష్టాలను పోగొట్టే తల్లీ! నీకు జయం. అంతటా వ్యాపించి ఉన్న దేవీ! నీకు జయం. ప్రళయకాలాగ్ని స్వరూపిణివైన ఓ కాలరాత్రీ! నీకు నమస్కారము."
+  },
+  "samasas": [
+    {
+      "compound": "భూతార్తిహారిణి",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    },
+    {
+      "compound": "సర్వగతే",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "నమోస్తుతే",
+      "split_words": "నమః + అస్తు + తే",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

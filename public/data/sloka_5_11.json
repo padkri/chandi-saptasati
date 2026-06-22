@@ -1,0 +1,86 @@
+{
+  "id": "5.11",
+  "sloka_text": "कल्याण्यै प्रणतां वृद्ध्यै सिद्ध्यै कुर्मो नमो नमः। नैरृत्यै भूभृतां लक्ष्म्यै शर्वाण्यै ते नमो नमः ॥ 11 ॥",
+  "anvaya": "कल्याण्यै प्रणतां वृद्ध्यै सिद्ध्यै नमः नमः कुर्मः। नैरृत्यै भूभृतां लक्ष्म्यै शर्वाण्यै ते नमः नमः।",
+  "word_by_word": [
+    {
+      "word": "कल्याण्यै",
+      "lemma": "कल्याणी",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the auspicious benefactress"
+    },
+    {
+      "word": "प्रणताम्",
+      "lemma": "प्रणता",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to her who is bowed to; or the bowed devotion"
+    },
+    {
+      "word": "वृद्ध्यै",
+      "lemma": "वृद्धि",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to prosperity, increase"
+    },
+    {
+      "word": "सिद्ध्यै",
+      "lemma": "सिद्धि",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to accomplishment"
+    },
+    {
+      "word": "कुर्मः",
+      "lemma": "कृ",
+      "pos": "क्रियापदम्",
+      "lakara": "लट्",
+      "purusha": "उत्तमपुरुषः",
+      "number": "बहुवचनम्",
+      "meaning": "we perform, we offer"
+    },
+    {
+      "word": "नमः नमः",
+      "pos": "अव्ययम्",
+      "meaning": "repeated salutations"
+    },
+    {
+      "word": "नैरृत्यै",
+      "lemma": "नैरृती",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to Nairriti, the power connected with dissolution or the south-west quarter"
+    },
+    {
+      "word": "भूभृताम्",
+      "lemma": "भूभृत्",
+      "case_vibhakti": "षष्ठी विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "of kings or mountain-bearers"
+    },
+    {
+      "word": "लक्ष्म्यै",
+      "lemma": "लक्ष्मी",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to fortune, royal splendour"
+    },
+    {
+      "word": "शर्वाण्यै",
+      "lemma": "शर्वाणी",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to Sharvani, consort/power of Shiva"
+    },
+    {
+      "word": "ते",
+      "lemma": "त्वद्",
+      "case_vibhakti": "चतुर्थी/षष्ठी प्रयोगः",
+      "number": "एकवचनम्",
+      "meaning": "to you"
+    }
+  ],
+  "sandhi": [],
+  "overall_meaning": "We offer repeated salutations to the auspicious one, to growth and accomplishment; repeated salutations to Nairriti, to the fortune of rulers, to Sharvani, to you."
+}

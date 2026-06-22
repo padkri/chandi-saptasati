@@ -1,0 +1,102 @@
+{
+  "chapter": "2",
+  "sloka_number": "39",
+  "source_citation": "",
+  "original_text_telugu": "దిశో భుజసహస్రేణ సమంతాద్ వ్యాప్య సంస్థితామ్। తతః ప్రవవృతే యుద్ధం తయా దేవ్యా సురద్విషామ్ ॥ 39 ॥",
+  "normalized_sanskrit": "दिशो भुजसहस्रेण समन्ताद्व्याप्य संस्थिताम् । ततः प्रववृते युद्धं तया देव्या सुरद्विषाम् ॥ ३९ ॥",
+  "iast": "diśo bhujasahasreṇa samantād vyāpya saṃsthitām | tataḥ pravavṛte yuddhaṃ tayā devyā suradviṣām",
+  "sentence_split": [
+    {
+      "sentence_id": "2.39.1",
+      "text": "दिशो भुजसहस्रेण समन्ताद्व्याप्य संस्थिताम्",
+      "anvaya": "भुजसहस्रेण समन्तात् दिशः व्याप्य संस्थितां ताम् ददर्श।",
+      "sandhi": [
+        {
+          "joined": "समन्ताद्व्याप्य",
+          "split": "समन्तात् + व्याप्य",
+          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before व्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "दिशः",
+          "lemma": "दिश्",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "directions"
+        },
+        {
+          "word": "भुजसहस्रेण",
+          "lemma": "भुजसहस्र",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with a thousand arms"
+        },
+        {
+          "word": "समन्तात्",
+          "lemma": "समन्तात्",
+          "grammar": "अव्ययम्",
+          "meaning": "on all sides"
+        },
+        {
+          "word": "व्याप्य",
+          "lemma": "वि-आप्",
+          "grammar": "ल्यबन्त अव्ययम्",
+          "meaning": "having pervaded"
+        },
+        {
+          "word": "संस्थिताम्",
+          "lemma": "संस्थित",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "standing, established"
+        }
+      ],
+      "devotional_meaning_english": "She stood pervading all directions on every side with Her thousand arms.",
+      "devotional_meaning_telugu": "ఆమె సహస్రబాహువులతో సమస్త దిక్కులను అన్ని వైపులా వ్యాపించి నిలిచియుండెను."
+    },
+    {
+      "sentence_id": "2.39.2",
+      "text": "ततः प्रववृते युद्धं तया देव्या सुरद्विषाम्",
+      "anvaya": "ततः तया देव्या सुरद्विषां युद्धं प्रववृते।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "ततः",
+          "lemma": "ततः",
+          "grammar": "अव्ययम्",
+          "meaning": "then"
+        },
+        {
+          "word": "तया",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with Her"
+        },
+        {
+          "word": "देव्या",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "the Goddess"
+        },
+        {
+          "word": "सुरद्विषाम्",
+          "lemma": "सुरद्विष्",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of the enemies of the gods"
+        },
+        {
+          "word": "युद्धम्",
+          "lemma": "युद्ध",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "battle"
+        },
+        {
+          "word": "प्रववृते",
+          "lemma": "प्र-वृत्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "began"
+        }
+      ],
+      "devotional_meaning_english": "Then the battle began between the Goddess and the enemies of the gods.",
+      "devotional_meaning_telugu": "తరువాత దేవి మరియు దేవశత్రువులైన అసురుల మధ్య యుద్ధము ఆరంభమయ్యెను."
+    }
+  ]
+}

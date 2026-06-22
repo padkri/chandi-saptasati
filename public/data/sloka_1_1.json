@@ -1,0 +1,33 @@
+{
+  "id": "durga_saptashati_1_1",
+  "source": "Durga Saptashati",
+  "chapter": 1,
+  "sloka_number": 1,
+  "sloka_original": "ఓం ఐం మార్కండేయ ఉవాచ || 1 ||",
+  "pada_vibhaga": [
+    {
+      "word": "మార్కండేయః",
+      "meaning": "మార్కండేయ మహర్షి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "పలికెను / చెప్పెను",
+      "grammar": "క్రియ, లిట్ లకారం (Perfect tense), ప్రథమ పురుష, ఏకవచనం"
+    }
+  ],
+  "anvaya": "మార్కండేయః ఉవాచ.",
+  "tatparyam": {
+    "english": "Sage Markandeya said:",
+    "telugu": "మార్కండేయ మహర్షి ఈ విధంగా చెప్పెను:"
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "మార్కండేయ ఉవాచ",
+      "split_words": "మార్కండేయః + ఉవాచ",
+      "sandhi_rule": "విసర్గ లోప సంధి (Visarga Lopa Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Prose / వచనం."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "durga_saptashati_argala_18",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 18,
+  "sloka_original": "చతుర్భుజే చతుర్వక్త్ర సంస్తుతే పరమేశ్వరి | రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 18 ||",
+  "pada_vibhaga": [
+    {
+      "word": "చతుర్భుజే",
+      "meaning": "నాలుగు చేతులు గలదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "చతుర్వక్త్రసంస్తుతే",
+      "meaning": "నాలుగు ముఖాలు గల బ్రహ్మదేవునిచే స్తుతించబడినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "పరమేశ్వరి",
+      "meaning": "సమస్తానికి ఈశ్వరివైన తల్లీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే చతుర్భుజే చతుర్వక్త్రసంస్తుతే పరమేశ్వరి! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O four-armed Goddess, praised by the four-faced Brahma, O Supreme Sovereign! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "నాలుగు భుజాలు కలిగినదానా! చతుర్ముఖుడైన బ్రహ్మ దేవునిచే స్తుతించబడినదానా! ఓ పరమేశ్వరీ! నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "చతుర్భుజే",
+      "type": "బహువ్రీహి సమాసం (Bahuvrihi)"
+    },
+    {
+      "compound": "చతుర్వక్త్రసంస్తుతే",
+      "type": "తృతీయా తత్పురుష (Tritiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "చతుర్వక్త్ర",
+      "split_words": "చతుః + వక్త్ర",
+      "sandhi_rule": "విసర్గ రేఫ సంధి (Visarga Repha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

@@ -1,0 +1,88 @@
+{
+  "id": "durga_saptashati_keelakam_5",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 5,
+  "sloka_original": "సమస్రణ్యపి సిద్ధ్యంతి లోకశఙ్కామిమాం హరః| కృత్వా నిమంత్రయామాస సర్వమేవమిదం శుభమ్ || 5 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సమగ్రాణి",
+      "meaning": "All (entirely)",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Even",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సిద్ధ్యంతి",
+      "meaning": "Are accomplished",
+      "grammar": "క్రియ, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "లోకశఙ్కామ్",
+      "meaning": "The doubt of the people",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఇమామ్",
+      "meaning": "This",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "హరః",
+      "meaning": "Lord Shiva",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కృత్వా",
+      "meaning": "Having done / removed",
+      "grammar": "క్త్వా ప్రత్యయం (Gerund)"
+    },
+    {
+      "word": "నిమంత్రయామాస",
+      "meaning": "Invoked / ordained",
+      "grammar": "క్రియ, లిట్ లకారం (Perfect tense)"
+    },
+    {
+      "word": "సర్వమ్",
+      "meaning": "All",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఏవమ్",
+      "meaning": "Thus",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఇదమ్",
+      "meaning": "This",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "శుభమ్",
+      "meaning": "Auspicious",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "సమగ్రాణి అపి సిద్ధ్యంతి (ఇతి) ఇమాం లోకశఙ్కాం హరః కృత్వా (నివార్య), ఇదం సర్వమ్ ఏవం శుభమ్ నిమంత్రయామాస.",
+  "tatparyam": {
+    "english": "'Will all things truly be accomplished just by this?' To dispel this doubt of the people, Lord Shiva ordained this entire hymn to be supremely auspicious and effective.",
+    "telugu": "'దీని వల్ల నిజంగా అన్నీ సిద్ధిస్తాయా?' అనే లోకుల సందేహాన్ని నివారించి, పరమశివుడు ఈ స్తోత్రము సర్వశుభాలను ఇచ్చేదిగా నియమించాడు (ఆదేశించాడు)."
+  },
+  "samasas": [
+    {
+      "compound": "లోకశఙ్కామ్",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సర్వమేవమిదమ్",
+      "split_words": "సర్వమ్ + ఏవమ్ + ఇదమ్",
+      "sandhi_rule": "అజంత సంధి (Consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

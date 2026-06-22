@@ -1,0 +1,77 @@
+{
+  "id": "durga_saptashati_1_3",
+  "source": "Durga Saptashati",
+  "chapter": 1,
+  "sloka_number": 3,
+  "sloka_original": "మహామాయానుభావేన యథా మన్వంతరాధిపః| స బభూవ మహాభాగః సావర్ణిస్తనయో రవేః || 3 ||",
+  "pada_vibhaga": [
+    {
+      "word": "మహామాయానుభావేన",
+      "meaning": "మహామాయ దేవి యొక్క ప్రభావం వలన",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యథా",
+      "meaning": "ఏ విధంగా అయితే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "మన్వంతరాధిపః",
+      "meaning": "మన్వంతరానికి ఆధిపతిగా",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సః",
+      "meaning": "అతడు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "బభూవ",
+      "meaning": "అయ్యాడో",
+      "grammar": "క్రియ, లిట్ లకారం (Perfect tense), ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "మహాభాగః",
+      "meaning": "గొప్ప అదృష్టవంతుడైన / పవిత్రుడైన",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సావర్ణిః",
+      "meaning": "సావర్ణి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తనయః",
+      "meaning": "కుమారుడు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "రవేః",
+      "meaning": "సూర్యుని యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "రవేః తనయః సః మహాభాగః సావర్ణిః మహామాయానుభావేన యథా మన్వంతరాధిపః బభూవ (తథా నిశామయ).",
+  "tatparyam": {
+    "english": "Hear how that illustrious Savarni, the son of Surya (the Sun God), became the lord of the Manvantara by the glorious power of Goddess Mahamaya.",
+    "telugu": "గొప్ప అదృష్టవంతుడు, సూర్య భగవానుని కుమారుడు అయిన ఆ సావర్ణి మహామాయా దేవి యొక్క ప్రభావం చేత ఏ విధంగా మన్వంతరాధిపతి అయ్యాడో విను."
+  },
+  "samasas": [
+    {
+      "compound": "మహామాయానుభావేన",
+      "type": "షష్ఠీ తత్పురుష సమాసం (Shashthi Tatpurusha)"
+    },
+    {
+      "compound": "మన్వంతరాధిపః",
+      "type": "షష్ఠీ తత్పురుష సమాసం (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సావర్ణిస్తనయః",
+      "split_words": "సావర్ణిః + తనయః",
+      "sandhi_rule": "విసర్గ సకారాదేశ సంధి (Visarga Sakaradesha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

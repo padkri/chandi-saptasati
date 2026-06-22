@@ -1,0 +1,63 @@
+{
+  "id": "durga_saptashati_argala_6",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 6,
+  "sloka_original": "శుంభస్యైవ నిశుంభస్య ధూమ్రాక్షస్య చ మర్దిని। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 6 ||",
+  "pada_vibhaga": [
+    {
+      "word": "శుంభస్య",
+      "meaning": "శుంభుని యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "కూడా / నిశ్చయంగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "నిశుంభస్య",
+      "meaning": "నిశుంభుని యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ధూమ్రాక్షస్య",
+      "meaning": "ధూమ్రలోచనుని యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "మర్దిని",
+      "meaning": "సంహరించినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం (Phrase)"
+    }
+  ],
+  "anvaya": "హే శుంభస్య నిశుంభస్య ధూమ్రాక్షస్య చ మర్దిని! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Destroyer of Shumbha, Nishumbha, and Dhumraksha! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "శుంభ, నిశుంభులను మరియు ధూమ్రలోచనుడిని మర్దించిన (సంహరించిన) తల్లీ! నాకు సౌందర్యాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించు మరియు శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "ధూమ్రాక్షస్య",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "శుంభస్యైవ",
+      "split_words": "శుంభస్య + ఏవ",
+      "sandhi_rule": "వృద్ధి సంధి (Vriddhi Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "durga_saptashati_argala_20",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 20,
+  "sloka_original": "హిమాచలసుతానాథసంస్తుతే పరమేశ్వరి| రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 20 ||",
+  "pada_vibhaga": [
+    {
+      "word": "హిమాచలసుతానాథసంస్తుతే",
+      "meaning": "హిమవంతుని కూతురు అయిన పార్వతీ దేవి యొక్క నాథునిచే (పరమశివునిచే) స్తుతించబడినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "పరమేశ్వరి",
+      "meaning": "సమస్తానికీ ఈశ్వరి అయిన తల్లీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే హిమాచలసుతానాథసంస్తుతే పరమేశ్వరి! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Supreme Goddess, praised by the Lord of the daughter of the Himalayas (Lord Shiva)! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "హిమవంతుని పుత్రిక అయిన పార్వతికి భర్తయైన పరమశివునిచే స్తుతించబడిన ఓ పరమేశ్వరీ! నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "హిమాచలసుతానాథసంస్తుతే",
+      "type": "తృతీయా తత్పురుష (Tritiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

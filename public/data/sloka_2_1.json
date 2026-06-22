@@ -1,0 +1,50 @@
+{
+  "chapter": "2",
+  "sloka_number": "1",
+  "source_citation": "",
+  "original_text_telugu": "ఓం హ్రీం ఋషిరువాచ ॥ 1 ॥",
+  "normalized_sanskrit": "ॐ ह्रीं ऋषिरुवाच ॥ १ ॥",
+  "iast": "oṃ hrīṃ ṛṣir uvāca",
+  "sentence_split": [
+    {
+      "sentence_id": "2.1.1",
+      "text": "ऋषिरुवाच",
+      "anvaya": "ऋषिः उवाच",
+      "sandhi": [
+        {
+          "joined": "ऋषिरुवाच",
+          "split": "ऋषिः + उवाच",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before उ becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ॐ",
+          "lemma": "ॐ",
+          "grammar": "ప్రణవము, अव्ययम्",
+          "meaning": "sacred primordial syllable"
+        },
+        {
+          "word": "ह्रीं",
+          "lemma": "ह्रीं",
+          "grammar": "बीजाक्षरम्, अव्ययम्",
+          "meaning": "the sacred seed-syllable of the Goddess"
+        },
+        {
+          "word": "ऋषिः",
+          "lemma": "ऋषि",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the seer/sage"
+        },
+        {
+          "word": "उवाच",
+          "lemma": "वच्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, परस्मैपदम्",
+          "meaning": "said"
+        }
+      ],
+      "devotional_meaning_english": "The sage said.",
+      "devotional_meaning_telugu": "ఋషి పలికెను."
+    }
+  ]
+}

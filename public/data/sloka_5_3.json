@@ -1,0 +1,112 @@
+{
+  "id": "5.3",
+  "sloka_text": "तावेव सूर्यतां तद्वदधिकारं तथैन्दवम्। कौबेरमथ याम्यं च चक्राते वरुणस्य च ॥ 3 ॥",
+  "anvaya": "तौ एव सूर्यतां तद्वत् ऐन्दवम् अधिकारं तथा कौबेरम् अथ याम्यं च वरुणस्य च अधिकारं चक्राते।",
+  "word_by_word": [
+    {
+      "word": "तौ",
+      "lemma": "तद्",
+      "pos": "सर्वनाम",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "द्विवचनम्",
+      "meaning": "those two"
+    },
+    {
+      "word": "एव",
+      "pos": "अव्ययम्",
+      "meaning": "indeed, themselves"
+    },
+    {
+      "word": "सूर्यताम्",
+      "lemma": "सूर्यता",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the office/state of the Sun"
+    },
+    {
+      "word": "तद्वत्",
+      "pos": "अव्ययम्",
+      "meaning": "similarly"
+    },
+    {
+      "word": "अधिकारम्",
+      "lemma": "अधिकार",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "authority, dominion"
+    },
+    {
+      "word": "तथा",
+      "pos": "अव्ययम्",
+      "meaning": "also, likewise"
+    },
+    {
+      "word": "ऐन्दवम्",
+      "lemma": "ऐन्दव",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the lunar authority"
+    },
+    {
+      "word": "कौबेरम्",
+      "lemma": "कौबेर",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the authority of Kubera"
+    },
+    {
+      "word": "अथ",
+      "pos": "अव्ययम्",
+      "meaning": "and then, also"
+    },
+    {
+      "word": "याम्यम्",
+      "lemma": "याम्य",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the authority of Yama"
+    },
+    {
+      "word": "चक्राते",
+      "lemma": "कृ",
+      "pos": "क्रियापदम्",
+      "lakara": "लिट्",
+      "pada": "आत्मनेपदम्",
+      "purusha": "प्रथमपुरुषः",
+      "number": "द्विवचनम्",
+      "meaning": "they both assumed, took over"
+    },
+    {
+      "word": "वरुणस्य",
+      "lemma": "वरुण",
+      "case_vibhakti": "षष्ठी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "of Varuna"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "तावेव",
+      "split": "तौ + एव",
+      "sandhi_name": "वृद्धि-सन्धिः",
+      "rule_description": "औ + ए combines as आवे in continuous form: तौ एव → तावेव."
+    },
+    {
+      "form": "तद्वदधिकारम्",
+      "split": "तद्वत् + अधिकारम्",
+      "sandhi_name": "जश्त्व-सन्धिः",
+      "rule_description": "Final त् before vowel becomes द्."
+    },
+    {
+      "form": "तथैन्दवम्",
+      "split": "तथा + ऐन्दवम्",
+      "sandhi_name": "वृद्धि-सन्धिः",
+      "rule_description": "आ + ऐ → ऐ."
+    }
+  ],
+  "overall_meaning": "Those two themselves took over the functions of the Sun, the Moon, Kubera, Yama, and Varuna."
+}

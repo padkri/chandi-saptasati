@@ -1,0 +1,67 @@
+{
+  "id": "durga_saptashati_argala_24",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 24,
+  "sloka_original": "పత్నీం మనోరమాం దేహి మనోవృత్తానుసారిణీమ్। తారిణీం దుర్గాసంసారసాగరస్య కులోద్భవామ్ ॥ 24 ||",
+  "pada_vibhaga": [
+    {
+      "word": "పత్నీమ్",
+      "meaning": "భార్యను",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మనోరమామ్",
+      "meaning": "మనస్సుకు నచ్చినదానిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దేహి",
+      "meaning": "ప్రసాదించు",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "మనోవృత్తానుసారిణీమ్",
+      "meaning": "మనసును అనుసరించి నడుచుకునేదానిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తారిణీమ్",
+      "meaning": "తరింపజేయుదానిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దుర్గసంసారసాగరస్య",
+      "meaning": "దాటడానికి కష్టమైన సంసార సాగరము యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కులోద్భవామ్",
+      "meaning": "మంచి వంశంలో జన్మించినదానిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "(హే దేవి) మనోరమాం మనోవృత్తానుసారిణీం దుర్గసంసారసాగరస్య తారిణీం కులోద్భవాం పత్నీం దేహి.",
+  "tatparyam": {
+    "english": "Grant me a wife who is pleasing to the mind, who follows the thoughts of my mind, who comes from a good family, and who can help me cross the impassable ocean of worldly existence.",
+    "telugu": "మనస్సుకు ఆనందం కలిగించేది, నా మనోభావాలకు అనుగుణంగా నడుచుకునేది, దాటడానికి సాధ్యంకాని ఈ సంసార సాగరాన్ని దాటించేది, మరియు మంచి వంశంలో జన్మించినది అయిన భార్యను నాకు ప్రసాదించుము."
+  },
+  "samasas": [
+    {
+      "compound": "మనోవృత్తానుసారిణీమ్",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    },
+    {
+      "compound": "దుర్గసంసారసాగరస్య",
+      "type": "రూపక సమాసం / కర్మధారయ (Karmadharaya - Rūpaka)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "కులోద్భవామ్",
+      "split_words": "కుల + ఉద్భవామ్",
+      "sandhi_rule": "గుణ సంధి (Guna Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

@@ -1,0 +1,82 @@
+{
+  "id": "5.12",
+  "sloka_text": "दुर्गायै दुर्गपारायै सारायै सर्वकारिण्यै। ख्यात्यै तथैव कृष्णायै धूम्रायै सततं नमः ॥ 12 ॥",
+  "anvaya": "दुर्गायै दुर्गपारायै सारायै सर्वकारिण्यै ख्यात्यै तथा एव कृष्णायै धूम्रायै सततं नमः।",
+  "word_by_word": [
+    {
+      "word": "दुर्गायै",
+      "lemma": "दुर्गा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to Durga"
+    },
+    {
+      "word": "दुर्गपारायै",
+      "lemma": "दुर्ग-पारा",
+      "compound": "तत्पुरुष/बहुव्रीहि-भावः",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to her who carries one beyond difficulties"
+    },
+    {
+      "word": "सारायै",
+      "lemma": "सारा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the essence"
+    },
+    {
+      "word": "सर्वकारिण्यै",
+      "lemma": "सर्वकारिणी",
+      "compound": "कर्मधारय/बहुव्रीहि-भावः",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to her who does everything"
+    },
+    {
+      "word": "ख्यात्यै",
+      "lemma": "ख्याति",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to fame, manifestation, knowledge"
+    },
+    {
+      "word": "तथा एव",
+      "pos": "अव्ययम्",
+      "meaning": "likewise indeed"
+    },
+    {
+      "word": "कृष्णायै",
+      "lemma": "कृष्णा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the dark one"
+    },
+    {
+      "word": "धूम्रायै",
+      "lemma": "धूम्रा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the smoke-coloured one"
+    },
+    {
+      "word": "सततम्",
+      "pos": "अव्ययम्",
+      "meaning": "always"
+    },
+    {
+      "word": "नमः",
+      "pos": "अव्ययम्",
+      "meaning": "salutation"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "तथैव",
+      "split": "तथा + एव",
+      "sandhi_name": "गुण-सन्धिः",
+      "rule_description": "आ + ए → ऐ."
+    }
+  ],
+  "overall_meaning": "Constant salutations to Durga, to the one who carries beings beyond difficulties, to the essence, to the doer of all, to fame or manifestation, to the dark one, and to the smoke-hued one."
+}

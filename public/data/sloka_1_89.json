@@ -1,0 +1,58 @@
+{
+  "id": "durga_saptashati_1_89",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 89,
+  "sloka_original": "ఏవం స్తుతా తదా దేవీ తామసీ తత్ర వేధసా || 89 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఏవం",
+      "meaning": "ఈ విధంగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "స్తుతా",
+      "meaning": "స్తుతింపబడినది",
+      "grammar": "స్తు ధాతువు, క్త కృదంతం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "తదా",
+      "meaning": "అప్పుడు",
+      "grammar": "కాలవాచక అవ్యయం"
+    },
+    {
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "దేవీ శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "తామసీ",
+      "meaning": "తమోగుణరూపిణి",
+      "grammar": "తామసీ శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "దేశవాచక అవ్యయం"
+    },
+    {
+      "word": "వేధసా",
+      "meaning": "బ్రహ్మచేత",
+      "grammar": "వేధస్ శబ్దం, తృతీయా విభక్తి, ఏకవచనం, పుంలింగం"
+    }
+  ],
+  "anvaya": "తదా తత్ర వేధసా ఏవం స్తుతా తామసీ దేవీ...",
+  "tatparyam": {
+    "english": "Then the dark, tamasic Goddess, praised in this way there by Brahmā...",
+    "telugu": "అప్పుడు అక్కడ బ్రహ్మచేత ఈ విధంగా స్తుతింపబడిన తామసీ దేవి..."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "తత్రవేధసా",
+      "split_words": "తత్ర + వేధసా",
+      "sandhi_rule": "సమాసం కాదు; పదసమీప్య రూపం"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ భాగం; తదుపరి శ్లోకాలతో భావం కొనసాగుతుంది."
+}

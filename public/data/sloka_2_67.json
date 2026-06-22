@@ -1,0 +1,107 @@
+{
+  "chapter": "2",
+  "sloka_number": "67",
+  "source_citation": "",
+  "original_text_telugu": "క్షణేన తన్మహాసైన్యమసురాణాం తథాంబికా। నిన్యే క్షయం యథా వహ్నిస్తృణదారుమహాచయమ్ ॥ 67 ॥",
+  "normalized_sanskrit": "क्षणेन तन्महासैन्यमसुराणां तथाम्बिका । निन्ये क्षयं यथा वह्निस्तृणदारुमहाचयम् ॥ ६७ ॥",
+  "iast": "kṣaṇena tanmahāsainyam asurāṇāṃ tathāmbikā | ninye kṣayaṃ yathā vahnis tṛṇadārumahācayam",
+  "sentence_split": [
+    {
+      "sentence_id": "2.67.1",
+      "text": "क्षणेन तन्महासैन्यमसुराणां तथाम्बिका निन्ये क्षयं यथा वह्निस्तृणदारुमहाचयम्",
+      "anvaya": "तथा अम्बिका असुराणां तत् महासैन्यं क्षणेन क्षयं निन्ये, यथा वह्निः तृणदारुमहाचयम्।",
+      "sandhi": [
+        {
+          "joined": "तन्महासैन्यम्",
+          "split": "तत् + महासैन्यम्",
+          "sandhi_name": "अनुनासिक/परसवर्ण संधि: त् before म् becomes न्"
+        },
+        {
+          "joined": "महासैन्यमसुराणाम्",
+          "split": "महासैन्यम् + असुराणाम्",
+          "sandhi_name": "म् before vowel retained"
+        },
+        {
+          "joined": "तथाम्बिका",
+          "split": "तथा + अम्बिका",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        },
+        {
+          "joined": "वह्निस्तृण",
+          "split": "वह्निः + तृण",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तथा",
+          "lemma": "तथा",
+          "grammar": "अव्ययम्",
+          "meaning": "thus"
+        },
+        {
+          "word": "अम्बिका",
+          "lemma": "अम्बिका",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Ambikā"
+        },
+        {
+          "word": "असुराणाम्",
+          "lemma": "असुर",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of the asuras"
+        },
+        {
+          "word": "तत्",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "that"
+        },
+        {
+          "word": "महासैन्यम्",
+          "lemma": "महासैन्य",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "great army"
+        },
+        {
+          "word": "क्षणेन",
+          "lemma": "क्षण",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "in a moment"
+        },
+        {
+          "word": "क्षयम्",
+          "lemma": "क्षय",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "destruction"
+        },
+        {
+          "word": "निन्ये",
+          "lemma": "नी",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "led, brought"
+        },
+        {
+          "word": "यथा",
+          "lemma": "यथा",
+          "grammar": "अव्ययम्",
+          "meaning": "as"
+        },
+        {
+          "word": "वह्निः",
+          "lemma": "वह्नि",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "fire"
+        },
+        {
+          "word": "तृणदारुमहाचयम्",
+          "lemma": "तृण-दारु-महाचय",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "a great heap of grass and wood"
+        }
+      ],
+      "devotional_meaning_english": "Thus Ambikā brought that great army of the asuras to destruction in a moment, just as fire consumes a great heap of grass and wood.",
+      "devotional_meaning_telugu": "ఇట్లుగా అంబికా అసురుల ఆ మహాసైన్యమును క్షణంలోనే నాశనమునకు చేర్చెను; అగ్ని గడ్డి, కట్టెల గొప్ప కుప్పను దహించునట్లు."
+    }
+  ]
+}

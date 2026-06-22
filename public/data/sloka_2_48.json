@@ -1,0 +1,117 @@
+{
+  "chapter": "2",
+  "sloka_number": "48",
+  "source_citation": "",
+  "original_text_telugu": "యుయుధుః సంయుగే దేవ్యా ఖడైః పరశుపట్టిశైః। కేచిచ్చ చిక్షిపుః శక్తిః కేచిత్పాశాంస్తథాపరే ॥ 48 ॥",
+  "normalized_sanskrit": "युयुधुः संयुगे देव्या खड्गैः परशुपट्टिशैः । केचिच्च चिक्षिपुः शक्तीः केचित्पाशांस्तथापरे ॥ ४८ ॥",
+  "iast": "yuyudhuḥ saṃyuge devyā khaḍgaiḥ paraśupaṭṭiśaiḥ | kecic ca cikṣipuḥ śaktīḥ kecit pāśāṃs tathāpare",
+  "sentence_split": [
+    {
+      "sentence_id": "2.48.1",
+      "text": "युयुधुः संयुगे देव्या खड्गैः परशुपट्टिशैः",
+      "anvaya": "ते देव्या सह संयुगे खड्गैः परशुपट्टिशैः युयुधुः।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "ते",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्; supplied",
+          "meaning": "they"
+        },
+        {
+          "word": "देव्या",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with the Goddess"
+        },
+        {
+          "word": "संयुगे",
+          "lemma": "संयुग",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in battle"
+        },
+        {
+          "word": "खड्गैः",
+          "lemma": "खड्ग",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with swords"
+        },
+        {
+          "word": "परशुपट्टिशैः",
+          "lemma": "परशु-पट्टिश",
+          "grammar": "द्वन्द्वसमासः, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with axes and pikes"
+        },
+        {
+          "word": "युयुधुः",
+          "lemma": "युध्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        }
+      ],
+      "devotional_meaning_english": "They fought with the Goddess in battle using swords, axes, and pikes.",
+      "devotional_meaning_telugu": "వారు ఖడ్గములు, పరశువులు, పట్టిశములతో దేవితో యుద్ధము చేసిరి."
+    },
+    {
+      "sentence_id": "2.48.2",
+      "text": "केचिच्च चिक्षिपुः शक्तीः केचित्पाशांस्तथापरे",
+      "anvaya": "केचित् शक्तीः चिक्षिपुः। केचित् पाशान्। तथा अपरे...",
+      "sandhi": [
+        {
+          "joined": "केचिच्च",
+          "split": "केचित् + च",
+          "sandhi_name": "చత్వ/వ్యంజన సంధి: त् + च = च्च"
+        },
+        {
+          "joined": "केचित्पाशान्",
+          "split": "केचित् + पाशान्",
+          "sandhi_name": "వ్యంజన సంధి: final त् before प् retained"
+        },
+        {
+          "joined": "पाशांस्तथा",
+          "split": "पाशान् + तथा",
+          "sandhi_name": "నకార సంధి: न् before त् becomes anusvāra-like nasal; written पाशांस्"
+        },
+        {
+          "joined": "तथापरे",
+          "split": "तथा + अपरे",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "केचित्",
+          "lemma": "कश्चित्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "some"
+        },
+        {
+          "word": "शक्तीः",
+          "lemma": "शक्ति",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "spears"
+        },
+        {
+          "word": "चिक्षिपुः",
+          "lemma": "क्षिप्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "hurled"
+        },
+        {
+          "word": "पाशान्",
+          "lemma": "पाश",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "nooses"
+        },
+        {
+          "word": "अपरे",
+          "lemma": "अपर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "others"
+        }
+      ],
+      "devotional_meaning_english": "Some hurled spears, some cast nooses, and others also attacked.",
+      "devotional_meaning_telugu": "కొందరు శక్తులను విసిరిరి; కొందరు పాశములను ప్రయోగించిరి; మరికొందరు వేరువిధముగా దాడి చేసిరి."
+    }
+  ]
+}

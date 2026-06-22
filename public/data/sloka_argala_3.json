@@ -1,0 +1,87 @@
+{
+  "id": "durga_saptashati_argala_3",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 3,
+  "sloka_original": "మధుకైటభ విద్రావి విధాతృవరదే నమః| రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 3 ||",
+  "pada_vibhaga": [
+    {
+      "word": "మధుకైటభవిద్రావి",
+      "meaning": "మధుకైటభులను నాశనం చేసినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "విధాతృవరదే",
+      "meaning": "బ్రహ్మదేవునికి వరములను ఇచ్చినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "నమః",
+      "meaning": "నమస్కారము",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "రూపమ్",
+      "meaning": "ఆత్మసౌందర్యాన్ని/రూపాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దేహి",
+      "meaning": "ప్రసాదించు",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "జయమ్",
+      "meaning": "విజయాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దేహి",
+      "meaning": "ప్రసాదించు",
+      "grammar": "క్రియ"
+    },
+    {
+      "word": "యశః",
+      "meaning": "కీర్తిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దేహి",
+      "meaning": "ప్రసాదించు",
+      "grammar": "క్రియ"
+    },
+    {
+      "word": "ద్విషః",
+      "meaning": "శత్రువులను",
+      "grammar": "ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "జహి",
+      "meaning": "సంహరించు",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    }
+  ],
+  "anvaya": "హే మధుకైటభవిద్రావి! విధాతృవరదే! (తే) నమః. (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Slayer of the demons Madhu and Kaitabha, and granter of boons to Brahma! Salutations to You. Grant me spiritual form/beauty, grant me victory, grant me fame, and destroy my enemies.",
+    "telugu": "మధు, కైటభులు అనే రాక్షసులను పారద్రోలిన దానా! బ్రహ్మకు వరాలను ప్రసాదించిన దానా! నీకు నమస్కారము. నాకు సౌందర్యాన్ని(ఆత్మజ్ఞానాన్ని) ఇవ్వు, విజయాన్ని ఇవ్వు, కీర్తిని ఇవ్వు మరియు నా శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "మధుకైటభవిద్రావి",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    },
+    {
+      "compound": "విధాతృవరదే",
+      "type": "చతుర్థీ తత్పురుష (Chaturthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "యశోదేహి",
+      "split_words": "యశః + దేహి",
+      "sandhi_rule": "విసర్గ ఉకారాదేశ సంధి (Visarga Ukāradesha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

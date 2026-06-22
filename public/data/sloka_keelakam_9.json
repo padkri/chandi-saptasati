@@ -1,0 +1,113 @@
+{
+  "id": "durga_saptashati_keelakam_9",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 9,
+  "sloka_original": "యో నిష్కీలాం విధాయైనాం నిత్యం జపతి సంస్ఫూటమ్। స సిద్ధః స గణః సో పి గంధర్వో జాయతే నరః || 9 ||",
+  "pada_vibhaga": [
+    {
+      "word": "యః",
+      "meaning": "He who",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నిష్కీలామ్",
+      "meaning": "Unlocked / Freed from the pin",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "విధాయ",
+      "meaning": "Having done",
+      "grammar": "క్త్వా ప్రత్యయం (Gerund)"
+    },
+    {
+      "word": "ఏనామ్",
+      "meaning": "This (the Saptashati)",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "నిత్యమ్",
+      "meaning": "Daily",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "జపతి",
+      "meaning": "Chants",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సంస్ఫుటమ్",
+      "meaning": "Clearly",
+      "grammar": "అవ్యయం / విశేషణం"
+    },
+    {
+      "word": "సః",
+      "meaning": "He",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సిద్ధః",
+      "meaning": "A Siddha (perfected being)",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సః",
+      "meaning": "He",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "గణః",
+      "meaning": "Attendant of Shiva",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సః",
+      "meaning": "He",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Also",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "గంధర్వః",
+      "meaning": "A celestial musician",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "జాయతే",
+      "meaning": "Becomes",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం, ఆత్మనేపది"
+    },
+    {
+      "word": "నరః",
+      "meaning": "That man",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "యః నరః ఏనాం నిష్కీలాం విధాయ నిత్యం సంస్ఫుటమ్ జపతి, సః సిద్ధః, సః గణః, సః అపి గంధర్వః జాయతే.",
+  "tatparyam": {
+    "english": "The person who unlocks this (by understanding the Keelakam) and chants it clearly every day, that man becomes a Siddha (perfected being), an attendant of Lord Shiva, and even a Gandharva.",
+    "telugu": "ఎవరైతే ఈ దేవీ మహాత్మ్యాన్ని 'ఉత్కీలనము' (బంధ విముక్తం) చేసి ప్రతిరోజూ స్పష్టంగా జపిస్తాడో, ఆ మానవుడు సిద్ధుడవుతాడు, శివగణమవుతాడు, మరియు గంధర్వుడు కూడా అవుతాడు."
+  },
+  "samasas": [
+    {
+      "compound": "నిష్కీలామ్",
+      "type": "ప్రాది బహువ్రీహి (Pradi Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "యో నిష్కీలామ్",
+      "split_words": "యః + నిష్కీలామ్",
+      "sandhi_rule": "విసర్గ ఉకారాదేశ సంధి (Visarga Ukāradesha Sandhi)"
+    },
+    {
+      "joined_word": "విధాయైనామ్",
+      "split_words": "విధాయ + ఏనామ్",
+      "sandhi_rule": "వృద్ధి సంధి (Vriddhi Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

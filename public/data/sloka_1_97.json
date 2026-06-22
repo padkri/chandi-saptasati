@@ -1,0 +1,73 @@
+{
+  "id": "durga_saptashati_1_97",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 97,
+  "sloka_original": "భవేతామద్య మే తుష్టో మమ వధ్యావుభావపి || 97 ||",
+  "pada_vibhaga": [
+    {
+      "word": "భవేతామ్",
+      "meaning": "అగుదురు",
+      "grammar": "భూ ధాతువు, విధిలిఙ్ లకారం, ప్రథమ పురుషం, ద్వివచనం"
+    },
+    {
+      "word": "అద్య",
+      "meaning": "ఇప్పుడు",
+      "grammar": "కాలవాచక అవ్యయం"
+    },
+    {
+      "word": "మే",
+      "meaning": "నాకు",
+      "grammar": "అస్మద్ శబ్దం, చతుర్థీ/షష్ఠీ భావం, ఏకవచనం"
+    },
+    {
+      "word": "తుష్టౌ",
+      "meaning": "సంతోషించిన ఇద్దరు",
+      "grammar": "తుష్ ధాతువు, క్త కృదంతం, ప్రథమా విభక్తి, ద్వివచనం"
+    },
+    {
+      "word": "మమ",
+      "meaning": "నా చేత",
+      "grammar": "అస్మద్ శబ్దం, షష్ఠీ/తృతీయా భావం, ఏకవచనం"
+    },
+    {
+      "word": "వధ్యౌ",
+      "meaning": "చంపదగిన ఇద్దరు",
+      "grammar": "వధ్ ధాతు, ణ్యత్ కృదంతం, ప్రథమా విభక్తి, ద్వివచనం"
+    },
+    {
+      "word": "ఉభౌ",
+      "meaning": "ఇద్దరూ",
+      "grammar": "ఉభ శబ్దం, ప్రథమా విభక్తి, ద్వివచనం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "కూడా",
+      "grammar": "అవ్యయం"
+    }
+  ],
+  "anvaya": "అద్య మే తుష్టౌ ఉభౌ అపి మమ వధ్యౌ భవేతామ్.",
+  "tatparyam": {
+    "english": "If you are pleased with me, let both of you now become slain by me.",
+    "telugu": "మీరు నాపట్ల సంతోషించిన వారైతే, మీరు ఇద్దరూ ఇప్పుడు నా చేత సంహరింపబడదగినవారై యుండండి."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "భవేతామద్య",
+      "split_words": "భవేతామ్ + అద్య",
+      "sandhi_rule": "అనుస్వార/పరసవర్ణ సంధి"
+    },
+    {
+      "joined_word": "వధ్యావుభౌ",
+      "split_words": "వధ్యౌ + ఉభౌ",
+      "sandhi_rule": "అవ్ ఆదేశ సంధి"
+    },
+    {
+      "joined_word": "ఉభావపి",
+      "split_words": "ఉభౌ + అపి",
+      "sandhi_rule": "అవ్ ఆదేశ సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ భాగం."
+}

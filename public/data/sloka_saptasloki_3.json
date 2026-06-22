@@ -1,0 +1,86 @@
+{
+  "id": "durga_saptasloki_3",
+  "source": "Durga Saptashati - Saptasloki",
+  "chapter": 0,
+  "sloka_number": 3,
+  "sloka_original": "సర్వమంగళ మాంగల్యే శివే సర్వార్థసాధికే। శరణ్యే త్ర్యంబకే గౌరి నారాయణి నమోzస్తుతే || 3 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సర్వమంగళమాంగల్యే",
+      "meaning": "O most auspicious among all auspicious things",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "శివే",
+      "meaning": "O benevolent one / O auspicious one",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "సర్వార్థసాధికే",
+      "meaning": "O fulfiller of all purposes",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "శరణ్యే",
+      "meaning": "O giver of refuge",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "త్ర్యంబకే",
+      "meaning": "O three-eyed Goddess",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "గౌరి",
+      "meaning": "O Gauri (fair-complexioned Goddess)",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "నారాయణి",
+      "meaning": "O Narayani (consort/sister of Narayana)",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "నమః",
+      "meaning": "Salutations",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "అస్తు",
+      "meaning": "Let there be",
+      "grammar": "Imperative, 3rd person, singular"
+    },
+    {
+      "word": "తే",
+      "meaning": "To you",
+      "grammar": "Dative, singular, pronoun"
+    }
+  ],
+  "anvaya": "హే సర్వమంగళమాంగల్యే! శివే! సర్వార్థసాధికే! శరణ్యే! త్ర్యంబకే! గౌరి! నారాయణి! తే నమః అస్తు.",
+  "tatparyam": {
+    "english": "O most auspicious among the auspicious! O benevolent one! Fulfiller of all purposes! Refuge of all! Three-eyed Goddess! Gauri! Narayani! Salutations to You.",
+    "telugu": "సమస్త మంగళాలలో మంగళమైనవాడా! శుభదాయకురాలా! సమస్త పురుషార్థాలను సిద్ధిచేయువాడా! శరణాగతుల రక్షకురాలా! త్రినేత్ర గౌరీ! నారాయణీ! నీకు నమస్కారం."
+  },
+  "samasas": [
+    {
+      "compound": "సర్వమంగళమాంగల్యే",
+      "type": "కర్మధారయ / బహువ్రీహి (Karmadharaya / Bahuvrihi)"
+    },
+    {
+      "compound": "సర్వార్థసాధికే",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    },
+    {
+      "compound": "త్ర్యంబకే",
+      "type": "బహువ్రీహి (Bahuvrihi - having three eyes)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "నమోస్తు",
+      "split_words": "నమః + అస్తు",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

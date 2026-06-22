@@ -1,0 +1,119 @@
+{
+  "chapter": "2",
+  "sloka_number": "32",
+  "source_citation": "",
+  "original_text_telugu": "సమ్మానితా ననాదోచ్చైః సాట్టహాసం ముహుర్ముహుః తస్యా నాదేన ఘోరేణ కృత్స్నమాపూరితం నభః ॥ 32 ॥",
+  "normalized_sanskrit": "सम्मानिता ननादोच्चैः साट्टहासं मुहुर्मुहुः । तस्या नादेन घोरेण कृत्स्नमापूरितं नभः ॥ ३२ ॥",
+  "iast": "sammānitā nanādoccaiḥ sāṭṭahāsaṃ muhur muhuḥ | tasyā nādena ghoreṇa kṛtsnam āpūritaṃ nabhaḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.32.1",
+      "text": "सम्मानिता ननादोच्चैः साट्टहासं मुहुर्मुहुः",
+      "anvaya": "सम्मानिता सा साट्टहासम् उच्चैः मुहुः मुहुः ननाद।",
+      "sandhi": [
+        {
+          "joined": "ननादोच्चैः",
+          "split": "ननाद + उच्चैः",
+          "sandhi_name": "గుణ సంధి / Guṇa Sandhi: अ + उ = ओ"
+        },
+        {
+          "joined": "मुहुर्मुहुः",
+          "split": "मुहुः + मुहुः",
+          "sandhi_name": "విసర్గ సంధి: ः before म् becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "सम्मानिता",
+          "lemma": "सम्मानित",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "honoured"
+        },
+        {
+          "word": "सा",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्; supplied",
+          "meaning": "She"
+        },
+        {
+          "word": "साट्टहासम्",
+          "lemma": "साट्टहास",
+          "grammar": "अव्ययीभाव-सदृश प्रयोगः / क्रियाविशेषणम्",
+          "meaning": "with loud laughter"
+        },
+        {
+          "word": "उच्चैः",
+          "lemma": "उच्चैः",
+          "grammar": "अव्ययम्",
+          "meaning": "loudly"
+        },
+        {
+          "word": "मुहुः मुहुः",
+          "lemma": "मुहुस्",
+          "grammar": "अव्ययम्",
+          "meaning": "again and again"
+        },
+        {
+          "word": "ननाद",
+          "lemma": "नद्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "roared"
+        }
+      ],
+      "devotional_meaning_english": "Having been honoured, She roared loudly again and again with resounding laughter.",
+      "devotional_meaning_telugu": "సత్కరింపబడిన దేవి ఘోర అట్టహాసముతో మళ్లీమళ్లీ ఉచ్చస్వరముగా నాదించెను."
+    },
+    {
+      "sentence_id": "2.32.2",
+      "text": "तस्या नादेन घोरेण कृत्स्नमापूरितं नभः",
+      "anvaya": "तस्याः घोरेण नादेन कृत्स्नं नभः आपूरितम्।",
+      "sandhi": [
+        {
+          "joined": "कृत्स्नमापूरितम्",
+          "split": "कृत्स्नम् + आपूरितम्",
+          "sandhi_name": "म् before vowel retained"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तस्याः",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
+          "meaning": "of Her"
+        },
+        {
+          "word": "घोरेण",
+          "lemma": "घोर",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "terrible, awe-inspiring"
+        },
+        {
+          "word": "नादेन",
+          "lemma": "नाद",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "sound, roar"
+        },
+        {
+          "word": "कृत्स्नम्",
+          "lemma": "कृत्स्न",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "entire"
+        },
+        {
+          "word": "नभः",
+          "lemma": "नभस्",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "sky"
+        },
+        {
+          "word": "आपूरितम्",
+          "lemma": "आपूरित",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "was filled"
+        }
+      ],
+      "devotional_meaning_english": "By Her terrible roar, the entire sky was filled.",
+      "devotional_meaning_telugu": "ఆమె ఘోర నాదముచేత ఆకాశమంతా నిండిపోయెను."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "chapter": "2",
+  "sloka_number": "42",
+  "source_citation": "",
+  "original_text_telugu": "అయుధ్యతాయుతానాం చ సహస్రేణ మహాహనుః। పఞ్చశద్భిశ్చ నియుతైరసిలోమా మహాసురః ॥ 42 ॥",
+  "normalized_sanskrit": "अयुध्यतायुतानां च सहस्रेण महाहनुः । पञ्चशद्भिश्च नियुतैरसिलोमा महासुरः ॥ ४२ ॥",
+  "iast": "ayudhyatāyutānāṃ ca sahasreṇa mahāhanuḥ | pañcaśadbhiś ca niyutair asilomā mahāsuraḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.42.1",
+      "text": "अयुध्यतायुतानां च सहस्रेण महाहनुः",
+      "anvaya": "उदग्रः अयुतानां च सहस्रेण अयुध्यत। महाहनुः च...",
+      "sandhi": [
+        {
+          "joined": "अयुध्यतायुतानाम्",
+          "split": "अयुध्यत + अयुतानाम्",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "अयुध्यत",
+          "lemma": "युध्",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        },
+        {
+          "word": "अयुतानाम्",
+          "lemma": "अयुत",
+          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of ten-thousand groups"
+        },
+        {
+          "word": "सहस्रेण",
+          "lemma": "सहस्र",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with a thousand"
+        },
+        {
+          "word": "महाहनुः",
+          "lemma": "महाहनु",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the asura Mahāhanu"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        }
+      ],
+      "devotional_meaning_english": "Udagra fought with sixty thousand chariots, and Mahāhanu with a thousand times ten-thousand units.",
+      "devotional_meaning_telugu": "ఉదగ్రుడు అరవై వేల రథములతో యుద్ధము చేసెను; మహాహనుడు కూడ అయుతసహస్రబలముతో యుద్ధానికి దిగెను."
+    },
+    {
+      "sentence_id": "2.42.2",
+      "text": "पञ्चशद्भिश्च नियुतैरसिलोमा महासुरः",
+      "anvaya": "असिलोमा महासुरः पञ्चशद्भिः नियुतैः अयुध्यत।",
+      "sandhi": [
+        {
+          "joined": "पञ्चशद्भिः",
+          "split": "पञ्चशत् + भिः",
+          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before भ्"
+        },
+        {
+          "joined": "पञ्चशद्भिश्च",
+          "split": "पञ्चशद्भिः + च",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        },
+        {
+          "joined": "नियुतैरसिलोमा",
+          "split": "नियुतैः + असिलोमा",
+          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "असिलोमा",
+          "lemma": "असिलोमन्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Asilomā"
+        },
+        {
+          "word": "महासुरः",
+          "lemma": "महासुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "great asura"
+        },
+        {
+          "word": "पञ्चशद्भिः",
+          "lemma": "पञ्चशत्",
+          "grammar": "संख्यावाचक, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with fifty"
+        },
+        {
+          "word": "नियुतैः",
+          "lemma": "नियुत",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "hundred-thousand units"
+        }
+      ],
+      "devotional_meaning_english": "The great asura Asilomā fought with fifty niyutas of forces.",
+      "devotional_meaning_telugu": "అసిలోమా అనే మహాసురుడు యాభై నియుతాల బలముతో యుద్ధము చేసెను."
+    }
+  ]
+}

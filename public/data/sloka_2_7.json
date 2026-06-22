@@ -1,0 +1,97 @@
+{
+  "chapter": "2",
+  "sloka_number": "7",
+  "source_citation": "",
+  "original_text_telugu": "స్వర్గాన్నిరాకృతాః సర్వే తేన దేవగణా భువి। విచరంతి యథా మర్త్యా మహిషేణ దురాత్మనా ॥ 7 ॥",
+  "normalized_sanskrit": "स्वर्गान्निराकृताः सर्वे तेन देवगणा भुवि । विचरन्ति यथा मर्त्या महिषेण दुरात्मना ॥ ७ ॥",
+  "iast": "svargān nirākṛtāḥ sarve tena devagaṇā bhuvi | vicaranti yathā martyā mahiṣeṇa durātmanā",
+  "sentence_split": [
+    {
+      "sentence_id": "2.7.1",
+      "text": "स्वर्गान्निराकृताः सर्वे तेन देवगणा भुवि विचरन्ति यथा मर्त्या महिषेण दुरात्मना",
+      "anvaya": "तेन दुरात्मना महिषेण स्वर्गात् निराकृताः सर्वे देवगणाः मर्त्याः यथा भुवि विचरन्ति।",
+      "sandhi": [
+        {
+          "joined": "स्वर्गान्निराकृताः",
+          "split": "स्वर्गात् + निराकृताः",
+          "sandhi_name": "अनुनासिक/परसवर्ण संधि: final त् before न् becomes न्"
+        },
+        {
+          "joined": "मर्त्या महिषेण",
+          "split": "मर्त्याः + महिषेण",
+          "sandhi_name": "విసర్గ లోపः before voiced म्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तेन",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by him"
+        },
+        {
+          "word": "दुरात्मना",
+          "lemma": "दुरात्मन्",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by the evil-minded one"
+        },
+        {
+          "word": "महिषेण",
+          "lemma": "महिष",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by Mahisha"
+        },
+        {
+          "word": "स्वर्गात्",
+          "lemma": "स्वर्ग",
+          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
+          "meaning": "from heaven"
+        },
+        {
+          "word": "निराकृताः",
+          "lemma": "निराकृत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "expelled, driven out"
+        },
+        {
+          "word": "सर्वे",
+          "lemma": "सर्व",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "all"
+        },
+        {
+          "word": "देवगणाः",
+          "lemma": "देवगण",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "hosts of gods"
+        },
+        {
+          "word": "मर्त्याः",
+          "lemma": "मर्त्य",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "mortals"
+        },
+        {
+          "word": "यथा",
+          "lemma": "यथा",
+          "grammar": "अव्ययम्",
+          "meaning": "as, like"
+        },
+        {
+          "word": "भुवि",
+          "lemma": "भू",
+          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "on earth"
+        },
+        {
+          "word": "विचरन्ति",
+          "lemma": "वि-चर्",
+          "grammar": "लट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "wander"
+        }
+      ],
+      "devotional_meaning_english": "Driven out of heaven by that wicked Mahisha, all the hosts of gods wander on earth like mortals.",
+      "devotional_meaning_telugu": "ఆ దురాత్ముడైన మహిషుడు దేవతలను స్వర్గం నుండి తొలగించగా, దేవగణమంతా మానవులవలె భూమిపై సంచరించుచున్నారు."
+    }
+  ]
+}

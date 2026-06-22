@@ -1,0 +1,16 @@
+.git
+.env
+logs
+__pycache__
+*.pyc
+.pytest_cache
+.DS_Store
+sources
+sources/*.pdf
+test_*.py
+gemini_chat_prompt.md
+coding_agent_context.md
+4-15-dhyanas.json
+append_toc.py
+split_json.py
+sloka-meaning.py

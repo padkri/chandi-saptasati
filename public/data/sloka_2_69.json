@@ -1,0 +1,152 @@
+{
+  "chapter": "2",
+  "sloka_number": "69",
+  "source_citation": "",
+  "original_text_telugu": "దేవ్యు గణైశ్చ తైస్తత్ర కృతం యుద్ధం మహాసురైః। యథైషాం తుతుషుర్దేవాః పుష్పవృష్టిముచో దివి ॥ ఓం ॥ 69 ॥",
+  "normalized_sanskrit": "देव्या गणैश्च तैस्तत्र कृतं युद्धं महासुरैः । यथैषां तुतुषुर्देवाः पुष्पवृष्टिमुचो दिवि ॥ ॐ ॥ ६९ ॥",
+  "iast": "devyā gaṇaiś ca tais tatra kṛtaṃ yuddhaṃ mahāsuraiḥ | yathaiṣāṃ tutuṣur devāḥ puṣpavṛṣṭimuco divi | oṃ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.69.1",
+      "text": "देव्या गणैश्च तैस्तत्र कृतं युद्धं महासुरैः",
+      "anvaya": "तत्र देव्या तैः गणैः च महासुरैः युद्धं कृतम्।",
+      "sandhi": [
+        {
+          "joined": "गणैश्च",
+          "split": "गणैः + च",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before च् becomes श्"
+        },
+        {
+          "joined": "तैस्तत्र",
+          "split": "तैः + तत्र",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "देव्या",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by/with the Goddess"
+        },
+        {
+          "word": "तैः",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "by those"
+        },
+        {
+          "word": "गणैः",
+          "lemma": "गण",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "hosts, attendants"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "महासुरैः",
+          "lemma": "महासुर",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with the great asuras"
+        },
+        {
+          "word": "युद्धम्",
+          "lemma": "युद्ध",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "battle"
+        },
+        {
+          "word": "कृतम्",
+          "lemma": "कृत",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "was done, was fought"
+        }
+      ],
+      "devotional_meaning_english": "There, the Goddess and those hosts fought a battle with the great asuras.",
+      "devotional_meaning_telugu": "అక్కడ దేవి మరియు ఆ గణములు మహాసురులతో యుద్ధము చేసిరి."
+    },
+    {
+      "sentence_id": "2.69.2",
+      "text": "यथैषां तुतुषुर्देवाः पुष्पवृष्टिमुचो दिवि",
+      "anvaya": "दिवि पुष्पवृष्टिमुचः देवाः एषां यथा तुतुषुः।",
+      "sandhi": [
+        {
+          "joined": "यथैषाम्",
+          "split": "यथा + एषाम्",
+          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: आ + ए = ऐ"
+        },
+        {
+          "joined": "तुतुषुर्देवाः",
+          "split": "तुतुषुः + देवाः",
+          "sandhi_name": "విసర్గ సంధి: ः before द् becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "दिवि",
+          "lemma": "दिव्",
+          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in heaven"
+        },
+        {
+          "word": "पुष्पवृष्टिमुचः",
+          "lemma": "पुष्पवृष्टिमुच्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "releasing showers of flowers"
+        },
+        {
+          "word": "देवाः",
+          "lemma": "देव",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "the gods"
+        },
+        {
+          "word": "एषाम्",
+          "lemma": "एतद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of these, with them"
+        },
+        {
+          "word": "यथा",
+          "lemma": "यथा",
+          "grammar": "अव्ययम्",
+          "meaning": "so greatly, in such a manner"
+        },
+        {
+          "word": "तुतुषुः",
+          "lemma": "तुष्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "were pleased, rejoiced"
+        }
+      ],
+      "devotional_meaning_english": "The gods in heaven rejoiced greatly and released showers of flowers.",
+      "devotional_meaning_telugu": "దివిలో దేవతలు ఎంతో సంతోషించి పుష్పవృష్టిని కురిపించిరి."
+    },
+    {
+      "sentence_id": "2.69.3",
+      "text": "ॐ",
+      "anvaya": "ॐ",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "ॐ",
+          "lemma": "ॐ",
+          "grammar": "प्रणवः, अव्ययम्",
+          "meaning": "sacred primordial syllable"
+        }
+      ],
+      "devotional_meaning_english": "Om.",
+      "devotional_meaning_telugu": "ఓం."
+    }
+  ]
+}

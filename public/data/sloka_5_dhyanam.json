@@ -1,0 +1,112 @@
+{
+  "id": "durga_saptashati_5_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 5,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం ఘంటాశూలహలాని శబ్ధముసలే చక్రం ధనుః సాయకం హస్తాబై ర్దధతీం ఘనాంతవిలసచ్ఛీతాంశుతుల్య ప్రభామ్ గౌరీదేహసముద్భవాం త్రిజగతామాధారభూతాం మహా- పూర్వామత్ర సరస్వతీమనుభజే శుంభాదిదైత్యార్దినీమ్ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "Om",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "ఘంటాశూలహలాని",
+      "meaning": "Bell, trident, and plow",
+      "grammar": "Accusative, plural, neuter"
+    },
+    {
+      "word": "శఙ్ఖముసలే",
+      "meaning": "Conch and mace",
+      "grammar": "Accusative, dual, neuter"
+    },
+    {
+      "word": "చక్రమ్",
+      "meaning": "Discus",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "ధనుః",
+      "meaning": "Bow",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "సాయకమ్",
+      "meaning": "Arrow",
+      "grammar": "Accusative, singular, masculine"
+    },
+    {
+      "word": "హస్తాబ్జైః",
+      "meaning": "With lotus-like hands",
+      "grammar": "Instrumental, plural, neuter"
+    },
+    {
+      "word": "దధతీమ్",
+      "meaning": "Holding",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "ఘనాంతవిలసచ్ఛీతాంశుతుల్యప్రభామ్",
+      "meaning": "Having radiance like the moon shining at the edge of a cloud",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "గౌరీదేహసముద్భవామ్",
+      "meaning": "Born from the body of Gauri",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "త్రిజగతామ్",
+      "meaning": "Of the three worlds",
+      "grammar": "Genitive, plural, neuter"
+    },
+    {
+      "word": "ఆధారభూతామ్",
+      "meaning": "Who is the support",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "మహాసరస్వతీమ్",
+      "meaning": "The great Goddess Saraswati",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "అనుభజే",
+      "meaning": "I worship",
+      "grammar": "Present tense, 1st person, singular, Atmanepada"
+    },
+    {
+      "word": "శుంభాదిదైత్యార్దినీమ్",
+      "meaning": "Destroyer of demons like Shumbha",
+      "grammar": "Accusative, singular, feminine"
+    }
+  ],
+  "anvaya": "అహం ఘనాంతవిలసచ్ఛీతాంశుతుల్యప్రభాం గౌరీదేహసముద్భవాం త్రిజగతామాధారభూతాం హస్తాబ్జైః ఘంటాశూలహలాని శఙ్ఖముసలే చక్రం ధనుః సాయకం దధతీం శుంభాదిదైత్యార్దినీం మహాసరస్వతీమ్ అత్ర అనుభజే.",
+  "tatparyam": {
+    "english": "I worship Mahasaraswati, the destroyer of demons like Shumbha. She emerged from the body of Goddess Gauri and is the sustaining foundation of the three worlds. She holds a bell, trident, plow, conch, mace, discus, bow, and arrow in Her lotus hands, and shines with a radiance equal to the moon emerging from behind autumn clouds.",
+    "telugu": "మేఘాల చాటు నుండి వెలువడే చంద్రుని వంటి కాంతి కలది, గౌరీదేవి శరీరం నుండి ఉద్భవించినది, ముల్లోకాలకు ఆధారమైనది, తన పద్మాల వంటి చేతులలో గంట, త్రిశూలం, నాగలి, శంఖం, రోకలి, చక్రం, ధనుస్సు, బాణము ధరించినది, శుంభాది రాక్షసులను సంహరించే మహాసరస్వతీ దేవిని నేను భజిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "హస్తాబ్జైః",
+      "type": "కర్మధారయ (Karmadharaya - Rūpaka)"
+    },
+    {
+      "compound": "గౌరీదేహసముద్భవామ్",
+      "type": "పంచమీ తత్పురుష (Panchami Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "విలసచ్ఛీతాంశు",
+      "split_words": "విలసత్ + శీతాంశు",
+      "sandhi_rule": "శ్చుత్వ సంధి (Ścutva Sandhi)"
+    },
+    {
+      "joined_word": "దైత్యార్దినీమ్",
+      "split_words": "దైత్య + అర్దినీమ్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: శార్దూలవిక్రీడితమ్ (Śārdūlavikrīḍitam). Alamkaram: ఉపమా (Upamā)."
+}

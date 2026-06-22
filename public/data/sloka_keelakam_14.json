@@ -1,0 +1,87 @@
+{
+  "id": "durga_saptashati_keelakam_14",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 14,
+  "sloka_original": "ఐశ్వర్యం యత్ప్రసాదేన సౌభాగ్యారోгగ్యసంపదః| శత్రుహానిః పరోమోక్షః స్తూయతే సా న కిం జనైః || ఓం || 14 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఐశ్వర్యమ్",
+      "meaning": "Opulence / Sovereignty",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యత్ప్రసాదేన",
+      "meaning": "By whose grace",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సౌభాగ్యారోగ్యసంపదః",
+      "meaning": "Auspiciousness, health, and wealth",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శత్రుహానిః",
+      "meaning": "Destruction of enemies",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పరః",
+      "meaning": "Supreme",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "మోక్షః",
+      "meaning": "Liberation",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "స్తూయతే",
+      "meaning": "Is praised",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం, కర్మణి (Passive)"
+    },
+    {
+      "word": "సా",
+      "meaning": "She (the Goddess)",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "న",
+      "meaning": "Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "కిమ్",
+      "meaning": "Why",
+      "grammar": "అవ్యయం (ప్రశ్నార్ధకం)"
+    },
+    {
+      "word": "జనైః",
+      "meaning": "By people",
+      "grammar": "తృతీయా విభక్తి, బహువచనం"
+    }
+  ],
+  "anvaya": "యత్ప్రసాదేన ఐశ్వర్యమ్, సౌభాగ్యారోగ్యసంపదః, శత్రుహానిః, పరః మోక్షః (లభ్యతే), సా జనైః కిం న స్తూయతే?",
+  "tatparyam": {
+    "english": "By whose grace opulence, good fortune, health, wealth, destruction of enemies, and supreme liberation are attained—why should that Goddess not be praised by all people?",
+    "telugu": "ఎవరి అనుగ్రహం చేత ఐశ్వర్యం, సౌభాగ్యం, ఆరోగ్యం, సంపదలు కలుగుతాయో, శత్రునాశనం మరియు పరమపదమైన మోక్షం సిద్ధిస్తుందో, అటువంటి దేవిని మనుషులు ఎందుకు స్తుతించరు? (తప్పక స్తుతించాలి)."
+  },
+  "samasas": [
+    {
+      "compound": "సౌభాగ్యారోగ్యసంపదః",
+      "type": "ద్వంద్వ సమాస గర్భిత తత్పురుష (Dvandva Garbhita Tatpurusha)"
+    },
+    {
+      "compound": "శత్రుహానిః",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "పరోమోక్షః",
+      "split_words": "పరః + మోక్షః",
+      "sandhi_rule": "విసర్గ ఉకారాదేశ సంధి (Visarga Ukāradesha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup). Alamkaram: ఆక్షేప / కావ్యలింగ (Ākṣepa / Kāvyaliṅga)."
+}

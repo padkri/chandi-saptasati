@@ -1,0 +1,191 @@
+{
+  "id": "durga_saptashati_2_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": "2",
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం అక్షస్రక్ పరశుం గదేషుకులిశం, పద్మం ధనుష్కుండికాం దండం శక్తిమసిం చ చర్మ జలజం ఘంటాం సురాభాజనమ్। శూలం పాశసుదర్శనే చ దధతీం హస్త్రైః ప్రసన్నాననాం సేవే సైరిభమర్దినీమిహ మహాలక్ష్మీం సరోజస్థితామ్ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "Om (sacred syllable)",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "అక్షస్రక్",
+      "meaning": "rosary",
+      "grammar": "Noun, feminine, nominative singular (functioning as object in context)"
+    },
+    {
+      "word": "పరశుం",
+      "meaning": "axe",
+      "grammar": "Noun, masculine, accusative singular"
+    },
+    {
+      "word": "గదేషుకులిశం",
+      "meaning": "mace, arrow, thunderbolt",
+      "grammar": "Compound noun, neuter, accusative singular"
+    },
+    {
+      "word": "పద్మం",
+      "meaning": "lotus",
+      "grammar": "Noun, neuter, accusative singular"
+    },
+    {
+      "word": "ధనుష్కుండికాం",
+      "meaning": "bow and water-pot",
+      "grammar": "Compound noun, feminine, accusative singular"
+    },
+    {
+      "word": "దండం",
+      "meaning": "staff",
+      "grammar": "Noun, masculine, accusative singular"
+    },
+    {
+      "word": "శక్తిం",
+      "meaning": "spear",
+      "grammar": "Noun, feminine, accusative singular"
+    },
+    {
+      "word": "అసిం",
+      "meaning": "sword",
+      "grammar": "Noun, masculine, accusative singular"
+    },
+    {
+      "word": "చ",
+      "meaning": "and",
+      "grammar": "Indeclinable conjunction"
+    },
+    {
+      "word": "చర్మ",
+      "meaning": "shield",
+      "grammar": "Noun, neuter, accusative singular"
+    },
+    {
+      "word": "జలజం",
+      "meaning": "conch (lit. born from water)",
+      "grammar": "Noun, neuter, accusative singular"
+    },
+    {
+      "word": "ఘంటాం",
+      "meaning": "bell",
+      "grammar": "Noun, feminine, accusative singular"
+    },
+    {
+      "word": "సురాభాజనమ్",
+      "meaning": "wine-cup",
+      "grammar": "Compound noun, neuter, accusative singular"
+    },
+    {
+      "word": "శూలం",
+      "meaning": "trident",
+      "grammar": "Noun, neuter, accusative singular"
+    },
+    {
+      "word": "పాశసుదర్శనే",
+      "meaning": "noose and discus",
+      "grammar": "Compound noun, neuter, accusative dual"
+    },
+    {
+      "word": "చ",
+      "meaning": "and",
+      "grammar": "Indeclinable conjunction"
+    },
+    {
+      "word": "దధతీం",
+      "meaning": "holding",
+      "grammar": "Present participle, feminine, accusative singular (from √dhā)"
+    },
+    {
+      "word": "హస్త్రైః",
+      "meaning": "with hands",
+      "grammar": "Noun, masculine, instrumental plural"
+    },
+    {
+      "word": "ప్రసన్నాననాం",
+      "meaning": "having a cheerful face",
+      "grammar": "Compound adjective, feminine, accusative singular"
+    },
+    {
+      "word": "సేవే",
+      "meaning": "I worship",
+      "grammar": "Verb, 1st person singular, Atmanepada, Present tense (from √sev)"
+    },
+    {
+      "word": "సైరిభమర్దినీం",
+      "meaning": "the slayer of the buffalo-demon (Mahisha)",
+      "grammar": "Compound noun, feminine, accusative singular"
+    },
+    {
+      "word": "ఇహ",
+      "meaning": "here",
+      "grammar": "Indeclinable adverb"
+    },
+    {
+      "word": "మహాలక్ష్మీం",
+      "meaning": "Mahalakshmi",
+      "grammar": "Noun, feminine, accusative singular"
+    },
+    {
+      "word": "సరోజస్థితామ్",
+      "meaning": "seated on a lotus",
+      "grammar": "Compound adjective, feminine, accusative singular"
+    }
+  ],
+  "anvaya": "ఇహ (Iha) అక్షస్రక్, పరశుం, గదేషుకులిశం, పద్మం, ధనుష్కుండికాం, దండం, శక్తిం, అసిం చ, చర్మ, జలజం, ఘంటాం, సురాభాజనమ్, శూలం, పాశసుదర్శనే చ హస్త్రైః దధతీం, ప్రసన్నాననాం, సరోజస్థితామ్, సైరిభమర్దినీం మహాలక్ష్మీం సేవే.",
+  "tatparyam": {
+    "english": "Here, I worship Mahalakshmi, who holds in her hands a rosary, axe, mace, arrow, thunderbolt, lotus, bow, water-pot, staff, spear, sword, shield, conch, bell, wine-cup, trident, noose, and discus; who has a cheerful face, is seated on a lotus, and is the slayer of the buffalo-demon (Mahisha).",
+    "telugu": "ఇక్కడ నేను, అక్షమాల, గొడ్డలి, గద, బాణం, వజ్రాయుధం, పద్మం, ధనుస్సు, కుండిక, దండం, శక్తి, ఖడ్గం, డాలు, శంఖం, గంట, సురాపాత్ర, శూలం, పాశం, సుదర్శన చక్రం - వీటిని తన చేతులలో ధరించి, ప్రసన్నమైన ముఖంతో, పద్మంపై ఆసీనురాలై, మహిషాసురుడిని సంహరించిన మహాలక్ష్మిని సేవిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "అక్షస్రక్",
+      "type": "షష్ఠీ తత్పురుష (అక్షాణాం స్రక్)"
+    },
+    {
+      "compound": "గదేషుకులిశం",
+      "type": "ఇతరేతర ద్వంద్వ (గదా చ ఇషుః చ కులిశం చ)"
+    },
+    {
+      "compound": "ధనుష్కుండికాం",
+      "type": "ఇతరేతర ద్వంద్వ (ధనుః చ కుండికా చ)"
+    },
+    {
+      "compound": "సురాభాజనమ్",
+      "type": "షష్ఠీ తత్పురుష (సురాయాః భాజనమ్)"
+    },
+    {
+      "compound": "పాశసుదర్శనే",
+      "type": "ఇతరేతర ద్వంద్వ (పాశః చ సుదర్శనం చ)"
+    },
+    {
+      "compound": "ప్రసన్నాననాం",
+      "type": "బహువ్రీహి (ప్రసన్నం ఆననం యస్యాః సా)"
+    },
+    {
+      "compound": "సైరిభమర్దినీం",
+      "type": "షష్ఠీ తత్పురుష (సైరిభస్య మర్దినీ)"
+    },
+    {
+      "compound": "సరోజస్థితామ్",
+      "type": "సప్తమీ తత్పురుష (సరోజే స్థితా)"
+    }
+  ],
+  "sandhis": [
+    {
+      "word": "ధనుష్కుండికాం",
+      "split": "ధనుస్ + కుండికాం",
+      "rule": "Visarga Sandhi (sibilant 's' of 'dhanus' becomes 'ṣ' before 'k')"
+    },
+    {
+      "word": "శక్తిమసిం",
+      "split": "శక్తిం + అసిం",
+      "rule": "Anusvāra Sandhi (m followed by a vowel joins with the vowel)"
+    },
+    {
+      "word": "మర్దినీమిహ",
+      "split": "మర్దినీం + ఇహ",
+      "rule": "Anusvāra Sandhi (m followed by a vowel joins with the vowel)"
+    }
+  ],
+  "alamkaram_chandas": "Descriptive verse (वर्णनम्), meter not strictly classical."
+}

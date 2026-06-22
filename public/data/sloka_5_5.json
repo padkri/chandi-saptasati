@@ -1,0 +1,106 @@
+{
+  "id": "5.5",
+  "sloka_text": "हृताधिकारास्त्रिदशास्ताभ्यां सर्वे निराकृताः। महासुराभ्यां तां देवीं संस्मरन्त्यपराजिताम् ॥ 5 ॥",
+  "anvaya": "ताभ्यां महासुराभ्यां हृताधिकाराः सर्वे त्रिदशाः निराकृताः अपर...ाजितां तां देवीं संस्मरन्ति।",
+  "word_by_word": [
+    {
+      "word": "हृताधिकाराः",
+      "lemma": "हृत-अधिकार",
+      "compound": "बहुव्रीहि-समासः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "those whose authority had been taken away"
+    },
+    {
+      "word": "त्रिदशाः",
+      "lemma": "त्रिदश",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "the gods"
+    },
+    {
+      "word": "ताभ्याम्",
+      "lemma": "तद्",
+      "case_vibhakti": "तृतीया विभक्तिः",
+      "number": "द्विवचनम्",
+      "meaning": "by those two"
+    },
+    {
+      "word": "सर्वे",
+      "lemma": "सर्व",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "all"
+    },
+    {
+      "word": "निराकृताः",
+      "lemma": "निर्-आ-कृ",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "expelled, rejected"
+    },
+    {
+      "word": "महासुराभ्याम्",
+      "lemma": "महासुर",
+      "compound": "कर्मधारयः",
+      "case_vibhakti": "तृतीया विभक्तिः",
+      "number": "द्विवचनम्",
+      "meaning": "by the two great demons"
+    },
+    {
+      "word": "ताम्",
+      "lemma": "तद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "that"
+    },
+    {
+      "word": "देवीम्",
+      "lemma": "देवी",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "Goddess"
+    },
+    {
+      "word": "संस्मरन्ति",
+      "lemma": "सम्-स्मृ",
+      "pos": "क्रियापदम्",
+      "lakara": "लट्",
+      "purusha": "प्रथमपुरुषः",
+      "number": "बहुवचनम्",
+      "meaning": "they remembered deeply"
+    },
+    {
+      "word": "अपराजिताम्",
+      "lemma": "अपराजिता",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the unconquered one"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "हृताधिकाराः",
+      "split": "हृत + अधिकाराः",
+      "sandhi_name": "सवर्णदीर्घ-सन्धिः",
+      "rule_description": "अ + अ → आ."
+    },
+    {
+      "form": "हृताधिकारास्त्रिदशाः",
+      "split": "हृताधिकाराः + त्रिदशाः",
+      "sandhi_name": "विसर्ग-सन्धिः",
+      "rule_description": "Final ः before त् becomes स्."
+    },
+    {
+      "form": "संस्मरन्त्यपराजिताम्",
+      "split": "संस्मरन्ति + अपराजिताम्",
+      "sandhi_name": "यण्-सन्धिः",
+      "rule_description": "इ before अ becomes य्."
+    }
+  ],
+  "overall_meaning": "All the gods, stripped of their authority and expelled by those two great demons, remembered that unconquered Goddess."
+}

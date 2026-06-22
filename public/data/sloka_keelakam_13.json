@@ -1,0 +1,103 @@
+{
+  "id": "durga_saptashati_keelakam_13",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 13,
+  "sloka_original": "శనైస్తు జప్యమానేస్మిన్ స్తోత్రే సంపత్తిరుచ్చకైః| భవత్యేవ సమగ్రాపి తతః ప్రారభ్యమేవ తత్ || 13 ||",
+  "pada_vibhaga": [
+    {
+      "word": "శనైః",
+      "meaning": "Slowly / Gradually",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తు",
+      "meaning": "But / Indeed",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "జప్యమానే",
+      "meaning": "While being chanted",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం (Present passive participle)"
+    },
+    {
+      "word": "అస్మిన్",
+      "meaning": "In this",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "స్తోత్రే",
+      "meaning": "Hymn",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సంపత్తిః",
+      "meaning": "Wealth / Prosperity",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఉచ్చకైః",
+      "meaning": "High / Abundant",
+      "grammar": "అవ్యయం / విశేషణం"
+    },
+    {
+      "word": "భవతి",
+      "meaning": "Becomes / Happens",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "Indeed",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సమగ్రా",
+      "meaning": "Complete / Entire",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Also",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తతః",
+      "meaning": "Therefore",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ప్రారభ్యమ్",
+      "meaning": "Should be commenced",
+      "grammar": "కృదంతం (Gerundive)"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "Indeed",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తత్",
+      "meaning": "That",
+      "grammar": "ప్రథమా/ద్వితీయా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "అస్మిన్ స్తోత్రే శనైః జప్యమానే తు ఉచ్చకైః సమగ్రా అపి సంపత్తిః భవతి ఏవ. తతః తత్ ప్రారభ్యమ్ ఏవ.",
+  "tatparyam": {
+    "english": "Even if this hymn is chanted slowly and softly, it yields abundant and complete wealth. Therefore, it must certainly be commenced.",
+    "telugu": "ఈ స్తోత్రాన్ని నెమ్మదిగా, ప్రశాంతంగా జపించినప్పటికీ అపారమైన, పరిపూర్ణమైన సంపదలు సిద్ధిస్తాయి. కాబట్టి ఈ పారాయణాన్ని తప్పక ప్రారంభించాలి."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "జప్యమానేస్మిన్",
+      "split_words": "జప్యమానే + అస్మిన్",
+      "sandhi_rule": "పూర్వరూప సంధి (Purvarupa Sandhi)"
+    },
+    {
+      "joined_word": "సంపత్తిరుచ్చకైః",
+      "split_words": "సంపత్తిః + ఉచ్చకైః",
+      "sandhi_rule": "విసర్గ రేఫ సంధి (Visarga Repha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

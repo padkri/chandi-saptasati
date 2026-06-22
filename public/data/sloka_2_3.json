@@ -1,0 +1,134 @@
+{
+  "chapter": "2",
+  "sloka_number": "3",
+  "source_citation": "",
+  "original_text_telugu": "తత్రాసురైర్మహావీర్యైర్దేవసైన్యం పరాజితమ్। జిత్వా చ సకలాన్ దేవానింద్రో భూన్మహిషాసురః ॥ 3 ॥",
+  "normalized_sanskrit": "तत्रासुरैर्महावीर्यैर्देवसैन्यं पराजितम् । जित्वा च सकलान् देवानिन्द्रोऽभून्महिषासुरः ॥ ३ ॥",
+  "iast": "tatrāsurair mahāvīryair devasainyaṃ parājitam | jitvā ca sakalān devān indro 'bhūn mahiṣāsuraḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.3.1",
+      "text": "तत्रासुरैर्महावीर्यैर्देवसैन्यं पराजितम्",
+      "anvaya": "तत्र महावीर्यैः असुरैः देवसैन्यं पराजितम्।",
+      "sandhi": [
+        {
+          "joined": "तत्रासुरैः",
+          "split": "तत्र + असुरैः",
+          "sandhi_name": "అకార లోప/స్వర సంధి context: final अ followed by अ in continuous recitation"
+        },
+        {
+          "joined": "असुरैर्महावीर्यैः",
+          "split": "असुरैः + महावीर्यैः",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः becomes र् before voiced consonant म्"
+        },
+        {
+          "joined": "महावीर्यैर्देवसैन्यम्",
+          "split": "महावीर्यैः + देवसैन्यम्",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः becomes र् before voiced consonant द्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there, in that war"
+        },
+        {
+          "word": "महावीर्यैः",
+          "lemma": "महावीर्य",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "by the very powerful"
+        },
+        {
+          "word": "असुरैः",
+          "lemma": "असुर",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "by the asuras"
+        },
+        {
+          "word": "देवसैन्यम्",
+          "lemma": "देवसैन्य",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the army of the gods"
+        },
+        {
+          "word": "पराजितम्",
+          "lemma": "पराजित",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्, क्त-प्रत्ययान्तम्",
+          "meaning": "was defeated"
+        }
+      ],
+      "devotional_meaning_english": "There, the army of the gods was defeated by the mighty asuras.",
+      "devotional_meaning_telugu": "అక్కడ మహా వీర్యశాలులైన అసురులచేత దేవసైన్యం ఓడిపోయెను."
+    },
+    {
+      "sentence_id": "2.3.2",
+      "text": "जित्वा च सकलान् देवानिन्द्रोऽभून्महिषासुरः",
+      "anvaya": "सकलान् देवान् जित्वा च महिषासुरः इन्द्रः अभूत्।",
+      "sandhi": [
+        {
+          "joined": "देवानिन्द्रः",
+          "split": "देवान् + इन्द्रः",
+          "sandhi_name": "నకార సంధి / N becomes nasalized before vowel; written निन्द्र in continuous form"
+        },
+        {
+          "joined": "इन्द्रोऽभूत्",
+          "split": "इन्द्रः + अभूत्",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: अः + अ = ओऽ"
+        },
+        {
+          "joined": "अभून्महिषासुरः",
+          "split": "अभूत् + महिषासुरः",
+          "sandhi_name": "పరసవర్ణ/अनुनासिक संधि: final त् before म् becomes न्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "जित्वा",
+          "lemma": "जि",
+          "grammar": "ल्यबन्तम्/क्त्वान्त अव्ययम्",
+          "meaning": "having conquered"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "सकलान्",
+          "lemma": "सकल",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "all"
+        },
+        {
+          "word": "देवान्",
+          "lemma": "देव",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "the gods"
+        },
+        {
+          "word": "महिषासुरः",
+          "lemma": "महिषासुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Mahishasura"
+        },
+        {
+          "word": "इन्द्रः",
+          "lemma": "इन्द्र",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Indra, ruler of heaven"
+        },
+        {
+          "word": "अभूत्",
+          "lemma": "भू",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "became"
+        }
+      ],
+      "devotional_meaning_english": "Having conquered all the gods, Mahishasura became Indra, the lord of heaven.",
+      "devotional_meaning_telugu": "సకల దేవతలను జయించి మహిషాసురుడు ఇంద్రుని స్థానాన్ని పొందెను."
+    }
+  ]
+}

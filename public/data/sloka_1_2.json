@@ -1,0 +1,92 @@
+{
+  "id": "durga_saptashati_1_2",
+  "source": "Durga Saptashati",
+  "chapter": 1,
+  "sloka_number": 2,
+  "sloka_original": "సావర్ణిః సూర్యతనయో యో మనుః కథ్యతేష్టమః| నిశామయ తదుత్పత్తిం విస్తరాద్ గదతోమమ || 2 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సావర్ణిః",
+      "meaning": "సావర్ణి (అను పేరు గలవాడు)",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సూర్యతనయః",
+      "meaning": "సూర్యుని కుమారుడు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యః",
+      "meaning": "ఎవడైతే",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, సర్వనామం"
+    },
+    {
+      "word": "మనుః",
+      "meaning": "మనువుగా",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కథ్యతే",
+      "meaning": "పిలవబడుచున్నాడో",
+      "grammar": "క్రియ, కర్మణి (Passive), వర్తమాన కాలం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "అష్టమః",
+      "meaning": "ఎనిమిదవ వాడు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నిశామయ",
+      "meaning": "వినుము",
+      "grammar": "క్రియ, ఆజ్ఞార్ధకం (Imperative), మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "తదుత్పత్తిమ్",
+      "meaning": "అతని పుట్టుకను గురించి",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "విస్తరాత్",
+      "meaning": "వివరముగా",
+      "grammar": "పంచమీ విభక్తి / అవ్యయం (Adverb)"
+    },
+    {
+      "word": "గదతః",
+      "meaning": "చెబుతున్న",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం (Present participle)"
+    },
+    {
+      "word": "మమ",
+      "meaning": "నా నుండి",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం, సర్వనామం"
+    }
+  ],
+  "anvaya": "యః సూర్యతనయః సావర్ణిః అష్టమః మనుః కథ్యతే, తదుత్పత్తిం విస్తరాత్ గదతః మమ (సకాశాత్) నిశామయ.",
+  "tatparyam": {
+    "english": "Listen to the detailed account of the origin of Savarni, the son of Surya, who is known as the eighth Manu, as I narrate it to you.",
+    "telugu": "సూర్యుని కుమారుడైన సావర్ణి ఎనిమిదవ మనువుగా పిలవబడుచున్నాడు. అతని పుట్టుక (చరిత్ర) గురించి నేను వివరంగా చెబుతున్నాను, వినుము."
+  },
+  "samasas": [
+    {
+      "compound": "సూర్యతనయః",
+      "type": "షష్ఠీ తత్పురుష సమాసం (Shashthi Tatpurusha)"
+    },
+    {
+      "compound": "తదుత్పత్తిమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "కథ్యతేష్టమః",
+      "split_words": "కథ్యతే + అష్టమః",
+      "sandhi_rule": "పూర్వరూప సంధి (Purvarupa Sandhi)"
+    },
+    {
+      "joined_word": "విస్తరాద్గదతః",
+      "split_words": "విస్తరాత్ + గదతః",
+      "sandhi_rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

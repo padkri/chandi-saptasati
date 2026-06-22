@@ -1,0 +1,24 @@
+{
+  "id": "durga_saptasloki_3",
+  "source": "Durga Saptasloki",
+  "chapter": 1,
+  "sloka_number": 1,
+  "sloka_original": "సర్వమంగళ మాంగల్యే శివే సర్వార్థసాధికే। శరణ్యే త్ర్యంబకే గౌరి నారాయణి నమోస్తుతే ||",
+  "pada_vibhaga": [
+    {"word": "సర్వ-మంగళ-మాంగళ్యే", "meaning": "Auspicious among all auspicious", "grammar": "बहुव्रीहि (vocative)"},
+    {"word": "శివే", "meaning": "auspicious one", "grammar": "vocative"}
+  ],
+  "anvaya": "హే సర్వమంగళమాంగళ్యే! శివే! సర్వార్థసాధికే! శరణ్యే! త్ర్యంబకే! గౌరీ! నారాయణి! తే నమః అస్తు।",
+  "tatparyam": {
+    "english": "O most auspicious among the auspicious! O benevolent one!...",
+    "telugu": "సమస్త మంగళాలలో మంగళమైనవాడా! శుభదాయకురాలా!..."
+  },
+  "samasas": [
+    {"compound": "సర్వమంగళమాంగళ్యే", "type": "बहुव्रीहि"},
+    {"compound": "సర్వార్థసాధికే", "type": "तत्पुरुष"}
+  ],
+  "sandhis": [
+    {"word": "నమోస్తు", "split": "నమః + అస్తు", "rule": "విసర్గ సంధి"}
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు"
+}

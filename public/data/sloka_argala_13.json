@@ -1,0 +1,58 @@
+{
+  "id": "durga_saptashati_argala_13",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 13,
+  "sloka_original": "విధేహి ద్విషతాం నాశం విధేహి బలముచ్చకైః। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 13 ||",
+  "pada_vibhaga": [
+    {
+      "word": "విధేహి",
+      "meaning": "చేయుము",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "ద్విషతామ్",
+      "meaning": "శత్రువుల యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "నాశమ్",
+      "meaning": "నాశనమును",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "విధేహి",
+      "meaning": "ప్రసాదించుము",
+      "grammar": "క్రియ"
+    },
+    {
+      "word": "బలమ్",
+      "meaning": "బలమును",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఉచ్చకైః",
+      "meaning": "అత్యధికమైన (గొప్పదైన)",
+      "grammar": "అవ్యయం / విశేషణం"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "ద్విషతాం నాశం విధేహి. ఉచ్చకైః బలం విధేహి. (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "Bring about the destruction of my enemies, and bestow immense strength upon me. Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "శత్రువుల నాశనాన్ని గావించు. నాకు అత్యంత గొప్పదైన బలాన్ని ప్రసాదించు. రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "బలముచ్చకైః",
+      "split_words": "బలమ్ + ఉచ్చకైః",
+      "sandhi_rule": "అజంత సంధి (Consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

@@ -1,0 +1,112 @@
+{
+  "chapter": "2",
+  "sloka_number": "60",
+  "source_citation": "",
+  "original_text_telugu": "శ్యేనానుకారిణః ప్రాణాన్ మముచుస్త్రిదశార్దనాః। కేషాంచిద్ బాహవశ్చిన్నాశ్ఛిన్నగ్రీవాస్తథాపరే ॥ 60 ॥",
+  "normalized_sanskrit": "श्येनानुकारिणः प्राणान् मुमुचुस्त्रिदशार्दनाः । केषांचिद् बाहवश्छिन्नाश्छिन्नग्रीवास्तथापरे ॥ ६० ॥",
+  "iast": "śyenānukāriṇaḥ prāṇān mumucus tridaśārdanāḥ | keṣāṃcid bāhavaś chinnāś chinnagrīvās tathāpare",
+  "sentence_split": [
+    {
+      "sentence_id": "2.60.1",
+      "text": "श्येनानुकारिणः प्राणान् मुमुचुस्त्रिदशार्दनाः",
+      "anvaya": "श्येनानुकारिणः त्रिदशार्दनाः प्राणान् मुमुचुः।",
+      "sandhi": [
+        {
+          "joined": "मुमुचुस्त्रिदशार्दनाः",
+          "split": "मुमुचुः + त्रिदशार्दनाः",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "श्येनानुकारिणः",
+          "lemma": "श्येनानुकारिन्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "moving like hawks, hawk-like"
+        },
+        {
+          "word": "त्रिदशार्दनाः",
+          "lemma": "त्रिदशार्दन",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "tormentors of the gods"
+        },
+        {
+          "word": "प्राणान्",
+          "lemma": "प्राण",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "lives, vital breaths"
+        },
+        {
+          "word": "मुमुचुः",
+          "lemma": "मुच्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "gave up, released"
+        }
+      ],
+      "devotional_meaning_english": "The tormentors of the gods, swift like hawks, gave up their lives.",
+      "devotional_meaning_telugu": "గద్దలవలె వేగముగల దేవతాపీడకులు తమ ప్రాణములను విడిచిరి."
+    },
+    {
+      "sentence_id": "2.60.2",
+      "text": "केषांचिद् बाहवश्छिन्नाश्छिन्नग्रीवास्तथापरे",
+      "anvaya": "केषांचित् बाहवः छिन्नाः। तथा अपरे छिन्नग्रीवाः।",
+      "sandhi": [
+        {
+          "joined": "बाहवश्छिन्नाः",
+          "split": "बाहवः + छिन्नाः",
+          "sandhi_name": "విసర్గ సంధి: ः before छ् becomes श्"
+        },
+        {
+          "joined": "छिन्नाश्छिन्नग्रीवाः",
+          "split": "छिन्नाः + छिन्नग्रीवाः",
+          "sandhi_name": "విసర్గ సంధి: आः before छ् becomes आश्"
+        },
+        {
+          "joined": "तथापरे",
+          "split": "तथा + अपरे",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "केषांचित्",
+          "lemma": "कश्चित्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of some"
+        },
+        {
+          "word": "बाहवः",
+          "lemma": "बाहु",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "arms"
+        },
+        {
+          "word": "छिन्नाः",
+          "lemma": "छिन्न",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "cut off"
+        },
+        {
+          "word": "अपरे",
+          "lemma": "अपर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "others"
+        },
+        {
+          "word": "छिन्नग्रीवाः",
+          "lemma": "छिन्नग्रीव",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "with necks severed"
+        },
+        {
+          "word": "तथा",
+          "lemma": "तथा",
+          "grammar": "अव्ययम्",
+          "meaning": "likewise"
+        }
+      ],
+      "devotional_meaning_english": "The arms of some were cut off; others had their necks severed.",
+      "devotional_meaning_telugu": "కొందరి బాహువులు తెగిపడెను; మరికొందరి మెడలు తెగిపోయెను."
+    }
+  ]
+}

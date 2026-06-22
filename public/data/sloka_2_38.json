@@ -1,0 +1,77 @@
+{
+  "chapter": "2",
+  "sloka_number": "38",
+  "source_citation": "",
+  "original_text_telugu": "పాదాక్రాంత్యా నతభువం కిరీటోల్లిఖితాంబరామ్। క్షోభితాశేషపాతాలాం ధనుర్జ్యానిఃస్వనేన తామ్ ॥ 38 ॥",
+  "normalized_sanskrit": "पादाक्रान्त्या नतभुवं किरीटोल्लिखिताम्बराम् । क्षोभिताशेषपातालां धनुर्ज्यानिःस्वनेन ताम् ॥ ३८ ॥",
+  "iast": "pādākrāntyā natabhuvaṃ kirīṭollikhitāmbarām | kṣobhitāśeṣapātālāṃ dhanurjyāniḥsvanena tām",
+  "sentence_split": [
+    {
+      "sentence_id": "2.38.1",
+      "text": "पादाक्रान्त्या नतभुवं किरीटोल्लिखिताम्बरां क्षोभिताशेषपातालां धनुर्ज्यानिःस्वनेन ताम्",
+      "anvaya": "तां पादाक्रान्त्या नतभुवं, किरीटोल्लिखिताम्बरां, धनुर्ज्यानिःस्वनेन क्षोभिताशेषपातालां ददर्श।",
+      "sandhi": [
+        {
+          "joined": "पादाक्रान्त्या",
+          "split": "पाद + आक्रान्त्या",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి / Savarṇa-dīrgha Sandhi: अ + आ = आ"
+        },
+        {
+          "joined": "किरीटोल्लिखित",
+          "split": "किरीट + उल्लिखित",
+          "sandhi_name": "గుణ సంధి / Guṇa Sandhi: अ + उ = ओ"
+        },
+        {
+          "joined": "क्षोभिताशेष",
+          "split": "क्षोभित + अशेष",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "धनुर्ज्या",
+          "split": "धनुः + ज्या",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before ज् becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ताम्",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "Her"
+        },
+        {
+          "word": "पादाक्रान्त्या",
+          "lemma": "पादाक्रान्ति",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by the pressure/stride of Her foot"
+        },
+        {
+          "word": "नतभुवम्",
+          "lemma": "नतभू",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; देवी-विशेषणम्",
+          "meaning": "making the earth bend down"
+        },
+        {
+          "word": "किरीटोल्लिखिताम्बराम्",
+          "lemma": "किरीटोल्लिखिताम्बरा",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "scraping the sky with Her crown"
+        },
+        {
+          "word": "धनुर्ज्यानिःस्वनेन",
+          "lemma": "धनुर्ज्यानिःस्वन",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by the twang of Her bowstring"
+        },
+        {
+          "word": "क्षोभिताशेषपातालाम्",
+          "lemma": "क्षोभिताशेषपाताला",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "shaking all the nether regions"
+        }
+      ],
+      "devotional_meaning_english": "He saw Her making the earth bend under Her step, scraping the sky with Her crown, and shaking all the nether worlds by the twang of Her bowstring.",
+      "devotional_meaning_telugu": "ఆమె పాదాక్రాంతితో భూమిని వంగజేయుచు, కిరీటముతో ఆకాశమును తాకుచు, ధనుర్జ్యా నాదముతో పాతాళములన్నిటిని కంపింపజేయుచున్నదిగా అతడు చూచెను."
+    }
+  ]
+}

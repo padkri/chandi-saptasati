@@ -1,0 +1,102 @@
+{
+  "chapter": "2",
+  "sloka_number": "30",
+  "source_citation": "",
+  "original_text_telugu": "దదావశూన్యం సురయా పానపాత్రం ధనాధిపః। శేషశ్చ సర్వనాగేశో మహామణివిభూషితమ్ ॥ 30 ॥",
+  "normalized_sanskrit": "ददावशून्यं सुरया पानपात्रं धनाधिपः । शेषश्च सर्वनागेशो महामणिविभूषितम् ॥ ३० ॥",
+  "iast": "dadāv aśūnyaṃ surayā pānapātraṃ dhanādhipaḥ | śeṣaś ca sarvanāgeśo mahāmaṇivibhūṣitam",
+  "sentence_split": [
+    {
+      "sentence_id": "2.30.1",
+      "text": "ददावशून्यं सुरया पानपात्रं धनाधिपः",
+      "anvaya": "धनाधिपः सुरया अशून्यं पानपात्रं ददौ।",
+      "sandhi": [
+        {
+          "joined": "ददावशून्यम्",
+          "split": "ददौ + अशून्यम्",
+          "sandhi_name": "अव् आदेश संधि: औ before vowel becomes आव्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "धनाधिपः",
+          "lemma": "धनाधिप",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "lord of wealth, Kubera"
+        },
+        {
+          "word": "सुरया",
+          "lemma": "सुरा",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with divine wine"
+        },
+        {
+          "word": "अशून्यम्",
+          "lemma": "अशून्य",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकవचनम्",
+          "meaning": "not empty, full"
+        },
+        {
+          "word": "पानपात्रम्",
+          "lemma": "पानपात्र",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "drinking vessel"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Kubera, lord of wealth, gave Her a drinking vessel filled with divine wine.",
+      "devotional_meaning_telugu": "ధనాధిపుడైన కుబేరుడు సురాతో నిండిన పానపాత్రమును ఆమెకు ఇచ్చెను."
+    },
+    {
+      "sentence_id": "2.30.2",
+      "text": "शेषश्च सर्वनागेशो महामणिविभूषितम्",
+      "anvaya": "सर्वनागेशः शेषः च महामणिविभूषितं नागहारं ददौ।",
+      "sandhi": [
+        {
+          "joined": "शेषश्च",
+          "split": "शेषः + च",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "शेषः",
+          "lemma": "शेष",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Śeṣa"
+        },
+        {
+          "word": "सर्वनागेशः",
+          "lemma": "सर्वनागेश",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "lord of all serpents"
+        },
+        {
+          "word": "महामणिविभूषितम्",
+          "lemma": "महामणिविभूषित",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; नागहारम्-विशेषणम्",
+          "meaning": "adorned with great gems"
+        },
+        {
+          "word": "नागहारम्",
+          "lemma": "नागहार",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; supplied from next sloka",
+          "meaning": "serpent-necklace"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; continued into sloka 31",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Śeṣa, lord of all serpents, gave Her a serpent-necklace adorned with great jewels.",
+      "devotional_meaning_telugu": "సర్వనాగేశ్వరుడైన శేషుడు మహామణులతో అలంకరించబడిన నాగహారమును ఆమెకు ఇచ్చెను."
+    }
+  ]
+}

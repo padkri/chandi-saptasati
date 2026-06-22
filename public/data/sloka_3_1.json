@@ -1,0 +1,39 @@
+{
+  "id": "durga_saptashati_chapter_3_sloka_1",
+  "source": "Durga Saptashati - Chapter 3",
+  "chapter": 3,
+  "sloka_number": 1,
+  "source_citation": "",
+  "sloka_original": "**\"ఓం\" ఋషిరువాచ || 1 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "పరబ్రహ్మ స్వరూపమైన మంగళప్రణవం",
+      "grammar": "ప్రణవం, అవ్యయం"
+    },
+    {
+      "word": "ఋషిః",
+      "meaning": "ఋషి, ముని",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "అన్నాడు, పలికెను",
+      "grammar": "లిట్ లకారం, ప్రథమ పురుష ఏకవచనం, √వచ్ ధాతువు"
+    }
+  ],
+  "anvaya": "ఓం ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "The sage said.",
+    "telugu": "ఋషి దేవీ మహాత్మ్యంలోని మహిషాసుర వధ కథను కొనసాగిస్తూ ఇలా పలికెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — అకారాంత పుంలింగ పదాంత విసర్గం తరువాత స్వరం వచ్చి ‘ర్’ ఆదేశం"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ కాదు; ఇది వక్తృనిర్దేశ వాక్యం."
+}

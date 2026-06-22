@@ -1,0 +1,69 @@
+{
+  "id": "5.19",
+  "sloka_text": "या देवी सर्वभूतेषु चेतनेत्यभिधीयते। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥ 17-19 ॥",
+  "anvaya": "या देवी सर्वभूतेषु चेतना इति अभिधीयते, तस्यै नमः, तस्यै नमः, तस्यै नमः नमः।",
+  "word_by_word": [
+    {
+      "word": "या",
+      "lemma": "यद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "who"
+    },
+    {
+      "word": "देवी",
+      "lemma": "देवी",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the Goddess"
+    },
+    {
+      "word": "सर्वभूतेषु",
+      "lemma": "सर्व-भूत",
+      "case_vibhakti": "सप्तमी विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "in all beings"
+    },
+    {
+      "word": "चेतना",
+      "lemma": "चेतना",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "consciousness"
+    },
+    {
+      "word": "इति",
+      "pos": "अव्ययम्",
+      "meaning": "thus"
+    },
+    {
+      "word": "अभिधीयते",
+      "lemma": "अभि-धा",
+      "pos": "क्रियापदम्",
+      "lakara": "लट्",
+      "prayoga": "कर्मणि प्रयोगः",
+      "purusha": "प्रथमपुरुषः",
+      "number": "एकवचनम्",
+      "meaning": "is called, is designated"
+    },
+    {
+      "word": "नमः तस्यै",
+      "meaning": "salutation to her"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "चेतनेत्यभिधीयते",
+      "split": "चेतना + इति + अभिधीयते",
+      "sandhi_name": "गुण-सन्धिः and यण्-सन्धिः",
+      "rule_description": "चेतना + इति → चेतनेति; इति + अभिधीयते → इत्यभिधीयते."
+    },
+    {
+      "form": "नमस्तस्यै",
+      "split": "नमः + तस्यै",
+      "sandhi_name": "विसर्ग-सन्धिः"
+    }
+  ],
+  "overall_meaning": "Repeated salutations to that Goddess who exists in all beings as consciousness."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "durga_saptashati_argala_22",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 22,
+  "sloka_original": "దేవి ప్రచండదోర్దండ దైత్యదర్పవినాశిని। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 22 ||",
+  "pada_vibhaga": [
+    {
+      "word": "దేవి",
+      "meaning": "ఓ దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "ప్రచండదోర్దండదైత్యదర్పవినాశిని",
+      "meaning": "భయంకరమైన భుజబలం గల రాక్షసుల గర్వాన్ని నాశనం చేసినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే దేవి! ప్రచండదోర్దండదైత్యదర్పవినాశిని! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Goddess, destroyer of the pride of demons who have fiercely powerful arms! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "అతి భయంకరమైన భుజబలం కలిగిన క్రూర రాక్షసుల గర్వాన్ని అణచివేసిన ఓ దేవీ! నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "ప్రచండదోర్దండదైత్యదర్పవినాశిని",
+      "type": "షష్ఠీ తత్పురుష / ఉపపద తత్పురుష (Shashthi/Upapada Tatpurusha)"
+    }
+  ],
+  "sandhis": [],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

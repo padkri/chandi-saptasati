@@ -1,0 +1,92 @@
+{
+  "id": "durga_saptasloki_5",
+  "source": "Durga Saptashati - Saptasloki",
+  "chapter": 0,
+  "sloka_number": 5,
+  "sloka_original": "సర్వస్వరూపే సర్వేశే సర్వశక్తిసమన్వితే। భయేభ్యస్త్రాహి నో దేవి! దుర్గే దేవి నమోzస్తుతే || 5 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సర్వస్వరూపే",
+      "meaning": "O You whose form is everything",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "సర్వేశే",
+      "meaning": "O Lord of all",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "సర్వశక్తిసమన్వితే",
+      "meaning": "O You who are endowed with all powers",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "భయేభ్యః",
+      "meaning": "From fears",
+      "grammar": "Ablative, plural, neuter"
+    },
+    {
+      "word": "త్రాహి",
+      "meaning": "Protect",
+      "grammar": "Imperative, 2nd person, singular, Parasmaipada"
+    },
+    {
+      "word": "నః",
+      "meaning": "Us",
+      "grammar": "Accusative, plural, pronoun"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "O Goddess",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "దుర్గే",
+      "meaning": "O Durga",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "నమః",
+      "meaning": "Salutations",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "అస్తు",
+      "meaning": "Let there be",
+      "grammar": "Imperative, 3rd person, singular"
+    },
+    {
+      "word": "తే",
+      "meaning": "To you",
+      "grammar": "Dative, singular, pronoun"
+    }
+  ],
+  "anvaya": "హే సర్వస్వరూపే సర్వేశే సర్వశక్తిసమన్వితే దేవి! నః భయేభ్యః త్రాహి. దుర్గే దేవి! తే నమః అస్తు.",
+  "tatparyam": {
+    "english": "O Goddess who exists in all forms, who is the ruler of all, and who possesses all power! Protect us from all fears. O Goddess Durga! Salutations to You.",
+    "telugu": "అంతటా వ్యాపించి ఉన్నదానా! అందరికీ ఈశ్వరివైన దానా! సర్వ శక్తులతో కూడుకున్న దానా! దేవీ! మమ్మల్ని సర్వ భయాల నుండి రక్షించు. దుర్గా దేవీ! నీకు నమస్కారములు."
+  },
+  "samasas": [
+    {
+      "compound": "సర్వస్వరూపే",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    },
+    {
+      "compound": "సర్వశక్తిసమన్వితే",
+      "type": "తృతీయా తత్పురుష (Tritiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "భయేభ్యస్త్రాహి",
+      "split_words": "భయేభ్యః + త్రాహి",
+      "sandhi_rule": "విసర్గ సకారాదేశ సంధి (Visarga Sakaradesha Sandhi)"
+    },
+    {
+      "joined_word": "నమోస్తు",
+      "split_words": "నమః + అస్తు",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

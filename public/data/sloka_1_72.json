@@ -1,0 +1,33 @@
+{
+  "id": "durga_saptashati_1_72",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 72,
+  "sloka_original": "బ్రహ్మోవాచ || 72 ||",
+  "pada_vibhaga": [
+    {
+      "word": "బ్రహ్మా",
+      "meaning": "బ్రహ్మదేవుడు",
+      "grammar": "బ్రహ్మన్ శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "పలికాడు",
+      "grammar": "వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "బ్రహ్మా ఉవాచ.",
+  "tatparyam": {
+    "english": "Brahmā said.",
+    "telugu": "బ్రహ్మదేవుడు పలికాడు."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "బ్రహ్మోవాచ",
+      "split_words": "బ్రహ్మా + ఉవాచ",
+      "sandhi_rule": "గుణ సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: సంభాషణ సూచక వాక్యం."
+}

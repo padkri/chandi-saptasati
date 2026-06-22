@@ -1,0 +1,106 @@
+{
+  "chapter": "2",
+  "sloka_number": "66",
+  "source_citation": "",
+  "original_text_telugu": "శోణితౌఘా మహానద్యః సద్యస్తత్ర ప్రసుస్రువుః। మధ్యే చాసురసైన్యస్య వారణాసురవాజినామ్ ॥ 66 ॥",
+  "normalized_sanskrit": "शोणितौघा महानद्यः सद्यस्तत्र प्रसुस्रुवुः । मध्ये चासुरसैन्यस्य वारणासुरवाजिनाम् ॥ ६६ ॥",
+  "iast": "śoṇitaughā mahānadyaḥ sadyas tatra prasusruvuḥ | madhye cāsurasainyasya vāraṇāsuravājinām",
+  "sentence_split": [
+    {
+      "sentence_id": "2.66.1",
+      "text": "शोणितौघा महानद्यः सद्यस्तत्र प्रसुस्रुवुः",
+      "anvaya": "तत्र सद्यः शोणितौघाः महानद्यः प्रसुस्रुवुः।",
+      "sandhi": [
+        {
+          "joined": "शोणितौघाः",
+          "split": "शोणित + ओघाः",
+          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: अ + ओ = औ"
+        },
+        {
+          "joined": "सद्यस्तत्र",
+          "split": "सद्यः + तत्र",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "सद्यः",
+          "lemma": "सद्यस्",
+          "grammar": "अव्ययम्",
+          "meaning": "immediately"
+        },
+        {
+          "word": "शोणितौघाः",
+          "lemma": "शोणितौघ",
+          "grammar": "स्त्रीलिङ्ग-विशेषणम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "having streams of blood"
+        },
+        {
+          "word": "महानद्यः",
+          "lemma": "महानदी",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "great rivers"
+        },
+        {
+          "word": "प्रसुस्रुवुः",
+          "lemma": "प्र-स्रु",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "flowed forth"
+        }
+      ],
+      "devotional_meaning_english": "There, great rivers of blood immediately began to flow.",
+      "devotional_meaning_telugu": "అక్కడ వెంటనే రక్తప్రవాహములతో మహానదులు పారెను."
+    },
+    {
+      "sentence_id": "2.66.2",
+      "text": "मध्ये चासुरसैन्यस्य वारणासुरवाजिनाम्",
+      "anvaya": "असुरसैन्यस्य वारणासुरवाजिनां मध्ये च।",
+      "sandhi": [
+        {
+          "joined": "चासुरसैन्यस्य",
+          "split": "च + असुरसैन्यस्य",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "वारणासुर",
+          "split": "वारण + असुर",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "मध्ये",
+          "lemma": "मध्य",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in the midst"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "असुरसैन्यस्य",
+          "lemma": "असुरसैन्य",
+          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
+          "meaning": "of the asura army"
+        },
+        {
+          "word": "वारणासुरवाजिनाम्",
+          "lemma": "वारण-असुर-वाजिन्",
+          "grammar": "द्वन्द्वसमासः, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of elephants, asuras, and horses"
+        }
+      ],
+      "devotional_meaning_english": "They flowed amid the asura army, among elephants, asuras, and horses.",
+      "devotional_meaning_telugu": "ఆ రక్తనదులు అసురసైన్యమధ్యలో, ఏనుగులు, అసురులు, గుర్రాల మధ్య ప్రవహించెను."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "durga_saptashati_11_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 11,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం బాలరవిద్యుతిమిందుకిరీటాం తుఙ్గకుచాం నయనత్రయయుక్తామ్। స్మేరముఖీం వరదాఙ్కుశపాశాభీతికరాం ప్రభజే భువనేశీమ్ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "బాలరవిద్యుతిమ్",
+      "meaning": "Having the brilliance of the rising sun",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "ఇందుకిరీటామ్",
+      "meaning": "Having the moon as a crown",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "తుఙ్గకుచామ్",
+      "meaning": "Having high/prominent breasts",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "నయనత్రయయుక్తామ్",
+      "meaning": "Endowed with three eyes",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "స్మేరముఖీమ్",
+      "meaning": "Having a smiling face",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "వరదాఙ్కుశపాశాభీతికరామ్",
+      "meaning": "Whose hands show the boon-giving gesture, goad, noose, and the fear-dispelling gesture",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "ప్రభజే",
+      "meaning": "I deeply worship",
+      "grammar": "Present tense, 1st person, singular, Atmanepada"
+    },
+    {
+      "word": "భువనేశీమ్",
+      "meaning": "Goddess Bhuvaneshwari (Queen of the universe)",
+      "grammar": "Accusative, singular, feminine"
+    }
+  ],
+  "anvaya": "బాలరవిద్యుతిమ్ ఇందుకిరీటాం తుఙ్గకుచాం నయనత్రయయుక్తామ్ స్మేరముఖీం వరదాఙ్కుశపాశాభీతికరాం భువనేశీం అహం ప్రభజే.",
+  "tatparyam": {
+    "english": "I devoutly worship Goddess Bhuvaneshwari, who shines with the brilliance of the morning sun. She wears the moon as a crown, has full breasts, and is endowed with three eyes. She bears a sweet smile, and Her four hands display the boon-giving gesture, a goad, a noose, and the gesture that dispels fear.",
+    "telugu": "ఉదయించే సూర్యుని వంటి కాంతి కలది, చంద్రుని కిరీటంగా ధరించినది, ఉన్నతమైన వక్షోజాలు కలది, మూడు కన్నులతో ప్రకాశించేది, చిరునవ్వు చిందించు ముఖము గలది, తన నాలుగు చేతులలో వరముద్ర, అంకుశము, పాశము మరియు అభయముద్రను ధరించిన లోకమాతయైన భువనేశ్వరీ దేవిని నేను సేవిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "బాలరవిద్యుతిమ్",
+      "type": "షష్ఠీ తత్పురుష / ఉపమిత కర్మధారయ (Shashthi Tatpurusha / Upamita Karmadharaya)"
+    },
+    {
+      "compound": "వరదాఙ్కుశపాశాభీతికరామ్",
+      "type": "ద్వంద్వ గర్భిత బహువ్రీహి (Dvandva Garbhita Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ద్యుతిమిందు",
+      "split_words": "ద్యుతిమ్ + ఇందు",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    },
+    {
+      "joined_word": "పాశాభీతి",
+      "split_words": "పాశ + అభీతి",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: మాలినీ (Mālinī variant). Alamkaram: స్వభావోక్తి / ఉపమా (Svabhāvokti / Upamā)."
+}

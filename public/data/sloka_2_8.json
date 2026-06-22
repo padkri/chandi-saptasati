@@ -1,0 +1,119 @@
+{
+  "chapter": "2",
+  "sloka_number": "8",
+  "source_citation": "",
+  "original_text_telugu": "ఏతద్వః కథితం సర్వమమరారి విచేష్టితమ్ । శరణం వః ప్రపన్నాః స్మో వధస్తన్య విచింత్యతామ్ ॥ 8 ॥",
+  "normalized_sanskrit": "एतद्वः कथितं सर्वममरारिविचेष्टितम् । शरणं वः प्रपन्नाः स्मो वधस्तस्य विचिन्त्यताम् ॥ ८ ॥",
+  "iast": "etad vaḥ kathitaṃ sarvam amarāri-viceṣṭitam | śaraṇaṃ vaḥ prapannāḥ smo vadhas tasya vicintyatām",
+  "sentence_split": [
+    {
+      "sentence_id": "2.8.1",
+      "text": "एतद्वः कथितं सर्वममरारिविचेष्टितम्",
+      "anvaya": "अमरारिविचेष्टितम् एतत् सर्वं वः कथितम्।",
+      "sandhi": [
+        {
+          "joined": "एतद्वः",
+          "split": "एतत् + वः",
+          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before व्"
+        },
+        {
+          "joined": "सर्वममरारि",
+          "split": "सर्वम् + अमरारि",
+          "sandhi_name": "म् before vowel retained as म् in continuous recitation"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "एतत्",
+          "lemma": "एतद्",
+          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "this"
+        },
+        {
+          "word": "सर्वम्",
+          "lemma": "सर्व",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "all"
+        },
+        {
+          "word": "अमरारिविचेष्टितम्",
+          "lemma": "अमरारिविचेष्टित",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the conduct of the enemy of the immortals"
+        },
+        {
+          "word": "वः",
+          "lemma": "युष्मद्",
+          "grammar": "सर्वनाम, चतुर्थी/षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "to you"
+        },
+        {
+          "word": "कथितम्",
+          "lemma": "कथित",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्, क्त-प्रत्ययान्तम्",
+          "meaning": "has been told"
+        }
+      ],
+      "devotional_meaning_english": "All this conduct of the enemy of the gods has been told to you.",
+      "devotional_meaning_telugu": "దేవతల శత్రువైన మహిషాసురుని దుష్చేష్టలన్నియు మీకు చెప్పబడినవి."
+    },
+    {
+      "sentence_id": "2.8.2",
+      "text": "शरणं वः प्रपन्नाः स्मो वधस्तस्य विचिन्त्यताम्",
+      "anvaya": "वः शरणं प्रपन्नाः स्मः। तस्य वधः विचिन्त्यताम्।",
+      "sandhi": [
+        {
+          "joined": "स्मो वधः",
+          "split": "स्मः + वधः",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: स्मः before व् becomes स्मो"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "वः",
+          "lemma": "युष्मद्",
+          "grammar": "सर्वनाम, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "your"
+        },
+        {
+          "word": "शरणम्",
+          "lemma": "शरण",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "refuge"
+        },
+        {
+          "word": "प्रपन्नाः",
+          "lemma": "प्रपन्न",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "having taken refuge"
+        },
+        {
+          "word": "स्मः",
+          "lemma": "अस्",
+          "grammar": "लट् लकारः, उत्तमपुरुषः, बहुवचनम्",
+          "meaning": "we are"
+        },
+        {
+          "word": "तस्य",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
+          "meaning": "his"
+        },
+        {
+          "word": "वधः",
+          "lemma": "वध",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "destruction, slaying"
+        },
+        {
+          "word": "विचिन्त्यताम्",
+          "lemma": "वि-चिन्त्",
+          "grammar": "लोट् लकारः, प्रथमपुरुषः, एकवचनम्, कर्मणि प्रयोगः",
+          "meaning": "let it be considered"
+        }
+      ],
+      "devotional_meaning_english": "We have taken refuge in you. Let the means for his destruction be considered.",
+      "devotional_meaning_telugu": "మేము మీ శరణు పొందితిమి. అతని వధకు మార్గం ఆలోచింపబడుగాక."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "durga_saptasloki_7",
+  "source": "Durga Saptashati - Saptasloki",
+  "chapter": 0,
+  "sloka_number": 7,
+  "sloka_original": "సర్వాబాధాప్రశమనం త్రైలోక్యస్యాఖిలేశ్వరి। ఏవమేవ త్వయా కార్యం అస్మద్వైరివినాశనమ్ || 7 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సర్వాబాధాప్రశమనమ్",
+      "meaning": "Pacifying / destroying all afflictions",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "త్రైలోక్యస్య",
+      "meaning": "Of the three worlds",
+      "grammar": "Genitive, singular, neuter"
+    },
+    {
+      "word": "అఖిలేశ్వరి",
+      "meaning": "O Supreme Goddess of all",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "ఏవమ్",
+      "meaning": "In this manner",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "Indeed / Exactly",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "త్వయా",
+      "meaning": "By you",
+      "grammar": "Instrumental, singular, pronoun"
+    },
+    {
+      "word": "కార్యమ్",
+      "meaning": "Must be done",
+      "grammar": "Nominative, singular, neuter (Potential passive participle)"
+    },
+    {
+      "word": "అస్మద్వైరివినాశనమ్",
+      "meaning": "The destruction of our enemies",
+      "grammar": "Nominative, singular, neuter"
+    }
+  ],
+  "anvaya": "హే త్రైలోక్యస్య అఖిలేశ్వరి! ఏవమేవ త్వయా సర్వాబాధాప్రశమనమ్ అస్మద్వైరివినాశనమ్ (చ) కార్యమ్.",
+  "tatparyam": {
+    "english": "O Supreme Goddess of the three worlds! May You pacify all afflictions of the three worlds and in this exact manner, destroy our enemies.",
+    "telugu": "ముల్లోకాలకు అధీశ్వరీ! ఈ విధంగానే నువ్వు సమస్త బాధలను పోగొట్టి, మా శత్రువులను సైతం నాశనం చేయాలి."
+  },
+  "samasas": [
+    {
+      "compound": "సర్వాబాధాప్రశమనమ్",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    },
+    {
+      "compound": "అస్మద్వైరివినాశనమ్",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    },
+    {
+      "compound": "అఖిలేశ్వరి",
+      "type": "కర్మధారయ / షష్ఠీ తత్పురుష (Karmadharaya / Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "త్రైలోక్యస్యాఖిలేశ్వరి",
+      "split_words": "త్రైలోక్యస్య + అఖిలేశ్వరి",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    },
+    {
+      "joined_word": "ఏవమేవ",
+      "split_words": "ఏవమ్ + ఏవ",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

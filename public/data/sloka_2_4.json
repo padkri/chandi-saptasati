@@ -1,0 +1,97 @@
+{
+  "chapter": "2",
+  "sloka_number": "4",
+  "source_citation": "",
+  "original_text_telugu": "తతః పరాజితా దేవాః పద్మయోనిం ప్రజాపతిమ్। పురస్కృత్య గతాస్తత్ర యత్రేశగరుడధ్వజౌ ॥ 4 ॥",
+  "normalized_sanskrit": "ततः पराजिता देवाः पद्मयोनिं प्रजापतिम् । पुरस्कृत्य गतास्तत्र यत्रेशगरुडध्वजौ ॥ ४ ॥",
+  "iast": "tataḥ parājitā devāḥ padmayoniṃ prajāpatim | puraskṛtya gatās tatra yatreśa-garuḍadhvajau",
+  "sentence_split": [
+    {
+      "sentence_id": "2.4.1",
+      "text": "ततः पराजिता देवाः पद्मयोनिं प्रजापतिं पुरस्कृत्य गतास्तत्र यत्रेशगरुडध्वजौ",
+      "anvaya": "ततः पराजिताः देवाः पद्मयोनिं प्रजापतिं पुरस्कृत्य तत्र गताः यत्र ईश-गरुडध्वजौ।",
+      "sandhi": [
+        {
+          "joined": "गतास्तत्र",
+          "split": "गताः + तत्र",
+          "sandhi_name": "విసర్గ లోప/स् आदेशः: final आः before त् becomes आस्"
+        },
+        {
+          "joined": "यत्रेश",
+          "split": "यत्र + ईश",
+          "sandhi_name": "గుణ సంధి / Guṇa Sandhi: अ + ई = ए"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ततः",
+          "lemma": "ततः",
+          "grammar": "अव्ययम्",
+          "meaning": "then"
+        },
+        {
+          "word": "पराजिताः",
+          "lemma": "पराजित",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "defeated"
+        },
+        {
+          "word": "देवाः",
+          "lemma": "देव",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "the gods"
+        },
+        {
+          "word": "पद्मयोनिम्",
+          "lemma": "पद्मयोनि",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "Brahmā, lotus-born"
+        },
+        {
+          "word": "प्रजापतिम्",
+          "lemma": "प्रजापति",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "the lord of creatures"
+        },
+        {
+          "word": "पुरस्कृत्य",
+          "lemma": "पुरस्-कृ",
+          "grammar": "ल्यबन्त अव्ययम्",
+          "meaning": "placing in front, taking as leader"
+        },
+        {
+          "word": "गताः",
+          "lemma": "गत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्, क्त-प्रत्ययान्तम्",
+          "meaning": "went"
+        },
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "यत्र",
+          "lemma": "यत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "where"
+        },
+        {
+          "word": "ईश",
+          "lemma": "ईश",
+          "grammar": "पुंलिङ्गम्, प्रथमा द्विवचनार्थः in compound",
+          "meaning": "Śiva"
+        },
+        {
+          "word": "गरुडध्वजौ",
+          "lemma": "गरुडध्वज",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, द्विवचनम्; ईश-गरुडध्वजौ = Śiva and Viṣṇu",
+          "meaning": "Viṣṇu, whose banner bears Garuḍa"
+        }
+      ],
+      "devotional_meaning_english": "Then the defeated gods, taking lotus-born Prajāpati Brahmā before them, went to the place where Śiva and Viṣṇu were.",
+      "devotional_meaning_telugu": "తరువాత ఓడిపోయిన దేవతలు పద్మయోని ప్రజాపతియైన బ్రహ్మను ముందుంచుకొని, శివుడు మరియు గరుడధ్వజుడైన విష్ణువు ఉన్నచోటికి వెళ్లిరి."
+    }
+  ]
+}

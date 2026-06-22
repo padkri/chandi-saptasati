@@ -1,0 +1,92 @@
+{
+  "id": "durga_saptashati_8_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 8,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం అరుణాం కరుణాతరజితాక్షీం ధృతపాశాఙ్కుశబాణచాపహస్తామ్! అణిమాదిభిరావృతాం మయూఖై రహమిత్యేవ విభావయే భవానీమ్ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "అరుణామ్",
+      "meaning": "The crimson/red one",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "కరుణాతరఙ్గితాక్షీమ్",
+      "meaning": "Whose eyes are filled with waves of compassion",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "ధృతపాశాఙ్కుశబాణచాపహస్తామ్",
+      "meaning": "Holding a noose, a goad, arrows, and a bow in Her hands",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "అణిమాదిభిః",
+      "meaning": "By Anima and other mystical powers (Siddhis)",
+      "grammar": "Instrumental, plural, feminine"
+    },
+    {
+      "word": "ఆవృతామ్",
+      "meaning": "Surrounded",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "మయూఖైః",
+      "meaning": "By rays of light",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "అహమ్",
+      "meaning": "I",
+      "grammar": "Nominative, singular, pronoun"
+    },
+    {
+      "word": "ఇతి",
+      "meaning": "Thus",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "Indeed / As",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "విభావయే",
+      "meaning": "Meditate / Contemplate",
+      "grammar": "Present tense, 1st person, singular, Atmanepada"
+    },
+    {
+      "word": "భవానీమ్",
+      "meaning": "On Goddess Bhavani",
+      "grammar": "Accusative, singular, feminine"
+    }
+  ],
+  "anvaya": "అరుణాం కరుణాతరఙ్గితాక్షీం ధృతపాశాఙ్కుశబాణచాపహస్తామ్ అణిమాదిభిః మయూఖైః ఆవృతాం భవానీమ్ అహమ్ (స్వరూపమ్) ఇత్యేవ విభావయే.",
+  "tatparyam": {
+    "english": "I contemplate upon Goddess Bhavani as my own Self. She is crimson-hued, Her eyes ripple with waves of compassion, and She holds a noose, goad, bow, and arrows in Her hands. She is surrounded by the rays of the eight mystical perfections (Siddhis) like Anima.",
+    "telugu": "ఎర్రని కాంతితో, కరుణతో నిండిన తరంగాల వంటి కన్నులు గలది, చేతులలో పాశం, అంకుశం, ధనుస్సు, బాణాలను ధరించినది, మరియు అణిమ మొదలైన అష్టసిద్ధులనే కాంతి కిరణాలచే ఆవరించబడిన భవానీ దేవిని నేను నా అంతరాత్మగా భావిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "కరుణాతరఙ్గితాక్షీమ్",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    },
+    {
+      "compound": "ధృతపాశాఙ్కుశబాణచాపహస్తామ్",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "రహమిత్యేవ",
+      "split_words": "రహమ్ + ఇతి + ఏవ",
+      "sandhi_rule": "యణాదేశ సంధి (Yanadesha Sandhi in 'iti + eva')"
+    },
+    {
+      "joined_word": "మయూఖైరహమ్",
+      "split_words": "మయూఖైః + అహమ్",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: పుష్పితాగ్ర / మాలినీ (Puṣpitāgra / Mālinī variant). Alamkaram: రూపక (Rūpaka)."
+}

@@ -1,0 +1,121 @@
+{
+  "id": "durga_saptasloki_2",
+  "source": "Durga Saptashati - Saptasloki",
+  "chapter": 0,
+  "sloka_number": 2,
+  "sloka_original": "దుర్గే స్మృత్యా హరసి భీతి మశేషజంతోః స్వసైః స్మృతా మతిమతీవ శుభాం దదాసి। దారిద్ర్యదుఃఖభయహారిణి కా త్వదన్యా సర్వోపకారకరణాయ సదార్థ చిత్తా ॥ 2 ||",
+  "pada_vibhaga": [
+    {
+      "word": "దుర్గే",
+      "meaning": "O Goddess Durga",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "స్మృతా",
+      "meaning": "When remembered",
+      "grammar": "Nominative, singular, feminine (Past passive participle)"
+    },
+    {
+      "word": "హరసి",
+      "meaning": "You destroy / take away",
+      "grammar": "Present tense, 2nd person, singular, Parasmaipada"
+    },
+    {
+      "word": "భీతిమ్",
+      "meaning": "Fear",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "అశేషజంతోః",
+      "meaning": "Of all living beings",
+      "grammar": "Genitive, singular, masculine"
+    },
+    {
+      "word": "స్వస్థైః",
+      "meaning": "By the healthy / peaceful minded",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "స్మృతా",
+      "meaning": "When remembered",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "మతిమ్",
+      "meaning": "Mind / Intellect",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "అతీవ",
+      "meaning": "Exceedingly",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "శుభామ్",
+      "meaning": "Auspicious",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "దదాసి",
+      "meaning": "You give / bestow",
+      "grammar": "Present tense, 2nd person, singular, Parasmaipada"
+    },
+    {
+      "word": "దారిద్ర్యదుఃఖభయహారిణి",
+      "meaning": "O destroyer of poverty, sorrow, and fear",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "కా",
+      "meaning": "Who",
+      "grammar": "Nominative, singular, feminine pronoun"
+    },
+    {
+      "word": "త్వదన్యా",
+      "meaning": "Other than you",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "సర్వోపకారకరణాయ",
+      "meaning": "For doing good to all",
+      "grammar": "Dative, singular, neuter"
+    },
+    {
+      "word": "సదార్ద్రచిత్తా",
+      "meaning": "Always compassionate-hearted",
+      "grammar": "Nominative, singular, feminine"
+    }
+  ],
+  "anvaya": "హే దుర్గే! స్మృతా (సతీ) అశేషజంతోః భీతిమ్ హరసి, స్వస్థైః స్మృతా (సతీ) అతీవ శుభాం మతిమ్ దదాసి. హే దారిద్ర్యదుఃఖభయహారిణి! సర్వోపకారకరణాయ త్వదన్యా సదార్ద్రచిత్తా కా (అస్తి)?",
+  "tatparyam": {
+    "english": "O Durga! When remembered in distress, You destroy the fear of all creatures. When remembered by those in peace, You bestow an extremely auspicious intellect. O destroyer of poverty, sorrow, and fear! Who else but You is always so compassionate to do good to everyone?",
+    "telugu": "ఓ దుర్గాదేవీ! ఆపదలలో నిన్ను స్మరిస్తే ప్రాణులందరి భయాన్ని తొలగిస్తావు. ప్రశాంతమైన మనస్సుతో స్మరిస్తే అత్యంత శుభప్రదమైన బుద్ధిని ఇస్తావు. దారిద్ర్యం, దుఃఖం, భయం పోగొట్టే తల్లీ! అందరికీ మేలు చేయడానికి నీకంటే కరుణ గలవారు ఇంకెవరున్నారు?"
+  },
+  "samasas": [
+    {
+      "compound": "అశేషజంతోః",
+      "type": "కర్మధారయ (Karmadharaya)"
+    },
+    {
+      "compound": "దారిద్ర్యదుఃఖభయహారిణి",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    },
+    {
+      "compound": "సదార్ద్రచిత్తా",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "భీతిమశేష",
+      "split_words": "భీతిమ్ + అశేష",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    },
+    {
+      "joined_word": "త్వదన్యా",
+      "split_words": "త్వత్ + అన్యా",
+      "sandhi_rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: ఉపజాతి (Upajāti). Alamkaram: కావ్యలింగ (Kāvyaliṅga)."
+}

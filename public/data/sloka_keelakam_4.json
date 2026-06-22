@@ -1,0 +1,103 @@
+{
+  "id": "durga_saptashati_keelakam_4",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 4,
+  "sloka_original": "న మంత్రో నౌషధం తత్ర న కిఞ్చదపి విద్యతే। వినా జాప్యేన సిద్ధ్యేత సర్వముచ్చాటనాదికమ్ || 4 ||",
+  "pada_vibhaga": [
+    {
+      "word": "న",
+      "meaning": "No / Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "మంత్రః",
+      "meaning": "Mantra",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "న",
+      "meaning": "No / Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఔషధమ్",
+      "meaning": "Medicine / herb",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తత్ర",
+      "meaning": "There",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "న",
+      "meaning": "No / Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "కిఞ్చిత్",
+      "meaning": "Anything",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Even",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "విద్యతే",
+      "meaning": "Exists / is required",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "వినా",
+      "meaning": "Without",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "జాప్యేన",
+      "meaning": "By chanting (other things)",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సిద్ధ్యేత",
+      "meaning": "Is accomplished",
+      "grammar": "విధిలిఙ్, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సర్వమ్",
+      "meaning": "Everything",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఉచ్చాటనాదికమ్",
+      "meaning": "Uchatana and the rest",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "తత్ర మంత్రః న, ఔషధం న, కిఞ్చిత్ అపి న విద్యతే. జాప్యేన వినా సర్వమ్ ఉచ్చాటనాదికం సిద్ధ్యేత.",
+  "tatparyam": {
+    "english": "For one who recites this, neither other mantras nor herbs, nor anything else is required. Even without other continuous repetitions, everything like Uchatana is successfully accomplished.",
+    "telugu": "దీనిని పఠించేవారికి ఇతర మంత్రాలు గానీ, మూలికలు (ఔషధాలు) గానీ, ఇంకే ఇతర సాధనాలు గానీ అవసరం లేదు. ఇతర జపాలు లేకుండానే కేవలం ఈ స్తోత్ర పఠనం ద్వారా ఉచ్చాటనాది సర్వ కార్యాలు సిద్ధిస్తాయి."
+  },
+  "samasas": [
+    {
+      "compound": "ఉచ్చాటనాదికమ్",
+      "type": "బహువ్రీహి సమాసం (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "నౌషధమ్",
+      "split_words": "న + ఔషధమ్",
+      "sandhi_rule": "వృద్ధి సంధి (Vriddhi Sandhi)"
+    },
+    {
+      "joined_word": "సర్వముచ్చాటనాదికమ్",
+      "split_words": "సర్వమ్ + ఉచ్చాటనాదికమ్",
+      "sandhi_rule": "అజంత సంధి (Consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "durga_saptashati_keelakam_8",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 8,
+  "sloka_original": "దదాతి ప్రతిగృహ్లాతి నాన్యథైషా ప్రసీదతి। ఇతంరూపేణ కీలేన మహాదేవేన కీలితమ్ ॥ 8 ॥",
+  "pada_vibhaga": [
+    {
+      "word": "దదాతి",
+      "meaning": "Gives / Dedicates",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "ప్రతిగృహ్లాతి",
+      "meaning": "Receives",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "న",
+      "meaning": "Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అన్యథా",
+      "meaning": "Otherwise",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఏషా",
+      "meaning": "She (the Goddess)",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, సర్వనామం"
+    },
+    {
+      "word": "ప్రసీదతి",
+      "meaning": "Is pleased",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "ఇత్థంరూపేణ",
+      "meaning": "In this manner",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కీలేన",
+      "meaning": "By the pin / lock",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మహాదేవేన",
+      "meaning": "By Lord Mahadeva (Shiva)",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కీలితమ్",
+      "meaning": "Locked / Pinned",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, నపుంసకలింగం"
+    }
+  ],
+  "anvaya": "దదాతి ప్రతిగృహ్లాతి, అన్యథా ఏషా న ప్రసీదతి. ఇత్థంరూపేణ కీలేన మహాదేవేన (ఇదం స్తోత్రం) కీలితమ్.",
+  "tatparyam": {
+    "english": "...gives (dedicates everything to the Goddess) and receives (Her grace), otherwise She is not pleased. In this manner, this stotram has been locked (restricted) by the great Lord Shiva.",
+    "telugu": "...తన సర్వస్వాన్ని దేవికి సమర్పించి, ఆమె అనుగ్రహాన్ని స్వీకరిస్తాడో, అప్పుడే ఆమె సంతోషిస్తుంది. వేరే ఏ విధంగానూ ఆమె ప్రసన్నం కాదు. ఈ విధంగానే పరమశివుడు ఈ స్తోత్రాన్ని 'కీలకము' (రహస్య బంధనము) తో బంధించాడు."
+  },
+  "samasas": [
+    {
+      "compound": "ఇత్థంరూపేణ",
+      "type": "బహువ్రీహి సమాసం (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "నాన్యథైషా",
+      "split_words": "న + అన్యథా + ఏషా",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి, వృద్ధి సంధి (Savarnadirgha and Vriddhi Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

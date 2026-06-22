@@ -1,0 +1,73 @@
+{
+  "chapter": "2",
+  "sloka_number": "5",
+  "source_citation": "",
+  "original_text_telugu": "యథావృత్తం తయోస్తద్వన్మహిషాసురచేష్టితమ్। త్రిదశాః కథయామాసురేవాభిభవవిస్తరమ్ ॥ 5 ॥",
+  "normalized_sanskrit": "यथावृत्तं तयोस्तद्वन्महिषासुरचेष्टितम् । त्रिदशाः कथयामासुर्देवाभिभवविस्तरम् ॥ ५ ॥",
+  "iast": "yathāvṛttaṃ tayos tadvan mahiṣāsura-ceṣṭitam | tridaśāḥ kathayām āsur devābhibhava-vistaram",
+  "sentence_split": [
+    {
+      "sentence_id": "2.5.1",
+      "text": "यथावृत्तं तयोस्तद्वन्महिषासुरचेष्टितं त्रिदशाः कथयामासुर्देवाभिभवविस्तरम्",
+      "anvaya": "त्रिदशाः तयोः यथावृत्तं तद्वत् महिषासुरचेष्टितं देवाभिभवविस्तरं कथयामासुः।",
+      "sandhi": [
+        {
+          "joined": "तयोस्तद्वत्",
+          "split": "तयोः + तद्वत्",
+          "sandhi_name": "విసర్గ లోప/स् आदेशः: ः before त् becomes स्"
+        },
+        {
+          "joined": "कथयामासुः देव",
+          "split": "कथयामासुः + देव",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before द् becomes र्; कथयामासुर्देव"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "त्रिदशाः",
+          "lemma": "त्रिदश",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "the gods"
+        },
+        {
+          "word": "तयोः",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, षष्ठी विभक्ति, द्विवचनम्",
+          "meaning": "to/of those two, Śiva and Viṣṇu"
+        },
+        {
+          "word": "यथावृत्तम्",
+          "lemma": "यथावृत्त",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "as it had happened"
+        },
+        {
+          "word": "तद्वत्",
+          "lemma": "तद्वत्",
+          "grammar": "अव्ययम्",
+          "meaning": "accordingly, likewise"
+        },
+        {
+          "word": "महिषासुरचेष्टितम्",
+          "lemma": "महिषासुरचेष्टित",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "the conduct of Mahishasura"
+        },
+        {
+          "word": "देवाभिभवविस्तरम्",
+          "lemma": "देवाभिभवविस्तर",
+          "grammar": "पुंलिङ्गम्/नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "the detailed account of the gods’ defeat"
+        },
+        {
+          "word": "कथयामासुः",
+          "lemma": "कथ्",
+          "grammar": "लिट्-प्रयोगः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "they narrated"
+        }
+      ],
+      "devotional_meaning_english": "The gods narrated to those two exactly what had happened: Mahishasura’s actions and the full account of the devas’ humiliation.",
+      "devotional_meaning_telugu": "దేవతలు శివవిష్ణువులకు జరిగినదంతటిని, మహిషాసురుని దుష్కార్యములను, దేవతల పరాభవ వివరమును యథార్థంగా వివరించిరి."
+    }
+  ]
+}

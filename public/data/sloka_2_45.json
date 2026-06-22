@@ -1,0 +1,113 @@
+{
+  "chapter": "2",
+  "sloka_number": "45",
+  "source_citation": "",
+  "original_text_telugu": "యుయుధే సంయుగే తత్ర రథానాం పరివారితః అన్యే చ తత్రాయుతశో రథనాగహయైర్వృతాః ॥ 45 ॥",
+  "normalized_sanskrit": "युयुधे संयुगे तत्र रथानां परिवारितः । अन्ये च तत्रायुतशो रथनागहयैर्वृताः ॥ ४५ ॥",
+  "iast": "yuyudhe saṃyuge tatra rathānāṃ parivāritaḥ | anye ca tatrāyutaśo rathanāgahayair vṛtāḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.45.1",
+      "text": "युयुधे संयुगे तत्र रथानां परिवारितः",
+      "anvaya": "सः तत्र संयुगे रथानां परिवारितः युयुधे।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "सः",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्; supplied",
+          "meaning": "he"
+        },
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "संयुगे",
+          "lemma": "संयुग",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in battle"
+        },
+        {
+          "word": "रथानाम्",
+          "lemma": "रथ",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of chariots"
+        },
+        {
+          "word": "परिवारितः",
+          "lemma": "परिवारित",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "surrounded"
+        },
+        {
+          "word": "युयुधे",
+          "lemma": "युध्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        }
+      ],
+      "devotional_meaning_english": "Surrounded by chariots, he fought there in the battle.",
+      "devotional_meaning_telugu": "రథములతో చుట్టుముట్టబడి అతడు అక్కడ యుద్ధములో పోరాడెను."
+    },
+    {
+      "sentence_id": "2.45.2",
+      "text": "अन्ये च तत्रायुतशो रथनागहयैर्वृताः",
+      "anvaya": "अन्ये च तत्र अयुतशः रथनागहयैः वृताः आसन्।",
+      "sandhi": [
+        {
+          "joined": "तत्रायुतशः",
+          "split": "तत्र + अयुतशः",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "हयैर्वृताः",
+          "split": "हयैः + वृताः",
+          "sandhi_name": "విసర్గ సంధి: ः before व् becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "अन्ये",
+          "lemma": "अन्य",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "others"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "अयुतशः",
+          "lemma": "अयुतशस्",
+          "grammar": "अव्ययम्",
+          "meaning": "by tens of thousands"
+        },
+        {
+          "word": "रथनागहयैः",
+          "lemma": "रथ-नाग-हय",
+          "grammar": "द्वन्द्वसमासः, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with chariots, elephants, and horses"
+        },
+        {
+          "word": "वृताः",
+          "lemma": "वृत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "surrounded"
+        }
+      ],
+      "devotional_meaning_english": "Others too were there, surrounded by tens of thousands of chariots, elephants, and horses.",
+      "devotional_meaning_telugu": "ఇతర అసురులు కూడ అక్కడ అయుతాల కొద్దీ రథాలు, ఏనుగులు, గుర్రాలతో చుట్టుముట్టబడి ఉండిరి."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "durga_saptasloki_6",
+  "source": "Durga Saptashati - Saptasloki",
+  "chapter": 0,
+  "sloka_number": 6,
+  "sloka_original": "రోగానశేషానపహంసి తుష్టా రుష్టా తు కామాన్ సకలానభీష్టాన్। త్వామాశ్రితానాం న విపన్నరాణాం త్వామాశ్రితా హ్యాశ్రయతాం ప్రయాంతి || 6 ||",
+  "pada_vibhaga": [
+    {
+      "word": "రోగాన్",
+      "meaning": "Diseases",
+      "grammar": "Accusative, plural, masculine"
+    },
+    {
+      "word": "అశేషాన్",
+      "meaning": "Entire / All",
+      "grammar": "Accusative, plural, masculine"
+    },
+    {
+      "word": "అపహంసి",
+      "meaning": "You destroy",
+      "grammar": "Present tense, 2nd person, singular, Parasmaipada"
+    },
+    {
+      "word": "తుష్టా",
+      "meaning": "Pleased",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "రుష్టా",
+      "meaning": "Angered",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "తు",
+      "meaning": "But",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "కామాన్",
+      "meaning": "Desires",
+      "grammar": "Accusative, plural, masculine"
+    },
+    {
+      "word": "సకలాన్",
+      "meaning": "All",
+      "grammar": "Accusative, plural, masculine"
+    },
+    {
+      "word": "అభీష్టాన్",
+      "meaning": "Wished for / Desired",
+      "grammar": "Accusative, plural, masculine"
+    },
+    {
+      "word": "త్వామ్",
+      "meaning": "You",
+      "grammar": "Accusative, singular, pronoun"
+    },
+    {
+      "word": "ఆశ్రితానామ్",
+      "meaning": "Of those who have taken refuge",
+      "grammar": "Genitive, plural, masculine"
+    },
+    {
+      "word": "న",
+      "meaning": "Not",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "విపత్",
+      "meaning": "Calamity / Danger",
+      "grammar": "Nominative, singular, feminine"
+    },
+    {
+      "word": "నరాణామ్",
+      "meaning": "For men",
+      "grammar": "Genitive, plural, masculine"
+    },
+    {
+      "word": "త్వామ్",
+      "meaning": "You",
+      "grammar": "Accusative, singular, pronoun"
+    },
+    {
+      "word": "ఆశ్రితాః",
+      "meaning": "Those who have taken refuge",
+      "grammar": "Nominative, plural, masculine"
+    },
+    {
+      "word": "హి",
+      "meaning": "Indeed",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "ఆశ్రయతామ్",
+      "meaning": "The state of being a refuge for others",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "ప్రయాంతి",
+      "meaning": "Attain / Go to",
+      "grammar": "Present tense, 3rd person, plural, Parasmaipada"
+    }
+  ],
+  "anvaya": "(హే దేవి!) తుష్టా (సతీ) అశేషాన్ రోగాన్ అపహంసి. రుష్టా తు సకలాన్ అభీష్టాన్ కామాన్ (అపహంసి). త్వామ్ ఆశ్రితానాం నరాణాం విపత్ న (భవతి). త్వామ్ ఆశ్రితాః (నరాః) ఆశ్రయతాం ప్రయాంతి హి.",
+  "tatparyam": {
+    "english": "When pleased, You destroy all diseases. But when displeased, You destroy all desires. No calamity befalls those who have taken refuge in You. Indeed, those who take refuge in You become a refuge for others.",
+    "telugu": "నీవు సంతోషిస్తే సమస్త రోగాలను పోగొడతావు. కోపిస్తే సకల కోరికలను నాశనం చేస్తావు. నిన్ను ఆశ్రయించిన మానవులకు ఎటువంటి ఆపదలు రావు. అంతేకాదు, నిన్ను ఆశ్రయించిన వారు ఇతరులకు ఆశ్రయం ఇచ్చే స్థాయికి చేరుకుంటారు."
+  },
+  "samasas": [
+    {
+      "compound": "అశేషాన్",
+      "type": "నఞ్ తత్పురుష (Nañ Tatpurusha)"
+    },
+    {
+      "compound": "అభీష్టాన్",
+      "type": "కర్మధారయ (Karmadharaya)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "రోగానశేషానపహంసి",
+      "split_words": "రోగాన్ + అశేషాన్ + అపహంసి",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    },
+    {
+      "joined_word": "త్వామాశ్రితానామ్",
+      "split_words": "త్వామ్ + ఆశ్రితానామ్",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    },
+    {
+      "joined_word": "హ్యాశ్రయతామ్",
+      "split_words": "హి + ఆశ్రయతామ్",
+      "sandhi_rule": "యణాదేశ సంధి (Yanadesha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: ఉపజాతి (Upajāti). Alamkaram: దృష్టాంత (Dṛṣṭānta)."
+}

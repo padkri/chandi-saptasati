@@ -1,0 +1,108 @@
+{
+  "chapter": "2",
+  "sloka_number": "55",
+  "source_citation": "",
+  "original_text_telugu": "మృదఙ్గాంశ్చ తథైవాన్యే తస్మిన్ యుద్ధమహోత్సవే। తతో దేవీ త్రిశూలేన గదయా శక్తివృష్టిభిః ॥ 55 ॥",
+  "normalized_sanskrit": "मृदङ्गांश्च तथैवान्ये तस्मिन् युद्धमहोत्सवे । ततो देवी त्रिशूलेन गदया शक्तिवृष्टिभिः ॥ ५५ ॥",
+  "iast": "mṛdaṅgāṃś ca tathaivānye tasmin yuddhamahotsave | tato devī triśūlena gadayā śaktivṛṣṭibhiḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.55.1",
+      "text": "मृदङ्गांश्च तथैवान्ये तस्मिन् युद्धमहोत्सवे",
+      "anvaya": "तस्मिन् युद्धमहोत्सवे अन्ये तथैव मृदङ्गान् अवादयन्त।",
+      "sandhi": [
+        {
+          "joined": "मृदङ्गांश्च",
+          "split": "मृदङ्गान् + च",
+          "sandhi_name": "నకార-శ్చుత్వ సంధి / Nakāra-ścutva Sandhi: न् before च् becomes श्-like; written आंश्च"
+        },
+        {
+          "joined": "तथैव",
+          "split": "तथा + एव",
+          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: आ + ए = ऐ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तस्मिन्",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in that"
+        },
+        {
+          "word": "युद्धमहोत्सवे",
+          "lemma": "युद्धमहोत्सव",
+          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "great festival of battle"
+        },
+        {
+          "word": "अन्ये",
+          "lemma": "अन्य",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "others"
+        },
+        {
+          "word": "तथैव",
+          "lemma": "तथा एव",
+          "grammar": "अव्ययम्",
+          "meaning": "likewise"
+        },
+        {
+          "word": "मृदङ्गान्",
+          "lemma": "मृदङ्ग",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "mṛdaṅga drums"
+        },
+        {
+          "word": "अवादयन्त",
+          "lemma": "वादय्",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, बहुवचनम्; supplied from previous sloka context",
+          "meaning": "played, sounded"
+        }
+      ],
+      "devotional_meaning_english": "In that great festival of battle, others likewise sounded mṛdaṅga drums.",
+      "devotional_meaning_telugu": "ఆ యుద్ధమహోత్సవములో మరికొందరు అలాగే మృదంగములను మోగించిరి."
+    },
+    {
+      "sentence_id": "2.55.2",
+      "text": "ततो देवी त्रिशूलेन गदया शक्तिवृष्टिभिः",
+      "anvaya": "ततः देवी त्रिशूलेन गदया शक्तिवृष्टिभिः...",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "ततः",
+          "lemma": "ततः",
+          "grammar": "अव्ययम्",
+          "meaning": "then"
+        },
+        {
+          "word": "देवी",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the Goddess"
+        },
+        {
+          "word": "त्रिशूलेन",
+          "lemma": "त्रिशूल",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with the trident"
+        },
+        {
+          "word": "गदया",
+          "lemma": "गदा",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with the mace"
+        },
+        {
+          "word": "शक्तिवृष्टिभिः",
+          "lemma": "शक्तिवृष्टि",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with showers of spears"
+        }
+      ],
+      "continuation_note": "This instrumental phrase continues into sloka 56 with खड्गादिभिश्च शतशः निजघान.",
+      "devotional_meaning_english": "Then the Goddess, with Her trident, mace, and showers of spears...",
+      "devotional_meaning_telugu": "తరువాత దేవి త్రిశూలము, గద, శక్తివర్షములతో..."
+    }
+  ]
+}

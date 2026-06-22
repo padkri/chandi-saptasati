@@ -1,0 +1,101 @@
+{
+  "chapter": "2",
+  "sloka_number": "53",
+  "source_citation": "",
+  "original_text_telugu": "త ఏవ సద్యః సంభూతా గణాః శతసహస్రశః। యుయుధుస్తే పరశుభిర్బిందిపాలాసిపట్టిశైః ॥ 53 ॥",
+  "normalized_sanskrit": "त एव सद्यः सम्भूता गणाः शतसहस्रशः । युयुधुस्ते परशुभिर्भिन्दिपालासिपट्टिशैः ॥ ५३ ॥",
+  "iast": "ta eva sadyaḥ sambhūtā gaṇāḥ śatasahasraśaḥ | yuyudhus te paraśubhir bhindipālāsipaṭṭiśaiḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.53.1",
+      "text": "त एव सद्यः सम्भूता गणाः शतसहस्रशः",
+      "anvaya": "ते एव सद्यः शतसहस्रशः गणाः सम्भूताः।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "ते",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "they, those breaths"
+        },
+        {
+          "word": "एव",
+          "lemma": "एव",
+          "grammar": "अव्ययम्",
+          "meaning": "indeed"
+        },
+        {
+          "word": "सद्यः",
+          "lemma": "सद्यस्",
+          "grammar": "अव्ययम्",
+          "meaning": "immediately"
+        },
+        {
+          "word": "गणाः",
+          "lemma": "गण",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "attendant hosts"
+        },
+        {
+          "word": "शतसहस्रशः",
+          "lemma": "शतसहस्रशस्",
+          "grammar": "अव्ययम्",
+          "meaning": "by hundreds of thousands"
+        },
+        {
+          "word": "सम्भूताः",
+          "lemma": "सम्भूत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "arose, were born"
+        }
+      ],
+      "devotional_meaning_english": "Those very breaths at once became hosts of attendants by the hundreds of thousands.",
+      "devotional_meaning_telugu": "ఆ నిశ్వాసములే వెంటనే శతసహస్రాల గణములుగా ఉద్భవించెను."
+    },
+    {
+      "sentence_id": "2.53.2",
+      "text": "युयुधुस्ते परशुभिर्भिन्दिपालासिपट्टिशैः",
+      "anvaya": "ते परशुभिः भिन्दिपालासिपट्टिशैः युयुधुः।",
+      "sandhi": [
+        {
+          "joined": "युयुधुस्ते",
+          "split": "युयुधुः + ते",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        },
+        {
+          "joined": "परशुभिर्भिन्दिपाल",
+          "split": "परशुभिः + भिन्दिपाल",
+          "sandhi_name": "విసర్గ సంధి: ः before भ् becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ते",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "they"
+        },
+        {
+          "word": "परशुभिः",
+          "lemma": "परशु",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with axes"
+        },
+        {
+          "word": "भिन्दिपालासिपट्टिशैः",
+          "lemma": "भिन्दिपाल-असि-पट्टिश",
+          "grammar": "द्वन्द्वसमासः, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with bhindipālas, swords, and pikes"
+        },
+        {
+          "word": "युयुधुः",
+          "lemma": "युध्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        }
+      ],
+      "devotional_meaning_english": "They fought with axes, bhindipālas, swords, and pikes.",
+      "devotional_meaning_telugu": "ఆ గణములు పరశువులు, భిందిపాలములు, ఖడ్గములు, పట్టిశములతో యుద్ధము చేసిరి."
+    }
+  ]
+}

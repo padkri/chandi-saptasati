@@ -1,0 +1,130 @@
+{
+  "chapter": "2",
+  "sloka_number": "34",
+  "source_citation": "",
+  "original_text_telugu": "చచాల వసుధా చేలు: సకలాశ్చ మహీధరాః। జయేతి దేవాశ్చ ముదా తామూచు: సింహవాహినీమ్ ॥ 34 ॥",
+  "normalized_sanskrit": "चचाल वसुधा चेलुः सकलाश्च महीधराः । जयेति देवाश्च मुदा तामूचुः सिंहवाहिनीम् ॥ ३४ ॥",
+  "iast": "cacāla vasudhā celuḥ sakalāś ca mahīdharāḥ | jayeti devāś ca mudā tām ūcuḥ siṃhavāhinīm",
+  "sentence_split": [
+    {
+      "sentence_id": "2.34.1",
+      "text": "चचाल वसुधा चेलुः सकलाश्च महीधराः",
+      "anvaya": "वसुधा चचाल। सकलाः महीधराः च एलुः।",
+      "sandhi": [
+        {
+          "joined": "सकलाश्च",
+          "split": "सकलाः + च",
+          "sandhi_name": "విసర్గ సంధి: आः before च् becomes आश्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "वसुधा",
+          "lemma": "वसुधा",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the earth"
+        },
+        {
+          "word": "चचाल",
+          "lemma": "चल्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "shook"
+        },
+        {
+          "word": "सकलाः",
+          "lemma": "सकल",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "all"
+        },
+        {
+          "word": "महीधराः",
+          "lemma": "महीधर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "mountains"
+        },
+        {
+          "word": "एलुः",
+          "lemma": "ईर्/इल् traditional epic form",
+          "grammar": "लिट्/लुङ्-सदृश प्रयोगः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "moved, shook"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        }
+      ],
+      "devotional_meaning_english": "The earth shook, and all the mountains trembled.",
+      "devotional_meaning_telugu": "భూమి కంపించెను; సమస్త పర్వతములు కదిలెను."
+    },
+    {
+      "sentence_id": "2.34.2",
+      "text": "जयेति देवाश्च मुदा तामूचुः सिंहवाहिनीम्",
+      "anvaya": "देवाः च मुदा तां सिंहवाहिनीं ‘जय’ इति ऊचुः।",
+      "sandhi": [
+        {
+          "joined": "जयेति",
+          "split": "जय + इति",
+          "sandhi_name": "గుణ సంధి: अ + इ = ए"
+        },
+        {
+          "joined": "देवाश्च",
+          "split": "देवाः + च",
+          "sandhi_name": "విసర్గ సంధి: आः before च् becomes आश्"
+        },
+        {
+          "joined": "तामूचुः",
+          "split": "ताम् + ऊचुः",
+          "sandhi_name": "म् before vowel retained"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "देवाः",
+          "lemma": "देव",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "the gods"
+        },
+        {
+          "word": "मुदा",
+          "lemma": "मुद्",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with joy"
+        },
+        {
+          "word": "ताम्",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "Her"
+        },
+        {
+          "word": "सिंहवाहिनीम्",
+          "lemma": "सिंहवाहिनी",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "lion-mounted Goddess"
+        },
+        {
+          "word": "जय",
+          "lemma": "जय",
+          "grammar": "आशीर्वादात्मक उद्गारः / imperative exclamation",
+          "meaning": "victory!"
+        },
+        {
+          "word": "इति",
+          "lemma": "इति",
+          "grammar": "अव्ययम्",
+          "meaning": "thus"
+        },
+        {
+          "word": "ऊचुः",
+          "lemma": "वच्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "said"
+        }
+      ],
+      "devotional_meaning_english": "The gods joyfully cried to the lion-mounted Goddess, “Victory!”",
+      "devotional_meaning_telugu": "దేవతలు ఆనందముతో సింహవాహినియైన దేవిని ‘జయ!’ అని స్తుతించిరి."
+    }
+  ]
+}

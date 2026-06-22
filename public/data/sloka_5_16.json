@@ -1,0 +1,86 @@
+{
+  "id": "5.16",
+  "sloka_text": "या देवी सर्वभूतेषु विष्णुमायेति शब्दिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥ 14-16 ॥",
+  "anvaya": "या देवी सर्वभूतेषु विष्णुमाया इति शब्दिता, तस्यै नमः, तस्यै नमः, तस्यै नमः नमः।",
+  "word_by_word": [
+    {
+      "word": "या",
+      "lemma": "यद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "who"
+    },
+    {
+      "word": "देवी",
+      "lemma": "देवी",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the Goddess"
+    },
+    {
+      "word": "सर्वभूतेषु",
+      "lemma": "सर्व-भूत",
+      "compound": "कर्मधारयः",
+      "case_vibhakti": "सप्तमी विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "in all beings"
+    },
+    {
+      "word": "विष्णुमाया",
+      "lemma": "विष्णुमाया",
+      "compound": "षष्ठी-तत्पुरुषः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the Maya-power of Vishnu"
+    },
+    {
+      "word": "इति",
+      "pos": "अव्ययम्",
+      "meaning": "thus"
+    },
+    {
+      "word": "शब्दिता",
+      "lemma": "शब्द्",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "called, named"
+    },
+    {
+      "word": "नमः",
+      "pos": "अव्ययम्",
+      "meaning": "salutation"
+    },
+    {
+      "word": "तस्यै",
+      "lemma": "तद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to her"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "विष्णुमायेति",
+      "split": "विष्णुमाया + इति",
+      "sandhi_name": "गुण-सन्धिः",
+      "rule_description": "आ + इ → ए."
+    },
+    {
+      "form": "नमस्तस्यै",
+      "split": "नमः + तस्यै",
+      "sandhi_name": "विसर्ग-सन्धिः",
+      "rule_description": "Final ः before त् becomes स्."
+    },
+    {
+      "form": "नमोनमः",
+      "split": "नमः + नमः",
+      "sandhi_name": "विसर्ग-सन्धिः",
+      "rule_description": "Final ः before न् becomes ओ."
+    }
+  ],
+  "overall_meaning": "Salutations again and again to that Goddess who abides in all beings and is called Vishnumaya."
+}

@@ -1,0 +1,101 @@
+{
+  "chapter": "2",
+  "sloka_number": "24",
+  "source_citation": "",
+  "original_text_telugu": "సమస్తరోమకూపేషు నిజరశ్మీన్ దివాకరః। కాలశ్చ దత్తవాన్ ఖడ్గం తస్యాశ్చర్మ చ నిర్మలమ్ ॥ 24 ॥",
+  "normalized_sanskrit": "समस्तरोमकूपेषु निजरश्मीन् दिवाकरः । कालश्च दत्तवान् खड्गं तस्याश्चर्म च निर्मलम् ॥ २४ ॥",
+  "iast": "samastaromakūpeṣu nijaraśmīn divākaraḥ | kālaś ca dattavān khaḍgaṃ tasyāś carma ca nirmalam",
+  "sentence_split": [
+    {
+      "sentence_id": "2.24.1",
+      "text": "समस्तरोमकूपेषु निजरश्मीन् दिवाकरः",
+      "anvaya": "दिवाकरः तस्याः समस्तरोमकूपेषु निजरश्मीन् ददौ।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "दिवाकरः",
+          "lemma": "दिवाकर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the Sun"
+        },
+        {
+          "word": "समस्तरोमकूपेषु",
+          "lemma": "समस्तरोमकूप",
+          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, बहुवचनम्",
+          "meaning": "in all the pores of hair"
+        },
+        {
+          "word": "निजरश्मीन्",
+          "lemma": "निजरश्मि",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "his own rays"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; supplied from next pāda context",
+          "meaning": "gave, placed"
+        }
+      ],
+      "devotional_meaning_english": "The Sun placed his own rays in all the pores of Her body.",
+      "devotional_meaning_telugu": "సూర్యుడు దేవి శరీరంలోని సమస్త రోమకూపములలో తన కిరణములను స్థాపించెను."
+    },
+    {
+      "sentence_id": "2.24.2",
+      "text": "कालश्च दत्तवान् खड्गं तस्याश्चर्म च निर्मलम्",
+      "anvaya": "कालः च तस्यै खड्गं निर्मलं चर्म च दत्तवान्।",
+      "sandhi": [
+        {
+          "joined": "कालश्च",
+          "split": "कालः + च",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        },
+        {
+          "joined": "तस्याश्चर्म",
+          "split": "तस्याः + चर्म",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "कालः",
+          "lemma": "काल",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Time"
+        },
+        {
+          "word": "तस्यै",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, चतुर्थी विभक्ति, एकवचनम्",
+          "meaning": "to Her"
+        },
+        {
+          "word": "खड्गम्",
+          "lemma": "खड्ग",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "sword"
+        },
+        {
+          "word": "निर्मलम्",
+          "lemma": "निर्मल",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "spotless, pure"
+        },
+        {
+          "word": "चर्म",
+          "lemma": "चर्मन्",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "shield"
+        },
+        {
+          "word": "दत्तवान्",
+          "lemma": "दत्तवत्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Kāla gave Her a sword and a spotless shield.",
+      "devotional_meaning_telugu": "కాలుడు ఆమెకు ఖడ్గమును మరియు నిర్మలమైన చర్మమనే కవచమును ఇచ్చెను."
+    }
+  ]
+}

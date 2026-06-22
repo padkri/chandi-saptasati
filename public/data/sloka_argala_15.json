@@ -1,0 +1,43 @@
+{
+  "id": "durga_saptashati_argala_15",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 15,
+  "sloka_original": "సురాసురశిరోరత్ననిఘృష్టచరణేఒంబికే| రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 15 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సురాసురశిరోరత్ననిఘృష్టచరణే",
+      "meaning": "దేవతల, రాక్షసుల కిరీటాలలోని మణులచే రాయబడిన (నమస్కరించబడిన) పాదాలు గలదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "అంబికే",
+      "meaning": "ఓ అంబికా దేవీ (తల్లీ)",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే సురాసురశిరోరత్ననిఘృష్టచరణే అంబికే! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Mother Ambika, whose feet are rubbed by the crest-jewels of gods and demons bowing down! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "దేవతలు, రాక్షసులు సాగిలపడి నమస్కరించడం వలన వారి కిరీటాలలోని మణులచే ప్రకాశించే పాదాలు గల ఓ అంబికా దేవీ! నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "సురాసురశిరోరత్ననిఘృష్టచరణే",
+      "type": "బహువ్రీహి సమాసం (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "చరణేఒంబికే",
+      "split_words": "చరణే + అంబికే",
+      "sandhi_rule": "పూర్వరూప సంధి (Purvarupa Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

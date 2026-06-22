@@ -1,0 +1,77 @@
+{
+  "id": "durga_saptasloki_4",
+  "source": "Durga Saptashati - Saptasloki",
+  "chapter": 0,
+  "sloka_number": 4,
+  "sloka_original": "శరణాగత దీనార్త పరిత్రాణ పరాయణే। సర్వస్యార్తిహరే దేవి! నారాయణి నమోzస్తుతే || 4 ||",
+  "pada_vibhaga": [
+    {
+      "word": "శరణాగతదీనార్తపరిత్రాణపరాయణే",
+      "meaning": "O You who are dedicated to rescuing the destitute, the distressed, and those who take refuge in You",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "సర్వస్య",
+      "meaning": "Of everyone",
+      "grammar": "Genitive, singular, masculine"
+    },
+    {
+      "word": "ఆర్తిహరే",
+      "meaning": "O destroyer of suffering",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "O Goddess",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "నారాయణి",
+      "meaning": "O Narayani",
+      "grammar": "Vocative, singular, feminine"
+    },
+    {
+      "word": "నమః",
+      "meaning": "Salutations",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "అస్తు",
+      "meaning": "Let there be",
+      "grammar": "Imperative, 3rd person, singular"
+    },
+    {
+      "word": "తే",
+      "meaning": "To you",
+      "grammar": "Dative, singular, pronoun"
+    }
+  ],
+  "anvaya": "హే శరణాగతదీనార్తపరిత్రాణపరాయణే! సర్వస్య ఆర్తిహరే దేవి! నారాయణి! తే నమః అస్తు.",
+  "tatparyam": {
+    "english": "O Goddess Narayani, who is devoted to saving the distressed, the destitute, and those seeking refuge! O remover of the sufferings of all! Salutations to You.",
+    "telugu": "శరణు కోరినవారిని, దీనులను, ఆపదలో ఉన్నవారిని రక్షించడానికి అంకితమైన దానా! అందరి బాధలను పోగొట్టే దేవీ! నారాయణీ! నీకు నమస్కారములు."
+  },
+  "samasas": [
+    {
+      "compound": "శరణాగతదీనార్తపరిత్రాణపరాయణే",
+      "type": "సప్తమీ తత్పురుష / బహువ్రీహి (Saptami Tatpurusha)"
+    },
+    {
+      "compound": "ఆర్తిహరే",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సర్వస్యార్తిహరే",
+      "split_words": "సర్వస్య + ఆర్తిహరే",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    },
+    {
+      "joined_word": "నమోస్తు",
+      "split_words": "నమః + అస్తు",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

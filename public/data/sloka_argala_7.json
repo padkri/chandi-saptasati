@@ -1,0 +1,52 @@
+{
+  "id": "durga_saptashati_argala_7",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 7,
+  "sloka_original": "వందితాంఘియుగే దేవి సర్వసౌభాగ్యదాయిని। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 7 ||",
+  "pada_vibhaga": [
+    {
+      "word": "వందితాంఘ్రియుగే",
+      "meaning": "నమస్కరించబడే పాదయుగళం గలదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "ఓ దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "సర్వసౌభాగ్యదాయిని",
+      "meaning": "సకల శుభాలను ప్రసాదించుదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం (Phrase)"
+    }
+  ],
+  "anvaya": "హే వందితాంఘ్రియుగే! హే సర్వసౌభాగ్యదాయిని దేవి! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Goddess whose feet are worshipped by all, bestower of all prosperity! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "అందరిచేత పూజింపబడే పాదపద్మాలు గలదానా! సమస్త సౌభాగ్యాలను ప్రసాదించే ఓ దేవీ! నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "వందితాంఘ్రియుగే",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    },
+    {
+      "compound": "సర్వసౌభాగ్యదాయిని",
+      "type": "ఉపపద తత్పురుష (Upapada Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "వందితాంఘ్రి",
+      "split_words": "వందిత + అంఘ్రి",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "durga_saptashati_1_47",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 47,
+  "sloka_original": "జ్ఞానమస్తి సమస్తస్య జంతోర్విషయగోచరే ॥ 47 ||",
+  "pada_vibhaga": [
+    {
+      "word": "జ్ఞానం",
+      "meaning": "జ్ఞానం, తెలుసుకొనే శక్తి",
+      "grammar": "జ్ఞాన శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "అస్తి",
+      "meaning": "ఉంది",
+      "grammar": "అస్ ధాతువు, లట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    },
+    {
+      "word": "సమస్తస్య",
+      "meaning": "సమస్తమైన ప్రతి",
+      "grammar": "సమస్త శబ్దం, షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "జంతోః",
+      "meaning": "జీవికి",
+      "grammar": "జంతు శబ్దం, షష్ఠీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "విషయగోచరే",
+      "meaning": "ఇంద్రియ విషయాల పరిధిలో",
+      "grammar": "సమాస పదం, సప్తమీ విభక్తి, ఏకవచనం, పుంలింగం"
+    }
+  ],
+  "anvaya": "విషయగోచరే సమస్తస్య జంతోః జ్ఞానం అస్తి.",
+  "tatparyam": {
+    "english": "Every living being has knowledge within the range of sense objects.",
+    "telugu": "ఇంద్రియ విషయాల పరిధిలో ప్రతి జీవికీ ఒక రకమైన జ్ఞానం ఉంటుంది."
+  },
+  "samasas": [
+    {
+      "compound": "విషయగోచరే",
+      "type": "షష్ఠీ తత్పురుష సమాసం"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "జ్ఞానమస్తి",
+      "split_words": "జ్ఞానం + అస్తి",
+      "sandhi_rule": "అనుస్వార/పరసవర్ణ సంధి"
+    },
+    {
+      "joined_word": "జంతోర్విషయగోచరే",
+      "split_words": "జంతోః + విషయగోచరే",
+      "sandhi_rule": "విసర్గ సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ భాగం."
+}

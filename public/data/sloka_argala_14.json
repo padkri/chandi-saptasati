@@ -1,0 +1,57 @@
+{
+  "id": "durga_saptashati_argala_14",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 14,
+  "sloka_original": "విధేహి దేవి కళ్యాణం విధేహి పరమాం శ్రియమ్। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 14 ||",
+  "pada_vibhaga": [
+    {
+      "word": "విధేహి",
+      "meaning": "చేయుము",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "ఓ దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "కళ్యాణమ్",
+      "meaning": "మంగళమును (శుభమును)",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "విధేహి",
+      "meaning": "ప్రసాదించుము",
+      "grammar": "క్రియ"
+    },
+    {
+      "word": "పరమామ్",
+      "meaning": "ఉత్తమమైన",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "శ్రియమ్",
+      "meaning": "సంపదను / లక్ష్మిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే దేవి! కళ్యాణం విధేహి, పరమాం శ్రియం విధేహి. రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Goddess! Bestow upon me auspiciousness and grant me supreme wealth. Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "ఓ దేవీ! నాకు మంగళమును కలిగించు. ఉత్తమమైన సంపదను ప్రసాదించు. రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "పరమశ్రియమ్",
+      "type": "కర్మధారయ (Karmadharaya - separated in verse)"
+    }
+  ],
+  "sandhis": [],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

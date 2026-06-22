@@ -1,0 +1,92 @@
+{
+  "id": "durga_saptashati_1_4",
+  "source": "Durga Saptashati",
+  "chapter": 1,
+  "sloka_number": 4,
+  "sloka_original": "స్వారోచిషే౭ంతరే పూర్వం చైత్రవంశసముద్భవః| సురథో నామ రాజాభూత్సమస్తే క్షితిమండలే || 4 ||",
+  "pada_vibhaga": [
+    {
+      "word": "స్వారోచిషే",
+      "meaning": "స్వారోచిష అను పేరు గల",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అంతరే",
+      "meaning": "మన్వంతర కాలంలో",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పూర్వమ్",
+      "meaning": "పూర్వ కాలమందు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చైత్రవంశసముద్భవః",
+      "meaning": "చైత్ర వంశంలో జన్మించినవాడు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సురథః",
+      "meaning": "సురథుడు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నామ",
+      "meaning": "అను పేరు గల",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "రాజా",
+      "meaning": "రాజు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అభూత్",
+      "meaning": "ఉండెను",
+      "grammar": "క్రియ, భూతకాలం (Lun lakara / Aorist), ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సమస్తే",
+      "meaning": "సమస్తమైన / మొత్తం",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "క్షితిమండలే",
+      "meaning": "భూమండలం మీద",
+      "grammar": "సప్తమీ విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "పూర్వం స్వారోచిషే అంతరే చైత్రవంశసముద్భవః సురథో నామ రాజా సమస్తే క్షితిమండలే అభూత్.",
+  "tatparyam": {
+    "english": "In ancient times, during the period of the Svarochisha Manu, there was a king named Suratha, born of the Chaitra dynasty, who ruled over the entire earth.",
+    "telugu": "పూర్వకాలంలో స్వారోచిష మన్వంతరంలో, చైత్ర వంశంలో జన్మించిన సురథుడు అనే రాజు ఈ సమస్త భూమండలాన్ని పరిపాలిస్తూ ఉండేవాడు."
+  },
+  "samasas": [
+    {
+      "compound": "చైత్రవంశసముద్భవః",
+      "type": "సప్తమీ / పంచమీ తత్పురుష సమాసం (Saptami / Panchami Tatpurusha)"
+    },
+    {
+      "compound": "క్షితిమండలే",
+      "type": "షష్ఠీ తత్పురుష సమాసం (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "స్వారోచిషే౭ంతరే",
+      "split_words": "స్వారోచిషే + అంతరే",
+      "sandhi_rule": "పూర్వరూప సంధి (Purvarupa Sandhi)"
+    },
+    {
+      "joined_word": "సురథో నామ",
+      "split_words": "సురథః + నామ",
+      "sandhi_rule": "విసర్గ ఉకారాదేశ సంధి (Visarga Ukāradesha Sandhi)"
+    },
+    {
+      "joined_word": "రాజాభూత్సమస్తే",
+      "split_words": "రాజా + అభూత్ + సమస్తే",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి, ఖరి చ సంధి (Savarnadirgha and Khari Cha / consonant sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

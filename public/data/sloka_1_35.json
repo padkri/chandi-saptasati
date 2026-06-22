@@ -1,0 +1,33 @@
+{
+  "id": "durga_saptashati_1_35",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 35,
+  "sloka_original": "మార్కండేయ ఉవాచ || 35 ||",
+  "pada_vibhaga": [
+    {
+      "word": "మార్కండేయః",
+      "meaning": "మార్కండేయ మహర్షి",
+      "grammar": "మార్కండేయ శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "పలికాడు",
+      "grammar": "వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "మార్కండేయః ఉవాచ.",
+  "tatparyam": {
+    "english": "Markandeya said.",
+    "telugu": "మార్కండేయ మహర్షి పలికాడు."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "మార్కండేయ ఉవాచ",
+      "split_words": "మార్కండేయః + ఉవాచ",
+      "sandhi_rule": "విసర్గ లోప సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: సంభాషణ సూచక వాక్యం."
+}

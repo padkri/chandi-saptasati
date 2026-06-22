@@ -1,0 +1,68 @@
+{
+  "id": "durga_saptashati_argala_12",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 12,
+  "sloka_original": "దేహి సౌభాగ్యమారోగ్యం దేహి మే పరమం సుఖమ్ | రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 12 ||",
+  "pada_vibhaga": [
+    {
+      "word": "దేహి",
+      "meaning": "ప్రసాదించు",
+      "grammar": "క్రియ, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సౌభాగ్యమ్",
+      "meaning": "మంచి అదృష్టాన్ని / సకల శుభాలను",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఆరోగ్యమ్",
+      "meaning": "ఆరోగ్యాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దేహి",
+      "meaning": "ప్రసాదించు",
+      "grammar": "క్రియ"
+    },
+    {
+      "word": "మే",
+      "meaning": "నాకు",
+      "grammar": "చతుర్థీ/షష్ఠీ విభక్తి, ఏకవచనం, సర్వనామం"
+    },
+    {
+      "word": "పరమమ్",
+      "meaning": "ఉత్తమమైన",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సుఖమ్",
+      "meaning": "సుఖాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "మే సౌభాగ్యమ్ దేహి, ఆరోగ్యమ్ దేహి, పరమం సుఖమ్ దేహి. (తథా) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "Grant me good fortune, grant me health, and grant me supreme happiness. Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "ఓ దేవీ! నాకు సౌభాగ్యాన్ని ప్రసాదించు, ఆరోగ్యాన్ని ప్రసాదించు, పరమమైన సుఖాన్ని ఇవ్వు. రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "పరమసుఖమ్",
+      "type": "కర్మధారయ (Karmadharaya - parsed implicitly)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సౌభాగ్యమారోగ్యమ్",
+      "split_words": "సౌభాగ్యమ్ + ఆరోగ్యమ్",
+      "sandhi_rule": "అజంత సంధి (Consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

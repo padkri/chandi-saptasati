@@ -1,0 +1,87 @@
+{
+  "id": "durga_saptashati_6_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 6,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం నాగాధీశ్వరవిష్టరాం ఫణిఫణోత్తంసోరురత్నావలీ- భాస్వద్దేహలతాం దివాకరనిభాం నేత్రత్రయోద్భాసితామ్! మాలాకుంభకపాలనీరజకరాం చంద్రార్థచూడాం పరాం సర్వజ్ఞేశ్వరభైరవాఙ్కనిలయాం పద్మావతీం చింతయే ॥",
+  "pada_vibhaga": [
+    {
+      "word": "నాగాధీశ్వరవిష్టరామ్",
+      "meaning": "Seated on the king of serpents",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "ఫణిఫణోత్తంసోరురత్నావలీభాస్వద్దేహలతామ్",
+      "meaning": "Whose creeper-like body shines with the necklace of gems from the hoods of serpents",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "దివాకరనిభామ్",
+      "meaning": "Lustrous like the sun",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "నేత్రత్రయోద్భాసితామ్",
+      "meaning": "Illuminated by three eyes",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "మాలాకుంభకపాలనీరజకరామ్",
+      "meaning": "Holding a rosary, a pot, a skull, and a lotus in her hands",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "చంద్రార్థచూడామ్",
+      "meaning": "Wearing the half-moon as a crest jewel",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "పరామ్",
+      "meaning": "The Supreme",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "సర్వజ్ఞేశ్వరభైరవాఙ్కనిలయామ్",
+      "meaning": "Residing on the lap of the omniscient Lord Bhairava (Shiva)",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "పద్మావతీమ్",
+      "meaning": "Goddess Padmavati",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "చింతయే",
+      "meaning": "I meditate upon",
+      "grammar": "Present tense, 1st person, singular, Atmanepada"
+    }
+  ],
+  "anvaya": "నాగాధీశ్వరవిష్టరాం ఫణిఫణోత్తంసోరురత్నావలీభాస్వద్దేహలతాం దివాకరనిభాం నేత్రత్రయోద్భాసితామ్ మాలాకుంభకపాలనీరజకరాం చంద్రార్థచూడాం సర్వజ్ఞేశ్వరభైరవాఙ్కనిలయాం పరాం పద్మావతీం అహం చింతయే.",
+  "tatparyam": {
+    "english": "I meditate on the supreme Goddess Padmavati, who is seated on the lord of serpents. Her slender, creeper-like body glows with the radiant gems adorning the hoods of snakes. She shines like the sun, has three luminous eyes, and holds a rosary, a water-pot, a skull, and a lotus. She wears the crescent moon on Her head and resides on the lap of the omniscient Lord Bhairava.",
+    "telugu": "సర్పరాజమును ఆసనముగా చేసుకున్నది, సర్పముల పడగలపై నున్న మణుల చేత ప్రకాశించుచున్న దేహము కలది, సూర్యుని వలె తేజస్సు గలది, మూడు కన్నులతో ప్రకాశించునది, చేతులలో జపమాల, కుంభము, కపాలము మరియు పద్మము ధరించినది, తలపై అర్థచంద్రుని దాల్చినది, సర్వజ్ఞుడైన భైరవుని (పరమశివుని) ఒడిలో ఆసీనురాలైన పరమేశ్వరి, పద్మావతీ దేవిని నేను ధ్యానించుచున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "దివాకరనిభామ్",
+      "type": "ఉపమిత కర్మధారయ (Upamita Karmadharaya)"
+    },
+    {
+      "compound": "చంద్రార్థచూడామ్",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "భాస్వద్దేహ",
+      "split_words": "భాస్వత్ + దేహ",
+      "sandhi_rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    },
+    {
+      "joined_word": "నేత్రత్రయోద్భాసితామ్",
+      "split_words": "నేత్రత్రయ + ఉద్భాసితామ్",
+      "sandhi_rule": "గుణ సంధి (Guna Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: శార్దూలవిక్రీడితమ్ (Śārdūlavikrīḍitam). Alamkaram: రూపక (Rūpaka)."
+}

@@ -1,0 +1,108 @@
+{
+  "chapter": "2",
+  "sloka_number": "20",
+  "source_citation": "",
+  "original_text_telugu": "శూలం శూలాద్వినిష్కృప్య దదౌ తస్యై పినాకధృక్। చక్రం చ దత్తవాన్ కృష్ణః సముత్పాద్య స్వచక్రతః ॥ 20 ॥",
+  "normalized_sanskrit": "शूलं शूलाद्विनिष्कृष्य ददौ तस्यै पिनाकधृक् । चक्रं च दत्तवान् कृष्णः समुत्पाद्य स्वचक्रतः ॥ २० ॥",
+  "iast": "śūlaṃ śūlād viniṣkṛṣya dadau tasyai pinākadhṛk | cakraṃ ca dattavān kṛṣṇaḥ samutpādya svacakrataḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.20.1",
+      "text": "शूलं शूलाद्विनिष्कृष्य ददौ तस्यै पिनाकधृक्",
+      "anvaya": "पिनाकधृक् स्वशूलात् शूलं विनिष्कृष्य तस्यै ददौ।",
+      "sandhi": [
+        {
+          "joined": "शूलाद्विनिष्कृष्य",
+          "split": "शूलात् + विनिष्कृष्य",
+          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before व्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "पिनाकधृक्",
+          "lemma": "पिनाकधृक्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Śiva, bearer of Pināka"
+        },
+        {
+          "word": "शूलात्",
+          "lemma": "शूल",
+          "grammar": "नपुंसकलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
+          "meaning": "from his trident"
+        },
+        {
+          "word": "शूलम्",
+          "lemma": "शूल",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "a trident"
+        },
+        {
+          "word": "विनिष्कृष्य",
+          "lemma": "वि-निस्-कृष्",
+          "grammar": "ल्यबन्त अव्ययम्",
+          "meaning": "having drawn out"
+        },
+        {
+          "word": "तस्यै",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, चतुर्थी विभक्ति, एकवचनम्",
+          "meaning": "to Her"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Śiva, the bearer of Pināka, drew forth a trident from his own trident and gave it to Her.",
+      "devotional_meaning_telugu": "పినాకధారియైన శివుడు తన శూలము నుండి ఒక శూలమును తీసి దేవికి ఇచ్చెను."
+    },
+    {
+      "sentence_id": "2.20.2",
+      "text": "चक्रं च दत्तवान् कृष्णः समुत्पाद्य स्वचक्रतः",
+      "anvaya": "कृष्णः स्वचक्रतः चक्रं समुत्पाद्य च दत्तवान्।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "कृष्णः",
+          "lemma": "कृष्ण",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Kṛṣṇa, Viṣṇu"
+        },
+        {
+          "word": "स्वचक्रतः",
+          "lemma": "स्वचक्र",
+          "grammar": "पञ्चमी-अर्थक तसिल्-प्रत्ययान्तम्",
+          "meaning": "from his own discus"
+        },
+        {
+          "word": "चक्रम्",
+          "lemma": "चक्र",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "discus"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "समुत्पाद्य",
+          "lemma": "सम्-उत्-पद्",
+          "grammar": "णिच्-ल्यबन्त अव्ययम्",
+          "meaning": "having produced"
+        },
+        {
+          "word": "दत्तवान्",
+          "lemma": "दत्तवत्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Kṛṣṇa produced a discus from his own discus and gave it to Her.",
+      "devotional_meaning_telugu": "కృష్ణుడైన విష్ణువు తన చక్రము నుండి మరొక చక్రమును ఉత్పత్తి చేసి ఆమెకు ఇచ్చెను."
+    }
+  ]
+}

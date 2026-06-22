@@ -1,0 +1,97 @@
+{
+  "id": "durga_saptashati_10_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 10,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం ఉత్తప్తహేమరుచిరాం రవిచంద్రవహ్ని- నేత్రాం ధనుశ్శరయుతాఙ్కుశపాశశూలమ్। రమ్యైర్భుజైశ్చ దధతీం శివశక్తిరూపాం కామేశ్వరీం హృది భజామి ధృతేందులేఖామ్ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "ఉత్తప్తహేమరుచిరామ్",
+      "meaning": "Beautiful like molten gold",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "రవిచంద్రవహ్నినేత్రామ్",
+      "meaning": "Having the sun, moon, and fire as Her eyes",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "ధనుశ్శరయుతాఙ్కుశపాశశూలమ్",
+      "meaning": "Bow along with arrows, goad, noose, and trident",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "రమ్యైః",
+      "meaning": "With lovely",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "భుజైః",
+      "meaning": "With arms",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "చ",
+      "meaning": "And",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "దధతీమ్",
+      "meaning": "Holding",
+      "grammar": "Accusative, singular, feminine (Present participle)"
+    },
+    {
+      "word": "శివశక్తిరూపామ్",
+      "meaning": "The embodiment of Shiva and Shakti",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "కామేశ్వరీమ్",
+      "meaning": "Goddess Kameshwari",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "హృది",
+      "meaning": "In the heart",
+      "grammar": "Locative, singular, neuter"
+    },
+    {
+      "word": "భజామి",
+      "meaning": "I worship",
+      "grammar": "Present tense, 1st person, singular, Parasmaipada"
+    },
+    {
+      "word": "ధృతేందులేఖామ్",
+      "meaning": "Wearing the crescent moon",
+      "grammar": "Accusative, singular, feminine"
+    }
+  ],
+  "anvaya": "ఉత్తప్తహేమరుచిరాం రవిచంద్రవహ్నినేత్రాం రమ్యైర్భుజైః ధనుశ్శరయుతాఙ్కుశపాశశూలమ్ దధతీం శివశక్తిరూపాం ధృతేందులేఖాం కామేశ్వరీం అహం హృది భజామి.",
+  "tatparyam": {
+    "english": "In my heart, I worship Goddess Kameshwari, who is the combined form of Shiva and Shakti. She radiates the brilliant beauty of molten gold, has the sun, moon, and fire as Her three eyes, and wears the crescent moon. With Her lovely arms, She holds a bow with arrows, a goad, a noose, and a trident.",
+    "telugu": "కరిగించిన బంగారం వంటి ప్రకాశం కలది, సూర్యుడు, చంద్రుడు, అగ్నిని మూడు కన్నులుగా గలది, తన అందమైన చేతులలో ధనుస్సు, బాణాలు, అంకుశం, పాశం, త్రిశూలము ధరించినది, తలపై చంద్రరేఖను దాల్చినది మరియు శివశక్తుల ఐక్య స్వరూపమైన కామేశ్వరీ దేవిని నా హృదయంలో భజిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "ఉత్తప్తహేమరుచిరామ్",
+      "type": "ఉపమిత కర్మధారయ (Upamita Karmadharaya)"
+    },
+    {
+      "compound": "రవిచంద్రవహ్నినేత్రామ్",
+      "type": "బహువ్రీహి (Bahuvrihi)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ధనుశ్శర",
+      "split_words": "ధనుః + శర",
+      "sandhi_rule": "విసర్గ సంధి / సకారాదేశ (Visarga Sandhi)"
+    },
+    {
+      "joined_word": "రమ్యైర్భుజైశ్చ",
+      "split_words": "రమ్యైః + భుజైః + చ",
+      "sandhi_rule": "విసర్గ రేఫ / సకారాదేశ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: వసంతతిలకా (Vasantatilakā). Alamkaram: ఉపమా (Upamā)."
+}

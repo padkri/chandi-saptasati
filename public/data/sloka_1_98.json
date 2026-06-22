@@ -1,0 +1,73 @@
+{
+  "id": "durga_saptashati_1_98",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 98,
+  "sloka_original": "కిమన్యేన వరేణాత్ర ఏతావద్ధి వృతం మమ || 98 ||",
+  "pada_vibhaga": [
+    {
+      "word": "కిమ్",
+      "meaning": "ఏమి ప్రయోజనం",
+      "grammar": "ప్రశ్నార్థక అవ్యయం"
+    },
+    {
+      "word": "అన్యేన",
+      "meaning": "ఇతరమైనదితో",
+      "grammar": "అన్య శబ్దం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వరేణ",
+      "meaning": "వరంతో",
+      "grammar": "వర శబ్దం, తృతీయా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "అత్ర",
+      "meaning": "ఇక్కడ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఏతావత్",
+      "meaning": "ఇంత మాత్రమే",
+      "grammar": "పరిమాణవాచక సర్వనామం"
+    },
+    {
+      "word": "హి",
+      "meaning": "నిశ్చయంగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "వృతం",
+      "meaning": "కోరబడినది",
+      "grammar": "వృ ధాతువు, క్త కృదంతం, ప్రథమా/ద్వితీయా విభక్తి, ఏకవచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "మమ",
+      "meaning": "నా చేత, నాకు",
+      "grammar": "అస్మద్ శబ్దం, షష్ఠీ విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "అత్ర అన్యేన వరేణ కిమ్? మమ ఏతావత్ హి వృతం.",
+  "tatparyam": {
+    "english": "What need is there for any other boon? This much alone has been chosen by me.",
+    "telugu": "ఇక్కడ ఇంకొక వరంతో నాకు ఏమి ప్రయోజనం? నేను కోరుకున్నది ఇంత మాత్రమే."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "కిమన్యేన",
+      "split_words": "కిమ్ + అన్యేన",
+      "sandhi_rule": "అనుస్వార/పరసవర్ణ సంధి"
+    },
+    {
+      "joined_word": "వరేణాత్ర",
+      "split_words": "వరేణ + అత్ర",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి"
+    },
+    {
+      "joined_word": "ఏతావద్ధి",
+      "split_words": "ఏతావత్ + హి",
+      "sandhi_rule": "జశ్త్వ సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ భాగం; శ్లోక 97తో భావపూర్ణత పొందుతుంది."
+}

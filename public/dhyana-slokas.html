@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Durga Saptashati - Dhyana Slokas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Noto+Serif+Telugu:wght@400;600;700&family=Noto+Serif:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=14">
+</head>
+<body class="dhyana-page">
+    <header class="top-nav no-print">
+        <a class="brand" href="/">
+            <span class="brand-mark">ॐ</span>
+            <span>
+                <strong>Durga Saptashati</strong>
+                <small>Dhyana Slokas</small>
+            </span>
+        </a>
+        <nav class="mode-nav" aria-label="Mode navigation">
+            <a href="/" class="mode-link">Reader</a>
+            <a href="/dhyana-slokas" class="mode-link active">Dhyana Slokas</a>
+            <a href="/publisher" class="mode-link" data-dev-only hidden>Publisher</a>
+        </nav>
+        <button class="btn btn-outline" id="dhyanaPrintBtn" type="button">Export PDF</button>
+    </header>
+
+    <main class="dhyana-book" id="dhyanaBook">
+        <section class="dhyana-title-block">
+            <div class="book-kicker">శ్రీదుర్గాసప్తశతీ</div>
+            <h1>ధ్యాన శ్లోకాలు</h1>
+            <p>ప్రతి అధ్యాయ ధ్యానశ్లోకం మరియు తెలుగు తాత్పర్యము</p>
+        </section>
+        <div class="dhyana-loading" id="dhyanaLoading">ధ్యానశ్లోకాలు లోడ్ అవుతున్నాయి...</div>
+        <section class="dhyana-list" id="dhyanaList" aria-live="polite"></section>
+    </main>
+
+    <script src="/app-config.js?v=14"></script>
+    <script src="nav.js?v=14"></script>
+    <script src="dhyana-slokas.js?v=14"></script>
+</body>
+</html>

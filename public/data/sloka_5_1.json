@@ -1,0 +1,47 @@
+{
+  "batch": "Chapter 5 - next 18",
+  "source_citation": "",
+  "id": "5.1",
+  "speaker": "ऋषिः उवाच",
+  "sloka_text": "ॐ क्लीं ऋषिरुवाच ॥ 1 ॥",
+  "anvaya": "ऋषिः उवाच।",
+  "word_by_word": [
+    {
+      "word": "ॐ",
+      "type": "प्रणवः",
+      "meaning": "sacred primordial syllable"
+    },
+    {
+      "word": "क्लीं",
+      "type": "बीजाक्षरम्",
+      "meaning": "Kleem bija of the Goddess, invoking attraction and divine power"
+    },
+    {
+      "word": "ऋषिः",
+      "lemma": "ऋषि",
+      "pos": "नाम",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the sage"
+    },
+    {
+      "word": "उवाच",
+      "lemma": "वच्",
+      "pos": "क्रियापदम्",
+      "lakara": "लिट्",
+      "purusha": "प्रथमपुरुषः",
+      "number": "एकवचनम्",
+      "meaning": "said"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "ऋषिरुवाच",
+      "split": "ऋषिः + उवाच",
+      "sandhi_name": "विसर्ग-सन्धिः / रेफादेशः",
+      "rule_description": "अः before a vowel becomes र् in this traditional recitation form."
+    }
+  ],
+  "overall_meaning": "The sage said."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "5.7",
+  "sloka_text": "इति कृत्वा मतिं देवा हिमवन्तं नगेश्वरम्। जग्मुस्तत्र ततो देवीं विष्णुमायां प्रतुष्टुवुः ॥ 7 ॥",
+  "anvaya": "इति मतिं कृत्वा देवाः हिमवन्तं नगेश्वरं जग्मुः। ततः तत्र विष्णुमायां देवीं प्रतुष्टुवुः।",
+  "word_by_word": [
+    {
+      "word": "इति",
+      "pos": "अव्ययम्",
+      "meaning": "thus"
+    },
+    {
+      "word": "कृत्वा",
+      "lemma": "कृ",
+      "pos": "क्त्वान्त-अव्ययम्",
+      "meaning": "having made"
+    },
+    {
+      "word": "मतिम्",
+      "lemma": "मति",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "thought, resolve"
+    },
+    {
+      "word": "देवाः",
+      "lemma": "देव",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "the gods"
+    },
+    {
+      "word": "हिमवन्तम्",
+      "lemma": "हिमवत्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "Himavan, the Himalaya"
+    },
+    {
+      "word": "नगेश्वरम्",
+      "lemma": "नगेश्वर",
+      "compound": "षष्ठी-तत्पुरुषः",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "lord of mountains"
+    },
+    {
+      "word": "जग्मुः",
+      "lemma": "गम्",
+      "pos": "क्रियापदम्",
+      "lakara": "लिट्",
+      "purusha": "प्रथमपुरुषः",
+      "number": "बहुवचनम्",
+      "meaning": "went"
+    },
+    {
+      "word": "तत्र",
+      "pos": "अव्ययम्",
+      "meaning": "there"
+    },
+    {
+      "word": "ततः",
+      "pos": "अव्ययम्",
+      "meaning": "then"
+    },
+    {
+      "word": "देवीम्",
+      "lemma": "देवी",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the Goddess"
+    },
+    {
+      "word": "विष्णुमायाम्",
+      "lemma": "विष्णुमाया",
+      "compound": "षष्ठी-तत्पुरुषः",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the Maya-power of Vishnu"
+    },
+    {
+      "word": "प्रतुष्टुवुः",
+      "lemma": "प्र-स्तु",
+      "pos": "क्रियापदम्",
+      "lakara": "लिट्",
+      "purusha": "प्रथमपुरुषः",
+      "number": "बहुवचनम्",
+      "meaning": "praised"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "जग्मुस्तत्र",
+      "split": "जग्मुः + तत्र",
+      "sandhi_name": "विसर्ग-सन्धिः",
+      "rule_description": "Final ः before त् becomes स्."
+    }
+  ],
+  "overall_meaning": "Having resolved thus, the gods went to Himavan, lord of mountains. There they praised the Goddess, Vishnumaya."
+}

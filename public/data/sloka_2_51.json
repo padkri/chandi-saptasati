@@ -1,0 +1,125 @@
+{
+  "chapter": "2",
+  "sloka_number": "51",
+  "source_citation": "",
+  "original_text_telugu": "ముమోచాసురదేహేషు శస్త్రాణ్యస్త్రాణి చేశ్వరీ। సో పి క్రుద్ధో ధుతసటో దేవ్యా వాహనకేసరీ ॥ 51 ॥",
+  "normalized_sanskrit": "मुमोचासुरदेहेषु शस्त्राण्यस्त्राणि चेश्वरी । सोऽपि क्रुद्धो धुतसटो देव्या वाहनकेसरी ॥ ५१ ॥",
+  "iast": "mumocāsuradeheṣu śastrāṇy astrāṇi ceśvarī | so 'pi kruddho dhutasato devyā vāhanakesarī",
+  "sentence_split": [
+    {
+      "sentence_id": "2.51.1",
+      "text": "मुमोचासुरदेहेषु शस्त्राण्यस्त्राणि चेश्वरी",
+      "anvaya": "ईश्वरी असुरदेहेषु शस्त्राणि अस्त्राणि च मुमोच।",
+      "sandhi": [
+        {
+          "joined": "मुमोचासुरदेहेषु",
+          "split": "मुमोच + असुरदेहेषु",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "शस्त्राण्यस्त्राणि",
+          "split": "शस्त्राणि + अस्त्राणि",
+          "sandhi_name": "యణ్ సంధి: इ before vowel becomes य्"
+        },
+        {
+          "joined": "चेश्वरी",
+          "split": "च + ईश्वरी",
+          "sandhi_name": "గుణ సంధి: अ + ई = ए"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ईश्वरी",
+          "lemma": "ईश्वरी",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the Supreme Lady"
+        },
+        {
+          "word": "असुरदेहेषु",
+          "lemma": "असुरदेह",
+          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, बहुवचनम्",
+          "meaning": "into the bodies of the asuras"
+        },
+        {
+          "word": "शस्त्राणि",
+          "lemma": "शस्त्र",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "weapons"
+        },
+        {
+          "word": "अस्त्राणि",
+          "lemma": "अस्त्र",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "missiles"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "मुमोच",
+          "lemma": "मुच्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "released, discharged"
+        }
+      ],
+      "devotional_meaning_english": "The Supreme Goddess discharged weapons and missiles into the bodies of the asuras.",
+      "devotional_meaning_telugu": "ఈశ్వరీ దేవి అసురుల శరీరములపై శస్త్రాస్త్రములను ప్రయోగించెను."
+    },
+    {
+      "sentence_id": "2.51.2",
+      "text": "सोऽपि क्रुद्धो धुतसटो देव्या वाहनकेसरी",
+      "anvaya": "देव्याः वाहनकेसरी सः अपि क्रुद्धः धुतसटः...",
+      "sandhi": [
+        {
+          "joined": "सोऽपि",
+          "split": "सः + अपि",
+          "sandhi_name": "విసర్గ సంధి: अः + अ = ओऽ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "देव्याः",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
+          "meaning": "of the Goddess"
+        },
+        {
+          "word": "वाहनकेसरी",
+          "lemma": "वाहनकेसरिन्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the lion serving as Her vehicle"
+        },
+        {
+          "word": "सः",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "he"
+        },
+        {
+          "word": "अपि",
+          "lemma": "अपि",
+          "grammar": "अव्ययम्",
+          "meaning": "also"
+        },
+        {
+          "word": "क्रुद्धः",
+          "lemma": "क्रुद्ध",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "angry"
+        },
+        {
+          "word": "धुतसटः",
+          "lemma": "धुतसट",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "shaking his mane"
+        }
+      ],
+      "continuation_note": "The finite verb continues into sloka 52: चचार.",
+      "devotional_meaning_english": "Her lion-vehicle too, enraged and shaking his mane...",
+      "devotional_meaning_telugu": "దేవి వాహనమైన సింహము కూడ కోపంతో తన కేశరములను కదిలించుచూ..."
+    }
+  ]
+}

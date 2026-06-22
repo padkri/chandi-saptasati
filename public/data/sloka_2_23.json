@@ -1,0 +1,124 @@
+{
+  "chapter": "2",
+  "sloka_number": "23",
+  "source_citation": "",
+  "original_text_telugu": "కాలదండాద్యమో దండం పాశం చాంబుపతిర్దదౌ। ప్రజాపతిశ్చాక్షమాలాం దదౌ బ్రహ్మా కమండలుమ్ ॥ 23 ॥",
+  "normalized_sanskrit": "कालदण्डाद्यमो दण्डं पाशं चाम्बुपतिर्ददौ । प्रजापतिश्चाक्षमालां ददौ ब्रह्मा कमण्डलुम् ॥ २३ ॥",
+  "iast": "kāladaṇḍād yamo daṇḍaṃ pāśaṃ cāmbupatir dadau | prajāpatiś cākṣamālāṃ dadau brahmā kamaṇḍalum",
+  "sentence_split": [
+    {
+      "sentence_id": "2.23.1",
+      "text": "कालदण्डाद्यमो दण्डं पाशं चाम्बुपतिर्ददौ",
+      "anvaya": "यमः कालदण्डात् दण्डं ददौ। अम्बुपतिः पाशं च ददौ।",
+      "sandhi": [
+        {
+          "joined": "कालदण्डाद्यमः",
+          "split": "कालदण्डात् + यमः",
+          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before य्"
+        },
+        {
+          "joined": "चाम्बुपतिः",
+          "split": "च + अम्बुपतिः",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "अम्बुपतिर्ददौ",
+          "split": "अम्बुपतिः + ददौ",
+          "sandhi_name": "విసర్గ సంధి: ः before द् becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "यमः",
+          "lemma": "यम",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Yama"
+        },
+        {
+          "word": "कालदण्डात्",
+          "lemma": "कालदण्ड",
+          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
+          "meaning": "from the staff of Time/death"
+        },
+        {
+          "word": "दण्डम्",
+          "lemma": "दण्ड",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "staff"
+        },
+        {
+          "word": "अम्बुपतिः",
+          "lemma": "अम्बुपति",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "lord of waters, Varuṇa"
+        },
+        {
+          "word": "पाशम्",
+          "lemma": "पाश",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "noose"
+        },
+        {
+          "word": "च",
+          "lemma": "च",
+          "grammar": "अव्ययम्",
+          "meaning": "and"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Yama gave Her a staff from his staff of Time, and Varuṇa, lord of waters, gave Her a noose.",
+      "devotional_meaning_telugu": "యముడు కాలదండమునుండి దండమును ఇచ్చెను; జలాధిపతియైన వరుణుడు పాశమును ఇచ్చెను."
+    },
+    {
+      "sentence_id": "2.23.2",
+      "text": "प्रजापतिश्चाक्षमालां ददौ ब्रह्मा कमण्डलुम्",
+      "anvaya": "प्रजापतिः अक्षमालां ददौ। ब्रह्मा कमण्डलुं ददौ।",
+      "sandhi": [
+        {
+          "joined": "प्रजापतिश्चाक्षमालाम्",
+          "split": "प्रजापतिः + च + अक्षमालाम्",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्; च + अ = चा"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "प्रजापतिः",
+          "lemma": "प्रजापति",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Prajāpati"
+        },
+        {
+          "word": "अक्षमालाम्",
+          "lemma": "अक्षमाला",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "rosary"
+        },
+        {
+          "word": "ब्रह्मा",
+          "lemma": "ब्रह्मन्",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Brahmā"
+        },
+        {
+          "word": "कमण्डलुम्",
+          "lemma": "कमण्डलु",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "water-pot"
+        },
+        {
+          "word": "ददौ",
+          "lemma": "दा",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "gave"
+        }
+      ],
+      "devotional_meaning_english": "Prajāpati gave Her a rosary, and Brahmā gave Her a water-pot.",
+      "devotional_meaning_telugu": "ప్రజాపతి ఆమెకు అక్షమాలను ఇచ్చెను; బ్రహ్మ దేవుడు కమండలువును ఇచ్చెను."
+    }
+  ]
+}

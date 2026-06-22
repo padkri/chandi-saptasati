@@ -1,0 +1,52 @@
+{
+  "id": "durga_saptashati_argala_5",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 5,
+  "sloka_original": "రక్తబీజవధే దేవి చండముండ వినాశిని। రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 5 ||",
+  "pada_vibhaga": [
+    {
+      "word": "రక్తబీజవధే",
+      "meaning": "రక్తబీజుని వధించినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "దేవి",
+      "meaning": "ఓ దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "చండముండవినాశిని",
+      "meaning": "చండ ముండులను నాశనం చేసినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం (Phrase)"
+    }
+  ],
+  "anvaya": "హే రక్తబీజవధే దేవి! హే చండముండవినాశిని! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Goddess who slew Raktabija and destroyed Chanda and Munda! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "రక్తబీజుని సంహరించిన ఓ దేవీ! చండముండులను నాశనం చేసిన తల్లీ! నాకు సౌందర్యాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించు మరియు శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "రక్తబీజవధే",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    },
+    {
+      "compound": "చండముండవినాశిని",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "చండముండవినాశిని",
+      "split_words": "చండముండ + వినాశిని",
+      "sandhi_rule": "సమాస పదం (Compound Word without external sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

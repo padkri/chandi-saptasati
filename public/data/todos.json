@@ -1,0 +1,52 @@
+[
+  {
+    "id": "saptasloki_dhyanam",
+    "chapter": "saptasloki",
+    "item_id": "dhyanam",
+    "label": "Dhyana Sloka",
+    "title": "Saptasloki",
+    "source": "reader",
+    "critical": true,
+    "count": 2
+  },
+  {
+    "id": "keelakam_dhyanam",
+    "chapter": "keelakam",
+    "item_id": "dhyanam",
+    "label": "Dhyana Sloka",
+    "title": "Keelakam",
+    "source": "reader",
+    "critical": true,
+    "count": 1
+  },
+  {
+    "id": "argala_dhyanam",
+    "chapter": "argala",
+    "item_id": "dhyanam",
+    "label": "Dhyana Sloka",
+    "title": "Argala",
+    "source": "reader",
+    "critical": true,
+    "count": 1
+  },
+  {
+    "id": "4_1",
+    "chapter": "4",
+    "item_id": "1",
+    "label": "Sloka 1",
+    "title": "Chapter 4",
+    "source": "reader",
+    "critical": true,
+    "count": 4
+  },
+  {
+    "id": "2_1",
+    "chapter": "2",
+    "item_id": "1",
+    "label": "Sloka 1",
+    "title": "Chapter 2",
+    "source": "reader",
+    "critical": true,
+    "count": 1
+  }
+]

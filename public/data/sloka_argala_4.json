@@ -1,0 +1,57 @@
+{
+  "id": "durga_saptashati_argala_4",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 4,
+  "sloka_original": "మహిషాసురనిర్ణాశి భక్తానాం సుఖదే నమః॥ రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 4 ||",
+  "pada_vibhaga": [
+    {
+      "word": "మహిషాసురనిర్ణాశి",
+      "meaning": "మహిషాసురుని సంహరించినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "భక్తానామ్",
+      "meaning": "భక్తులకు",
+      "grammar": "షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "సుఖదే",
+      "meaning": "సుఖమును ప్రసాదించుదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "నమః",
+      "meaning": "నమస్కారము",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం (Phrase)"
+    }
+  ],
+  "anvaya": "హే మహిషాసురనిర్ణాశి! భక్తానాం సుఖదే! (తే) నమః. (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Destroyer of Mahishasura, bestower of happiness to devotees! Salutations to You. Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "మహిషాసురుని సంహరించిన దానా! భక్తులకు సుఖాన్ని ప్రసాదించే తల్లీ! నీకు నమస్కారము. నాకు సౌందర్యాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించు మరియు శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "మహిషాసురనిర్ణాశి",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    },
+    {
+      "compound": "సుఖదే",
+      "type": "ఉపపద తత్పురుష (Upapada Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ద్విషో జహి",
+      "split_words": "ద్విషః + జహి",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

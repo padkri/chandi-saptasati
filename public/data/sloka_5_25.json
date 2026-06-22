@@ -1,0 +1,64 @@
+{
+  "id": "5.25",
+  "sloka_text": "या देवी सर्वभूतेषु निद्रारूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥ 23-25 ॥",
+  "anvaya": "या देवी सर्वभूतेषु निद्रारूपेण संस्थिता, तस्यै नमः, तस्यै नमः, तस्यै नमः नमः।",
+  "word_by_word": [
+    {
+      "word": "या",
+      "lemma": "यद्",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "who"
+    },
+    {
+      "word": "देवी",
+      "lemma": "देवी",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the Goddess"
+    },
+    {
+      "word": "सर्वभूतेषु",
+      "lemma": "सर्व-भूत",
+      "case_vibhakti": "सप्तमी विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "in all beings"
+    },
+    {
+      "word": "निद्रारूपेण",
+      "lemma": "निद्रा-रूप",
+      "compound": "षष्ठी-तत्पुरुषः",
+      "case_vibhakti": "तृतीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "in the form of sleep"
+    },
+    {
+      "word": "संस्थिता",
+      "lemma": "सम्-स्था",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "gender": "स्त्रीलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "abiding, established"
+    },
+    {
+      "word": "नमः तस्यै",
+      "meaning": "salutation to her"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "नमस्तस्यै",
+      "split": "नमः + तस्यै",
+      "sandhi_name": "विसर्ग-सन्धिः"
+    },
+    {
+      "form": "नमोनमः",
+      "split": "नमः + नमः",
+      "sandhi_name": "विसर्ग-सन्धिः"
+    }
+  ],
+  "overall_meaning": "Repeated salutations to that Goddess who is established in all beings in the form of sleep."
+}

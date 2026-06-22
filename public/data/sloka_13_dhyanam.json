@@ -1,0 +1,72 @@
+{
+  "id": "durga_saptashati_13_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 13,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం బాలార్కమండలాభాసాం చతుర్బాహుం త్రినేత్రామ్। పాశాఙ్కుశవరాభీతీర్ధారయంతీం శివాం భజే ॥",
+  "pada_vibhaga": [
+    {
+      "word": "బాలార్కమండలాభాసామ్",
+      "meaning": "Shining like the orb of the rising sun",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "చతుర్బాహుమ్",
+      "meaning": "Four-armed",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "త్రినేత్రామ్",
+      "meaning": "Three-eyed",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "పాశాఙ్కుశవరాభీతీః",
+      "meaning": "Noose, goad, boon-giving gesture, and fear-dispelling gesture",
+      "grammar": "Accusative, plural, feminine"
+    },
+    {
+      "word": "ధారయంతీమ్",
+      "meaning": "Holding / Bearing",
+      "grammar": "Accusative, singular, feminine (Present participle)"
+    },
+    {
+      "word": "శివామ్",
+      "meaning": "Goddess Shivaa (The Auspicious One)",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "భజే",
+      "meaning": "I worship",
+      "grammar": "Present tense, 1st person, singular, Atmanepada"
+    }
+  ],
+  "anvaya": "బాలార్కమండలాభాసాం చతుర్బాహుం త్రినేత్రామ్ పాశాఙ్కుశవరాభీతీః ధారయంతీం శివాం అహం భజే.",
+  "tatparyam": {
+    "english": "I worship Goddess Shivaa (the auspicious consort of Shiva), who shines brilliantly like the orb of the morning sun. She has four arms, three eyes, and holds a noose, a goad, and gestures that grant boons and dispel fear.",
+    "telugu": "ఉదయ సూర్యమండలం వలె ప్రకాశించేది, నాలుగు చేతులు మరియు మూడు కన్నులు గలది, పాశము, అంకుశము, వరముద్ర మరియు అభయముద్రను ధరించిన మంగళప్రదమైన శివా దేవిని నేను పూజిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "బాలార్కమండలాభాసామ్",
+      "type": "ఉపమిత కర్మధారయ (Upamita Karmadharaya)"
+    },
+    {
+      "compound": "పాశాఙ్కుశవరాభీతీః",
+      "type": "ద్వంద్వ సమాస (Dvandva Samasa)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "వరాభీతీర్ధారయంతీమ్",
+      "split_words": "వరాభీతీః + ధారయంతీమ్",
+      "sandhi_rule": "విసర్గ రేఫ సంధి (Visarga Repha Sandhi)"
+    },
+    {
+      "joined_word": "బాలార్క",
+      "split_words": "బాల + అర్క",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup). Alamkaram: ఉపమా (Upamā)."
+}

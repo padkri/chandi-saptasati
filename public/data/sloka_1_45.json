@@ -1,0 +1,73 @@
+{
+  "id": "durga_saptashati_1_45",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 45,
+  "sloka_original": "మమాస్య చ భవత్యేషా వివేకాంధస్య మూఢతా || 45 ||",
+  "pada_vibhaga": [
+    {
+      "word": "మమ",
+      "meaning": "నా",
+      "grammar": "అస్మద్ శబ్దం, షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అస్య",
+      "meaning": "ఇతని",
+      "grammar": "ఇదమ్ సర్వనామం, షష్ఠీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "భవతి",
+      "meaning": "కలుగుతోంది",
+      "grammar": "భూ ధాతువు, లట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    },
+    {
+      "word": "ఏషా",
+      "meaning": "ఈ",
+      "grammar": "ఏతద్ సర్వనామం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "వివేకాంధస్య",
+      "meaning": "వివేకం అంధమైపోయినవాడి",
+      "grammar": "సమాస పదం, షష్ఠీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "మూఢతా",
+      "meaning": "మూఢత్వం, అవివేకం",
+      "grammar": "మూఢతా శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    }
+  ],
+  "anvaya": "మమ చ అస్య చ ఏషా వివేకాంధస్య మూఢతా భవతి.",
+  "tatparyam": {
+    "english": "This delusion, as though our discernment has become blind, arises in both me and him.",
+    "telugu": "నా దగ్గరా ఇతని దగ్గరా వివేకం అంధమైపోయినట్లుగా ఈ మూఢత్వం కలుగుతోంది."
+  },
+  "samasas": [
+    {
+      "compound": "వివేకాంధస్య",
+      "type": "తృతీయా తత్పురుష/బహువ్రీహి సమాస భావం"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "మమాస్య",
+      "split_words": "మమ + అస్య",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి"
+    },
+    {
+      "joined_word": "భవత్యేషా",
+      "split_words": "భవతి + ఏషా",
+      "sandhi_rule": "యణ్ సంధి"
+    },
+    {
+      "joined_word": "వివేకాంధస్య",
+      "split_words": "వివేక + అంధస్య",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ భాగం; శ్లోక 44తో భావపూర్ణత పొందుతుంది."
+}

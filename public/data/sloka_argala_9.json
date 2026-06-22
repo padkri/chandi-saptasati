@@ -1,0 +1,58 @@
+{
+  "id": "durga_saptashati_argala_9",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 9,
+  "sloka_original": "నతేభ్యః సర్వదా భక్త్యా చండికే దురితాపహే! రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 9 ||",
+  "pada_vibhaga": [
+    {
+      "word": "నతేభ్యః",
+      "meaning": "నమస్కరించు వారికి",
+      "grammar": "చతుర్థీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "సర్వదా",
+      "meaning": "ఎల్లప్పుడూ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "భక్త్యా",
+      "meaning": "భక్తితో",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చండికే",
+      "meaning": "ఓ చండికా దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "దురితాపహే",
+      "meaning": "పాపాలను/కష్టాలను పోగొట్టుదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే దురితాపహే చండికే! భక్త్యా సర్వదా నతేభ్యః (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Chandika, who removes the sins of those who always bow to You with devotion! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "పాపాలను పోగొట్టే ఓ చండికా దేవీ! నీకు ఎల్లప్పుడూ భక్తితో నమస్కరించే నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "దురితాపహే",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "దురితాపహే",
+      "split_words": "దురిత + అపహే",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

@@ -1,0 +1,129 @@
+{
+  "chapter": "2",
+  "sloka_number": "36",
+  "source_citation": "",
+  "original_text_telugu": "సన్నద్ధాఖిలసైన్యాస్తే సముత్తస్థురుదాయుధాః। ఆః కిమేతదితి క్రోధాదాభాష్య మహిషాసురః ॥ 36 ॥",
+  "normalized_sanskrit": "सन्नद्धाखिलसैन्यास्ते समुत्तस्थुरुदायुधाः । आः किमेतदिति क्रोधादाभाष्य महिषासुरः ॥ ३६ ॥",
+  "iast": "sannaddhākhilasainyās te samuttasthur udāyudhāḥ | āḥ kim etad iti krodhād ābhāṣya mahiṣāsuraḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.36.1",
+      "text": "सन्नद्धाखिलसैन्यास्ते समुत्तस्थुरुदायुधाः",
+      "anvaya": "ते उदायुधाः सन्नद्धाखिलसैन्याः समुत्तस्थुः।",
+      "sandhi": [
+        {
+          "joined": "सन्नद्धाखिल",
+          "split": "सन्नद्ध + अखिल",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "सैन्यास्ते",
+          "split": "सैन्याः + ते",
+          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्"
+        },
+        {
+          "joined": "समुत्तस्थुरुदायुधाः",
+          "split": "समुत्तस्थुः + उदायुधाः",
+          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ते",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "they"
+        },
+        {
+          "word": "सन्नद्धाखिलसैन्याः",
+          "lemma": "सन्नद्धाखिलसैन्य",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "with all their armies armed and arrayed"
+        },
+        {
+          "word": "उदायुधाः",
+          "lemma": "उदायुध",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "with weapons raised"
+        },
+        {
+          "word": "समुत्तस्थुः",
+          "lemma": "सम्-उत्-स्था",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
+          "meaning": "rose up"
+        }
+      ],
+      "devotional_meaning_english": "They rose up with all their armies armed and their weapons raised.",
+      "devotional_meaning_telugu": "వారు సమస్త సైన్యములను సిద్ధపరచుకొని, ఆయుధములు ఎత్తుకొని లేచిరి."
+    },
+    {
+      "sentence_id": "2.36.2",
+      "text": "आः किमेतदिति क्रोधादाभाष्य महिषासुरः",
+      "anvaya": "महिषासुरः क्रोधात् ‘आः, किम् एतत्?’ इति आभाष्य...",
+      "sandhi": [
+        {
+          "joined": "किमेतत्",
+          "split": "किम् + एतत्",
+          "sandhi_name": "म् before vowel retained"
+        },
+        {
+          "joined": "एतदिति",
+          "split": "एतत् + इति",
+          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before vowel"
+        },
+        {
+          "joined": "क्रोधादाभाष्य",
+          "split": "क्रोधात् + आभाष्य",
+          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before vowel"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "महिषासुरः",
+          "lemma": "महिषासुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Mahishasura"
+        },
+        {
+          "word": "क्रोधात्",
+          "lemma": "क्रोध",
+          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
+          "meaning": "out of anger"
+        },
+        {
+          "word": "आः",
+          "lemma": "आः",
+          "grammar": "उद्गारः, अव्ययम्",
+          "meaning": "Ah! / What!"
+        },
+        {
+          "word": "किम्",
+          "lemma": "किम्",
+          "grammar": "प्रश्नवाचक सर्वनाम, नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "what"
+        },
+        {
+          "word": "एतत्",
+          "lemma": "एतद्",
+          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "this"
+        },
+        {
+          "word": "इति",
+          "lemma": "इति",
+          "grammar": "अव्ययम्",
+          "meaning": "thus"
+        },
+        {
+          "word": "आभाष्य",
+          "lemma": "आ-भाष्",
+          "grammar": "ल्यबन्त अव्ययम्",
+          "meaning": "having spoken, having exclaimed"
+        }
+      ],
+      "continuation_note": "This participial clause continues syntactically into sloka 37, where the finite action ‘अभ्यधावत’ occurs.",
+      "devotional_meaning_english": "Mahishasura, in anger, exclaimed, “Ah! What is this?”",
+      "devotional_meaning_telugu": "మహిషాసురుడు కోపముతో ‘ఆః! ఇది ఏమిటి?’ అని పలికెను."
+    }
+  ]
+}

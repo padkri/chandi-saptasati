@@ -1,0 +1,123 @@
+{
+  "chapter": "2",
+  "sloka_number": "65",
+  "source_citation": "",
+  "original_text_telugu": "పాతితై రథనాగాశ్వైరసురైశ్చ వసుంధరా। అగమ్యా సాభవత్తత్ర యత్రాభూత్స మహారణః ॥ 65 ॥",
+  "normalized_sanskrit": "पातितै रथनागाश्वैरसुरैश्च वसुन्धरा । अगम्या साभवत्तत्र यत्राभूत्स महारणः ॥ ६५ ॥",
+  "iast": "pātitai rathanāgāśvair asuraiś ca vasundharā | agamyā sābhavat tatra yatrābhūt sa mahāraṇaḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.65.1",
+      "text": "पातितै रथनागाश्वैरसुरैश्च वसुन्धरा अगम्या साभवत्तत्र यत्राभूत्स महारणः",
+      "anvaya": "यत्र सः महारणः अभूत्, तत्र पातितैः रथनागाश्वैः असुरैः च सा वसुन्धरा अगम्या अभवत्।",
+      "sandhi": [
+        {
+          "joined": "रथनागाश्वैः",
+          "split": "रथ + नाग + अश्वैः",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "अश्वैरसुरैः",
+          "split": "अश्वैः + असुरैः",
+          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before vowel becomes र्"
+        },
+        {
+          "joined": "असुरैश्च",
+          "split": "असुरैः + च",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        },
+        {
+          "joined": "साभवत्",
+          "split": "सा + अभवत्",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        },
+        {
+          "joined": "यत्राभूत्",
+          "split": "यत्र + अभूत्",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "अभूत्सः",
+          "split": "अभूत् + सः",
+          "sandhi_name": "వ్యంజన సంధి: final त् before स् remains/assimilates as त्स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "यत्र",
+          "lemma": "यत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "where"
+        },
+        {
+          "word": "सः",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "that"
+        },
+        {
+          "word": "महारणः",
+          "lemma": "महारण",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "great battle"
+        },
+        {
+          "word": "अभूत्",
+          "lemma": "भू",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "occurred"
+        },
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "पातितैः",
+          "lemma": "पातित",
+          "grammar": "पुंलिङ्ग/नपुंसकलिङ्ग, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "fallen"
+        },
+        {
+          "word": "रथनागाश्वैः",
+          "lemma": "रथ-नाग-अश्व",
+          "grammar": "द्वन्द्वसमासः, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with chariots, elephants, and horses"
+        },
+        {
+          "word": "असुरैः",
+          "lemma": "असुर",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with asuras"
+        },
+        {
+          "word": "वसुन्धरा",
+          "lemma": "वसुन्धरा",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the earth"
+        },
+        {
+          "word": "सा",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "she, that earth"
+        },
+        {
+          "word": "अगम्या",
+          "lemma": "अगम्य",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "impassable"
+        },
+        {
+          "word": "अभवत्",
+          "lemma": "भू",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "became"
+        }
+      ],
+      "devotional_meaning_english": "Where that great battle took place, the earth became impassable with fallen chariots, elephants, horses, and asuras.",
+      "devotional_meaning_telugu": "ఆ మహారణము జరిగిన ప్రదేశములో పడిపోయిన రథాలు, ఏనుగులు, గుర్రాలు, అసురులతో భూమి దాటలేనిదిగా మారెను."
+    }
+  ]
+}

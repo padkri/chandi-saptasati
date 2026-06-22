@@ -1,0 +1,112 @@
+{
+  "chapter": "2",
+  "sloka_number": "54",
+  "source_citation": "",
+  "original_text_telugu": "నాశయంతో సురగణాన్ దేవీశక్త్యుపబృంహితాః। అవాదయంత పటహాన్ గణాః శఙ్ఞాంస్తథాపరే ॥ 54 ॥",
+  "normalized_sanskrit": "नाशयन्तोऽसुरगणान् देवीशक्त्युपबृंहिताः । अवादयन्त पटहान् गणाः शङ्खांस्तथापरे ॥ ५४ ॥",
+  "iast": "nāśayanto 'suragaṇān devīśaktyupabṛṃhitāḥ | avādayanta paṭahān gaṇāḥ śaṅkhāṃs tathāpare",
+  "sentence_split": [
+    {
+      "sentence_id": "2.54.1",
+      "text": "नाशयन्तोऽसुरगणान् देवीशक्त्युपबृंहिताः",
+      "anvaya": "देवीशक्त्युपबृंहिताः गणाः असुरगणान् नाशयन्तः...",
+      "sandhi": [
+        {
+          "joined": "नाशयन्तोऽसुरगणान्",
+          "split": "नाशयन्तः + असुरगणान्",
+          "sandhi_name": "విసర్గ సంధి: अः + अ = ओऽ"
+        },
+        {
+          "joined": "देवीशक्त्युपबृंहिताः",
+          "split": "देवीशक्ति + उपबृंहिताः",
+          "sandhi_name": "యణ్ సంధి: इ before उ becomes य्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "गणाः",
+          "lemma": "गण",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्; supplied",
+          "meaning": "the hosts"
+        },
+        {
+          "word": "देवीशक्त्युपबृंहिताः",
+          "lemma": "देवीशक्त्युपबृंहित",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "strengthened by the Goddess’s power"
+        },
+        {
+          "word": "असुरगणान्",
+          "lemma": "असुरगण",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "hosts of asuras"
+        },
+        {
+          "word": "नाशयन्तः",
+          "lemma": "नाशयत्",
+          "grammar": "वर्तमान कृदन्तम्, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "destroying"
+        }
+      ],
+      "devotional_meaning_english": "Strengthened by the power of the Goddess, the hosts destroyed the bands of asuras.",
+      "devotional_meaning_telugu": "దేవి శక్తిచేత బలపరచబడిన గణములు అసురగణములను సంహరించుచుండిరి."
+    },
+    {
+      "sentence_id": "2.54.2",
+      "text": "अवादयन्त पटहान् गणाः शङ्खांस्तथापरे",
+      "anvaya": "गणाः पटहान् अवादयन्त। अपरे तथा शङ्खान् अवादयन्त।",
+      "sandhi": [
+        {
+          "joined": "शङ्खांस्तथा",
+          "split": "शङ्खान् + तथा",
+          "sandhi_name": "నకార సంధి: न् before त् becomes nasalized; written शङ्खांस्"
+        },
+        {
+          "joined": "तथापरे",
+          "split": "तथा + अपरे",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "गणाः",
+          "lemma": "गण",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "the hosts"
+        },
+        {
+          "word": "पटहान्",
+          "lemma": "पटह",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "war-drums"
+        },
+        {
+          "word": "अवादयन्त",
+          "lemma": "अ-वादय्",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, बहुवचनम्, परस्मैपदम्",
+          "meaning": "played, sounded"
+        },
+        {
+          "word": "अपरे",
+          "lemma": "अपर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "others"
+        },
+        {
+          "word": "शङ्खान्",
+          "lemma": "शङ्ख",
+          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "conches"
+        },
+        {
+          "word": "तथा",
+          "lemma": "तथा",
+          "grammar": "अव्ययम्",
+          "meaning": "likewise"
+        }
+      ],
+      "devotional_meaning_english": "The hosts sounded war-drums, while others likewise blew conches.",
+      "devotional_meaning_telugu": "గణములు పటహములను మోగించిరి; మరికొందరు అలాగే శంఖములను పూరించిరి."
+    }
+  ]
+}

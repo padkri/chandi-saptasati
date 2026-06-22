@@ -1,0 +1,91 @@
+{
+  "id": "5.9",
+  "sloka_text": "नमो देव्यै महादेव्यै शिवायै सततं नमः। नमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम् ॥ 9 ॥",
+  "anvaya": "देव्यै महादेव्यै शिवायै सततं नमः। प्रकृत्यै भद्रायै नमः। नियताः प्रणताः स्म ताम्।",
+  "word_by_word": [
+    {
+      "word": "नमः",
+      "lemma": "नमस्",
+      "pos": "अव्ययम्",
+      "meaning": "salutation"
+    },
+    {
+      "word": "देव्यै",
+      "lemma": "देवी",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the Goddess"
+    },
+    {
+      "word": "महादेव्यै",
+      "lemma": "महादेवी",
+      "compound": "कर्मधारयः",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the Great Goddess"
+    },
+    {
+      "word": "शिवायै",
+      "lemma": "शिवा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the auspicious one"
+    },
+    {
+      "word": "सततम्",
+      "pos": "अव्ययम्",
+      "meaning": "always"
+    },
+    {
+      "word": "प्रकृत्यै",
+      "lemma": "प्रकृति",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to Prakriti, primordial nature"
+    },
+    {
+      "word": "भद्रायै",
+      "lemma": "भद्रा",
+      "case_vibhakti": "चतुर्थी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "to the benevolent one"
+    },
+    {
+      "word": "नियताः",
+      "lemma": "नियत",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "restrained, disciplined"
+    },
+    {
+      "word": "प्रणताः",
+      "lemma": "प्र-नम्",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "bowed down"
+    },
+    {
+      "word": "स्म",
+      "pos": "अव्ययम्",
+      "meaning": "indeed"
+    },
+    {
+      "word": "ताम्",
+      "lemma": "तद्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "her"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "देव्यै",
+      "split": "देवी + ङे",
+      "sandhi_name": "सुप्-प्रत्यय-रूपसिद्धिः",
+      "rule_description": "ई-ending feminine takes चतुर्थी एकवचन ending ऐ."
+    }
+  ],
+  "overall_meaning": "Salutations to the Goddess, to the Great Goddess, to the auspicious one, always. Salutations to Prakriti and to the benevolent one. Disciplined and devoted, we bow to her."
+}

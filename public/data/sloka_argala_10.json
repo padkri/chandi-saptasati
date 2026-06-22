@@ -1,0 +1,58 @@
+{
+  "id": "durga_saptashati_argala_10",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 10,
+  "sloka_original": "స్తువద్భ్యో భక్తిపూర్వం త్వాం చండికే వ్యాధివినాశిని। రూపం దేహి జయం దేహి యశోదేహి ద్విషో జహి || 10 ||",
+  "pada_vibhaga": [
+    {
+      "word": "స్తువద్భ్యః",
+      "meaning": "స్తుతించువారికి",
+      "grammar": "చతుర్థీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "భక్తిపూర్వమ్",
+      "meaning": "భక్తిపూర్వకంగా",
+      "grammar": "అవ్యయం / క్రియావిశేషణం"
+    },
+    {
+      "word": "త్వామ్",
+      "meaning": "నిన్ను",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చండికే",
+      "meaning": "ఓ చండికా దేవీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "వ్యాధివినాశిని",
+      "meaning": "వ్యాధులను నాశనం చేయుదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే వ్యాధివినాశిని చండికే! త్వాం భక్తిపూర్వం స్తువద్భ్యః (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Chandika, destroyer of all illnesses! To those who praise You with devotion, grant form, victory, fame, and destroy their enemies.",
+    "telugu": "వ్యాధులను హరించే ఓ చండికా దేవీ! నిన్ను భక్తిపూర్వకంగా స్తుతించే మాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "వ్యాధివినాశిని",
+      "type": "ద్వితీయా తత్పురుష (Dvitiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "స్తువద్భ్యో",
+      "split_words": "స్తువద్భ్యః + (భక్తిపూర్వం)",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

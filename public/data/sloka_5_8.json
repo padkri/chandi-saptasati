@@ -1,0 +1,34 @@
+{
+  "id": "5.8",
+  "speaker": "देवाः ऊचुः",
+  "sloka_text": "देवा ऊचुः ॥ 8 ॥",
+  "anvaya": "देवाः ऊचुः।",
+  "word_by_word": [
+    {
+      "word": "देवाः",
+      "lemma": "देव",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "the gods"
+    },
+    {
+      "word": "ऊचुः",
+      "lemma": "वच्",
+      "pos": "क्रियापदम्",
+      "lakara": "लिट्",
+      "purusha": "प्रथमपुरुषः",
+      "number": "बहुवचनम्",
+      "meaning": "said"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "देवा ऊचुः",
+      "split": "देवाः + ऊचुः",
+      "sandhi_name": "विसर्ग-लोपः",
+      "rule_description": "Final visarga after आ is dropped before a vowel in this recitational form."
+    }
+  ],
+  "overall_meaning": "The gods said."
+}

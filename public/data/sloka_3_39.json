@@ -1,0 +1,34 @@
+{
+  "id": "durga_saptashati_chapter_3_sloka_39",
+  "source": "Durga Saptashati - Chapter 3",
+  "chapter": 3,
+  "sloka_number": 39,
+  "source_citation": "",
+  "sloka_original": "**ఋషిరువాచ || 39 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "ఋషిః",
+      "meaning": "ఋషి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "పలికెను",
+      "grammar": "లిట్ లకారం, ప్రథమ పురుష ఏకవచనం, √వచ్ ధాతువు"
+    }
+  ],
+  "anvaya": "ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "The sage said.",
+    "telugu": "ఋషి ఇలా పలికెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — ః + ఉ → రు"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: వక్తృనిర్దేశ వాక్యం; అనుష్టుప్ కాదు."
+}

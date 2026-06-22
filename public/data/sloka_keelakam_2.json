@@ -1,0 +1,88 @@
+{
+  "id": "durga_saptashati_keelakam_2",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 2,
+  "sloka_original": "సర్వమేతద్విజానీయాన్మంత్రాణామభికీలకమ్। సోపి క్షేమమవాప్నోతి సతతం జాప్యతత్పరః || 2 ||",
+  "pada_vibhaga": [
+    {
+      "word": "సర్వమ్",
+      "meaning": "All this",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఏతత్",
+      "meaning": "This",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "విజానీయాత్",
+      "meaning": "One should know",
+      "grammar": "విధిలిఙ్, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "మంత్రాణామ్",
+      "meaning": "Of the mantras",
+      "grammar": "షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అభికీలకమ్",
+      "meaning": "The pin / the lock (that restricts)",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సః",
+      "meaning": "He",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Also",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "క్షేమమ్",
+      "meaning": "Well-being / welfare",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అవాప్నోతి",
+      "meaning": "Attains",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సతతమ్",
+      "meaning": "Constantly",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "జాప్యతత్పరః",
+      "meaning": "Devoted to chanting",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "మంత్రాణామ్ అభికీలకమ్ ఏతత్ సర్వమ్ విజానీయాత్. సతతం జాప్యతత్పరః సః అపి క్షేమమ్ అవాప్నోతి.",
+  "tatparyam": {
+    "english": "One should understand all this as the 'Keelakam' (the secret lock or pin) of the mantras. He who is constantly devoted to chanting it attains ultimate well-being.",
+    "telugu": "మంత్రాలన్నింటికీ ఉన్న 'కీలకము' (బంధనము) ఏమిటో ముందుగా తెలుసుకోవాలి. దీనిని నిరంతరం జపించేవాడు సకల క్షేమాలను పొందుతాడు."
+  },
+  "samasas": [
+    {
+      "compound": "జాప్యతత్పరః",
+      "type": "సప్తమీ తత్పురుష (Saptami Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సర్వమేతద్విజానీయాన్మంత్రాణామ్",
+      "split_words": "సర్వమ్ + ఏతత్ + విజానీయాత్ + మంత్రాణామ్",
+      "sandhi_rule": "జశ్త్వ సంధి, అనునాసిక సంధి (Jaśtva & Anunasika Sandhi)"
+    },
+    {
+      "joined_word": "సోపి",
+      "split_words": "సః + అపి",
+      "sandhi_rule": "పూర్వరూప సంధి (Purvarupa Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

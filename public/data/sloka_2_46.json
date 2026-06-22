@@ -1,0 +1,103 @@
+{
+  "chapter": "2",
+  "sloka_number": "46",
+  "source_citation": "",
+  "original_text_telugu": "యుయుధుః సంయుగే దేవ్యా సహ తత్ర మహాసురాః। కోటికోటి సహస్రైస్తు రథానాం దంతినాం తథా ॥ 46 ॥",
+  "normalized_sanskrit": "युयुधुः संयुगे देव्या सह तत्र महासुराः । कोटिकोटिसहस्रैस्तु रथानां दन्तिनां तथा ॥ ४६ ॥",
+  "iast": "yuyudhuḥ saṃyuge devyā saha tatra mahāsurāḥ | koṭikoṭisahasrais tu rathānāṃ dantināṃ tathā",
+  "sentence_split": [
+    {
+      "sentence_id": "2.46.1",
+      "text": "युयुधुः संयुगे देव्या सह तत्र महासुराः",
+      "anvaya": "तत्र महासुराः संयुगे देव्या सह युयुधुः।",
+      "sandhi": [],
+      "word_analysis": [
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "महासुराः",
+          "lemma": "महासुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "great asuras"
+        },
+        {
+          "word": "संयुगे",
+          "lemma": "संयुग",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in battle"
+        },
+        {
+          "word": "देव्या",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "with the Goddess"
+        },
+        {
+          "word": "सह",
+          "lemma": "सह",
+          "grammar": "अव्ययम्",
+          "meaning": "with"
+        },
+        {
+          "word": "युयुधुः",
+          "lemma": "युध्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        }
+      ],
+      "devotional_meaning_english": "There the great asuras fought with the Goddess in battle.",
+      "devotional_meaning_telugu": "అక్కడ మహాసురులు యుద్ధరంగములో దేవితో యుద్ధము చేసిరి."
+    },
+    {
+      "sentence_id": "2.46.2",
+      "text": "कोटिकोटिसहस्रैस्तु रथानां दन्तिनां तथा",
+      "anvaya": "रथानां दन्तिनां तथा कोटिकोटिसहस्रैः तु...",
+      "sandhi": [
+        {
+          "joined": "सहस्रैस्तु",
+          "split": "सहस्रैः + तु",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "कोटिकोटिसहस्रैः",
+          "lemma": "कोटिकोटिसहस्र",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with thousands of crores upon crores"
+        },
+        {
+          "word": "तु",
+          "lemma": "तु",
+          "grammar": "अव्ययम्",
+          "meaning": "indeed"
+        },
+        {
+          "word": "रथानाम्",
+          "lemma": "रथ",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of chariots"
+        },
+        {
+          "word": "दन्तिनाम्",
+          "lemma": "दन्तिन्",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of elephants"
+        },
+        {
+          "word": "तथा",
+          "lemma": "तथा",
+          "grammar": "अव्ययम्",
+          "meaning": "and also"
+        }
+      ],
+      "continuation_note": "This enumeration continues into sloka 47 with हयानां च.",
+      "devotional_meaning_english": "They were accompanied by countless thousands of crores of chariots and elephants...",
+      "devotional_meaning_telugu": "వారు కోటికోటిసహస్రాల రథములు, ఏనుగులతో కూడి..."
+    }
+  ]
+}

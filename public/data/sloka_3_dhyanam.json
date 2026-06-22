@@ -1,0 +1,146 @@
+{
+  "id": "durga_saptashati_3_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 3,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం ఉద్యాద్భానుసహస్రకాంతిమరుణక్షౌమాం శిరోమాలికాం రక్తాలిప్తపయోధరాం జపవటీం విద్యామభీతిం వరమ్ | హస్తబై ర్దధతీం త్రినేత్రవిలసద్వక్తారవిందశ్రియం దేవీం బద్దహిమాంశురత్నముకుటాం వందే≥రవిందస్థితామ్ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "Om (the sacred syllable)",
+      "grammar": "Indeclinable, auspicious syllable"
+    },
+    {
+      "word": "ఉద్యాద్భానుసహస్రకాంతిమ్",
+      "meaning": "having the radiance of a thousand rising suns",
+      "grammar": "Adjective, Accusative singular, Feminine"
+    },
+    {
+      "word": "అరుణక్షౌమామ్",
+      "meaning": "wearing red silken garments",
+      "grammar": "Adjective, Accusative singular, Feminine"
+    },
+    {
+      "word": "శిరోమాలికామ్",
+      "meaning": "a garland for the head",
+      "grammar": "Noun, Accusative singular, Feminine"
+    },
+    {
+      "word": "రక్తాలిప్తపయోధరామ్",
+      "meaning": "whose breasts are smeared with blood",
+      "grammar": "Adjective, Accusative singular, Feminine"
+    },
+    {
+      "word": "జపవటీమ్",
+      "meaning": "a rosary",
+      "grammar": "Noun, Accusative singular, Feminine"
+    },
+    {
+      "word": "విద్యామ్",
+      "meaning": "knowledge",
+      "grammar": "Noun, Accusative singular, Feminine"
+    },
+    {
+      "word": "అభీతిమ్",
+      "meaning": "fearlessness (mudra)",
+      "grammar": "Noun, Accusative singular, Feminine"
+    },
+    {
+      "word": "వరమ్",
+      "meaning": "boon (mudra)",
+      "grammar": "Noun, Accusative singular, Masculine/Neuter"
+    },
+    {
+      "word": "హస్తబైః",
+      "meaning": "by her hands (original text has 'హస్తబైః', corrected to 'హస్తైః' for meaning)",
+      "grammar": "Noun, Instrumental plural"
+    },
+    {
+      "word": "దధతీమ్",
+      "meaning": "holding",
+      "grammar": "Present participle, Accusative singular, Feminine"
+    },
+    {
+      "word": "త్రినేత్రవిలసద్వక్తారవిందశ్రియమ్",
+      "meaning": "having the beauty of a lotus-like face shining with three eyes",
+      "grammar": "Adjective, Accusative singular, Feminine"
+    },
+    {
+      "word": "దేవీమ్",
+      "meaning": "the Goddess",
+      "grammar": "Noun, Accusative singular, Feminine"
+    },
+    {
+      "word": "బద్దహిమాంశురత్నముకుటామ్",
+      "meaning": "wearing a crown adorned with moon-gems",
+      "grammar": "Adjective, Accusative singular, Feminine"
+    },
+    {
+      "word": "వందే",
+      "meaning": "I bow",
+      "grammar": "Verb, 1st person singular, Present tense, Atmanepada"
+    },
+    {
+      "word": "అరవిందస్థితామ్",
+      "meaning": "seated on a lotus",
+      "grammar": "Adjective, Accusative singular, Feminine"
+    }
+  ],
+  "anvaya": "అహం ఉద్యాద్భానుసహస్రకాంతిమ్, అరుణక్షౌమామ్, రక్తాలిప్తపయోధరామ్, శిరోమాలికాం, జపవటీం, విద్యామ్, అభీతిం, వరం (చ) హస్తైః దధతీం, త్రినేత్రవిలసద్వక్తారవిందశ్రియమ్, బద్దహిమాంశురత్నముకుటాం, అరవిందస్థితాం దేవీం వందే.",
+  "tatparyam": {
+    "english": "I bow to the Goddess who shines with the radiance of a thousand rising suns, is clad in red silken garments, whose breasts are smeared with blood, who holds a garland for her head, a rosary, knowledge, the gesture of fearlessness (abhīti mudra), and the gesture of granting boons (vara mudra) in her hands. Her lotus-like face is resplendent with three eyes, she wears a crown adorned with moon-gems, and she is seated upon a lotus.",
+    "telugu": "ఉదయించుచున్న వేల సూర్యుల కాంతితో ప్రకాశించునది, ఎర్రని పట్టువస్త్రములను ధరించినది, రక్తముతో పూయబడిన స్తనములు కలది, తన చేతులలో శిరోమాలికను, జపమాలికను, విద్యను, అభయముద్రను, వరముద్రను ధరించినది, మూడు నేత్రములతో ప్రకాశించుచున్న పద్మము వంటి ముఖము కలది, చంద్రరత్నములతో అలంకరించబడిన కిరీటమును ధరించినది, పద్మముపై ఆసీనురాలైన ఆ దేవికి నేను నమస్కరించుచున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "ఉద్యాద్భానుసహస్రకాంతిమ్",
+      "type": "बहुव्रीहि (Bahuvrīhi)"
+    },
+    {
+      "compound": "అరుణక్షౌమామ్",
+      "type": "बहुव्रीहि (Bahuvrīhi)"
+    },
+    {
+      "compound": "శిరోమాలికామ్",
+      "type": "सप्तमी तत्पुरुष (Saptamī Tatpuruṣa)"
+    },
+    {
+      "compound": "రక్తాలిప్తపయోధరామ్",
+      "type": "बहुव्रीहि (Bahuvrīhi)"
+    },
+    {
+      "compound": "జపవటీమ్",
+      "type": "षष्ठी तत्पुरुष (Ṣaṣṭhī Tatpuruṣa)"
+    },
+    {
+      "compound": "త్రినేత్రవిలసద్వక్తారవిందశ్రియమ్",
+      "type": "बहुव्रीहि (Bahuvrīhi)"
+    },
+    {
+      "compound": "బద్దహిమాంశురత్నముకుటామ్",
+      "type": "बहुव्रीहि (Bahuvrīhi)"
+    },
+    {
+      "compound": "అరవిందస్థితామ్",
+      "type": "सप्तमी तत्पुरुष (Saptamī Tatpuruṣa)"
+    }
+  ],
+  "sandhis": [
+    {
+      "word": "ఉద్యాద్భాను",
+      "split": "ఉద్యాత్ + భాను",
+      "rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    },
+    {
+      "word": "విలసద్వక్తారవింద",
+      "split": "విలసత్ + వక్తారవింద",
+      "rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    },
+    {
+      "word": "వందే≥రవిందస్థితామ్",
+      "split": "వందే + అరవిందస్థితామ్",
+      "rule": "పూర్వరూప సంధి (Pūrvarūpa Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: స్రగ్ధరా (Sragdharā). Alamkaram: ఉపమా (Upamā)."
+}

@@ -1,0 +1,92 @@
+{
+  "id": "5.2",
+  "sloka_text": "पुरा शुम्भनिशुम्भाभ्यामसुराभ्यां शचीपतेः। त्रैलोक्यं यज्ञभागाश्च हृता मदबलाश्रयात् ॥ 2 ॥",
+  "anvaya": "पुरा शुम्भनिशुम्भाभ्याम् असुराभ्याम् मदबलाश्रयात् शचीपतेः त्रैलोक्यं यज्ञभागाः च हृताः।",
+  "word_by_word": [
+    {
+      "word": "पुरा",
+      "pos": "अव्ययम्",
+      "meaning": "formerly, long ago"
+    },
+    {
+      "word": "शुम्भनिशुम्भाभ्याम्",
+      "lemma": "शुम्भ-निशुम्भ",
+      "compound": "इतरेतर-द्वन्द्व-समासः",
+      "case_vibhakti": "तृतीया विभक्तिः",
+      "number": "द्विवचनम्",
+      "meaning": "by Shumbha and Nishumbha"
+    },
+    {
+      "word": "असुराभ्याम्",
+      "lemma": "असुर",
+      "pos": "नाम",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "तृतीया विभक्तिः",
+      "number": "द्विवचनम्",
+      "meaning": "by the two demons"
+    },
+    {
+      "word": "शचीपतेः",
+      "lemma": "शचीपति",
+      "compound": "षष्ठी-तत्पुरुषः",
+      "case_vibhakti": "षष्ठी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "of Indra, the husband of Shachi"
+    },
+    {
+      "word": "त्रैलोक्यम्",
+      "lemma": "त्रैलोक्य",
+      "pos": "नाम",
+      "gender": "नपुंसकलिङ्गम्",
+      "case_vibhakti": "द्वितीया विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "the three worlds"
+    },
+    {
+      "word": "यज्ञभागाः",
+      "lemma": "यज्ञभाग",
+      "compound": "षष्ठी-तत्पुरुषः",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "the shares of sacrificial offerings"
+    },
+    {
+      "word": "च",
+      "pos": "अव्ययम्",
+      "meaning": "and"
+    },
+    {
+      "word": "हृताः",
+      "lemma": "हृ",
+      "pos": "कृदन्तम्",
+      "form": "क्त-प्रत्ययान्तः",
+      "gender": "पुंलिङ्गम्",
+      "case_vibhakti": "प्रथमा विभक्तिः",
+      "number": "बहुवचनम्",
+      "meaning": "were taken away"
+    },
+    {
+      "word": "मदबलाश्रयात्",
+      "lemma": "मद-बल-आश्रय",
+      "compound": "तत्पुरुष-समासः",
+      "case_vibhakti": "पञ्चमी विभक्तिः",
+      "number": "एकवचनम्",
+      "meaning": "because of reliance on the strength of arrogance"
+    }
+  ],
+  "sandhi": [
+    {
+      "form": "शुम्भनिशुम्भाभ्यामसुराभ्याम्",
+      "split": "शुम्भनिशुम्भाभ्याम् + असुराभ्याम्",
+      "sandhi_name": "अनुस्वार/परसवर्ण-सन्धिः",
+      "rule_description": "Final म् before vowel remains in continuous utterance; written together as पद-संयोग."
+    },
+    {
+      "form": "यज्ञभागाश्च",
+      "split": "यज्ञभागाः + च",
+      "sandhi_name": "विसर्ग-सन्धिः",
+      "rule_description": "Final ः before च changes to श्: आः + च → आश्च."
+    }
+  ],
+  "overall_meaning": "Long ago, the three worlds of Indra and the sacrificial shares of the gods were seized by the two demons Shumbha and Nishumbha through the power born of arrogant strength."
+}

@@ -1,0 +1,122 @@
+{
+  "id": "durga_saptashati_12_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 12,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం విద్యుద్దామసమప్రభాం మృగపతిస్కంధస్థితాం భీషణాం కన్యాభిః కరవాలఖేటవిలసద్ధస్తాభిరాసేవితామ్। హస్తె శ్చక్రగదాసిఖేటవిశిఖాంశ్చాపం గుణం తర్జనీం బిభ్రాణామనలాత్మికాం శశిధరాం దుర్గాం త్రినేత్రాం భజే ॥",
+  "pada_vibhaga": [
+    {
+      "word": "విద్యుద్దామసమప్రభామ్",
+      "meaning": "Having brilliance equal to a flash of lightning",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "మృగపతిస్కంధస్థితామ్",
+      "meaning": "Seated on the shoulders of the king of beasts (lion)",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "భీషణామ్",
+      "meaning": "Terrifying",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "కన్యాభిః",
+      "meaning": "By maidens",
+      "grammar": "Instrumental, plural, feminine"
+    },
+    {
+      "word": "కరవాలఖేటవిలసద్ధస్తాభిః",
+      "meaning": "Whose hands shine with swords and shields",
+      "grammar": "Instrumental, plural, feminine"
+    },
+    {
+      "word": "ఆసేవితామ్",
+      "meaning": "Attended upon / served",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "హస్తైః",
+      "meaning": "With hands",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "చక్రగదాసిఖేటవిశిఖాన్",
+      "meaning": "Discus, mace, sword, shield, and arrows",
+      "grammar": "Accusative, plural, masculine"
+    },
+    {
+      "word": "చాపమ్",
+      "meaning": "Bow",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "గుణమ్",
+      "meaning": "Bowstring",
+      "grammar": "Accusative, singular, masculine"
+    },
+    {
+      "word": "తర్జనీమ్",
+      "meaning": "Forefinger (in a threatening gesture)",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "బిభ్రాణామ్",
+      "meaning": "Holding / Bearing",
+      "grammar": "Accusative, singular, feminine (Present participle)"
+    },
+    {
+      "word": "అనలాత్మికామ్",
+      "meaning": "Having the nature of fire",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "శశిధరామ్",
+      "meaning": "Wearing the moon",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "దుర్గామ్",
+      "meaning": "Goddess Durga",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "త్రినేత్రామ్",
+      "meaning": "Having three eyes",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "భజే",
+      "meaning": "I worship",
+      "grammar": "Present tense, 1st person, singular, Atmanepada"
+    }
+  ],
+  "anvaya": "విద్యుద్దామసమప్రభాం మృగపతిస్కంధస్థితాం భీషణాం కరవాలఖేటవిలసద్ధస్తాభిః కన్యాభిః ఆసేవితామ్ హస్తైః చక్రగదాసిఖేటవిశిఖాన్ చాపం గుణం తర్జనీం చ బిభ్రాణామ్ అనలాత్మికాం శశిధరాం త్రినేత్రాం దుర్గాం అహం భజే.",
+  "tatparyam": {
+    "english": "I worship the three-eyed Goddess Durga, whose form is of fire and who shines like a streak of lightning. She is seated on a lion and looks terrifying. She is attended by maidens holding swords and shields. In Her own hands, She holds a discus, mace, sword, shield, arrows, bow, bowstring, and points Her forefinger in a threatening pose. She wears the crescent moon.",
+    "telugu": "మెరుపు తీగ వంటి కాంతి కలది, సింహంపై ఆసీనురాలై భయంకరంగా కనిపించేది, చేతులలో కత్తులు, డాలు పట్టుకుని ఉన్న కన్యకలచే సేవింపబడుచున్నది; తన చేతులలో చక్రం, గద, కత్తి, డాలు, బాణాలు, ధనుస్సు, అల్లెతాడు, మరియు బెదిరిస్తున్నట్లుగా చూపుడువేలును ధరించినది; అగ్ని స్వరూపిణి, తలపై చంద్రుని దాల్చిన మూడు కన్నుల దుర్గాదేవిని నేను భజిస్తున్నాను."
+  },
+  "samasas": [
+    {
+      "compound": "విద్యుద్దామసమప్రభామ్",
+      "type": "ఉపమిత కర్మధారయ (Upamita Karmadharaya)"
+    },
+    {
+      "compound": "మృగపతిస్కంధస్థితామ్",
+      "type": "సప్తమీ తత్పురుష (Saptami Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "విలసద్ధస్తాభిరాసేవితామ్",
+      "split_words": "విలసత్ + హస్తాభిః + ఆసేవితామ్",
+      "sandhi_rule": "జశ్త్వ సంధి మరియు విసర్గ రేఫ సంధి (Jaśtva and Visarga Sandhi)"
+    },
+    {
+      "joined_word": "బిభ్రాణామనలాత్మికామ్",
+      "split_words": "బిభ్రాణామ్ + అనలాత్మికామ్",
+      "sandhi_rule": "అజంత సంధి (No sandhi, consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: శార్దూలవిక్రీడితమ్ (Śārdūlavikrīḍitam). Alamkaram: ఉపమా (Upamā)."
+}

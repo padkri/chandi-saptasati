@@ -1,0 +1,37 @@
+{
+  "id": "durga_saptashati_argala_21",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 21,
+  "sloka_original": "ఇంద్రాణీపతిసద్భావపూజితే పరమేశ్వరి | రూపం దేహి జయందేహి యశోదేహి ద్విషో జహి || 21 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఇంద్రాణీపతిసద్భావపూజితే",
+      "meaning": "ఇంద్రాణి భర్తయైన దేవేంద్రుని చేత సద్భావంతో పూజించబడినదానా",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "పరమేశ్వరి",
+      "meaning": "ఓ పరమేశ్వరీ",
+      "grammar": "సంబోధనా ప్రథమా విభక్తి"
+    },
+    {
+      "word": "రూపమ్ దేహి జయమ్ దేహి యశః దేహి ద్విషః జహి",
+      "meaning": "రూపాన్ని, విజయాన్ని, కీర్తిని ఇచ్చి శత్రువులను నాశనం చేయి",
+      "grammar": "వాక్యాంశం"
+    }
+  ],
+  "anvaya": "హే ఇంద్రాణీపతిసద్భావపూజితే పరమేశ్వరి! (మే) రూపం దేహి, జయం దేహి, యశో దేహి, ద్విషః జహి.",
+  "tatparyam": {
+    "english": "O Supreme Goddess, worshipped with true devotion by the husband of Indrani (Indra)! Grant me form, victory, fame, and destroy my enemies.",
+    "telugu": "ఇంద్రాణి భర్తయైన దేవేంద్రుని చేత నిశ్చలమైన భక్తితో పూజించబడిన ఓ పరమేశ్వరీ! నాకు రూపాన్ని, విజయాన్ని, కీర్తిని ప్రసాదించి, శత్రువులను నాశనం చేయి."
+  },
+  "samasas": [
+    {
+      "compound": "ఇంద్రాణీపతిసద్భావపూజితే",
+      "type": "తృతీయా తత్పురుష (Tritiya Tatpurusha)"
+    }
+  ],
+  "sandhis": [],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

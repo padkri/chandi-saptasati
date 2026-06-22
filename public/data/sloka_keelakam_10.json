@@ -1,0 +1,113 @@
+{
+  "id": "durga_saptashati_keelakam_10",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 10,
+  "sloka_original": "న చైవాప్యటతస్తస్య భయం క్వాపీహ జాయతే। నాపమృత్యువశం యాతి మృతో మోక్షమవాప్నుయాత్ || 10 ||",
+  "pada_vibhaga": [
+    {
+      "word": "న",
+      "meaning": "Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చ",
+      "meaning": "And",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "Indeed",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Even",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అటతః",
+      "meaning": "While wandering",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం (Present participle)"
+    },
+    {
+      "word": "తస్య",
+      "meaning": "For him",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "భయమ్",
+      "meaning": "Fear",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "క్వాపి",
+      "meaning": "Anywhere",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఇహ",
+      "meaning": "Here (in this world)",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "జాయతే",
+      "meaning": "Arises / Is born",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "న",
+      "meaning": "Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అపమృత్యువశమ్",
+      "meaning": "Under the control of untimely death",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యాతి",
+      "meaning": "Goes",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "మృతః",
+      "meaning": "Dead",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మోక్షమ్",
+      "meaning": "Liberation",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అవాప్నుయాత్",
+      "meaning": "Attains",
+      "grammar": "విధిలిఙ్, ప్రథమ పురుష, ఏకవచనం"
+    }
+  ],
+  "anvaya": "తస్య అటతః అపి ఇహ క్వాపి భయం న చ ఏవ జాయతే. (సః) అపమృత్యువశం న యాతి, మృతః మోక్షమ్ అవాప్నుయాత్.",
+  "tatparyam": {
+    "english": "Even while wandering anywhere in this world, no fear ever arises for him. He does not fall prey to untimely death, and upon natural death, he attains liberation (Moksha).",
+    "telugu": "ఈ లోకంలో ఎక్కడ తిరిగినా అతనికి ఏ విధమైన భయము కలుగదు. అతనికి అపమృత్యువు (అకాల మరణం) రాదు. మరణం తరువాత అతడు మోక్షాన్ని పొందుతాడు."
+  },
+  "samasas": [
+    {
+      "compound": "అపమృత్యువశమ్",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "చైవాప్యటతస్తస్య",
+      "split_words": "చ + ఏవ + అపి + అటతః + తస్య",
+      "sandhi_rule": "వృద్ధి సంధి, యణాదేశ సంధి, విసర్గ సకారాదేశ సంధి"
+    },
+    {
+      "joined_word": "నాపమృత్యు",
+      "split_words": "న + అపమృత్యు",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి (Savarnadirgha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

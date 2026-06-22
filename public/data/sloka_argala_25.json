@@ -1,0 +1,97 @@
+{
+  "id": "durga_saptashati_argala_25",
+  "source": "Durga Saptashati - Argala Stotram",
+  "chapter": 0,
+  "sloka_number": 25,
+  "sloka_original": "ఇదం స్తోత్రం పఠిత్వా తు మహాస్తోత్రం పఠేన్నరః॥ స తు సప్తశతీసంఖ్యావరమాప్నోతి సంపదామ్ | ఓం || 25 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఇదమ్",
+      "meaning": "ఈ",
+      "grammar": "ద్వితీయా విభక్తి, సర్వనామం, నపుంసకలింగం"
+    },
+    {
+      "word": "స్తోత్రమ్",
+      "meaning": "అర్గలా స్తోత్రాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పఠిత్వా",
+      "meaning": "పఠించి",
+      "grammar": "క్త్వా ప్రత్యయం (Gerund)"
+    },
+    {
+      "word": "తు",
+      "meaning": "కాని / తర్వాత (నిశ్చయంగా)",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "మహాస్తోత్రమ్",
+      "meaning": "మహాస్తోత్రాన్ని (సప్తశతిని)",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పఠేత్",
+      "meaning": "చదవాలి",
+      "grammar": "విధిలిఙ్, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "నరః",
+      "meaning": "మానవుడు",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సః",
+      "meaning": "అతడు",
+      "grammar": "ప్రథమా విభక్తి, సర్వనామం"
+    },
+    {
+      "word": "తు",
+      "meaning": "నిశ్చయముగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సప్తశతీసంఖ్యావరమ్",
+      "meaning": "సప్తశతి పఠించడం వల్ల కలిగే శ్రేష్ఠమైన ఫలాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఆప్నోతి",
+      "meaning": "పొందుతాడు",
+      "grammar": "క్రియ, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సంపదామ్",
+      "meaning": "సంపదలను",
+      "grammar": "షష్ఠీ/ద్వితీయా విభక్తి, బహువచనం"
+    }
+  ],
+  "anvaya": "యః నరః ఇదం స్తోత్రం పఠిత్వా తు (అనంతరం) మహాస్తోత్రం పఠేత్, స తు సప్తశతీసంఖ్యావరమ్ సంపదామ్ ఆప్నోతి.",
+  "tatparyam": {
+    "english": "A person should read this Stotra first and then read the Great Stotra (Durga Saptashati). By doing so, they will undoubtedly attain the supreme boons and abundant wealth derived from reciting the Saptashati.",
+    "telugu": "ఏ మానవుడైతే ఈ అర్గలా స్తోత్రాన్ని ముందుగా పఠించి, ఆ తర్వాత దేవీ మహాత్మ్యమైన సప్తశతీ పారాయణ చేస్తాడో, అతడు సప్తశతి పఠనం వల్ల కలిగే గొప్ప శ్రేష్ఠమైన ఫలాన్ని మరియు సమస్త సంపదలను నిశ్చయంగా పొందుతాడు."
+  },
+  "samasas": [
+    {
+      "compound": "మహాస్తోత్రమ్",
+      "type": "కర్మధారయ సమాసం (Karmadharaya)"
+    },
+    {
+      "compound": "సప్తశతీసంఖ్యావరమ్",
+      "type": "షష్ఠీ తత్పురుష (Shashthi Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "పఠేన్నరః",
+      "split_words": "పఠేత్ + నరః",
+      "sandhi_rule": "అనునాసిక సంధి (Anunasika Sandhi)"
+    },
+    {
+      "joined_word": "సంఖ్యావరమాప్నోతి",
+      "split_words": "సంఖ్యావరమ్ + ఆప్నోతి",
+      "sandhi_rule": "అజంత సంధి (Consonant-vowel joining)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

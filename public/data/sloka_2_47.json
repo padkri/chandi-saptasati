@@ -1,0 +1,129 @@
+{
+  "chapter": "2",
+  "sloka_number": "47",
+  "source_citation": "",
+  "original_text_telugu": "హయానాం చ వృతో యుద్దే తత్రాభూన్మహిషాసురః। తోమరైర్బిందిపాలైశ్చ శక్తిభిర్ముసలైస్తథా ॥ 47 ॥",
+  "normalized_sanskrit": "हयानां च वृतो युद्धे तत्राभून्महिषासुरः । तोमरैर्भिन्दिपालैश्च शक्तिभिर्मुसलैस्तथा ॥ ४७ ॥",
+  "iast": "hayānāṃ ca vṛto yuddhe tatrābhūn mahiṣāsuraḥ | tomarair bhindipālaiś ca śaktibhir musalais tathā",
+  "sentence_split": [
+    {
+      "sentence_id": "2.47.1",
+      "text": "हयानां च वृतो युद्धे तत्राभून्महिषासुरः",
+      "anvaya": "तत्र युद्धे महिषासुरः हयानां च कोटिकोटिसहस्रैः वृतः अभूत्।",
+      "sandhi": [
+        {
+          "joined": "तत्राभूत्",
+          "split": "तत्र + अभूत्",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "अभून्महिषासुरः",
+          "split": "अभूत् + महिषासुरः",
+          "sandhi_name": "अनुनासिक/परसवर्ण संधि: त् before म् becomes न्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तत्र",
+          "lemma": "तत्र",
+          "grammar": "अव्ययम्",
+          "meaning": "there"
+        },
+        {
+          "word": "युद्धे",
+          "lemma": "युद्ध",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in battle"
+        },
+        {
+          "word": "महिषासुरः",
+          "lemma": "महिषासुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Mahishasura"
+        },
+        {
+          "word": "हयानाम्",
+          "lemma": "हय",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of horses"
+        },
+        {
+          "word": "वृतः",
+          "lemma": "वृत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "surrounded"
+        },
+        {
+          "word": "अभूत्",
+          "lemma": "भू",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
+          "meaning": "was"
+        }
+      ],
+      "devotional_meaning_english": "There in the battle, Mahishasura was surrounded by countless horses as well.",
+      "devotional_meaning_telugu": "ఆ యుద్ధములో మహిషాసురుడు అనేక హయసైన్యములతో కూడి ఉండెను."
+    },
+    {
+      "sentence_id": "2.47.2",
+      "text": "तोमरैर्भिन्दिपालैश्च शक्तिभिर्मुसलैस्तथा",
+      "anvaya": "तोमरैः भिन्दिपालैः च शक्तिभिः मुसलैः तथा...",
+      "sandhi": [
+        {
+          "joined": "तोमरैर्भिन्दिपालैः",
+          "split": "तोमरैः + भिन्दिपालैः",
+          "sandhi_name": "విసర్గ సంధి: ः before भ् becomes र्"
+        },
+        {
+          "joined": "भिन्दिपालैश्च",
+          "split": "भिन्दिपालैः + च",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        },
+        {
+          "joined": "शक्तिभिर्मुसलैः",
+          "split": "शक्तिभिः + मुसलैः",
+          "sandhi_name": "విసర్గ సంధి: ः before म् becomes र्"
+        },
+        {
+          "joined": "मुसलैस्तथा",
+          "split": "मुसलैः + तथा",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "तोमरैः",
+          "lemma": "तोमर",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with javelins"
+        },
+        {
+          "word": "भिन्दिपालैः",
+          "lemma": "भिन्दिपाल",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with bhindipāla weapons"
+        },
+        {
+          "word": "शक्तिभिः",
+          "lemma": "शक्ति",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with spears"
+        },
+        {
+          "word": "मुसलैः",
+          "lemma": "मुसल",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with clubs/pestles"
+        },
+        {
+          "word": "तथा",
+          "lemma": "तथा",
+          "grammar": "अव्ययम्",
+          "meaning": "also"
+        }
+      ],
+      "continuation_note": "The instrumental list continues into sloka 48 with खड्गैः परशुपट्टिशैः.",
+      "devotional_meaning_english": "They fought with javelins, bhindipālas, spears, and maces...",
+      "devotional_meaning_telugu": "వారు తోమరములు, భిందిపాలములు, శక్తులు, ముసలములతో..."
+    }
+  ]
+}

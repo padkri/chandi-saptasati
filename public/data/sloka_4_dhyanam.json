@@ -1,0 +1,157 @@
+{
+  "id": "durga_saptashati_4_dhyanam",
+  "source": "Durga Saptashati",
+  "chapter": 4,
+  "sloka_number": "dhyanam",
+  "sloka_original": "ఓం కాలాబ్రాభాం కటాక్షైరరికులభయదాం మౌలిబద్ధేందురేఖాం శఙ్ఞం చక్రం కృపాణం త్రిశిఖమపి కరైరుద్వహంతీం త్రినేత్రామ్। సింహస్కంధాధిరూఢం త్రిభువనమఖిలం తేజసా పూరయంతీం ధ్యాయేద్ దుర్గాం జయాఖ్యాం త్రిదశపరివృతాం సేవితాం సిద్ధికామైః ॥",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "Om",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "కాలాబ్రాభామ్",
+      "meaning": "Possessing the luster of dark rain clouds",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "కటాక్షైః",
+      "meaning": "With side glances",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "అరికులభయదామ్",
+      "meaning": "Giver of fear to enemy hordes",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "మౌలిబద్ధేందురేఖామ్",
+      "meaning": "Who has bound the crescent moon on her head",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "శఙ్ఖమ్",
+      "meaning": "Conch",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "చక్రమ్",
+      "meaning": "Discus",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "కృపాణమ్",
+      "meaning": "Sword",
+      "grammar": "Accusative, singular, masculine"
+    },
+    {
+      "word": "త్రిశిఖమ్",
+      "meaning": "Trident",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "అపి",
+      "meaning": "Also",
+      "grammar": "Indeclinable"
+    },
+    {
+      "word": "కరైః",
+      "meaning": "With hands",
+      "grammar": "Instrumental, plural, masculine"
+    },
+    {
+      "word": "ఉద్వహంతీమ్",
+      "meaning": "Bearing / Holding up",
+      "grammar": "Accusative, singular, feminine (Present participle)"
+    },
+    {
+      "word": "త్రినేత్రామ్",
+      "meaning": "Three-eyed one",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "సింహస్కంధాధిరూఢామ్",
+      "meaning": "Mounted on the shoulders of a lion",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "త్రిభువనమ్",
+      "meaning": "Three worlds",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "అఖిలమ్",
+      "meaning": "Entire",
+      "grammar": "Accusative, singular, neuter"
+    },
+    {
+      "word": "తేజసా",
+      "meaning": "With brilliance",
+      "grammar": "Instrumental, singular, neuter"
+    },
+    {
+      "word": "పూరయంతీమ్",
+      "meaning": "Filling",
+      "grammar": "Accusative, singular, feminine (Present participle)"
+    },
+    {
+      "word": "ధ్యాయేత్",
+      "meaning": "One should meditate",
+      "grammar": "Optative, 3rd person, singular"
+    },
+    {
+      "word": "దుర్గామ్",
+      "meaning": "On Goddess Durga",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "జయాఖ్యామ్",
+      "meaning": "Known by the name Jaya",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "త్రిదశపరివృతామ్",
+      "meaning": "Surrounded by the gods",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "సేవితామ్",
+      "meaning": "Served",
+      "grammar": "Accusative, singular, feminine"
+    },
+    {
+      "word": "సిద్ధికామైః",
+      "meaning": "By those desirous of perfection",
+      "grammar": "Instrumental, plural, masculine"
+    }
+  ],
+  "anvaya": "కాలాబ్రాభాం కటాక్షైః అరికులభయదాం మౌలిబద్ధేందురేఖాం కరైః శఙ్ఖం చక్రం కృపాణం త్రిశిఖమపి ఉద్వహంతీం త్రినేత్రాం సింహస్కంధాధిరూఢాం తేజసా అఖిలం త్రిభువనం పూరయంతీం సిద్ధికామైః సేవితాం త్రిదశపరివృతాం జయాఖ్యాం దుర్గాం ధ్యాయేత్.",
+  "tatparyam": {
+    "english": "One should meditate upon Goddess Durga, known as Jaya, who has the dark luster of rain clouds. She instills fear in enemies with her glances, wears a crescent moon on her head, and holds a conch, discus, sword, and trident. She has three eyes, rides a lion, fills the three worlds with her brilliance, is surrounded by gods, and is served by those seeking spiritual perfection.",
+    "telugu": "మేఘము వంటి నల్లని కాంతిని కలిగి, తన కడగంటి చూపులతో శత్రువులకు భయాన్ని కలిగిస్తూ, తలపై చంద్రరేఖను ధరించి, చేతులలో శంఖం, చక్రం, కత్తి, త్రిశూలం దాల్చినది; సింహంపై ఆసీనురాలై తన తేజస్సుతో ముల్లోకాలను నింపుతూ మూడు కన్నులతో విరాజిల్లుతున్నది; దేవతలచే పరివేష్టితమై సిద్ధిని కోరువారిచే సేవింపబడుచున్న 'జయ' అను పేరుగల దుర్గాదేవిని ధ్యానించవలెను."
+  },
+  "samasas": [
+    {
+      "compound": "అరికులభయదామ్",
+      "type": "ఉపపద తత్పురుష (Upapada Tatpurusha)"
+    },
+    {
+      "compound": "సింహస్కంధాధిరూఢామ్",
+      "type": "సప్తమీ తత్పురుష (Saptami Tatpurusha)"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "కటాక్షైరరికుల",
+      "split_words": "కటాక్షైః + అరికుల",
+      "sandhi_rule": "విసర్గ సంధి (Visarga Sandhi)"
+    },
+    {
+      "joined_word": "ధ్యాయేద్దుర్గాం",
+      "split_words": "ధ్యాయేత్ + దుర్గాం",
+      "sandhi_rule": "జశ్త్వ సంధి (Jaśtva Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: స్రగ్ధరా (Sragdharā). Alamkaram: స్వభావోక్తి / రూపక (Svabhāvokti / Rūpaka)."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "durga_saptashati_keelakam_6",
+  "source": "Durga Saptashati - Keelakam",
+  "chapter": 0,
+  "sloka_number": 6,
+  "sloka_original": "స్తోత్రం వై చండికాయస్తు తచ్చ గుప్తం చకార సః॥ సమాప్తిర్న చ పుణ్యస్య తాం యథావన్నియంత్రణామ్ || 6 ||",
+  "pada_vibhaga": [
+    {
+      "word": "స్తోత్రమ్",
+      "meaning": "The hymn",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వై",
+      "meaning": "Indeed",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చండికాయాః",
+      "meaning": "Of Goddess Chandika",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తు",
+      "meaning": "And / But",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తత్",
+      "meaning": "That",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "And",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "గుప్తమ్",
+      "meaning": "Secret",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చకార",
+      "meaning": "Made",
+      "grammar": "క్రియ, లిట్ లకారం (Perfect tense)"
+    },
+    {
+      "word": "సః",
+      "meaning": "He (Shiva)",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సమాప్తిః",
+      "meaning": "End / Exhaustion",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "న",
+      "meaning": "Not",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చ",
+      "meaning": "And",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "పుణ్యస్య",
+      "meaning": "Of the merit",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తామ్",
+      "meaning": "That",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యథావత్",
+      "meaning": "Properly / As it should be",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "నియంత్రణామ్",
+      "meaning": "Restriction / Rule",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "సః (శివః) చండికాయాః స్తోత్రం వై తత్ గుప్తం చకార. పుణ్యస్య సమాప్తిః న చ (భవతి ఇతి) తాం యథావత్ నియంత్రణామ్ (చకార).",
+  "tatparyam": {
+    "english": "Lord Shiva kept this hymn of Goddess Chandika a secret. He made a strict rule (a restriction or keelakam) so that the merit (punya) obtained from it is never exhausted.",
+    "telugu": "పరమశివుడు ఈ చండికా దేవి స్తోత్రాన్ని రహస్యంగా ఉంచాడు. ఈ స్తోత్ర పఠనం వల్ల వచ్చే పుణ్యం ఎన్నటికీ క్షీణించకుండా (తరిగిపోకుండా) ఆయన ఒక నియమాన్ని (కీలకాన్ని) ఏర్పాటు చేశాడు."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "చండికాయస్తు",
+      "split_words": "చండికాయాః + తు",
+      "sandhi_rule": "విసర్గ సకారాదేశ సంధి (Visarga Sakaradesha Sandhi)"
+    },
+    {
+      "joined_word": "సమాప్తిర్న",
+      "split_words": "సమాప్తిః + న",
+      "sandhi_rule": "విసర్గ రేఫ సంధి (Visarga Repha Sandhi)"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: అనుష్టుప్ (Anuṣṭup)."
+}

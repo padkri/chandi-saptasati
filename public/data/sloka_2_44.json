@@ -1,0 +1,113 @@
+{
+  "chapter": "2",
+  "sloka_number": "44",
+  "source_citation": "",
+  "original_text_telugu": "వృతో రథానాం కోట్యా చ యుద్దే తస్మిన్నయుధ్యత। బిడాలాఖ్యో యుతానాం చ పఞ్చశద్భిరథాయుతైః ॥ 44 ॥",
+  "normalized_sanskrit": "वृतो रथानां कोट्या च युद्धे तस्मिन्नयुध्यत । बिडालाख्योऽयुतानां च पञ्चशद्भिरथायुतैः ॥ ४४ ॥",
+  "iast": "vṛto rathānāṃ koṭyā ca yuddhe tasminn ayudhyata | biḍālākhyo 'yutānāṃ ca pañcaśadbhir athāyutaiḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.44.1",
+      "text": "वृतो रथानां कोट्या च युद्धे तस्मिन्नयुध्यत",
+      "anvaya": "सः रथानां कोट्या वृतः च तस्मिन् युद्धे अयुध्यत।",
+      "sandhi": [
+        {
+          "joined": "तस्मिन्नयुध्यत",
+          "split": "तस्मिन् + अयुध्यत",
+          "sandhi_name": "न् before vowel retained; written double न् in continuous orthography"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "वृतः",
+          "lemma": "वृत",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "surrounded"
+        },
+        {
+          "word": "रथानाम्",
+          "lemma": "रथ",
+          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of chariots"
+        },
+        {
+          "word": "कोट्या",
+          "lemma": "कोटि",
+          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
+          "meaning": "by a crore"
+        },
+        {
+          "word": "युद्धे",
+          "lemma": "युद्ध",
+          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "in the battle"
+        },
+        {
+          "word": "तस्मिन्",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
+          "meaning": "that"
+        },
+        {
+          "word": "अयुध्यत",
+          "lemma": "युध्",
+          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
+          "meaning": "fought"
+        }
+      ],
+      "devotional_meaning_english": "Surrounded by a crore of chariots, he fought in that battle.",
+      "devotional_meaning_telugu": "కోటి రథములతో చుట్టుముట్టబడి అతడు ఆ యుద్ధములో పోరాడెను."
+    },
+    {
+      "sentence_id": "2.44.2",
+      "text": "बिडालाख्योऽयुतानां च पञ्चशद्भिरथायुतैः",
+      "anvaya": "बिडालाख्यः च पञ्चशद्भिः अयुतैः रथायुतैः...",
+      "sandhi": [
+        {
+          "joined": "बिडालाख्योऽयुतानाम्",
+          "split": "बिडालाख्यः + अयुतानाम्",
+          "sandhi_name": "విసర్గ సంధి: अः + अ = ओऽ"
+        },
+        {
+          "joined": "पञ्चशद्भिः",
+          "split": "पञ्चशत् + भिः",
+          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before भ्"
+        },
+        {
+          "joined": "पञ्चशद्भिरथ",
+          "split": "पञ्चशद्भिः + अथ",
+          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "बिडालाख्यः",
+          "lemma": "बिडालाख्य",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "named Biḍāla"
+        },
+        {
+          "word": "अयुतानाम्",
+          "lemma": "अयुत",
+          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
+          "meaning": "of ten-thousand groups"
+        },
+        {
+          "word": "पञ्चशद्भिः",
+          "lemma": "पञ्चशत्",
+          "grammar": "संख्यावाचक, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with fifty"
+        },
+        {
+          "word": "रथायुतैः",
+          "lemma": "रथायुत",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "ten-thousand chariot-units"
+        }
+      ],
+      "continuation_note": "The finite verb continues into the next sloka: युयुधे.",
+      "devotional_meaning_english": "Biḍāla too, with fifty ayutas of chariots...",
+      "devotional_meaning_telugu": "బిడాలుడు కూడ యాభై అయుత రథములతో..."
+    }
+  ]
+}

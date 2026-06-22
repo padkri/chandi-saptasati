@@ -1,0 +1,137 @@
+{
+  "chapter": "2",
+  "sloka_number": "49",
+  "source_citation": "",
+  "original_text_telugu": "దేవీం ఖడ్గప్రహారైస్తు తే తాం హంతుం ప్రచక్రముః। సాపి దేవీ తతస్తాని శస్త్రాణ్యస్త్రాణి చండికా ॥ 49 ॥",
+  "normalized_sanskrit": "देवीं खड्गप्रहारैस्तु ते तां हन्तुं प्रचक्रमुः । सापि देवी ततस्तानि शस्त्राण्यस्त्राणि चण्डिका ॥ ४९ ॥",
+  "iast": "devīṃ khaḍgaprahārais tu te tāṃ hantuṃ pracakramuḥ | sāpi devī tatas tāni śastrāṇy astrāṇi caṇḍikā",
+  "sentence_split": [
+    {
+      "sentence_id": "2.49.1",
+      "text": "देवीं खड्गप्रहारैस्तु ते तां हन्तुं प्रचक्रमुः",
+      "anvaya": "ते तां देवीं खड्गप्रहारैः हन्तुं प्रचक्रमुः।",
+      "sandhi": [
+        {
+          "joined": "प्रहारैस्तु",
+          "split": "प्रहारैः + तु",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ते",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
+          "meaning": "they"
+        },
+        {
+          "word": "ताम्",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "Her"
+        },
+        {
+          "word": "देवीम्",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
+          "meaning": "the Goddess"
+        },
+        {
+          "word": "खड्गप्रहारैः",
+          "lemma": "खड्गप्रहार",
+          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "with sword-strikes"
+        },
+        {
+          "word": "हन्तुम्",
+          "lemma": "हन्",
+          "grammar": "तुमुन्-प्रत्ययान्त अव्ययम्",
+          "meaning": "to kill"
+        },
+        {
+          "word": "प्रचक्रमुः",
+          "lemma": "प्र-क्रम्",
+          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्, आत्मनेपदम्",
+          "meaning": "began"
+        }
+      ],
+      "devotional_meaning_english": "They began to kill the Goddess with blows of their swords.",
+      "devotional_meaning_telugu": "వారు ఖడ్గప్రహారములతో దేవిని సంహరించుటకు ప్రయత్నించిరి."
+    },
+    {
+      "sentence_id": "2.49.2",
+      "text": "सापि देवी ततस्तानि शस्त्राण्यस्त्राणि चण्डिका",
+      "anvaya": "ततः सा अपि देवी चण्डिका तानि शस्त्राणि अस्त्राणि च...",
+      "sandhi": [
+        {
+          "joined": "सापि",
+          "split": "सा + अपि",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
+        },
+        {
+          "joined": "ततस्तानि",
+          "split": "ततः + तानि",
+          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
+        },
+        {
+          "joined": "शस्त्राण्यस्त्राणि",
+          "split": "शस्त्राणि + अस्त्राणि",
+          "sandhi_name": "యణ్ సంధి: इ before vowel becomes य्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "ततः",
+          "lemma": "ततः",
+          "grammar": "अव्ययम्",
+          "meaning": "then"
+        },
+        {
+          "word": "सा",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "She"
+        },
+        {
+          "word": "अपि",
+          "lemma": "अपि",
+          "grammar": "अव्ययम्",
+          "meaning": "also"
+        },
+        {
+          "word": "देवी",
+          "lemma": "देवी",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the Goddess"
+        },
+        {
+          "word": "चण्डिका",
+          "lemma": "चण्डिका",
+          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "Caṇḍikā"
+        },
+        {
+          "word": "तानि",
+          "lemma": "तद्",
+          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "those"
+        },
+        {
+          "word": "शस्त्राणि",
+          "lemma": "शस्त्र",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "weapons"
+        },
+        {
+          "word": "अस्त्राणि",
+          "lemma": "अस्त्र",
+          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
+          "meaning": "missiles"
+        }
+      ],
+      "continuation_note": "The action continues into sloka 50 with लीलयैव प्रचिच्छेद.",
+      "devotional_meaning_english": "Then the Goddess Caṇḍikā took those weapons and missiles...",
+      "devotional_meaning_telugu": "అప్పుడు చండికా దేవి ఆ శస్త్రాస్త్రములను..."
+    }
+  ]
+}

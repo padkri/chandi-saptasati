@@ -1,0 +1,33 @@
+{
+  "id": "durga_saptashati_1_102",
+  "source": "Durga Saptashati - Chapter 1",
+  "chapter": 1,
+  "sloka_number": 102,
+  "sloka_original": "ఋషిరువాచ || 102 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఋషిః",
+      "meaning": "ఋషి",
+      "grammar": "ఋషి శబ్దం, ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "పలికాడు",
+      "grammar": "వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "ఋషిః ఉవాచ.",
+  "tatparyam": {
+    "english": "The sage said.",
+    "telugu": "ఋషి పలికాడు."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి"
+    }
+  ],
+  "alamkaram_chandas": "Chandas: సంభాషణ సూచక వాక్యం."
+}

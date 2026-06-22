@@ -1,0 +1,95 @@
+{
+  "chapter": "2",
+  "sloka_number": "40",
+  "source_citation": "",
+  "original_text_telugu": "శస్త్రాసైర్బహుధా ముక్తేరాదీపితదిగంతరమ్। మహిషాసురసేనానీశ్చిక్షురాఖ్యో మహాసురః ॥ 40 ॥",
+  "normalized_sanskrit": "शस्त्रास्त्रैर्बहुधा मुक्तैरादीपितदिगन्तरम् । महिषासुरसेनानीश्चिक्षुराख्यो महासुरः ॥ ४० ॥",
+  "iast": "śastrāstrair bahudhā muktair ādīpitadigantaram | mahiṣāsurasenānīś cikṣurākhyo mahāsuraḥ",
+  "sentence_split": [
+    {
+      "sentence_id": "2.40.1",
+      "text": "शस्त्रास्त्रैर्बहुधा मुक्तैरादीपितदिगन्तरम्",
+      "anvaya": "बहुधा मुक्तैः शस्त्रास्त्रैः दिगन्तरम् आदीपितम्।",
+      "sandhi": [
+        {
+          "joined": "शस्त्रास्त्रैः",
+          "split": "शस्त्र + अस्त्रैः",
+          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
+        },
+        {
+          "joined": "शस्त्रास्त्रैर्बहुधा",
+          "split": "शस्त्रास्त्रैः + बहुधा",
+          "sandhi_name": "విసర్గ సంధి: ः before ब् becomes र्"
+        },
+        {
+          "joined": "मुक्तैरादीपित",
+          "split": "मुक्तैः + आदीपित",
+          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "शस्त्रास्त्रैः",
+          "lemma": "शस्त्रास्त्र",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "by weapons and missiles"
+        },
+        {
+          "word": "बहुधा",
+          "lemma": "बहुधा",
+          "grammar": "अव्ययम्",
+          "meaning": "in many ways"
+        },
+        {
+          "word": "मुक्तैः",
+          "lemma": "मुक्त",
+          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
+          "meaning": "released, hurled"
+        },
+        {
+          "word": "आदीपितदिगन्तरम्",
+          "lemma": "आदीपितदिगन्तर",
+          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "the quarters were illuminated"
+        }
+      ],
+      "devotional_meaning_english": "The spaces of the directions blazed with weapons and missiles hurled in many ways.",
+      "devotional_meaning_telugu": "అనేక విధముగా ప్రయోగింపబడిన శస్త్రాస్త్రములతో దిక్కుల అంతరాళములు ప్రకాశించెను."
+    },
+    {
+      "sentence_id": "2.40.2",
+      "text": "महिषासुरसेनानीश्चिक्षुराख्यो महासुरः",
+      "anvaya": "महिषासुरसेनानीः चिक्षुराख्यः महासुरः...",
+      "sandhi": [
+        {
+          "joined": "सेनानीश्चिक्षुः",
+          "split": "सेनानीः + चिक्षुः",
+          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
+        }
+      ],
+      "word_analysis": [
+        {
+          "word": "महिषासुरसेनानीः",
+          "lemma": "महिषासुरसेनानी",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "commander of Mahishasura’s army"
+        },
+        {
+          "word": "चिक्षुराख्यः",
+          "lemma": "चिक्षुराख्य",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "named Cikṣura"
+        },
+        {
+          "word": "महासुरः",
+          "lemma": "महासुर",
+          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
+          "meaning": "great asura"
+        }
+      ],
+      "continuation_note": "The finite verb for this subject appears in the following sloka: युयुधे.",
+      "devotional_meaning_english": "The great asura named Cikṣura, commander of Mahishasura’s army...",
+      "devotional_meaning_telugu": "మహిషాసురుని సేనాధిపతియైన చిక్షురుడు అనే మహాసురుడు..."
+    }
+  ]
+}
