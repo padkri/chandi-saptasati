@@ -1,0 +1,33 @@
+{
+  "id": "durga_saptashati_chapter_4_sloka_38",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "4",
+  "sloka_number": "38",
+  "sloka_original": "**ఋషిరువాచ || 38 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "ఋషిః",
+      "meaning": "ఋషి, ముని",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "చెప్పెను",
+      "grammar": "వచ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం, పరస్మైపది"
+    }
+  ],
+  "anvaya": "ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "The sage said.",
+    "telugu": "ఋషి ఇలా చెప్పెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — రుత్వం"
+    }
+  ],
+  "alamkaram_chandas": "గద్యసూచక వాక్యం; సంపూర్ణ శ్లోకఛందస్సు కాదు."
+}

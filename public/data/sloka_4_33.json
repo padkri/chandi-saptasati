@@ -1,0 +1,33 @@
+{
+  "id": "durga_saptashati_chapter_4_sloka_33",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "4",
+  "sloka_number": "33",
+  "sloka_original": "**దేవా ఊచుః || 33 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "దేవాః",
+      "meaning": "దేవతలు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
+    },
+    {
+      "word": "ఊచుః",
+      "meaning": "చెప్పిరి",
+      "grammar": "వచ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, బహువచనం, పరస్మైపది"
+    }
+  ],
+  "anvaya": "దేవాః ఊచుః।",
+  "tatparyam": {
+    "english": "The gods said.",
+    "telugu": "దేవతలు ఇలా పలికిరి."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "దేవా ఊచుః",
+      "split_words": "దేవాః + ఊచుః",
+      "sandhi_rule": "విసర్గలోప సంధి — విసర్గం లుప్తమై దేవా రూపం"
+    }
+  ],
+  "alamkaram_chandas": "గద్యసూచక వాక్యం; సంపూర్ణ శ్లోకఛందస్సు కాదు."
+}
