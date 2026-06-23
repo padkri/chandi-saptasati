@@ -1,86 +1,84 @@
 {
-  "id": "5.11",
-  "sloka_text": "कल्याण्यै प्रणतां वृद्ध्यै सिद्ध्यै कुर्मो नमो नमः। नैरृत्यै भूभृतां लक्ष्म्यै शर्वाण्यै ते नमो नमः ॥ 11 ॥",
-  "anvaya": "कल्याण्यै प्रणतां वृद्ध्यै सिद्ध्यै नमः नमः कुर्मः। नैरृत्यै भूभृतां लक्ष्म्यै शर्वाण्यै ते नमः नमः।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_11",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "11",
+  "source_citation": "",
+  "sloka_original": "కళ్యాణ్యై ప్రణతాం వృద్యై సిద్యై కుర్మో నమో నమః|\nనైరఋత్యై భూభృతాం లక్ష్మ్యై శర్వాణ్యై తే నమో నమః || 11 ||",
+  "pada_vibhaga": [
     {
-      "word": "कल्याण्यै",
-      "lemma": "कल्याणी",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the auspicious benefactress"
+      "word": "కళ్యాణ్యై",
+      "meaning": "కళ్యాణస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "प्रणताम्",
-      "lemma": "प्रणता",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to her who is bowed to; or the bowed devotion"
+      "word": "ప్రణతామ్",
+      "meaning": "ప్రణమించినవారిని రక్షించువారికి / ప్రణమ్యస్వరూపిణికి",
+      "grammar": "సందర్భానుసార విశేషణప్రయోగం; పాఠభేదసూచకం"
     },
     {
-      "word": "वृद्ध्यै",
-      "lemma": "वृद्धि",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to prosperity, increase"
+      "word": "వృద్ధ్యై",
+      "meaning": "అభివృద్ధిస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सिद्ध्यै",
-      "lemma": "सिद्धि",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to accomplishment"
+      "word": "సిద్ధ్యై",
+      "meaning": "సిద్ధిస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "कुर्मः",
-      "lemma": "कृ",
-      "pos": "क्रियापदम्",
-      "lakara": "लट्",
-      "purusha": "उत्तमपुरुषः",
-      "number": "बहुवचनम्",
-      "meaning": "we perform, we offer"
+      "word": "కుర్మః",
+      "meaning": "చేస్తాము",
+      "grammar": "కృ ధాతువు, లట్ లకారం, ఉత్తమ పురుషం, బహువచనం"
     },
     {
-      "word": "नमः नमः",
-      "pos": "अव्ययम्",
-      "meaning": "repeated salutations"
+      "word": "నమః",
+      "meaning": "నమస్కారం",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "नैरृत्यै",
-      "lemma": "नैरृती",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to Nairriti, the power connected with dissolution or the south-west quarter"
+      "word": "నైరృత్యై",
+      "meaning": "నైరృతి దిక్పాలక శక్తిస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "भूभृताम्",
-      "lemma": "भूभृत्",
-      "case_vibhakti": "षष्ठी विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "of kings or mountain-bearers"
+      "word": "భూభృతామ్",
+      "meaning": "రాజుల / భూమిని ధరించువారి",
+      "grammar": "షష్ఠీ విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "लक्ष्म्यै",
-      "lemma": "लक्ष्मी",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to fortune, royal splendour"
+      "word": "లక్ష్మ్యై",
+      "meaning": "లక్ష్మిరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "शर्वाण्यै",
-      "lemma": "शर्वाणी",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to Sharvani, consort/power of Shiva"
+      "word": "శర్వాణ్యై",
+      "meaning": "శర్వుని భార్య అయిన పార్వతికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "ते",
-      "lemma": "त्वद्",
-      "case_vibhakti": "चतुर्थी/षष्ठी प्रयोगः",
-      "number": "एकवचनम्",
-      "meaning": "to you"
+      "word": "తే",
+      "meaning": "నీకు",
+      "grammar": "చతుర్థీ/షష్ఠీ విభక్తి, ఏకవచనం, యుష్మద్ శబ్దం"
     }
   ],
-  "sandhi": [],
-  "overall_meaning": "We offer repeated salutations to the auspicious one, to growth and accomplishment; repeated salutations to Nairriti, to the fortune of rulers, to Sharvani, to you."
+  "anvaya": "కళ్యాణ్యై వృద్ధ్యై సిద్ధ్యై నమో నమః కుర్మః। నైరృత్యై భూభృతాం లక్ష్మ్యై శర్వాణ్యై తే నమో నమః।",
+  "tatparyam": {
+    "english": "We offer repeated salutations to the auspicious one, to prosperity, and to accomplishment. Salutations to the Nairṛtī form, to the fortune of kings, and to Śarvāṇī.",
+    "telugu": "కళ్యాణస్వరూపిణికి, అభివృద్ధిస్వరూపిణికి, సిద్ధిస్వరూపిణికి మేము మరల మరల నమస్కరిస్తున్నాము. నైరృతి శక్తికి, రాజుల లక్ష్మికి, శర్వాణికి నమస్కారం."
+  },
+  "samasas": [
+    {
+      "compound": "భూభృతామ్",
+      "type": "ఉపపద/కృదంత సమాసప్రయోగం — భూమిం బిభ్రతి ఇతి భూభృతః"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "కుర్మో",
+      "split_words": "కుర్మః",
+      "sandhi_rule": "విసర్గ సంధి — కుర్మః పదానికి ‘కుర్మో’ రూపప్రయోగం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. ‘నమో నమః’ పునరావృత్తి భక్తిస్వరాన్ని ఘనపరుస్తుంది. పాఠంలో ‘వృద్యై, సిద్యై’ స్థానంలో సాధారణ పాఠం ‘వృద్ధ్యై, సిద్ధ్యై’."
 }

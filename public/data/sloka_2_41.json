@@ -1,117 +1,113 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_41",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "41",
-  "source_citation": "",
-  "original_text_telugu": "యుయుధే చామరశ్చాన్యైశ్చతురఙ్గబలాన్వితః॥ రథానామయుతైః షడ్భిరుదగ్రాఖ్యో మహాసురః ॥ 41 ॥",
-  "normalized_sanskrit": "युयुधे चामरश्चान्यैश्चतुरङ्गबलान्वितः । रथानामयुतैः षड्भिरुदग्राख्यो महासुरः ॥ ४१ ॥",
-  "iast": "yuyudhe cāmaraś cānyaiś caturaṅgabalānvitaḥ | rathānām ayutaiḥ ṣaḍbhir udagrākhyo mahāsuraḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "యుయుధే చామరశ్చాన్యైశ్చతురఙ్గబలాన్వితః॥  \nరథానామయుతైః షడ్భిరుదగ్రాఖ్యో మహాసురః || 41 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.41.1",
-      "text": "युयुधे चामरश्चान्यैश्चतुरङ्गबलान्वितः",
-      "anvaya": "चिक्षुरः युयुधे। चामरः च अन्यैः चतुरङ्गबलान्वितः युयुधे।",
-      "sandhi": [
-        {
-          "joined": "चामरश्च",
-          "split": "चामरः + च",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        },
-        {
-          "joined": "चो/चान्यैः",
-          "split": "च + अन्यैः",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "अन्यैश्चतुरङ्ग",
-          "split": "अन्यैः + चतुरङ्ग",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "युयुधे",
-          "lemma": "युध्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
-          "meaning": "fought"
-        },
-        {
-          "word": "चामरः",
-          "lemma": "चामर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Cāmara"
-        },
-        {
-          "word": "अन्यैः",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with others"
-        },
-        {
-          "word": "चतुरङ्गबलान्वितः",
-          "lemma": "चतुरङ्गबलान्वित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "endowed with the fourfold army"
-        }
-      ],
-      "devotional_meaning_english": "Cikṣura fought, and Cāmara too fought, accompanied by others and equipped with the fourfold army.",
-      "devotional_meaning_telugu": "చిక్షురుడు యుద్ధము చేసెను; చామరుడు కూడ ఇతరులతో కలిసి చతురంగబలముతో యుద్ధము చేసెను."
+      "word": "చిక్షురాఖ్యః",
+      "meaning": "చిక్షుర్ అని పేరుగలవాడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం; గత శ్లోకంలోని పదం, ఈ శ్లోకంలోని క్రియతో అన్వయిస్తుంది"
     },
     {
-      "sentence_id": "2.41.2",
-      "text": "रथानामयुतैः षड्भिरुदग्राख्यो महासुरः",
-      "anvaya": "उदग्राख्यः महासुरः रथानाम् षड्भिः अयुतैः...",
-      "sandhi": [
-        {
-          "joined": "रथानामयुतैः",
-          "split": "रथानाम् + अयुतैः",
-          "sandhi_name": "म् before vowel retained"
-        },
-        {
-          "joined": "षड्भिः",
-          "split": "षट् + भिः",
-          "sandhi_name": "జశ్త్వ సంధి: ट् becomes ड् before भ्"
-        },
-        {
-          "joined": "षड्भिरुदग्र",
-          "split": "षड्भिः + उदग्र",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "उदग्राख्यः",
-          "lemma": "उदग्राख्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "named Udagra"
-        },
-        {
-          "word": "महासुरः",
-          "lemma": "महासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "great asura"
-        },
-        {
-          "word": "रथानाम्",
-          "lemma": "रथ",
-          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of chariots"
-        },
-        {
-          "word": "अयुतैः",
-          "lemma": "अयुत",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "ten-thousand units"
-        },
-        {
-          "word": "षड्भिः",
-          "lemma": "षष्",
-          "grammar": "संख्यावाचक, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with six"
-        }
-      ],
-      "continuation_note": "This sentence continues into sloka 42 with the verb अयुध्यत.",
-      "devotional_meaning_english": "The great asura named Udagra, with six ten-thousands of chariots...",
-      "devotional_meaning_telugu": "ఉదగ్రుడు అనే మహాసురుడు అరవై వేల రథములతో..."
+      "word": "మహాసురః",
+      "meaning": "మహా అసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మహిషాసురసేనానీ",
+      "meaning": "మహిషాసురుని సేనాపతి",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చామరః",
+      "meaning": "చామరుడు అనే అసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అన్యైః",
+      "meaning": "ఇతరులతో కూడి",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "చతురఙ్గబలాన్వితః",
+      "meaning": "నాలుగు అంగాల సైన్యంతో కూడినవాడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం; చామరునికి విశేషణం"
+    },
+    {
+      "word": "యుయుధే",
+      "meaning": "యుద్ధం చేశాడు",
+      "grammar": "యుధ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం, ఆత్మనేపది"
+    },
+    {
+      "word": "ఉదగ్రాఖ్యః",
+      "meaning": "ఉదగ్రుడు అని పేరుగల",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మహాసురః",
+      "meaning": "మహా అసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "రథానామ్",
+      "meaning": "రథాల యొక్క",
+      "grammar": "పుంలింగం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "షడ్భిః",
+      "meaning": "ఆరు",
+      "grammar": "సంఖ్యావాచక పదం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అయుతైః",
+      "meaning": "పది వేలలతో",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం"
     }
-  ]
+  ],
+  "anvaya": "చిక్షురాఖ్యః మహాసురః మహిషాసురసేనానీ యుయుధే। చామరః చ అన్యైః చతురఙ్గబలాన్వితః యుయుధే। ఉదగ్రాఖ్యః మహాసురః రథానాం షడ్భిః అయుతైః యుయుధే।",
+  "tatparyam": {
+    "english": "Chikshura, the great asura and commander of Mahishasura’s army, fought. Chamara too fought, accompanied by others and endowed with a fourfold army. The great asura named Udagra fought with sixty thousand chariots.",
+    "telugu": "మహిషాసురుని సేనాపతియైన చిక్షుర్ అనే మహాసురుడు యుద్ధం చేశాడు. చామరుడు కూడా ఇతరులతో కలిసి చతురంగబలంతో యుద్ధం చేశాడు. ఉదగ్రుడు అనే మహాసురుడు అరవై వేల రథాలతో యుద్ధం చేశాడు."
+  },
+  "samasas": [
+    {
+      "compound": "చతురఙ్గబలాన్వితః",
+      "type": "బహువ్రీహి సమాసం — చతురఙ్గబలేన అన్వితః యః సః; రథ, గజ, తురగ, పదాతి అనే నాలుగు అంగాల సైన్యముగలవాడు."
+    },
+    {
+      "compound": "ఉదగ్రాఖ్యః",
+      "type": "కర్మధారయ సమాసం — ఉదగ్రః ఆఖ్యా యస్య సః = ఉదగ్రాఖ్యః."
+    },
+    {
+      "compound": "మహాసురః",
+      "type": "కర్మధారయ సమాసం — మహాన్ అసురః = మహాసురః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "చామరశ్చాన్యైః",
+      "split_words": "చామరః + చ + అన్యైః",
+      "sandhi_rule": "విసర్గ సంధి — అః + చ = శ్చ; చ + అ = చా."
+    },
+    {
+      "joined_word": "అన్యైశ్చతురఙ్గ",
+      "split_words": "అన్యైః + చతురఙ్గ",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత చకారం రావడంతో శ్చ రూపం."
+    },
+    {
+      "joined_word": "షడ్భిః",
+      "split_words": "షట్ + భిః",
+      "sandhi_rule": "జశ్త్వ సంధి — ట్ తరువాత భకారం రావడంతో డ్ ఆదేశం."
+    },
+    {
+      "joined_word": "రథానామయుతైః",
+      "split_words": "రథానామ్ + అయుతైః",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: అసురసైన్య విస్తారాన్ని సంఖ్యాప్రయోగంతో చూపిన అతిశయోక్తి; వీరరసం ప్రధానము.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘చతురఙ్г’. Normalized as ‘చతురఙ్గ’."
 }

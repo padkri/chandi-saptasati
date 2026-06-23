@@ -1,0 +1,84 @@
+{
+  "id": "durga_saptashati_chapter_10_sloka_24",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "10",
+  "sloka_number": "24",
+  "source_citation": "Durga Saptashati / Devi Mahatmyam, Chapter 10, Śumbhavadha, verse 24.",
+  "sloka_original": "తతో నియుద్ధం సుచిరం కృత్వా తేనాంబికా సహ ।\nఉత్పాట్య భ్రామయామాస చిక్షేప ధరణీతలే ॥ ౨౪ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "తతః",
+      "meaning": "తరువాత",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "నియుద్ధం",
+      "meaning": "మల్లయుద్ధం",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సుచిరం",
+      "meaning": "చాలా సేపు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "కృత్వా",
+      "meaning": "చేసి",
+      "grammar": "కృ ధాతువు, క్త్వా-ప్రత్యయాంత అవ్యయం"
+    },
+    {
+      "word": "తేన",
+      "meaning": "అతనితో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అంబికా",
+      "meaning": "అంబికా దేవి",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సహ",
+      "meaning": "కూడ, తో",
+      "grammar": "అవ్యయం; తృతీయా విభక్తితో యోగం"
+    },
+    {
+      "word": "ఉత్పాట్య",
+      "meaning": "పట్టుకొని పైకి లాగి",
+      "grammar": "ఉత్ + పట్/పాటయ్ ధాతు సంబంధ రూపం, ల్యబ్ అవ్యయం"
+    },
+    {
+      "word": "భ్రామయామాస",
+      "meaning": "తిప్పింది",
+      "grammar": "భ్రమ్ ధాతువు, ణిచ్, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    },
+    {
+      "word": "చిక్షేప",
+      "meaning": "విసిరివేసింది",
+      "grammar": "క్షిప్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    },
+    {
+      "word": "ధరణీతలే",
+      "meaning": "భూమిమీద",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "తతః అంబికా తేన సహ సుచిరం నియుద్ధం కృత్వా, ఉత్పాట్య భ్రామయామాస, ధరణీతలే చిక్షేప।",
+  "tatparyam": {
+    "english": "Then Ambikā fought with him in close combat for a long time; she lifted him up, whirled him around, and hurled him down upon the earth.",
+    "telugu": "తరువాత అంబిక అతనితో చాలా సేపు మల్లయుద్ధం చేసి, అతనిని పైకెత్తి తిప్పి భూమిమీదికి విసిరివేసింది."
+  },
+  "samasas": [
+    {
+      "compound": "ధరణీతలే",
+      "type": "షష్ఠీ తత్పురుష సమాసం — ధరణ్యాః తలం, భూమి ఉపరితలం."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తేనాంబికా",
+      "split_words": "తేన + అంబికా",
+      "sandhi_rule": "సవర్ణదీర్ఘ స్వరసంధి — అ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు; యుద్ధనైపుణ్యవర్ణనలో వీరరసం, క్రియాపరంపరా శోభ."
+}

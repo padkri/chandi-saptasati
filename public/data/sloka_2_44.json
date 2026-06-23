@@ -1,113 +1,104 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_44",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "44",
-  "source_citation": "",
-  "original_text_telugu": "వృతో రథానాం కోట్యా చ యుద్దే తస్మిన్నయుధ్యత। బిడాలాఖ్యో యుతానాం చ పఞ్చశద్భిరథాయుతైః ॥ 44 ॥",
-  "normalized_sanskrit": "वृतो रथानां कोट्या च युद्धे तस्मिन्नयुध्यत । बिडालाख्योऽयुतानां च पञ्चशद्भिरथायुतैः ॥ ४४ ॥",
-  "iast": "vṛto rathānāṃ koṭyā ca yuddhe tasminn ayudhyata | biḍālākhyo 'yutānāṃ ca pañcaśadbhir athāyutaiḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "వృతో రథానాం కోట్యా చ యుద్ధే తస్మిన్నయుధ్యత।  \nబిడాలాఖ్యో యుతానాం చ పంచాశద్భిరథాయుతైః || 44 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.44.1",
-      "text": "वृतो रथानां कोट्या च युद्धे तस्मिन्नयुध्यत",
-      "anvaya": "सः रथानां कोट्या वृतः च तस्मिन् युद्धे अयुध्यत।",
-      "sandhi": [
-        {
-          "joined": "तस्मिन्नयुध्यत",
-          "split": "तस्मिन् + अयुध्यत",
-          "sandhi_name": "न् before vowel retained; written double न् in continuous orthography"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "वृतः",
-          "lemma": "वृत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "surrounded"
-        },
-        {
-          "word": "रथानाम्",
-          "lemma": "रथ",
-          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of chariots"
-        },
-        {
-          "word": "कोट्या",
-          "lemma": "कोटि",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by a crore"
-        },
-        {
-          "word": "युद्धे",
-          "lemma": "युद्ध",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in the battle"
-        },
-        {
-          "word": "तस्मिन्",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "that"
-        },
-        {
-          "word": "अयुध्यत",
-          "lemma": "युध्",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
-          "meaning": "fought"
-        }
-      ],
-      "devotional_meaning_english": "Surrounded by a crore of chariots, he fought in that battle.",
-      "devotional_meaning_telugu": "కోటి రథములతో చుట్టుముట్టబడి అతడు ఆ యుద్ధములో పోరాడెను."
+      "word": "వృతః",
+      "meaning": "చుట్టుముట్టబడి",
+      "grammar": "క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.44.2",
-      "text": "बिडालाख्योऽयुतानां च पञ्चशद्भिरथायुतैः",
-      "anvaya": "बिडालाख्यः च पञ्चशद्भिः अयुतैः रथायुतैः...",
-      "sandhi": [
-        {
-          "joined": "बिडालाख्योऽयुतानाम्",
-          "split": "बिडालाख्यः + अयुतानाम्",
-          "sandhi_name": "విసర్గ సంధి: अः + अ = ओऽ"
-        },
-        {
-          "joined": "पञ्चशद्भिः",
-          "split": "पञ्चशत् + भिः",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before भ्"
-        },
-        {
-          "joined": "पञ्चशद्भिरथ",
-          "split": "पञ्चशद्भिः + अथ",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "बिडालाख्यः",
-          "lemma": "बिडालाख्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "named Biḍāla"
-        },
-        {
-          "word": "अयुतानाम्",
-          "lemma": "अयुत",
-          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of ten-thousand groups"
-        },
-        {
-          "word": "पञ्चशद्भिः",
-          "lemma": "पञ्चशत्",
-          "grammar": "संख्यावाचक, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with fifty"
-        },
-        {
-          "word": "रथायुतैः",
-          "lemma": "रथायुत",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "ten-thousand chariot-units"
-        }
-      ],
-      "continuation_note": "The finite verb continues into the next sloka: युयुधे.",
-      "devotional_meaning_english": "Biḍāla too, with fifty ayutas of chariots...",
-      "devotional_meaning_telugu": "బిడాలుడు కూడ యాభై అయుత రథములతో..."
+      "word": "రథానామ్",
+      "meaning": "రథాల యొక్క",
+      "grammar": "పుంలింగం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "కోట్యా",
+      "meaning": "కోటితో",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యుద్ధే",
+      "meaning": "యుద్ధంలో",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తస్మిన్",
+      "meaning": "ఆ",
+      "grammar": "సర్వనామం, నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అయుధ్యత",
+      "meaning": "యుద్ధం చేశాడు",
+      "grammar": "యుధ్ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం, ఆత్మనేపది"
+    },
+    {
+      "word": "బిడాలాఖ్యః",
+      "meaning": "బిడాలుడు అని పేరుగల అసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యుతానామ్",
+      "meaning": "యుతాల యొక్క",
+      "grammar": "నపుంసకలింగం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పంచాశద్భిః",
+      "meaning": "యాభైలతో",
+      "grammar": "సంఖ్యావాచక పదం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "రథాయుతైః",
+      "meaning": "రథాల అయుతాలతో",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "సః రథానాం కోట్యా వృతః తస్మిన్ యుద్ధే అయుధ్యత। బిడాలాఖ్యః చ యుతానాం పంచాశద్భిః రథాయుతైః యుయుధే।",
+  "tatparyam": {
+    "english": "Another fought in that battle surrounded by a crore of chariots. The asura named Bidala fought with fifty ayutas of chariots.",
+    "telugu": "మరో అసురుడు ఆ యుద్ధంలో రథాల కోటితో చుట్టుముట్టబడి యుద్ధం చేశాడు. బిడాలుడు అనే అసురుడు యాభై యుతాల రథసైన్యంతో యుద్ధం చేశాడు."
+  },
+  "samasas": [
+    {
+      "compound": "బిడాలాఖ్యః",
+      "type": "కర్మధారయ సమాసం — బిడాలః ఆఖ్యా యస్య సః = బిడాలాఖ్యః."
+    },
+    {
+      "compound": "రథాయుతైః",
+      "type": "షష్ఠీ తత్పురుష సమాసం — రథానాం అయుతాని = రథాయుతాని."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తస్మిన్నయుధ్యత",
+      "split_words": "తస్మిన్ + అయుధ్యత",
+      "sandhi_rule": "నకారాంత పదం తరువాత స్వరం రావడంతో న్ ధ్వని కొనసాగింది."
+    },
+    {
+      "joined_word": "బిడాలాఖ్యః",
+      "split_words": "బిడాల + ఆఖ్యః",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + ఆ = ఆ."
+    },
+    {
+      "joined_word": "పంచాశద్భిః",
+      "split_words": "పంచాశత్ + భిః",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత భకారం రావడంతో ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "భిరథాయుతైః",
+      "split_words": "భిః + రథాయుతైః",
+      "sandhi_rule": "విసర్గ సంధి — ఇః తరువాత రకారం రావడంతో ర్ ధ్వని కలయిక."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: యుద్ధసైన్య విస్తారానికి సంఖ్యా అతిశయోక్తి.",
+  "reading_issues_summary": "Uploaded text contained punctuation/OCR issue at ‘అయుధ్యత!’. Normalized as ‘అయుధ్యత।’"
 }

@@ -1,129 +1,119 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_62",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "62",
-  "source_citation": "",
-  "original_text_telugu": "ఏకబాహ్వక్షిచరణాః కేచిద్దేవ్యా ద్విధా కృతాః। ఛిన్నేపి చాన్యే శిరసి పతితాః పునరుత్తితాః ॥ 62 ॥",
-  "normalized_sanskrit": "एकबाह्वक्षिचरणाः केचिद्देव्या द्विधा कृताः । छिन्नेऽपि चान्ये शिरसि पतिताः पुनरुत्थिताः ॥ ६२ ॥",
-  "iast": "ekabāhvakṣicaraṇāḥ kecid devyā dvidhā kṛtāḥ | chinne 'pi cānye śirasi patitāḥ punar utthitāḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "ఏకబాహ్వక్షిచరణాః కేచిద్దేవ్యా ద్విధా కృతాః|  \nఛిన్నేऽపి చాన్యే శిరసి పతితాః పునరుత్థితాః || 62 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.62.1",
-      "text": "एकबाह्वक्षिचरणाः केचिद्देव्या द्विधा कृताः",
-      "anvaya": "केचित् देव्या द्विधा कृताः एकबाह्वक्षिचरणाः अभवन्।",
-      "sandhi": [
-        {
-          "joined": "बाह्वक्षि",
-          "split": "बाहु + अक्षि",
-          "sandhi_name": "యణ్/వకార సంధి / Yaṇ Sandhi: उ before vowel becomes व्"
-        },
-        {
-          "joined": "केचिद्देव्या",
-          "split": "केचित् + देव्या",
-          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before द्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "केचित्",
-          "lemma": "कश्चित्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "some"
-        },
-        {
-          "word": "देव्या",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by the Goddess"
-        },
-        {
-          "word": "द्विधा",
-          "lemma": "द्विधा",
-          "grammar": "अव्ययम्",
-          "meaning": "in two"
-        },
-        {
-          "word": "कृताः",
-          "lemma": "कृत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "made, cut"
-        },
-        {
-          "word": "एकबाह्वक्षिचरणाः",
-          "lemma": "एक-बाहु-अक्षि-चरण",
-          "grammar": "बहुव्रीहिसमासः, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "left with one arm, one eye, and one foot"
-        }
-      ],
-      "devotional_meaning_english": "Some, cut in two by the Goddess, were left with one arm, one eye, and one foot.",
-      "devotional_meaning_telugu": "దేవిచేత రెండుగా కోయబడిన కొందరు ఒక బాహువు, ఒక కన్ను, ఒక పాదముతో మిగిలిరి."
+      "word": "కేచిత్",
+      "meaning": "కొందరు",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.62.2",
-      "text": "छिन्नेऽपि चान्ये शिरसि पतिताः पुनरुत्थिताः",
-      "anvaya": "अन्ये शिरसि छिन्ने अपि पतिताः पुनः उत्थिताः।",
-      "sandhi": [
-        {
-          "joined": "छिन्नेऽपि",
-          "split": "छिन्ने + अपि",
-          "sandhi_name": "पूर्वरूप/अवग्रह-सदृश Sandhi: ए + अ = एऽ"
-        },
-        {
-          "joined": "चान्ये",
-          "split": "च + अन्ये",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "पुनरुत्थिताः",
-          "split": "पुनः + उत्थिताः",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "अन्ये",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "others"
-        },
-        {
-          "word": "शिरसि",
-          "lemma": "शिरस्",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "head"
-        },
-        {
-          "word": "छिन्ने",
-          "lemma": "छिन्न",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "when cut off"
-        },
-        {
-          "word": "अपि",
-          "lemma": "अपि",
-          "grammar": "अव्ययम्",
-          "meaning": "even"
-        },
-        {
-          "word": "पतिताः",
-          "lemma": "पतित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "fallen"
-        },
-        {
-          "word": "पुनः",
-          "lemma": "पुनस्",
-          "grammar": "अव्ययम्",
-          "meaning": "again"
-        },
-        {
-          "word": "उत्थिताः",
-          "lemma": "उत्थित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "risen"
-        }
-      ],
-      "devotional_meaning_english": "Others, though their heads were cut off and they had fallen, rose up again.",
-      "devotional_meaning_telugu": "ఇంకొందరు తలలు తెగి పడిపోయినప్పటికీ మళ్లీ లేచిరి."
+      "word": "ఏకబాహ్వక్షిచరణాః",
+      "meaning": "ఒకే బాహువు, ఒకే కన్ను, ఒకే కాలుగలవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం; బహువ్రీహి సమాస పదం"
+    },
+    {
+      "word": "దేవ్యా",
+      "meaning": "దేవిచే",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ద్విధా",
+      "meaning": "రెండుగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "కృతాః",
+      "meaning": "చేయబడ్డారు, కోయబడ్డారు",
+      "grammar": "కృ ధాతువు, క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అన్యే",
+      "meaning": "ఇతరులు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శిరసి",
+      "meaning": "తలలో, తల విషయంలో",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఛిన్నే",
+      "meaning": "తెగిపోయినప్పటికీ",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం; సతి సప్తమీ భావం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "అయినా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "పతితాః",
+      "meaning": "పడిపోయినవారు",
+      "grammar": "పత్ ధాతువు, క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పునః",
+      "meaning": "మళ్లీ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఉత్థితాః",
+      "meaning": "లేచారు",
+      "grammar": "ఉత్ + స్థా ధాతువు, క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "కేచిత్ ఏకబాహ్వక్షిచరణాః దేవ్యా ద్విధా కృతాః। అన్యే చ శిరసి ఛిన్నే అపి పతితాః పునః ఉత్థితాః।",
+  "tatparyam": {
+    "english": "Some, left with one arm, one eye, and one foot, were split in two by the Goddess. Others, even after their heads were severed and they had fallen, rose again.",
+    "telugu": "కొందరు ఒక బాహువు, ఒక కన్ను, ఒక కాలు మాత్రమే మిగిలినవారై దేవిచే రెండుగా కోయబడ్డారు. మరికొందరు తల తెగిపోయి పడిపోయినప్పటికీ మళ్లీ లేచారు."
+  },
+  "samasas": [
+    {
+      "compound": "ఏకబాహ్వక్షిచరణాః",
+      "type": "బహువ్రీహి సమాసం — ఏకః బాహుః, ఏకం అక్షి, ఏకః చరణః యేషాం తే."
+    },
+    {
+      "compound": "పునరుత్థితాః",
+      "type": "ఉపసర్గ/అవ్యయపూర్వ కృదంత పదం — పునః + ఉత్థితాః = మళ్లీ లేచినవారు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "బాహ్వక్షి",
+      "split_words": "బాహు + అక్షి",
+      "sandhi_rule": "యణ్/వ్ ఆదేశ సంధి — ఉ + అ కలయికలో వ్ ఆదేశం."
+    },
+    {
+      "joined_word": "కేచిద్దేవ్యా",
+      "split_words": "కేచిత్ + దేవ్యా",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత దకారం రావడంతో ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "ఛిన్నేऽపి",
+      "split_words": "ఛిన్నే + అపి",
+      "sandhi_rule": "పూర్వరూప సంధి — ఏ తరువాత అ వచ్చినప్పుడు పూర్వస్వర రూపం నిలిచి అవగ్రహ సూచన."
+    },
+    {
+      "joined_word": "చాన్యే",
+      "split_words": "చ + అన్యే",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "పునరుత్థితాః",
+      "split_words": "పునః + ఉత్థితాః",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత ఉ రావడంతో ర్ ఆదేశం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: యుద్ధవిచిత్రత, అసురుల ప్రబలత్వం మరియు దేవి పరాక్రమం అతిశయోక్తితో వ్యక్తమవుతాయి.",
+  "reading_issues_summary": "Uploaded text had ‘ఛిన్నేపి’. Normalized as ‘ఛిన్నేऽపి’."
 }

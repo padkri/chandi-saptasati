@@ -1,82 +1,87 @@
 {
-  "id": "5.13",
-  "sloka_text": "अतिसौम्यातिरौद्रायै नतास्तस्यै नमो नमः। नमो जगत्प्रतिष्ठायै देव्यै कृत्यै नमो नमः ॥ 13 ॥",
-  "anvaya": "अतिसौम्या अतिरौद्रायै तस्यै नताः नमः नमः। जगत्प्रतिष्ठायै देव्यै कृत्यै नमः नमः।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_13",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "13",
+  "source_citation": "",
+  "sloka_original": "అతి సౌమ్యాతిరౌద్రాయై నతాస్తస్యై నమో నమః|\nనమో జగత్ప్రతిష్ఠాయై దేవ్యై కృత్యై నమో నమః || 13 ||",
+  "pada_vibhaga": [
     {
-      "word": "अतिसौम्यायै",
-      "lemma": "अतिसौम्या",
-      "compound": "कर्मधारयः",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the exceedingly gentle one"
+      "word": "అతి",
+      "meaning": "అత్యంత",
+      "grammar": "ఉపసర్గసదృశ అవ్యయం"
     },
     {
-      "word": "अतिरौद्रायै",
-      "lemma": "अतिरौद्रा",
-      "compound": "कर्मधारयः",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the exceedingly fierce one"
+      "word": "సౌమ్యాయై",
+      "meaning": "అత్యంత సౌమ్యమైన దేవికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "नताः",
-      "lemma": "नम्",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "bowed"
+      "word": "అతిరౌద్రాయై",
+      "meaning": "అత్యంత రౌద్రస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "तस्यै",
-      "lemma": "तद्",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to her"
+      "word": "నతాః",
+      "meaning": "నమస్కరించినవారు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "नमः नमः",
-      "pos": "अव्ययम्",
-      "meaning": "repeated salutations"
+      "word": "తస్యై",
+      "meaning": "ఆమెకు",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "जगत्प्रतिष्ठायै",
-      "lemma": "जगत्-प्रतिष्ठा",
-      "compound": "षष्ठी-तत्पुरुषः",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the foundation of the universe"
+      "word": "నమః",
+      "meaning": "నమస్కారం",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "देव्यै",
-      "lemma": "देवी",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the Goddess"
+      "word": "జగత్ప్రతిష్ఠాయై",
+      "meaning": "జగత్తుకు ఆధారమైన దేవికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "कृत्यै",
-      "lemma": "कृत्या",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to sacred action; to the power that accomplishes what must be done"
+      "word": "దేవ్యై",
+      "meaning": "దేవికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "కృత్యై",
+      "meaning": "కార్యస్వరూపిణికి / కర్తవ్యరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     }
   ],
-  "sandhi": [
+  "anvaya": "అతిసౌమ్యాయై అతిరౌద్రాయై తస్యై నతాః నమో నమః। జగత్ప్రతిష్ఠాయై దేవ్యై కృత్యై నమో నమః।",
+  "tatparyam": {
+    "english": "Repeated salutations to her who is supremely gentle and supremely fierce. Salutations to the Goddess who is the foundation of the universe and the embodiment of sacred action.",
+    "telugu": "అత్యంత సౌమ్యురాలిగాను అత్యంత రౌద్రురాలిగాను ఉన్న ఆ దేవికి మేము నమస్కరిస్తున్నాము. జగత్తుకు ఆధారమైన దేవికి, కర్తవ్యస్వరూపిణికి మరల మరల నమస్కారం."
+  },
+  "samasas": [
     {
-      "form": "अतिसौम्यातिरौद्रायै",
-      "split": "अतिसौम्यायै + अतिरौद्रायै",
-      "sandhi_name": "स्वर-सन्धिः with elision in metrical recitation",
-      "rule_description": "The transmitted compact form joins the two dative epithets in continuous recitation."
+      "compound": "అతిసౌమ్యాయై",
+      "type": "అవ్యయీభావ/కర్మధారయ సమాసం — అతిశయేన సౌమ్యా"
     },
     {
-      "form": "नतास्तस्यै",
-      "split": "नताः + तस्यै",
-      "sandhi_name": "विसर्ग-सन्धिः",
-      "rule_description": "Final ः before त् becomes स्."
+      "compound": "అతిరౌద్రాయై",
+      "type": "అవ్యయీభావ/కర్మధారయ సమాసం — అతిశయేన రౌద్రా"
+    },
+    {
+      "compound": "జగత్ప్రతిష్ఠాయై",
+      "type": "షష్ఠీ తత్పురుష సమాసం — జగతః ప్రతిష్ఠా"
     }
   ],
-  "overall_meaning": "Bowed down, we offer repeated salutations to her who is exceedingly gentle and exceedingly fierce. Repeated salutations to the Goddess who is the foundation of the universe and the power of sacred action."
+  "sandhis": [
+    {
+      "joined_word": "సౌమ్యాతిరౌద్రాయై",
+      "split_words": "సౌమ్యాయై + అతిరౌద్రాయై",
+      "sandhi_rule": "స్వరసంధి/లోపసహిత అనుసంధానం — యై + అ సందర్భంలో పాఠరూప సంక్షేపం"
+    },
+    {
+      "joined_word": "నతాస్తస్యై",
+      "split_words": "నతాః + తస్యై",
+      "sandhi_rule": "విసర్గ సంధి — ఆః + త్ సందర్భంలో స్ రూపం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. ‘సౌమ్యా’ మరియు ‘రౌద్రా’ విరుద్ధగుణాల సమన్వయంతో విరోధాభాససదృశ అలంకారభావం ఉంది."
 }

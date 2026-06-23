@@ -1,142 +1,119 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_31",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "31",
-  "source_citation": "",
-  "original_text_telugu": "నాగహారం దదౌ తస్యై ధత్తే యః పృథివీమిమామ్ అన్యైరపి సురైర్దేవీ భూషణైరాయుధైస్తథా ॥ 31 ॥",
-  "normalized_sanskrit": "नागहारं ददौ तस्यै धत्ते यः पृथिवीमिमाम् । अन्यैरपि सुरैर्देवी भूषणैरायुधैस्तथा ॥ ३१ ॥",
-  "iast": "nāgahāraṃ dadau tasyai dhatte yaḥ pṛthivīm imām | anyair api surair devī bhūṣaṇair āyudhais tathā",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "నాగహారం దదౌ తస్యై ధత్తే యః పృథివీమిమామ్    \nఅన్యైరపి సురైర్దేవీ భూషణైరాయుధైస్తథా || 31 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.31.1",
-      "text": "नागहारं ददौ तस्यै धत्ते यः पृथिवीमिमाम्",
-      "anvaya": "यः इमां पृथिवीं धत्ते, सः तस्यै नागहारं ददौ।",
-      "sandhi": [
-        {
-          "joined": "पृथिवीमिमाम्",
-          "split": "पृथिवीम् + इमाम्",
-          "sandhi_name": "म् before vowel retained"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "यः",
-          "lemma": "यद्",
-          "grammar": "सम्बन्ध सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "who"
-        },
-        {
-          "word": "इमाम्",
-          "lemma": "इदम्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "this"
-        },
-        {
-          "word": "पृथिवीम्",
-          "lemma": "पृथिवी",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "earth"
-        },
-        {
-          "word": "धत्ते",
-          "lemma": "धा",
-          "grammar": "लट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
-          "meaning": "holds, supports"
-        },
-        {
-          "word": "तस्यै",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, चतुर्थी विभक्ति, एकवचनम्",
-          "meaning": "to Her"
-        },
-        {
-          "word": "नागहारम्",
-          "lemma": "नागहार",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "serpent-necklace"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "He who supports this earth gave Her a serpent-necklace.",
-      "devotional_meaning_telugu": "ఈ భూమిని ధరించువాడైన శేషుడు ఆమెకు నాగహారమును ఇచ్చెను."
+      "word": "యః",
+      "meaning": "ఎవడైతే",
+      "grammar": "సంబంధ సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.31.2",
-      "text": "अन्यैरपि सुरैर्देवी भूषणैरायुधैस्तथा",
-      "anvaya": "देवी अन्यैः अपि सुरैः तथा भूषणैः आयुधैः सम्मानिता अभवत्।",
-      "sandhi": [
-        {
-          "joined": "अन्यैरपि",
-          "split": "अन्यैः + अपि",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        },
-        {
-          "joined": "सुरैर्देवी",
-          "split": "सुरैः + देवी",
-          "sandhi_name": "విసర్గ సంధి: ः before द् becomes र्"
-        },
-        {
-          "joined": "भूषणैरायुधैः",
-          "split": "भूषणैः + आयुधैः",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "देवी",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the Goddess"
-        },
-        {
-          "word": "अन्यैः",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by others"
-        },
-        {
-          "word": "अपि",
-          "lemma": "अपि",
-          "grammar": "अव्ययम्",
-          "meaning": "also"
-        },
-        {
-          "word": "सुरैः",
-          "lemma": "सुर",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by the gods"
-        },
-        {
-          "word": "भूषणैः",
-          "lemma": "भूषण",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with ornaments"
-        },
-        {
-          "word": "आयुधैः",
-          "lemma": "आयुध",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with weapons"
-        },
-        {
-          "word": "तथा",
-          "lemma": "तथा",
-          "grammar": "अव्ययम्",
-          "meaning": "likewise"
-        },
-        {
-          "word": "सम्मानिता",
-          "lemma": "सम्मानित",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्; supplied from sloka 32 continuation",
-          "meaning": "honoured"
-        }
-      ],
-      "devotional_meaning_english": "The Goddess was likewise honoured by the other gods with ornaments and weapons.",
-      "devotional_meaning_telugu": "అలాగే ఇతర దేవతలచేత దేవి భూషణములతోను ఆయుధములతోను సత్కరింపబడెను."
+      "word": "ఇమామ్",
+      "meaning": "ఈ",
+      "grammar": "సర్వనామం, స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పృథివీమ్",
+      "meaning": "భూమిని",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ధత్తే",
+      "meaning": "ధరిస్తున్నాడు, మోస్తున్నాడు",
+      "grammar": "ధృ/ధా ధాతు భావప్రయోగం, లట్ లకారం, ప్రథమ పురుష, ఏకవచనం, ఆత్మనేపది"
+    },
+    {
+      "word": "తస్యై",
+      "meaning": "ఆమెకు",
+      "grammar": "సర్వనామం, స్త్రీలింగం, చతుర్థీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నాగహారమ్",
+      "meaning": "నాగాల హారం",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దదౌ",
+      "meaning": "ఇచ్చాడు",
+      "grammar": "దా ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "అన్యైః",
+      "meaning": "ఇతరులచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "సురైః",
+      "meaning": "దేవతలచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "భూషణైః",
+      "meaning": "ఆభరణాలతో",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ఆయుధైః",
+      "meaning": "ఆయుధాలతో",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "కూడా",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "యః ఇమాం పృథివీం ధత్తే, సః తస్యై నాగహారం దదౌ। అన్యైః అపి సురైః దేవీ తథా భూషణైః ఆయుధైః సమ్మానితా।",
+  "tatparyam": {
+    "english": "He who bears this earth gave her a serpent garland. The Goddess was likewise honored by the other gods with ornaments and weapons.",
+    "telugu": "ఈ భూమిని మోసే ఆదిశేషుడు ఆమెకు నాగహారాన్ని ఇచ్చాడు. అలాగే ఇతర దేవతలచేత కూడా దేవి ఆభరణాలు, ఆయుధాలతో సత్కరింపబడింది."
+  },
+  "samasas": [
+    {
+      "compound": "నాగహారమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — నాగానాం హారః = నాగహారః."
+    },
+    {
+      "compound": "భూషణైరాయుధైః",
+      "type": "ద్వంద్వ భావం — భూషణైః చ ఆయుధైః చ; ఆభరణాలు మరియు ఆయుధాలతో."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "పృథివీమిమామ్",
+      "split_words": "పృథివీమ్ + ఇమామ్",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    },
+    {
+      "joined_word": "అన్యైరపి",
+      "split_words": "అన్యైః + అపి",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత అ రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "సురైర్దేవీ",
+      "split_words": "సురైః + దేవీ",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత దకారం రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "భూషణైరాయుధైః",
+      "split_words": "భూషణైః + ఆయుధైః",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత ఆ రావడంతో ర్ ఆదేశం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: శేషుని ‘భూమిధారకుడు’గా సూచించడం ద్వారా పరోక్షోక్తి.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘నాгహారం’, ‘yః’. Normalized as ‘నాగహారం’, ‘యః’."
 }

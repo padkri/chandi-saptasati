@@ -1,107 +1,108 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_11",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "11",
-  "source_citation": "",
-  "original_text_telugu": "అన్యేషాం చైవ దేవానాం శక్రాదీనాం శరీరతః॥ నిర్గతం సుమహత్తేజస్తచ్ఛైక్యం సమగచ్ఛత ॥ 11 ॥",
-  "normalized_sanskrit": "अन्येषां चैव देवानां शक्रादीनां शरीरतः । निर्गतं सुमहत्तेजस्तच्चैक्यं समगच्छत ॥ ११ ॥",
-  "iast": "anyeṣāṃ caiva devānāṃ śakrādīnāṃ śarīrataḥ | nirgataṃ sumahat tejas tac caikyaṃ samagacchata",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అన్యేషాం చైవ దేవానాం శక్రాదీనాం శరీరతః॥  \nనిర్గతం సుమహత్తేజస్తచ్చైక్యం సమగచ్ఛత || 11 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.11.1",
-      "text": "अन्येषां चैव देवानां शक्रादीनां शरीरतः निर्गतं सुमहत्तेजस्तच्चैक्यं समगच्छत",
-      "anvaya": "शक्रादीनाम् अन्येषां देवानां शरीरतः च एव निर्गतं सुमहत् तेजः तत् च ऐक्यं समगच्छत।",
-      "sandhi": [
-        {
-          "joined": "चैव",
-          "split": "च + एव",
-          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: अ + ए = ऐ"
-        },
-        {
-          "joined": "सुमहत्तेजः",
-          "split": "सुमहत् + तेजः",
-          "sandhi_name": "వ్యంజన సంధి: त् before त् doubles"
-        },
-        {
-          "joined": "तेजस्तत्",
-          "split": "तेजः + तत्",
-          "sandhi_name": "విసర్గ संधि: ः before त् becomes स्"
-        },
-        {
-          "joined": "तच्चैक्यम्",
-          "split": "तत् + च + ऐक्यम्",
-          "sandhi_name": "చత్వ/వ్యంజన సంధి: त् + च = च्च; अ + ऐ not merged due to intervening च"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "शक्रादीनाम्",
-          "lemma": "शक्रादि",
-          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of Indra and others"
-        },
-        {
-          "word": "अन्येषाम्",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of the other"
-        },
-        {
-          "word": "देवानाम्",
-          "lemma": "देव",
-          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "gods"
-        },
-        {
-          "word": "शरीरतः",
-          "lemma": "शरीर",
-          "grammar": "तसिल् प्रत्ययान्त अव्ययम्",
-          "meaning": "from the bodies"
-        },
-        {
-          "word": "निर्गतम्",
-          "lemma": "निर्गत",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "issued forth"
-        },
-        {
-          "word": "सुमहत्",
-          "lemma": "सुमहत्",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "exceedingly great"
-        },
-        {
-          "word": "तेजः",
-          "lemma": "तेजस्",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "radiance"
-        },
-        {
-          "word": "तत्",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "that"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "ऐक्यम्",
-          "lemma": "ऐक्य",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "unity, oneness"
-        },
-        {
-          "word": "समगच्छत",
-          "lemma": "सम्-गम्",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
-          "meaning": "came together, united"
-        }
-      ],
-      "devotional_meaning_english": "The great radiance that came forth from the bodies of Indra and the other gods also gathered into one mass.",
-      "devotional_meaning_telugu": "ఇంద్రుడు మొదలైన ఇతర దేవతల శరీరములనుండి వెలువడిన మహా తేజస్సు కూడా ఏకరూపముగా కూడి నిలిచెను."
+      "word": "అన్యేషామ్",
+      "meaning": "ఇతరుల యొక్క",
+      "grammar": "సర్వనామ విశేషణం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "దేవానామ్",
+      "meaning": "దేవతల యొక్క",
+      "grammar": "పుంలింగం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శక్రాదీనామ్",
+      "meaning": "ఇంద్రుడు మొదలైన వారి యొక్క",
+      "grammar": "పుంలింగం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శరీరతః",
+      "meaning": "శరీరాల నుండి",
+      "grammar": "అవ్యయీభూత పంచమ్యర్థక రూపం; ‘శరీరం నుండి’ అనే అర్థం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "కూడా, నిజముగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సుమహత్",
+      "meaning": "అత్యంత గొప్ప",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం; తేజః విశేషణం"
+    },
+    {
+      "word": "తేజః",
+      "meaning": "తేజస్సు",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నిర్గతమ్",
+      "meaning": "బయటకు వచ్చినది",
+      "grammar": "క్తప్రత్యయాంత భూతకర్మణి రూపం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తత్",
+      "meaning": "అది",
+      "grammar": "సర్వనామం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఐక్యమ్",
+      "meaning": "ఏకత్వం, కలయిక",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సమగచ్ఛత",
+      "meaning": "కలిసింది",
+      "grammar": "సం + గమ్ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం, ఆత్మనేపది/పరస్మైపది సందర్భప్రయోగం"
     }
-  ]
+  ],
+  "anvaya": "శక్రాదీనాం అన్యేషాం దేవానాం చ ఏవ శరీరతః సుమహత్ తేజః నిర్గతమ్। తత్ ఐక్యం సమగచ్ఛత।",
+  "tatparyam": {
+    "english": "From the bodies of the other gods too, beginning with Shakra, a very great radiance emerged; that radiance gathered into one mass.",
+    "telugu": "ఇంద్రుడు మొదలైన ఇతర దేవతల శరీరాల నుండి కూడా అత్యంత గొప్ప తేజస్సు వెలువడింది. ఆ తేజస్సు అంతా ఒకే సమూహంగా కలిసింది."
+  },
+  "samasas": [
+    {
+      "compound": "శక్రాదీనామ్",
+      "type": "బహువ్రీహి/తత్పురుష భావం — శక్రః ఆదిః యేషాం తే = శక్రాదయః; ఇంద్రుడు మొదలైనవారు."
+    },
+    {
+      "compound": "సుమహత్తేజః",
+      "type": "కర్మధారయ సమాసం — సుమహత్ తేజః = అత్యంత గొప్ప తేజస్సు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "చైవ",
+      "split_words": "చ + ఏవ",
+      "sandhi_rule": "వృద్ధి సంధి — అ + ఏ = ఐ."
+    },
+    {
+      "joined_word": "సుమహత్తేజః",
+      "split_words": "సుమహత్ + తేజః",
+      "sandhi_rule": "వ్యంజన సంధి — త్ + త్ కలయికతో త్త ద్విత్వం."
+    },
+    {
+      "joined_word": "తేజస్తత్",
+      "split_words": "తేజః + తత్",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత తకారం రావడంతో విసర్గం స్ రూపం."
+    },
+    {
+      "joined_word": "తచ్చైక్యం",
+      "split_words": "తత్ + చ + ఐక్యం",
+      "sandhi_rule": "వ్యంజన సంధి — త్ + చ కలయికతో చ్చ; తరువాత చ + ఐ కలయిక యథాతథం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: సమస్త దేవతాతేజస్సుల ఐక్యరూప వర్ణనలో సముచ్చయ-దీప్తి చిత్రణ."
 }

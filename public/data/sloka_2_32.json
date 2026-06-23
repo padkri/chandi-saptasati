@@ -1,119 +1,93 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_32",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "32",
-  "source_citation": "",
-  "original_text_telugu": "సమ్మానితా ననాదోచ్చైః సాట్టహాసం ముహుర్ముహుః తస్యా నాదేన ఘోరేణ కృత్స్నమాపూరితం నభః ॥ 32 ॥",
-  "normalized_sanskrit": "सम्मानिता ननादोच्चैः साट्टहासं मुहुर्मुहुः । तस्या नादेन घोरेण कृत्स्नमापूरितं नभः ॥ ३२ ॥",
-  "iast": "sammānitā nanādoccaiḥ sāṭṭahāsaṃ muhur muhuḥ | tasyā nādena ghoreṇa kṛtsnam āpūritaṃ nabhaḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "సమ్మానితా ననాదోచ్చైః సాట్టహాసం ముహుర్ముహుః   \nతస్యా నాదేన ఘోరేణ కృత్స్నమాపూరితం నభః || 32 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.32.1",
-      "text": "सम्मानिता ननादोच्चैः साट्टहासं मुहुर्मुहुः",
-      "anvaya": "सम्मानिता सा साट्टहासम् उच्चैः मुहुः मुहुः ननाद।",
-      "sandhi": [
-        {
-          "joined": "ननादोच्चैः",
-          "split": "ननाद + उच्चैः",
-          "sandhi_name": "గుణ సంధి / Guṇa Sandhi: अ + उ = ओ"
-        },
-        {
-          "joined": "मुहुर्मुहुः",
-          "split": "मुहुः + मुहुः",
-          "sandhi_name": "విసర్గ సంధి: ः before म् becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "सम्मानिता",
-          "lemma": "सम्मानित",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "honoured"
-        },
-        {
-          "word": "सा",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्; supplied",
-          "meaning": "She"
-        },
-        {
-          "word": "साट्टहासम्",
-          "lemma": "साट्टहास",
-          "grammar": "अव्ययीभाव-सदृश प्रयोगः / क्रियाविशेषणम्",
-          "meaning": "with loud laughter"
-        },
-        {
-          "word": "उच्चैः",
-          "lemma": "उच्चैः",
-          "grammar": "अव्ययम्",
-          "meaning": "loudly"
-        },
-        {
-          "word": "मुहुः मुहुः",
-          "lemma": "मुहुस्",
-          "grammar": "अव्ययम्",
-          "meaning": "again and again"
-        },
-        {
-          "word": "ननाद",
-          "lemma": "नद्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "roared"
-        }
-      ],
-      "devotional_meaning_english": "Having been honoured, She roared loudly again and again with resounding laughter.",
-      "devotional_meaning_telugu": "సత్కరింపబడిన దేవి ఘోర అట్టహాసముతో మళ్లీమళ్లీ ఉచ్చస్వరముగా నాదించెను."
+      "word": "సమ్మానితా",
+      "meaning": "సత్కరింపబడిన దేవి",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం; క్తప్రత్యయాంత భూతకర్మణి రూపం"
     },
     {
-      "sentence_id": "2.32.2",
-      "text": "तस्या नादेन घोरेण कृत्स्नमापूरितं नभः",
-      "anvaya": "तस्याः घोरेण नादेन कृत्स्नं नभः आपूरितम्।",
-      "sandhi": [
-        {
-          "joined": "कृत्स्नमापूरितम्",
-          "split": "कृत्स्नम् + आपूरितम्",
-          "sandhi_name": "म् before vowel retained"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तस्याः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
-          "meaning": "of Her"
-        },
-        {
-          "word": "घोरेण",
-          "lemma": "घोर",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "terrible, awe-inspiring"
-        },
-        {
-          "word": "नादेन",
-          "lemma": "नाद",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "sound, roar"
-        },
-        {
-          "word": "कृत्स्नम्",
-          "lemma": "कृत्स्न",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "entire"
-        },
-        {
-          "word": "नभः",
-          "lemma": "नभस्",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "sky"
-        },
-        {
-          "word": "आपूरितम्",
-          "lemma": "आपूरित",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "was filled"
-        }
-      ],
-      "devotional_meaning_english": "By Her terrible roar, the entire sky was filled.",
-      "devotional_meaning_telugu": "ఆమె ఘోర నాదముచేత ఆకాశమంతా నిండిపోయెను."
+      "word": "ఉచ్చైః",
+      "meaning": "గట్టిగా, పైకి",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సాట్టహాసమ్",
+      "meaning": "అట్టహాసంతో కూడినది",
+      "grammar": "అవ్యయసదృశ క్రియావిశేషణం; నాదానికి విధాన సూచకం"
+    },
+    {
+      "word": "ముహుఃముహుః",
+      "meaning": "మళ్ళీ మళ్ళీ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ననాద",
+      "meaning": "గర్జించింది",
+      "grammar": "నద్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "తస్యాః",
+      "meaning": "ఆమె యొక్క",
+      "grammar": "స్త్రీలింగం, షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఘోరేణ",
+      "meaning": "భయంకరమైన",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, ఏకవచనం; నాదేన పదానికి విశేషణం"
+    },
+    {
+      "word": "నాదేన",
+      "meaning": "నాదంతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కృత్స్నమ్",
+      "meaning": "మొత్తం",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం; నభః పదానికి విశేషణం"
+    },
+    {
+      "word": "నభః",
+      "meaning": "ఆకాశం",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఆపూరితమ్",
+      "meaning": "నిండిపోయింది",
+      "grammar": "క్తప్రత్యయాంత భూతకర్మణి రూపం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "సమ్మానితా దేవీ ఉచ్చైః సాట్టహాసం ముహుఃముహుః ననాద। తస్యాః ఘోరేణ నాదేన కృత్స్నం నభః ఆపూరితమ్।",
+  "tatparyam": {
+    "english": "Thus honored, the Goddess roared loudly again and again with great laughter. By her terrible sound the entire sky was filled.",
+    "telugu": "అలా సత్కరింపబడిన దేవి అట్టహాసంతో గట్టిగా మళ్లీ మళ్లీ గర్జించింది. ఆమె భయంకర నాదంతో మొత్తం ఆకాశం నిండిపోయింది."
+  },
+  "samasas": [
+    {
+      "compound": "సాట్టహాసమ్",
+      "type": "బహువ్రీహి/అవ్యయీభావ భావం — అట్టహాసేన సహితం = అట్టహాసంతో కూడినది."
+    },
+    {
+      "compound": "ముహుర్ముహుః",
+      "type": "ఆమ్రేడిత ప్రయోగం — ముహుః + ముహుః; పునరావృత్తి సూచనం."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ననాదోచ్చైః",
+      "split_words": "ననాద + ఉచ్చైః",
+      "sandhi_rule": "గుణ సంధి — అ + ఉ = ఓ."
+    },
+    {
+      "joined_word": "కృత్స్నమాపూరితం",
+      "split_words": "కృత్స్నమ్ + ఆపూరితమ్",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ధ్వని చిత్రణ; ‘ముహుర్ముహుః’ పునరుక్తి ద్వారా గర్జన ఘోరత్వం పెరుగుతుంది."
 }

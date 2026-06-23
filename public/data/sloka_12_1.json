@@ -1,0 +1,39 @@
+{
+  "id": "durga_saptashati_chapter_12_sloka_1",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "12",
+  "sloka_number": "1",
+  "source_citation": "Input source: attached JSON file ",
+  "sloka_original": "**\"ఓం\" దేవ్యువాచ || 1 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "ప్రణవము; మంగళారంభ సూచకం",
+      "grammar": "అవ్యయం; మంగళవాచక ప్రణవం"
+    },
+    {
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "చెప్పింది",
+      "grammar": "వచ్ఛ్/బ్రూ ధాత్వర్థక రూపం; లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    }
+  ],
+  "anvaya": "ఓం దేవీ ఉవాచ।",
+  "tatparyam": {
+    "english": "Om. The Goddess spoke.",
+    "telugu": "ఓం. దేవి పలికెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "దేవ్యువాచ",
+      "split_words": "దేవీ + ఉవాచ",
+      "sandhi_rule": "యణ్ సంధి — ఈ + ఉ కలిసినప్పుడు ఈ స్థానే య్ ఆదేశం వచ్చి ‘దేవ్యువాచ’ రూపం ఏర్పడింది."
+    }
+  ],
+  "alamkaram_chandas": "ఇది వక్తృనిర్దేశ వాక్యం; శ్లోకఛందస్సు వర్తించదు. అలంకారం లేదు."
+}

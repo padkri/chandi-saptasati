@@ -1,69 +1,88 @@
 {
-  "id": "5.19",
-  "sloka_text": "या देवी सर्वभूतेषु चेतनेत्यभिधीयते। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥ 17-19 ॥",
-  "anvaya": "या देवी सर्वभूतेषु चेतना इति अभिधीयते, तस्यै नमः, तस्यै नमः, तस्यै नमः नमः।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_19",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "19",
+  "source_citation": "",
+  "sloka_original": "యా దేవీ సర్వభూతేషు చేతనేత్యభిధీయతే।\nనమస్తస్యై || 17 || నమస్తస్యై || 18 || నమస్తస్యై నమోనమః || 19 ||",
+  "pada_vibhaga": [
     {
-      "word": "या",
-      "lemma": "यद्",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "who"
+      "word": "యా",
+      "meaning": "యావిడ",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "देवी",
-      "lemma": "देवी",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the Goddess"
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सर्वभूतेषु",
-      "lemma": "सर्व-भूत",
-      "case_vibhakti": "सप्तमी विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "in all beings"
+      "word": "సర్వభూతేషు",
+      "meaning": "సమస్త భూతములలో",
+      "grammar": "సప్తమీ విభక్తి, బహువచనం, నపుంసకలింగం"
     },
     {
-      "word": "चेतना",
-      "lemma": "चेतना",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "consciousness"
+      "word": "చేతనా",
+      "meaning": "చైతన్యముగా",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "इति",
-      "pos": "अव्ययम्",
-      "meaning": "thus"
+      "word": "ఇతి",
+      "meaning": "అని",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "अभिधीयते",
-      "lemma": "अभि-धा",
-      "pos": "क्रियापदम्",
-      "lakara": "लट्",
-      "prayoga": "कर्मणि प्रयोगः",
-      "purusha": "प्रथमपुरुषः",
-      "number": "एकवचनम्",
-      "meaning": "is called, is designated"
+      "word": "అభిధీయతే",
+      "meaning": "పిలువబడుచున్నది",
+      "grammar": "అభి + ధా ధాతువు, లట్ లకారం, కర్మణి, ప్రథమ పురుషం, ఏకవచనం"
     },
     {
-      "word": "नमः तस्यै",
-      "meaning": "salutation to her"
+      "word": "నమః",
+      "meaning": "నమస్కారం",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తస్యై",
+      "meaning": "ఆమెకు",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "నమోనమః",
+      "meaning": "మరల మరల నమస్కారం",
+      "grammar": "అవ్యయసముదాయం"
     }
   ],
-  "sandhi": [
+  "anvaya": "యా దేవీ సర్వభూతేషు చేతనా ఇతి అభిధీయతే, తస్యై నమః, తస్యై నమః, తస్యై నమోనమః।",
+  "tatparyam": {
+    "english": "To that Goddess who, in all beings, is called consciousness, salutations again and again.",
+    "telugu": "సమస్త భూతములలో చైతన్యరూపంగా పిలువబడే ఆ దేవికి మరల మరల నమస్కారం."
+  },
+  "samasas": [
     {
-      "form": "चेतनेत्यभिधीयते",
-      "split": "चेतना + इति + अभिधीयते",
-      "sandhi_name": "गुण-सन्धिः and यण्-सन्धिः",
-      "rule_description": "चेतना + इति → चेतनेति; इति + अभिधीयते → इत्यभिधीयते."
+      "compound": "సర్వభూతేషు",
+      "type": "కర్మధారయ సమాసం — సర్వాణి భూతాని"
     },
     {
-      "form": "नमस्तस्यै",
-      "split": "नमः + तस्यै",
-      "sandhi_name": "विसर्ग-सन्धिः"
+      "compound": "నమోనమః",
+      "type": "ఆమ్రేడిత/పునరుక్తి ప్రయోగం — నమః నమః"
     }
   ],
-  "overall_meaning": "Repeated salutations to that Goddess who exists in all beings as consciousness."
+  "sandhis": [
+    {
+      "joined_word": "చేతనేత్యభిధీయతే",
+      "split_words": "చేతనా + ఇతి + అభిధీయతే",
+      "sandhi_rule": "గుణ సంధి — ఆ + ఇ = ఏ; యణ్ సంధి — ఇ + అ = య"
+    },
+    {
+      "joined_word": "నమస్తస్యై",
+      "split_words": "నమః + తస్యై",
+      "sandhi_rule": "విసర్గ సంధి — అః + త్ సందర్భంలో స్ రూపం"
+    },
+    {
+      "joined_word": "నమోనమః",
+      "split_words": "నమః + నమః",
+      "sandhi_rule": "విసర్గ సంధి — మొదటి నమః ‘నమో’ రూపంలో"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఆధారిత స్తుతి. పునరుక్తి ద్వారా భక్తిశ్రద్ధ వ్యక్తమవుతుంది."
 }

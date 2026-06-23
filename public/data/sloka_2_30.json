@@ -1,102 +1,91 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_30",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "30",
-  "source_citation": "",
-  "original_text_telugu": "దదావశూన్యం సురయా పానపాత్రం ధనాధిపః। శేషశ్చ సర్వనాగేశో మహామణివిభూషితమ్ ॥ 30 ॥",
-  "normalized_sanskrit": "ददावशून्यं सुरया पानपात्रं धनाधिपः । शेषश्च सर्वनागेशो महामणिविभूषितम् ॥ ३० ॥",
-  "iast": "dadāv aśūnyaṃ surayā pānapātraṃ dhanādhipaḥ | śeṣaś ca sarvanāgeśo mahāmaṇivibhūṣitam",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "దదావశూన్యం సురయా పానపాత్రం ధనాధిపః|  \nశేషశ్చ సర్వనాగేశో మహామణివిభూషితమ్ ॥ 30 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.30.1",
-      "text": "ददावशून्यं सुरया पानपात्रं धनाधिपः",
-      "anvaya": "धनाधिपः सुरया अशून्यं पानपात्रं ददौ।",
-      "sandhi": [
-        {
-          "joined": "ददावशून्यम्",
-          "split": "ददौ + अशून्यम्",
-          "sandhi_name": "अव् आदेश संधि: औ before vowel becomes आव्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "धनाधिपः",
-          "lemma": "धनाधिप",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "lord of wealth, Kubera"
-        },
-        {
-          "word": "सुरया",
-          "lemma": "सुरा",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "with divine wine"
-        },
-        {
-          "word": "अशून्यम्",
-          "lemma": "अशून्य",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकవचनम्",
-          "meaning": "not empty, full"
-        },
-        {
-          "word": "पानपात्रम्",
-          "lemma": "पानपात्र",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "drinking vessel"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "Kubera, lord of wealth, gave Her a drinking vessel filled with divine wine.",
-      "devotional_meaning_telugu": "ధనాధిపుడైన కుబేరుడు సురాతో నిండిన పానపాత్రమును ఆమెకు ఇచ్చెను."
+      "word": "ధనాధిపః",
+      "meaning": "ధనాధిపతియైన కుబేరుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.30.2",
-      "text": "शेषश्च सर्वनागेशो महामणिविभूषितम्",
-      "anvaya": "सर्वनागेशः शेषः च महामणिविभूषितं नागहारं ददौ।",
-      "sandhi": [
-        {
-          "joined": "शेषश्च",
-          "split": "शेषः + च",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "शेषः",
-          "lemma": "शेष",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Śeṣa"
-        },
-        {
-          "word": "सर्वनागेशः",
-          "lemma": "सर्वनागेश",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "lord of all serpents"
-        },
-        {
-          "word": "महामणिविभूषितम्",
-          "lemma": "महामणिविभूषित",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; नागहारम्-विशेषणम्",
-          "meaning": "adorned with great gems"
-        },
-        {
-          "word": "नागहारम्",
-          "lemma": "नागहार",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; supplied from next sloka",
-          "meaning": "serpent-necklace"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; continued into sloka 31",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "Śeṣa, lord of all serpents, gave Her a serpent-necklace adorned with great jewels.",
-      "devotional_meaning_telugu": "సర్వనాగేశ్వరుడైన శేషుడు మహామణులతో అలంకరించబడిన నాగహారమును ఆమెకు ఇచ్చెను."
+      "word": "సురయా",
+      "meaning": "దివ్య మద్యంతో",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అశూన్యమ్",
+      "meaning": "ఖాళీ కానిది, నిండినది",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం; పానపాత్రం పదానికి విశేషణం"
+    },
+    {
+      "word": "పానపాత్రమ్",
+      "meaning": "పానపాత్రాన్ని",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దదౌ",
+      "meaning": "ఇచ్చాడు",
+      "grammar": "దా ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "శేషః",
+      "meaning": "ఆదిశేషుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సర్వనాగేశః",
+      "meaning": "సర్వ నాగుల ప్రభువు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం; శేష పదానికి విశేషణం"
+    },
+    {
+      "word": "మహామణివిభూషితమ్",
+      "meaning": "మహామణులతో అలంకరించబడిన",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; నాగహారానికి విశేషణం"
     }
-  ]
+  ],
+  "anvaya": "ధనాధిపః సురయా అశూన్యం పానపాత్రం దదౌ। సర్వనాగేశః శేషః మహామణివిభూషితం నాగహారం దదౌ।",
+  "tatparyam": {
+    "english": "Kubera, lord of wealth, gave her a drinking vessel filled with divine liquor. Shesha, lord of all serpents, gave her a serpent-necklace adorned with great jewels.",
+    "telugu": "ధనాధిపతియైన కుబేరుడు సురతో నిండిన పానపాత్రాన్ని ఇచ్చాడు. సర్వనాగేశుడైన ఆదిశేషుడు మహామణులతో అలంకరించబడిన నాగహారాన్ని ఇచ్చాడు."
+  },
+  "samasas": [
+    {
+      "compound": "ధనాధిపః",
+      "type": "షష్ఠీ తత్పురుష సమాసం — ధనస్య అధిపః = ధనాధిపః."
+    },
+    {
+      "compound": "పానపాత్రమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — పానస్య పాత్రం = పానపాత్రం."
+    },
+    {
+      "compound": "సర్వనాగేశః",
+      "type": "షష్ఠీ తత్పురుష సమాసం — సర్వేషాం నాగానాం ఈశః = సర్వనాగేశః."
+    },
+    {
+      "compound": "మహామణివిభూషితమ్",
+      "type": "తృతీయా తత్పురుష సమాసం — మహామణిభిః విభూషితం = మహామణివిభూషితమ్."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "దదావశూన్యమ్",
+      "split_words": "దదౌ + అశూన్యమ్",
+      "sandhi_rule": "అయాదిసంధి — ఔ + అ కలయికలో ఆవ్ రూపం."
+    },
+    {
+      "joined_word": "శేషశ్చ",
+      "split_words": "శేషః + చ",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత చకారం రావడంతో శ్చ రూపం."
+    },
+    {
+      "joined_word": "సర్వనాగేశో మహామణి",
+      "split_words": "సర్వనాగేశః + మహామణి",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత మకారం రావడంతో ఓ రూపం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: రత్నవిభూషణ వర్ణనలో దేవి మహాసంపద్స్వరూపం సూచితం."
 }

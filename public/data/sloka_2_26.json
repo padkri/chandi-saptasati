@@ -1,85 +1,93 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_26",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "26",
-  "source_citation": "",
-  "original_text_telugu": "అర్థచంద్రం తథా శుభ్రం కేయూరాన్ సర్వబాహుషు। నూపురౌ విమలౌ తద్వద్ గ్రైవేయకమనుత్తమమ్ ॥ 26 ॥",
-  "normalized_sanskrit": "अर्धचन्द्रं तथा शुभ्रं केयूरान् सर्वबाहुषु । नूपुरौ विमलौ तद्वद्ग्रैवेयकमनुत्तमम् ॥ २६ ॥",
-  "iast": "ardhacandraṃ tathā śubhraṃ keyūrān sarvabāhuṣu | nūpurau vimalau tadvad graiveyakam anuttamam",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అర్ధచంద్రం తథా శుభ్రం కేయూరాన్ సర్వబాహుషు।  \nనూపురౌ విమలౌ తద్వద్ గ్రైవేయకమనుత్తమమ్ || 26 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.26.1",
-      "text": "अर्धचन्द्रं तथा शुभ्रं केयूरान् सर्वबाहुषु नूपुरौ विमलौ तद्वद्ग्रैवेयकमनुत्तमम्",
-      "anvaya": "तथा शुभ्रम् अर्धचन्द्रं, सर्वबाहुषु केयूरान्, तद्वत् विमलौ नूपुरौ, अनुत्तमं ग्रैवेयकं च ददौ।",
-      "sandhi": [
-        {
-          "joined": "तद्वत्",
-          "split": "तत् + वत्",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before व्"
-        },
-        {
-          "joined": "ग्रैवेयकमनुत्तमम्",
-          "split": "ग्रैवेयकम् + अनुत्तमम्",
-          "sandhi_name": "म् before vowel retained"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "अर्धचन्द्रम्",
-          "lemma": "अर्धचन्द्र",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "crescent ornament"
-        },
-        {
-          "word": "शुभ्रम्",
-          "lemma": "शुभ्र",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "bright, pure"
-        },
-        {
-          "word": "केयूरान्",
-          "lemma": "केयूर",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "armlets"
-        },
-        {
-          "word": "सर्वबाहुषु",
-          "lemma": "सर्वबाहु",
-          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, बहुवचनम्",
-          "meaning": "for all arms"
-        },
-        {
-          "word": "नूपुरौ",
-          "lemma": "नूपुर",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्",
-          "meaning": "two anklets"
-        },
-        {
-          "word": "विमलौ",
-          "lemma": "विमल",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्",
-          "meaning": "pure, spotless"
-        },
-        {
-          "word": "ग्रैवेयकम्",
-          "lemma": "ग्रैवेयक",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "neck ornament"
-        },
-        {
-          "word": "अनुत्तमम्",
-          "lemma": "अनुत्तम",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "unsurpassed"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; supplied from context of क्षीरोदः",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "He also gave Her a bright crescent ornament, armlets for all Her arms, pure anklets, and an unsurpassed neck ornament.",
-      "devotional_meaning_telugu": "అలాగే ప్రకాశవంతమైన అర్ధచంద్రాభరణము, సర్వబాహువులకై కేయూరములు, విమల నూపురములు, అనుత్తమమైన గ్రైవేయకమును ఇచ్చెను."
+      "word": "అర్ధచంద్రమ్",
+      "meaning": "అర్ధచంద్రాకార ఆభరణం",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "శుభ్రమ్",
+      "meaning": "శుభ్రమైన, తెల్లని",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; అర్ధచంద్రానికి విశేషణం"
+    },
+    {
+      "word": "కేయూరాన్",
+      "meaning": "భుజకీర్తులను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "సర్వబాహుషు",
+      "meaning": "అన్ని బాహువులపై",
+      "grammar": "పుంలింగం, సప్తమీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "నూపురౌ",
+      "meaning": "రెండు నూపురాలు",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ద్వివచనం"
+    },
+    {
+      "word": "విమలౌ",
+      "meaning": "నిర్మలమైన రెండు",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ద్వివచనం"
+    },
+    {
+      "word": "గ్రైవేయకమ్",
+      "meaning": "కంఠాభరణం",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అనుత్తమమ్",
+      "meaning": "అత్యుత్తమమైన",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తద్వత్",
+      "meaning": "అదేవిధంగా",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "తథా శుభ్రం అర్ధచంద్రం, సర్వబాహుషు కేయూరాన్, తద్వత్ విమలౌ నూపురౌ, అనుత్తమం గ్రైవేయకం చ దదౌ।",
+  "tatparyam": {
+    "english": "He also gave her a pure crescent ornament, armlets for all her arms, spotless anklets, and an unsurpassed neck ornament.",
+    "telugu": "అలాగే శుభ్రమైన అర్ధచంద్రాకార ఆభరణాన్ని, అన్ని బాహువులకు కేయూరాలను, నిర్మలమైన రెండు నూపురాలను, అత్యుత్తమమైన కంఠాభరణాన్ని ఇచ్చాడు."
+  },
+  "samasas": [
+    {
+      "compound": "అర్ధచంద్రమ్",
+      "type": "కర్మధారయ సమాసం — అర్ధః చంద్రః ఇవ = అర్ధచంద్రాకార ఆభరణం."
+    },
+    {
+      "compound": "సర్వబాహుషు",
+      "type": "కర్మధారయ సమాసం — సర్వే బాహవః = సర్వబాహవః; వాటిలో."
+    },
+    {
+      "compound": "గ్రైవేయకమ్",
+      "type": "తద్ధితాంత పదం — గ్రీవాయాం భవం గ్రైవేయకమ్; కంఠాభరణం."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తద్వత్",
+      "split_words": "తత్ + వత్",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత వకారం రావడంతో ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "గ్రైవేయకమనుత్తమమ్",
+      "split_words": "గ్రైవేయకమ్ + అనుత్తమమ్",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఆభరణాల సముచ్చయవర్ణన; దేవి మహాశోభను సూచించే దీప్తి వర్ణన.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘నూпуరౌ’. Normalized as ‘నూపురౌ’."
 }

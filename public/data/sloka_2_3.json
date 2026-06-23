@@ -1,134 +1,117 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_3",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "3",
-  "source_citation": "",
-  "original_text_telugu": "తత్రాసురైర్మహావీర్యైర్దేవసైన్యం పరాజితమ్। జిత్వా చ సకలాన్ దేవానింద్రో భూన్మహిషాసురః ॥ 3 ॥",
-  "normalized_sanskrit": "तत्रासुरैर्महावीर्यैर्देवसैन्यं पराजितम् । जित्वा च सकलान् देवानिन्द्रोऽभून्महिषासुरः ॥ ३ ॥",
-  "iast": "tatrāsurair mahāvīryair devasainyaṃ parājitam | jitvā ca sakalān devān indro 'bhūn mahiṣāsuraḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "తత్రాసురైర్మహావీర్యైర్దేవసైన్యం పరాజితమ్।  \nజిత్వా చ సకలాన్ దేవానింద్రో భూన్మహిషాసురః || 3 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.3.1",
-      "text": "तत्रासुरैर्महावीर्यैर्देवसैन्यं पराजितम्",
-      "anvaya": "तत्र महावीर्यैः असुरैः देवसैन्यं पराजितम्।",
-      "sandhi": [
-        {
-          "joined": "तत्रासुरैः",
-          "split": "तत्र + असुरैः",
-          "sandhi_name": "అకార లోప/స్వర సంధి context: final अ followed by अ in continuous recitation"
-        },
-        {
-          "joined": "असुरैर्महावीर्यैः",
-          "split": "असुरैः + महावीर्यैः",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः becomes र् before voiced consonant म्"
-        },
-        {
-          "joined": "महावीर्यैर्देवसैन्यम्",
-          "split": "महावीर्यैः + देवसैन्यम्",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः becomes र् before voiced consonant द्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there, in that war"
-        },
-        {
-          "word": "महावीर्यैः",
-          "lemma": "महावीर्य",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by the very powerful"
-        },
-        {
-          "word": "असुरैः",
-          "lemma": "असुर",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by the asuras"
-        },
-        {
-          "word": "देवसैन्यम्",
-          "lemma": "देवसैन्य",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the army of the gods"
-        },
-        {
-          "word": "पराजितम्",
-          "lemma": "पराजित",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्, क्त-प्रत्ययान्तम्",
-          "meaning": "was defeated"
-        }
-      ],
-      "devotional_meaning_english": "There, the army of the gods was defeated by the mighty asuras.",
-      "devotional_meaning_telugu": "అక్కడ మహా వీర్యశాలులైన అసురులచేత దేవసైన్యం ఓడిపోయెను."
+      "word": "తత్ర",
+      "meaning": "అక్కడ; ఆ యుద్ధంలో",
+      "grammar": "అవ్యయం; దేశ/సందర్భ సూచకం"
     },
     {
-      "sentence_id": "2.3.2",
-      "text": "जित्वा च सकलान् देवानिन्द्रोऽभून्महिषासुरः",
-      "anvaya": "सकलान् देवान् जित्वा च महिषासुरः इन्द्रः अभूत्।",
-      "sandhi": [
-        {
-          "joined": "देवानिन्द्रः",
-          "split": "देवान् + इन्द्रः",
-          "sandhi_name": "నకార సంధి / N becomes nasalized before vowel; written निन्द्र in continuous form"
-        },
-        {
-          "joined": "इन्द्रोऽभूत्",
-          "split": "इन्द्रः + अभूत्",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: अः + अ = ओऽ"
-        },
-        {
-          "joined": "अभून्महिषासुरः",
-          "split": "अभूत् + महिषासुरः",
-          "sandhi_name": "పరసవర్ణ/अनुनासिक संधि: final त् before म् becomes न्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "जित्वा",
-          "lemma": "जि",
-          "grammar": "ल्यबन्तम्/क्त्वान्त अव्ययम्",
-          "meaning": "having conquered"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "सकलान्",
-          "lemma": "सकल",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "all"
-        },
-        {
-          "word": "देवान्",
-          "lemma": "देव",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "the gods"
-        },
-        {
-          "word": "महिषासुरः",
-          "lemma": "महिषासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Mahishasura"
-        },
-        {
-          "word": "इन्द्रः",
-          "lemma": "इन्द्र",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Indra, ruler of heaven"
-        },
-        {
-          "word": "अभूत्",
-          "lemma": "भू",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "became"
-        }
-      ],
-      "devotional_meaning_english": "Having conquered all the gods, Mahishasura became Indra, the lord of heaven.",
-      "devotional_meaning_telugu": "సకల దేవతలను జయించి మహిషాసురుడు ఇంద్రుని స్థానాన్ని పొందెను."
+      "word": "అసురైః",
+      "meaning": "అసురులచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "మహావీర్యైః",
+      "meaning": "మహా పరాక్రమముగల వారిచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం; అసురైః పదానికి విశేషణం"
+    },
+    {
+      "word": "దేవసైన్యమ్",
+      "meaning": "దేవతల సైన్యం",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పరాజితమ్",
+      "meaning": "ఓడించబడింది",
+      "grammar": "క్తప్రత్యయాంత భూతకర్మణి రూపం; నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సకలాన్",
+      "meaning": "అందరినీ",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "దేవాన్",
+      "meaning": "దేవతలను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "జిత్వా",
+      "meaning": "జయించి",
+      "grammar": "క్త్వాంత అవ్యయం; జి ధాతువు నుండి"
+    },
+    {
+      "word": "మహిషాసురః",
+      "meaning": "మహిషాసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఇంద్రః",
+      "meaning": "ఇంద్రుడు; ఇంద్రపదవిలో ఉన్నవాడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అభూత్",
+      "meaning": "అయ్యాడు",
+      "grammar": "భూ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం, పరస్మైపది"
     }
-  ]
+  ],
+  "anvaya": "తత్ర మహావీర్యైః అసురైః దేవసైన్యం పరాజితమ్। సకలాన్ దేవాన్ చ జిత్వా మహిషాసురః ఇంద్రః అభూత్।",
+  "tatparyam": {
+    "english": "There, the army of the gods was defeated by the mighty asuras. Having conquered all the gods, Mahishasura became Indra, the ruler of heaven.",
+    "telugu": "ఆ యుద్ధంలో మహాపరాక్రమశాలులైన అసురులచేత దేవసైన్యం ఓడించబడింది. సమస్త దేవతలను జయించి మహిషాసురుడు ఇంద్రపదవిని పొందాడు."
+  },
+  "samasas": [
+    {
+      "compound": "మహావీర్యైః",
+      "type": "బహువ్రీహి సమాసం — మహత్ వీర్యం యేషాం తే = మహావీర్యాః; గొప్ప పరాక్రమం కలవారు."
+    },
+    {
+      "compound": "దేవసైన్యమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — దేవానాం సైన్యం = దేవసైన్యమ్; దేవతల సైన్యం."
+    },
+    {
+      "compound": "మహిషాసురః",
+      "type": "కర్మధారయ సమాసం — మహిషరూపః అసురః = మహిషాసురః; మహిషరూపమైన అసురుడు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తత్రాసురైః",
+      "split_words": "తత్ర + అసురైః",
+      "sandhi_rule": "అకః సవర్ణే దీర్ఘః — అ + అ = ఆ; తత్రాసురైః."
+    },
+    {
+      "joined_word": "అసురైర్మహావీర్యైః",
+      "split_words": "అసురైః + మహావీర్యైః",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తర్వాత మకారం రావడంతో విసర్గం ర్ రూపంలో వ్యక్తమైంది."
+    },
+    {
+      "joined_word": "మహావీర్యైర్దేవసైన్యమ్",
+      "split_words": "మహావీర్యైః + దేవసైన్యమ్",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తర్వాత దకారం రావడంతో విసర్గం ర్ ఆదేశమైంది."
+    },
+    {
+      "joined_word": "దేవానింద్రః",
+      "split_words": "దేవాన్ + ఇంద్రః",
+      "sandhi_rule": "నకారాంత పదం తరువాత స్వరం రావడంతో న్ ధ్వని కొనసాగి సంధిరూపం ఏర్పడింది."
+    },
+    {
+      "joined_word": "భూన్మహిషాసురః",
+      "split_words": "అభూత్ + మహిషాసురః",
+      "sandhi_rule": "సంధి ఫలితంగా ‘అభూత్ మహిషాసురః’ లో త్ ధ్వని న్/ద్ సమీపోచ్చారణంగా మారిన పాఠరూపం; సాధుపాఠంలో ‘అభూత్ మహిషాసురః’ అన్వయం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్ శ్లోకము. అలంకారం: ‘ఇంద్రో భూత్ మహిషాసురః’ అనే భావంలో స్థితివిపర్యయ వర్ణన ఉంది; దేవతల అపచయం, అసురుని అభ్యుదయం స్పష్టంగా చూపబడింది."
 }

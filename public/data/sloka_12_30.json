@@ -1,0 +1,59 @@
+{
+  "id": "durga_saptashati_chapter_12_sloka_30",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "12",
+  "sloka_number": "30",
+  "source_citation": "Input source: attached JSON file ",
+  "sloka_original": "దూరాదేవ పలాయంతే స్మరతశ్చరితం మమ || 30 ||",
+  "pada_vibhaga": [
+    {
+      "word": "దూరాత్",
+      "meaning": "దూరం నుండే",
+      "grammar": "పంచమీ విభక్తి, ఏకవచనం, నపుంసకలింగం; అవ్యయప్రాయ ప్రయోగం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "నిశ్చయంగా/కూడా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "పలాయంతే",
+      "meaning": "పారిపోతాయి",
+      "grammar": "పలాయ్ ధాతువు; లట్ లకారం, ప్రథమ పురుష, బహువచనం, ఆత్మనేపదం"
+    },
+    {
+      "word": "స్మరతః",
+      "meaning": "స్మరించువాని నుండి/స్మరించువానికి సంబంధించి",
+      "grammar": "స్మృ ధాతు వర్తమాన కృదంతం; షష్ఠీ/పంచమీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "చరితం",
+      "meaning": "చరిత్రను",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, నపుంసకలింగం"
+    },
+    {
+      "word": "మమ",
+      "meaning": "నా",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం"
+    }
+  ],
+  "anvaya": "మమ చరితం స్మరతః సింహాద్యాః దస్యవః వైరిణః తథా దూరాత్ ఏవ పలాయంతే।",
+  "tatparyam": {
+    "english": "From one who remembers my story, lions and the like, robbers, and enemies flee from afar.",
+    "telugu": "నా చరిత్రను స్మరించువాని దగ్గరనుండి సింహాదులు, దొంగలు, శత్రువులు దూరం నుండే పారిపోతాయి."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "దూరాదేవ",
+      "split_words": "దూరాత్ + ఏవ",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ + ఏ యోగంలో ద్."
+    },
+    {
+      "joined_word": "స్మరతశ్చరితం",
+      "split_words": "స్మరతః + చరితం",
+      "sandhi_rule": "విసర్గ సంధి — ః + చ యోగంలో శ్చ."
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుభ్ ఛందస్సులో అర్ధశ్లోకరూపం. 29వ శ్లోకంలో ప్రారంభమైన వాక్యానికి ముగింపు."
+}

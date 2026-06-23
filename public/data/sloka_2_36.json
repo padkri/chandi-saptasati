@@ -1,129 +1,113 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_36",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "36",
-  "source_citation": "",
-  "original_text_telugu": "సన్నద్ధాఖిలసైన్యాస్తే సముత్తస్థురుదాయుధాః। ఆః కిమేతదితి క్రోధాదాభాష్య మహిషాసురః ॥ 36 ॥",
-  "normalized_sanskrit": "सन्नद्धाखिलसैन्यास्ते समुत्तस्थुरुदायुधाः । आः किमेतदिति क्रोधादाभाष्य महिषासुरः ॥ ३६ ॥",
-  "iast": "sannaddhākhilasainyās te samuttasthur udāyudhāḥ | āḥ kim etad iti krodhād ābhāṣya mahiṣāsuraḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "సన్నద్ధాఖిలసైన్యాస్తే సముత్తస్థురుదాయుధాః|  \nఆః కిమేతదితి క్రోధాదాభాష్య మహిషాసురః || 36 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.36.1",
-      "text": "सन्नद्धाखिलसैन्यास्ते समुत्तस्थुरुदायुधाः",
-      "anvaya": "ते उदायुधाः सन्नद्धाखिलसैन्याः समुत्तस्थुः।",
-      "sandhi": [
-        {
-          "joined": "सन्नद्धाखिल",
-          "split": "सन्नद्ध + अखिल",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "सैन्यास्ते",
-          "split": "सैन्याः + ते",
-          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्"
-        },
-        {
-          "joined": "समुत्तस्थुरुदायुधाः",
-          "split": "समुत्तस्थुः + उदायुधाः",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "ते",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "they"
-        },
-        {
-          "word": "सन्नद्धाखिलसैन्याः",
-          "lemma": "सन्नद्धाखिलसैन्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "with all their armies armed and arrayed"
-        },
-        {
-          "word": "उदायुधाः",
-          "lemma": "उदायुध",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "with weapons raised"
-        },
-        {
-          "word": "समुत्तस्थुः",
-          "lemma": "सम्-उत्-स्था",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "rose up"
-        }
-      ],
-      "devotional_meaning_english": "They rose up with all their armies armed and their weapons raised.",
-      "devotional_meaning_telugu": "వారు సమస్త సైన్యములను సిద్ధపరచుకొని, ఆయుధములు ఎత్తుకొని లేచిరి."
+      "word": "తే",
+      "meaning": "ఆ అసురులు",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.36.2",
-      "text": "आः किमेतदिति क्रोधादाभाष्य महिषासुरः",
-      "anvaya": "महिषासुरः क्रोधात् ‘आः, किम् एतत्?’ इति आभाष्य...",
-      "sandhi": [
-        {
-          "joined": "किमेतत्",
-          "split": "किम् + एतत्",
-          "sandhi_name": "म् before vowel retained"
-        },
-        {
-          "joined": "एतदिति",
-          "split": "एतत् + इति",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before vowel"
-        },
-        {
-          "joined": "क्रोधादाभाष्य",
-          "split": "क्रोधात् + आभाष्य",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before vowel"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "महिषासुरः",
-          "lemma": "महिषासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Mahishasura"
-        },
-        {
-          "word": "क्रोधात्",
-          "lemma": "क्रोध",
-          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
-          "meaning": "out of anger"
-        },
-        {
-          "word": "आः",
-          "lemma": "आः",
-          "grammar": "उद्गारः, अव्ययम्",
-          "meaning": "Ah! / What!"
-        },
-        {
-          "word": "किम्",
-          "lemma": "किम्",
-          "grammar": "प्रश्नवाचक सर्वनाम, नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "what"
-        },
-        {
-          "word": "एतत्",
-          "lemma": "एतद्",
-          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "this"
-        },
-        {
-          "word": "इति",
-          "lemma": "इति",
-          "grammar": "अव्ययम्",
-          "meaning": "thus"
-        },
-        {
-          "word": "आभाष्य",
-          "lemma": "आ-भाष्",
-          "grammar": "ल्यबन्त अव्ययम्",
-          "meaning": "having spoken, having exclaimed"
-        }
-      ],
-      "continuation_note": "This participial clause continues syntactically into sloka 37, where the finite action ‘अभ्यधावत’ occurs.",
-      "devotional_meaning_english": "Mahishasura, in anger, exclaimed, “Ah! What is this?”",
-      "devotional_meaning_telugu": "మహిషాసురుడు కోపముతో ‘ఆః! ఇది ఏమిటి?’ అని పలికెను."
+      "word": "సన్నద్ధాఖిలసైన్యాః",
+      "meaning": "సమస్త సైన్యాలతో సిద్ధమైనవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ఉదాయుధాః",
+      "meaning": "ఎత్తిన ఆయుధాలు కలవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "సముత్తస్థుః",
+      "meaning": "లేచారు, బయలుదేరారు",
+      "grammar": "సం + ఉత్ + స్థా ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "మహిషాసురః",
+      "meaning": "మహిషాసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "క్రోధాత్",
+      "meaning": "కోపంతో",
+      "grammar": "పుంలింగం, పంచమీ విభక్తి, ఏకవచనం; హేత్వర్థం"
+    },
+    {
+      "word": "ఆః",
+      "meaning": "ఆహా/ఏమిటి!",
+      "grammar": "నిపాతము; విస్మయ-క్రోధార్థకం"
+    },
+    {
+      "word": "కిమ్",
+      "meaning": "ఏమిటి",
+      "grammar": "ప్రశ్నార్థక సర్వనామం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఏతత్",
+      "meaning": "ఇది",
+      "grammar": "సర్వనామం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఇతి",
+      "meaning": "అని",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఆభాష్య",
+      "meaning": "మాట్లాడి, పలికి",
+      "grammar": "ఆ + భాష్ ధాతువు, ల్యబ్ అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "తే సన్నద్ధాఖిలసైన్యాః ఉదాయుధాః సముత్తస్థుః। మహిషాసురః క్రోధాత్ ‘ఆః, కిమ్ ఏతత్’ ఇతి ఆభాష్య...",
+  "tatparyam": {
+    "english": "Those enemies, with all their armies ready and weapons raised, rose up. Mahishasura, in anger, exclaimed, ‘Ah! What is this?’",
+    "telugu": "ఆ అసురులు సమస్త సైన్యాలతో సిద్ధమై, ఆయుధాలను ఎత్తుకొని లేచారు. మహిషాసురుడు కోపంతో ‘ఆః! ఇది ఏమిటి?’ అని పలికాడు."
+  },
+  "samasas": [
+    {
+      "compound": "సన్నద్ధాఖిలసైన్యాః",
+      "type": "బహువ్రీహి సమాసం — సన్నద్ధం అఖిలం సైన్యం యేషాం తే."
+    },
+    {
+      "compound": "ఉదాయుధాః",
+      "type": "బహువ్రీహి సమాసం — ఉద్గతాని ఆయుధాని యేషాం తే = ఆయుధాలను ఎత్తినవారు."
+    },
+    {
+      "compound": "మహిషాసురః",
+      "type": "కర్మధారయ సమాసం — మహిషరూపః అసురః = మహిషాసురః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "సన్నద్ధాఖిలసైన్యాః",
+      "split_words": "సన్నద్ధ + అఖిలసైన్యాః",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "సైన్యాస్తే",
+      "split_words": "సైన్యాః + తే",
+      "sandhi_rule": "విసర్గ సంధి — ఆః తరువాత తకారం రావడంతో స్ రూపం."
+    },
+    {
+      "joined_word": "సముత్తస్థురుదాయుధాః",
+      "split_words": "సముత్తస్థుః + ఉదాయుధాః",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత ఉ రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "కిమేతత్",
+      "split_words": "కిమ్ + ఏతత్",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    },
+    {
+      "joined_word": "క్రోధాదాభాష్య",
+      "split_words": "క్రోధాత్ + ఆభాష్య",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత ఆ రావడంతో ద్ ఆదేశం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఆకస్మిక ప్రశ్నోక్తి ద్వారా క్రోధ-విస్మయ భావం వ్యక్తమవుతుంది.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘సైన్యాस्ते’. Normalized as ‘సైన్యాస్తే’."
 }

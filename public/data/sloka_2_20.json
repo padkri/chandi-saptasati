@@ -1,108 +1,93 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_20",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "20",
-  "source_citation": "",
-  "original_text_telugu": "శూలం శూలాద్వినిష్కృప్య దదౌ తస్యై పినాకధృక్। చక్రం చ దత్తవాన్ కృష్ణః సముత్పాద్య స్వచక్రతః ॥ 20 ॥",
-  "normalized_sanskrit": "शूलं शूलाद्विनिष्कृष्य ददौ तस्यै पिनाकधृक् । चक्रं च दत्तवान् कृष्णः समुत्पाद्य स्वचक्रतः ॥ २० ॥",
-  "iast": "śūlaṃ śūlād viniṣkṛṣya dadau tasyai pinākadhṛk | cakraṃ ca dattavān kṛṣṇaḥ samutpādya svacakrataḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "శూలం శూలాద్వినిష్కృప్య దదౌ తస్యై పినాకధృక్|  \nచక్రం చ దత్తవాన్ కృష్ణః సముత్పాద్య స్వచక్రతః || 20 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.20.1",
-      "text": "शूलं शूलाद्विनिष्कृष्य ददौ तस्यै पिनाकधृक्",
-      "anvaya": "पिनाकधृक् स्वशूलात् शूलं विनिष्कृष्य तस्यै ददौ।",
-      "sandhi": [
-        {
-          "joined": "शूलाद्विनिष्कृष्य",
-          "split": "शूलात् + विनिष्कृष्य",
-          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before व्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "पिनाकधृक्",
-          "lemma": "पिनाकधृक्",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Śiva, bearer of Pināka"
-        },
-        {
-          "word": "शूलात्",
-          "lemma": "शूल",
-          "grammar": "नपुंसकलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
-          "meaning": "from his trident"
-        },
-        {
-          "word": "शूलम्",
-          "lemma": "शूल",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "a trident"
-        },
-        {
-          "word": "विनिष्कृष्य",
-          "lemma": "वि-निस्-कृष्",
-          "grammar": "ल्यबन्त अव्ययम्",
-          "meaning": "having drawn out"
-        },
-        {
-          "word": "तस्यै",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, चतुर्थी विभक्ति, एकवचनम्",
-          "meaning": "to Her"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "Śiva, the bearer of Pināka, drew forth a trident from his own trident and gave it to Her.",
-      "devotional_meaning_telugu": "పినాకధారియైన శివుడు తన శూలము నుండి ఒక శూలమును తీసి దేవికి ఇచ్చెను."
+      "word": "పినాకధృక్",
+      "meaning": "పినాకధనుస్సును ధరించువాడు, శివుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.20.2",
-      "text": "चक्रं च दत्तवान् कृष्णः समुत्पाद्य स्वचक्रतः",
-      "anvaya": "कृष्णः स्वचक्रतः चक्रं समुत्पाद्य च दत्तवान्।",
-      "sandhi": [],
-      "word_analysis": [
-        {
-          "word": "कृष्णः",
-          "lemma": "कृष्ण",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Kṛṣṇa, Viṣṇu"
-        },
-        {
-          "word": "स्वचक्रतः",
-          "lemma": "स्वचक्र",
-          "grammar": "पञ्चमी-अर्थक तसिल्-प्रत्ययान्तम्",
-          "meaning": "from his own discus"
-        },
-        {
-          "word": "चक्रम्",
-          "lemma": "चक्र",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "discus"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "समुत्पाद्य",
-          "lemma": "सम्-उत्-पद्",
-          "grammar": "णिच्-ल्यबन्त अव्ययम्",
-          "meaning": "having produced"
-        },
-        {
-          "word": "दत्तवान्",
-          "lemma": "दत्तवत्",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "Kṛṣṇa produced a discus from his own discus and gave it to Her.",
-      "devotional_meaning_telugu": "కృష్ణుడైన విష్ణువు తన చక్రము నుండి మరొక చక్రమును ఉత్పత్తి చేసి ఆమెకు ఇచ్చెను."
+      "word": "శూలాత్",
+      "meaning": "తన శూలం నుండి",
+      "grammar": "నపుంసకలింగం, పంచమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "శూలమ్",
+      "meaning": "త్రిశూలాన్ని",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వినిష్కృష్య",
+      "meaning": "బయటకు తీసి",
+      "grammar": "వి + నిస్ + కృష్ ధాతువు, ల్యబ్ అవ్యయం"
+    },
+    {
+      "word": "తస్యై",
+      "meaning": "ఆమెకు",
+      "grammar": "సర్వనామం, స్త్రీలింగం, చతుర్థీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దదౌ",
+      "meaning": "ఇచ్చాడు",
+      "grammar": "దా ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "కృష్ణః",
+      "meaning": "విష్ణువు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "స్వచక్రతః",
+      "meaning": "తన చక్రం నుండి",
+      "grammar": "అవ్యయీభూత పంచమ్యర్థక రూపం"
+    },
+    {
+      "word": "చక్రమ్",
+      "meaning": "చక్రాయుధం",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సముత్పాద్య",
+      "meaning": "సృష్టించి, ఉత్పన్నం చేసి",
+      "grammar": "సం + ఉత్ + పాద్ ధాతువు, ల్యబ్ అవ్యయం"
+    },
+    {
+      "word": "దత్తవాన్",
+      "meaning": "ఇచ్చాడు",
+      "grammar": "క్తవతు ప్రత్యయాంత రూపం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "పినాకధృక్ శూలాత్ శూలం వినిష్కృష్య తస్యై దదౌ। కృష్ణః స్వచక్రతః చక్రం సముత్పాద్య తస్యై దత్తవాన్।",
+  "tatparyam": {
+    "english": "The bearer of Pinaka gave her a trident, drawing it forth from his own trident. Krishna produced a discus from his own discus and gave it to her.",
+    "telugu": "పినాకధారియైన శివుడు తన శూలం నుండి శూలాన్ని తీసి ఆమెకు ఇచ్చాడు. కృష్ణుడైన విష్ణువు తన చక్రం నుండి చక్రాన్ని సృష్టించి ఆమెకు ఇచ్చాడు."
+  },
+  "samasas": [
+    {
+      "compound": "పినాకధృక్",
+      "type": "ఉపపద తత్పురుష సమాసం — పినాకం ధారయతి ఇతి పినాకధృక్; పినాకధనుస్సు ధరించువాడు."
+    },
+    {
+      "compound": "స్వచక్రతః",
+      "type": "కర్మధారయ/పంచమ్యర్థక భావం — స్వం చక్రం = స్వచక్రం; దాని నుండి."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "శూలాద్వినిష్కృష్య",
+      "split_words": "శూలాత్ + వినిష్కృష్య",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత వకారం రావడంతో ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "చక్రం చ",
+      "split_words": "చక్రమ్ + చ",
+      "sandhi_rule": "మ్ తరువాత చకారం; పదసంధిలో మకార ధ్వని నిలుస్తుంది."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: దేవతల ఆయుధప్రదాన వర్ణనలో సముచ్చయ శైలి."
 }

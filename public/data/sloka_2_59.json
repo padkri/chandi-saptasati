@@ -1,113 +1,103 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_59",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "59",
-  "source_citation": "",
-  "original_text_telugu": "కేచిన్నిపతితా భూమౌ భిన్నాః శూలేన వక్షసి। నిరంతరాః శరౌఘేణ కృతాః కేచిద్రణాజిరే ॥ 59 ॥",
-  "normalized_sanskrit": "केचिन्निपतिता भूमौ भिन्नाः शूलेन वक्षसि । निरन्तराः शरौघेण कृताः केचिद्रणाजिरे ॥ ५९ ॥",
-  "iast": "kecin nipatitā bhūmau bhinnāḥ śūlena vakṣasi | nirantarāḥ śaraugheṇa kṛtāḥ kecid raṇājire",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "కేచిన్నిపాతితా భూమౌ భిన్నాః శూలేన వక్షసి।  \nనిరంతరాః శరౌఘేణ కృతాః కేచిద్రణాజిరే || 59 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.59.1",
-      "text": "केचिन्निपतिता भूमौ भिन्नाः शूलेन वक्षसि",
-      "anvaya": "केचित् वक्षसि शूलेन भिन्नाः भूमौ निपतिताः।",
-      "sandhi": [
-        {
-          "joined": "केचिन्निपतिताः",
-          "split": "केचित् + निपतिताः",
-          "sandhi_name": "अनुनासिक/परसवर्ण संधि: त् before न् becomes न्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "केचित्",
-          "lemma": "कश्चित्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "some"
-        },
-        {
-          "word": "वक्षसि",
-          "lemma": "वक्षस्",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in the chest"
-        },
-        {
-          "word": "शूलेन",
-          "lemma": "शूल",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by the spear/trident"
-        },
-        {
-          "word": "भिन्नाः",
-          "lemma": "भिन्न",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "pierced, split"
-        },
-        {
-          "word": "भूमौ",
-          "lemma": "भूमि",
-          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "on the ground"
-        },
-        {
-          "word": "निपतिताः",
-          "lemma": "निपतित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "fallen down"
-        }
-      ],
-      "devotional_meaning_english": "Some, pierced in the chest by the trident, fell upon the ground.",
-      "devotional_meaning_telugu": "కొందరు వక్షస్థలములో శూలముచేత ఛేదింపబడి భూమిపై పడిరి."
+      "word": "కేచిత్",
+      "meaning": "కొందరు",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.59.2",
-      "text": "निरन्तराः शरौघेण कृताः केचिद्रणाजिरे",
-      "anvaya": "केचित् रणाजिरे शरौघेण निरन्तराः कृताः।",
-      "sandhi": [
-        {
-          "joined": "शरौघेण",
-          "split": "शर + ओघेण",
-          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: अ + ओ = औ"
-        },
-        {
-          "joined": "केचिद्रणाजिरे",
-          "split": "केचित् + रणाजिरे",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "केचित्",
-          "lemma": "कश्चित्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "some"
-        },
-        {
-          "word": "रणाजिरे",
-          "lemma": "रणाजिर",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in the battlefield"
-        },
-        {
-          "word": "शरौघेण",
-          "lemma": "शरौघ",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by a stream of arrows"
-        },
-        {
-          "word": "निरन्तराः",
-          "lemma": "निरन्तर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "covered without gaps, closely pierced"
-        },
-        {
-          "word": "कृताः",
-          "lemma": "कृत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "made"
-        }
-      ],
-      "devotional_meaning_english": "Some in the battlefield were made bristling and gapless by torrents of arrows.",
-      "devotional_meaning_telugu": "యుద్ధరంగములో కొందరు శరప్రవాహములతో అంతరములేకుండా గుచ్చబడిరి."
+      "word": "భూమౌ",
+      "meaning": "భూమిపై",
+      "grammar": "స్త్రీలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నిపాతితాః",
+      "meaning": "పడవేయబడ్డారు",
+      "grammar": "ని + పత్ ధాతువు, causative క్తప్రత్యయాంత భూతకర్మణి రూపం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "వక్షసి",
+      "meaning": "వక్షస్థలంలో, ఛాతిలో",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "శూలేన",
+      "meaning": "శూలంతో",
+      "grammar": "పుంలింగం/నపుంసకలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "భిన్నాః",
+      "meaning": "చీల్చబడ్డారు",
+      "grammar": "భిద్ ధాతువు, క్తప్రత్యయాంత భూతకర్మణి రూపం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "రణాజిరే",
+      "meaning": "యుద్ధరంగంలో",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "శరౌఘేణ",
+      "meaning": "బాణాల సమూహంతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నిరంతరాః",
+      "meaning": "ఖాళీ లేకుండా నిండినవారు, బాణాలతో అంతటా వ్యాప్తులైనవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "కృతాః",
+      "meaning": "చేయబడ్డారు",
+      "grammar": "కృ ధాతువు, క్తప్రత్యయాంత రూపం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     }
-  ]
+  ],
+  "anvaya": "కేచిత్ భూమౌ నిపాతితాః। కేచిత్ వక్షసి శూలేన భిన్నాః। రణాజిరే కేచిత్ శరౌఘేణ నిరంతరాః కృతాః।",
+  "tatparyam": {
+    "english": "Some were thrown down upon the earth; some were pierced in the chest by the spear. Others on the battlefield were made dense with masses of arrows, with no gaps left.",
+    "telugu": "కొందరు భూమిపై పడవేయబడ్డారు. కొందరు ఛాతిలో శూలంతో చీల్చబడ్డారు. మరికొందరు యుద్ధరంగంలో బాణసమూహంతో ఖాళీ లేకుండా నిండిపోయారు."
+  },
+  "samasas": [
+    {
+      "compound": "శరౌఘేణ",
+      "type": "షష్ఠీ తత్పురుష సమాసం — శరాణాం ఓఘః = శరౌఘః; బాణాల సమూహం."
+    },
+    {
+      "compound": "రణాజిరే",
+      "type": "షష్ఠీ తత్పురుష సమాస భావం — రణస్య అజిరం = రణాజిరం; యుద్ధరంగం."
+    },
+    {
+      "compound": "నిరంతరాః",
+      "type": "నిషేధ తత్పురుష సమాసం — అంతరం నాస్తి యేషాం తే = నిరంతరాః; ఖాళీ లేనివారు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "కేచిన్నిపాతితాః",
+      "split_words": "కేచిత్ + నిపాతితాః",
+      "sandhi_rule": "వ్యంజన సంధి — త్ తరువాత నకారం రావడంతో న్ సాదృశ్యరూపం."
+    },
+    {
+      "joined_word": "శరౌఘేణ",
+      "split_words": "శర + ఓఘేణ",
+      "sandhi_rule": "వృద్ధి సంధి — అ + ఓ = ఔ."
+    },
+    {
+      "joined_word": "కేచిద్రణాజిరే",
+      "split_words": "కేచిత్ + రణాజిరే",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత రకారం రావడంతో ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "రణాజిరే",
+      "split_words": "రణ + అజిరే",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: యుద్ధభీకర దృశ్యవర్ణన; శూల, శరౌఘ మొదలైన పదాలతో వీర-భయానక రసాల సమ్మేళనం.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘నిпатиతా’. Normalized as ‘నిపాతితాః’."
 }

@@ -1,86 +1,92 @@
 {
-  "id": "5.16",
-  "sloka_text": "या देवी सर्वभूतेषु विष्णुमायेति शब्दिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥ 14-16 ॥",
-  "anvaya": "या देवी सर्वभूतेषु विष्णुमाया इति शब्दिता, तस्यै नमः, तस्यै नमः, तस्यै नमः नमः।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_16",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "16",
+  "source_citation": "",
+  "sloka_original": "యా దేవీ సర్వభూతేషు విష్ణుమాయేతి శబ్దితా\nనమస్తస్యై || 14 || నమస్తస్యై || 15 || నమస్తస్యై నమోనమః || 16 ||",
+  "pada_vibhaga": [
     {
-      "word": "या",
-      "lemma": "यद्",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "who"
+      "word": "యా",
+      "meaning": "యావిడ",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం, యద్ శబ్దం"
     },
     {
-      "word": "देवी",
-      "lemma": "देवी",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the Goddess"
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सर्वभूतेषु",
-      "lemma": "सर्व-भूत",
-      "compound": "कर्मधारयः",
-      "case_vibhakti": "सप्तमी विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "in all beings"
+      "word": "సర్వభూతేషు",
+      "meaning": "సమస్త భూతములలో",
+      "grammar": "సప్తమీ విభక్తి, బహువచనం, నపుంసకలింగం"
     },
     {
-      "word": "विष्णुमाया",
-      "lemma": "विष्णुमाया",
-      "compound": "षष्ठी-तत्पुरुषः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the Maya-power of Vishnu"
+      "word": "విష్ణుమాయా",
+      "meaning": "విష్ణుమాయగా",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "इति",
-      "pos": "अव्ययम्",
-      "meaning": "thus"
+      "word": "ఇతి",
+      "meaning": "అని",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "शब्दिता",
-      "lemma": "शब्द्",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "called, named"
+      "word": "శబ్దితా",
+      "meaning": "పిలువబడినది",
+      "grammar": "క్త ప్రత్యయాంతం, ప్రథమా ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "नमः",
-      "pos": "अव्ययम्",
-      "meaning": "salutation"
+      "word": "నమః",
+      "meaning": "నమస్కారం",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "तस्यै",
-      "lemma": "तद्",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to her"
+      "word": "తస్యై",
+      "meaning": "ఆమెకు",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "నమోనమః",
+      "meaning": "మరల మరల నమస్కారం",
+      "grammar": "అవ్యయసముదాయం"
     }
   ],
-  "sandhi": [
+  "anvaya": "యా దేవీ సర్వభూతేషు విష్ణుమాయా ఇతి శబ్దితా, తస్యై నమః, తస్యై నమః, తస్యై నమోనమః।",
+  "tatparyam": {
+    "english": "To that Goddess who abides in all beings and is known as Viṣṇu’s Māyā, salutations again and again.",
+    "telugu": "సమస్త భూతములలో విష్ణుమాయగా ప్రసిద్ధురాలై ఉన్న ఆ దేవికి మరల మరల నమస్కారం."
+  },
+  "samasas": [
     {
-      "form": "विष्णुमायेति",
-      "split": "विष्णुमाया + इति",
-      "sandhi_name": "गुण-सन्धिः",
-      "rule_description": "आ + इ → ए."
+      "compound": "సర్వభూతేషు",
+      "type": "కర్మధారయ సమాసం — సర్వాణి భూతాని"
     },
     {
-      "form": "नमस्तस्यै",
-      "split": "नमः + तस्यै",
-      "sandhi_name": "विसर्ग-सन्धिः",
-      "rule_description": "Final ः before त् becomes स्."
+      "compound": "విష్ణుమాయా",
+      "type": "షష్ఠీ తత్పురుష సమాసం — విష్ణోః మాయా"
     },
     {
-      "form": "नमोनमः",
-      "split": "नमः + नमः",
-      "sandhi_name": "विसर्ग-सन्धिः",
-      "rule_description": "Final ः before न् becomes ओ."
+      "compound": "నమోనమః",
+      "type": "ఆమ్రేడిత/పునరుక్తి సమాససదృశ ప్రయోగం — నమః నమః"
     }
   ],
-  "overall_meaning": "Salutations again and again to that Goddess who abides in all beings and is called Vishnumaya."
+  "sandhis": [
+    {
+      "joined_word": "విష్ణుమాయేతి",
+      "split_words": "విష్ణుమాయా + ఇతి",
+      "sandhi_rule": "గుణ సంధి — ఆ + ఇ = ఏ"
+    },
+    {
+      "joined_word": "నమస్తస్యై",
+      "split_words": "నమః + తస్యై",
+      "sandhi_rule": "విసర్గ సంధి — అః + త్ సందర్భంలో స్ రూపం"
+    },
+    {
+      "joined_word": "నమోనమః",
+      "split_words": "నమః + నమః",
+      "sandhi_rule": "విసర్గ సంధి — మొదటి నమః పదం ‘నమో’ రూపంలో అనుసంధానం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఆధారిత స్తుతి. ‘నమస్తస్యై’ పునరావృత్తి వల్ల అనుప్రాస మరియు భక్తిరసగాఢత కలుగుతుంది."
 }

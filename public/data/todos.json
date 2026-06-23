@@ -38,15 +38,5 @@
     "source": "reader",
     "critical": true,
     "count": 4
-  },
-  {
-    "id": "2_1",
-    "chapter": "2",
-    "item_id": "1",
-    "label": "Sloka 1",
-    "title": "Chapter 2",
-    "source": "reader",
-    "critical": true,
-    "count": 1
   }
 ]

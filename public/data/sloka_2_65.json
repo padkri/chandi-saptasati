@@ -1,123 +1,123 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_65",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "65",
-  "source_citation": "",
-  "original_text_telugu": "పాతితై రథనాగాశ్వైరసురైశ్చ వసుంధరా। అగమ్యా సాభవత్తత్ర యత్రాభూత్స మహారణః ॥ 65 ॥",
-  "normalized_sanskrit": "पातितै रथनागाश्वैरसुरैश्च वसुन्धरा । अगम्या साभवत्तत्र यत्राभूत्स महारणः ॥ ६५ ॥",
-  "iast": "pātitai rathanāgāśvair asuraiś ca vasundharā | agamyā sābhavat tatra yatrābhūt sa mahāraṇaḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "పాతితై రథనాగాశ్వైరసురైశ్చ వసుంధరా|  \nఅగమ్యా సాభవత్తత్ర యత్రాభూత్స మహారణః || 65 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.65.1",
-      "text": "पातितै रथनागाश्वैरसुरैश्च वसुन्धरा अगम्या साभवत्तत्र यत्राभूत्स महारणः",
-      "anvaya": "यत्र सः महारणः अभूत्, तत्र पातितैः रथनागाश्वैः असुरैः च सा वसुन्धरा अगम्या अभवत्।",
-      "sandhi": [
-        {
-          "joined": "रथनागाश्वैः",
-          "split": "रथ + नाग + अश्वैः",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "अश्वैरसुरैः",
-          "split": "अश्वैः + असुरैः",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before vowel becomes र्"
-        },
-        {
-          "joined": "असुरैश्च",
-          "split": "असुरैः + च",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        },
-        {
-          "joined": "साभवत्",
-          "split": "सा + अभवत्",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
-        },
-        {
-          "joined": "यत्राभूत्",
-          "split": "यत्र + अभूत्",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "अभूत्सः",
-          "split": "अभूत् + सः",
-          "sandhi_name": "వ్యంజన సంధి: final त् before स् remains/assimilates as त्स्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "यत्र",
-          "lemma": "यत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "where"
-        },
-        {
-          "word": "सः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "that"
-        },
-        {
-          "word": "महारणः",
-          "lemma": "महारण",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "great battle"
-        },
-        {
-          "word": "अभूत्",
-          "lemma": "भू",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "occurred"
-        },
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there"
-        },
-        {
-          "word": "पातितैः",
-          "lemma": "पातित",
-          "grammar": "पुंलिङ्ग/नपुंसकलिङ्ग, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "fallen"
-        },
-        {
-          "word": "रथनागाश्वैः",
-          "lemma": "रथ-नाग-अश्व",
-          "grammar": "द्वन्द्वसमासः, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with chariots, elephants, and horses"
-        },
-        {
-          "word": "असुरैः",
-          "lemma": "असुर",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with asuras"
-        },
-        {
-          "word": "वसुन्धरा",
-          "lemma": "वसुन्धरा",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the earth"
-        },
-        {
-          "word": "सा",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "she, that earth"
-        },
-        {
-          "word": "अगम्या",
-          "lemma": "अगम्य",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "impassable"
-        },
-        {
-          "word": "अभवत्",
-          "lemma": "भू",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "became"
-        }
-      ],
-      "devotional_meaning_english": "Where that great battle took place, the earth became impassable with fallen chariots, elephants, horses, and asuras.",
-      "devotional_meaning_telugu": "ఆ మహారణము జరిగిన ప్రదేశములో పడిపోయిన రథాలు, ఏనుగులు, గుర్రాలు, అసురులతో భూమి దాటలేనిదిగా మారెను."
+      "word": "యత్ర",
+      "meaning": "ఎక్కడైతే",
+      "grammar": "అవ్యయం; సంబంధవాచక దేశ సూచకం"
+    },
+    {
+      "word": "సః",
+      "meaning": "ఆ",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం; మహారణః పదానికి విశేషణం"
+    },
+    {
+      "word": "మహారణః",
+      "meaning": "మహాయుద్ధం",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అభూత్",
+      "meaning": "జరిగింది",
+      "grammar": "భూ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "పాతితైః",
+      "meaning": "పడవేయబడిన",
+      "grammar": "క్తప్రత్యయాంతం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "రథనాగాశ్వైః",
+      "meaning": "రథాలు, ఏనుగులు, గుర్రాలతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం; ద్వంద్వ సమాసం"
+    },
+    {
+      "word": "అసురైః",
+      "meaning": "అసురులతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "వసుంధరా",
+      "meaning": "భూమి",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అగమ్యా",
+      "meaning": "దాటలేనిది, నడవలేనిది",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సా",
+      "meaning": "ఆ భూమి",
+      "grammar": "సర్వనామం, స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అభవత్",
+      "meaning": "అయింది",
+      "grammar": "భూ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "యత్ర సః మహారణః అభూత్, తత్ర పాతితైః రథనాగాశ్వైః అసురైః చ సా వసుంధరా అగమ్యా అభవత్।",
+  "tatparyam": {
+    "english": "Where that great battle took place, the earth became impassable, covered with fallen chariots, elephants, horses, and asuras.",
+    "telugu": "ఆ మహాయుద్ధం జరిగిన చోట పడివున్న రథాలు, ఏనుగులు, గుర్రాలు, అసురులతో భూమి నడవలేనిదిగా మారింది."
+  },
+  "samasas": [
+    {
+      "compound": "రథనాగాశ్వైః",
+      "type": "ఇతరేతర ద్వంద్వ సమాసం — రథైః చ నాగైః చ అశ్వైః చ."
+    },
+    {
+      "compound": "వసుంధరా",
+      "type": "ఉపపద తత్పురుష/బహువ్రీహి భావం — వసూని ధారయతి ఇతి వసుంధరా; సంపదలను ధరిస్తున్నది, భూమి."
+    },
+    {
+      "compound": "మహారణః",
+      "type": "కర్మధారయ సమాసం — మహాన్ రణః = మహారణః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "పాతితై రథ",
+      "split_words": "పాతితైః + రథ",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత రకారం రావడంతో ర్ ధ్వని కలయిక; పాఠంలో విసర్గ లుప్తరూపం."
+    },
+    {
+      "joined_word": "రథనాగాశ్వైః",
+      "split_words": "రథ + నాగ + అశ్వైః",
+      "sandhi_rule": "సమాససంధి — నాగ + అశ్వైః లో సవర్ణదీర్ఘం అ + అ = ఆ."
+    },
+    {
+      "joined_word": "అసురైశ్చ",
+      "split_words": "అసురైః + చ",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత చకారం రావడంతో శ్చ రూపం."
+    },
+    {
+      "joined_word": "సాభవత్",
+      "split_words": "సా + అభవత్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — ఆ + అ = ఆ."
+    },
+    {
+      "joined_word": "యత్రాభూత్",
+      "split_words": "యత్ర + అభూత్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "అభూత్స",
+      "split_words": "అభూత్ + సః",
+      "sandhi_rule": "వ్యంజన సంధి — త్ తరువాత సకారం రావడంతో త్స రూపం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: యుద్ధరంగం శవాలు, రథాలు, గజాశ్వాలతో నిండిపోవడంలో భయానకచిత్రణ.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘వсуంధరా’, ‘yత్ర’. Normalized as ‘వసుంధరా’, ‘యత్ర’."
 }

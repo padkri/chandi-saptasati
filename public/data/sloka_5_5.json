@@ -1,106 +1,101 @@
 {
-  "id": "5.5",
-  "sloka_text": "हृताधिकारास्त्रिदशास्ताभ्यां सर्वे निराकृताः। महासुराभ्यां तां देवीं संस्मरन्त्यपराजिताम् ॥ 5 ॥",
-  "anvaya": "ताभ्यां महासुराभ्यां हृताधिकाराः सर्वे त्रिदशाः निराकृताः अपर...ाजितां तां देवीं संस्मरन्ति।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_5",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "5",
+  "source_citation": "",
+  "sloka_original": "హృతాధికారాస్త్రిదశాస్తాభ్యాం సర్వే నిరాకృతాః।\nమహాసురాభ్యాం తాం దేవీం సంస్మరంత్యపరాజితామ్ || 5 ||",
+  "pada_vibhaga": [
     {
-      "word": "हृताधिकाराः",
-      "lemma": "हृत-अधिकार",
-      "compound": "बहुव्रीहि-समासः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "those whose authority had been taken away"
+      "word": "హృతాధికారాః",
+      "meaning": "అధికారాలు అపహరింపబడినవారు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "त्रिदशाः",
-      "lemma": "त्रिदश",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "the gods"
+      "word": "త్రిదశాః",
+      "meaning": "దేవతలు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "ताभ्याम्",
-      "lemma": "तद्",
-      "case_vibhakti": "तृतीया विभक्तिः",
-      "number": "द्विवचनम्",
-      "meaning": "by those two"
+      "word": "తాభ్యామ్",
+      "meaning": "ఆ ఇద్దరిచేత",
+      "grammar": "తృతీయా విభక్తి, ద్వివచనం"
     },
     {
-      "word": "सर्वे",
-      "lemma": "सर्व",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "all"
+      "word": "సర్వే",
+      "meaning": "అందరూ",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "निराकृताः",
-      "lemma": "निर्-आ-कृ",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "expelled, rejected"
+      "word": "నిరాకృతాః",
+      "meaning": "తిరస్కరింపబడ్డవారు / తొలగింపబడ్డవారు",
+      "grammar": "క్త ప్రత్యయాంత విశేషణం, ప్రథమా బహువచనం"
     },
     {
-      "word": "महासुराभ्याम्",
-      "lemma": "महासुर",
-      "compound": "कर्मधारयः",
-      "case_vibhakti": "तृतीया विभक्तिः",
-      "number": "द्विवचनम्",
-      "meaning": "by the two great demons"
+      "word": "మహాసురాభ్యామ్",
+      "meaning": "ఆ ఇద్దరు మహాసురులచేత",
+      "grammar": "తృతీయా విభక్తి, ద్వివచనం, పుంలింగం"
     },
     {
-      "word": "ताम्",
-      "lemma": "तद्",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "that"
+      "word": "తామ్",
+      "meaning": "ఆమెను",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "देवीम्",
-      "lemma": "देवी",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "Goddess"
+      "word": "దేవీమ్",
+      "meaning": "దేవిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "संस्मरन्ति",
-      "lemma": "सम्-स्मृ",
-      "pos": "क्रियापदम्",
-      "lakara": "लट्",
-      "purusha": "प्रथमपुरुषः",
-      "number": "बहुवचनम्",
-      "meaning": "they remembered deeply"
+      "word": "సంస్మరంతి",
+      "meaning": "స్మరించుచున్నారు",
+      "grammar": "సమ్ + స్మృ ధాతువు, లట్ లకారం, ప్రథమ పురుషం, బహువచనం"
     },
     {
-      "word": "अपराजिताम्",
-      "lemma": "अपराजिता",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the unconquered one"
+      "word": "అపరాజితామ్",
+      "meaning": "ఓడింపబడనిదైన దేవిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     }
   ],
-  "sandhi": [
+  "anvaya": "తాభ్యాం మహాసురాభ్యాం హృతాధికారాః సర్వే త్రిదశాః నిరాకృతాః అపరాజితాం తాం దేవీం సంస్మరంతి।",
+  "tatparyam": {
+    "english": "All the gods, deprived of their authority and cast aside by those two great demons, remembered the invincible Goddess.",
+    "telugu": "ఆ ఇద్దరు మహాసురులచేత తమ అధికారాలు కోల్పోయి తిరస్కరింపబడిన దేవతలందరూ అపరాజితమైన ఆ దేవిని స్మరించారు."
+  },
+  "samasas": [
     {
-      "form": "हृताधिकाराः",
-      "split": "हृत + अधिकाराः",
-      "sandhi_name": "सवर्णदीर्घ-सन्धिः",
-      "rule_description": "अ + अ → आ."
+      "compound": "హృతాధికారాః",
+      "type": "బహువ్రీహి సమాసం — హృతః అధికారః యేషాం తే"
     },
     {
-      "form": "हृताधिकारास्त्रिदशाः",
-      "split": "हृताधिकाराः + त्रिदशाः",
-      "sandhi_name": "विसर्ग-सन्धिः",
-      "rule_description": "Final ः before त् becomes स्."
+      "compound": "త్రిదశాః",
+      "type": "రూఢి/సంఖ్యాపూర్వక సమాసం — త్రయో దశా ఇవ దేవాః"
     },
     {
-      "form": "संस्मरन्त्यपराजिताम्",
-      "split": "संस्मरन्ति + अपराजिताम्",
-      "sandhi_name": "यण्-सन्धिः",
-      "rule_description": "इ before अ becomes य्."
+      "compound": "మహాసురాభ్యామ్",
+      "type": "కర్మధారయ సమాసం — మహాంతౌ అసురౌ"
+    },
+    {
+      "compound": "అపరాజితామ్",
+      "type": "నఞ్ తత్పురుష సమాసం — న పరాజితా"
     }
   ],
-  "overall_meaning": "All the gods, stripped of their authority and expelled by those two great demons, remembered that unconquered Goddess."
+  "sandhis": [
+    {
+      "joined_word": "హృతాధికారాస్త్రిదశాః",
+      "split_words": "హృతాధికారాః + త్రిదశాః",
+      "sandhi_rule": "విసర్గ సంధి — ఆః + త్ సందర్భంలో స్ ఆదేశప్రవృత్తి"
+    },
+    {
+      "joined_word": "త్రిదశాస్తాభ్యాం",
+      "split_words": "త్రిదశాః + తాభ్యామ్",
+      "sandhi_rule": "విసర్గ సంధి — ఆః + త్ సందర్భంలో స్ రూపం"
+    },
+    {
+      "joined_word": "సంస్మరంత్యపరాజితామ్",
+      "split_words": "సంస్మరంతి + అపరాజితామ్",
+      "sandhi_rule": "యణ్ సంధి — ఇ + అ సందర్భంలో య్ ఆదేశం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. ‘అపరాజితా’ అనే విశేషణం దేవి యొక్క అజేయత్వాన్ని భక్తిపూర్వకంగా సూచిస్తుంది."
 }

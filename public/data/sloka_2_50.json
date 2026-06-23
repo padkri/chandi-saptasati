@@ -1,85 +1,91 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_50",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "50",
-  "source_citation": "",
-  "original_text_telugu": "లీలయైవ ప్రచిచ్ఛేద నిజశస్త్రాస్త్రవర్షిణీ అనాయస్తాననా దేవీ స్తూయమానా సురర్షిభిః ॥ 50 ॥",
-  "normalized_sanskrit": "लीलयैव प्रचिच्छेद निजशस्त्रास्त्रवर्षिणी । अनायस्तानना देवी स्तूयमाना सुरर्षिभिः ॥ ५० ॥",
-  "iast": "līlayaiva praciccheda nijaśastrāstravarṣiṇī | anāyastānanā devī stūyamānā surarṣibhiḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "లీలయైవ ప్రచిచ్ఛేద నిజశస్త్రాస్త్రవర్షిణీ   \nఅనాయస్తాననా దేవీ స్తూయమానా సురర్షిభిః || 50 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.50.1",
-      "text": "लीलयैव प्रचिच्छेद निजशस्त्रास्त्रवर्षिणी अनायस्तानना देवी स्तूयमाना सुरर्षिभिः",
-      "anvaya": "निजशस्त्रास्त्रवर्षिणी, अनायस्तानना, सुरर्षिभिः स्तूयमाना देवी लीलया एव तानि प्रचिच्छेद।",
-      "sandhi": [
-        {
-          "joined": "लीलयैव",
-          "split": "लीलया + एव",
-          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: आ + ए = ऐ"
-        },
-        {
-          "joined": "शस्त्रास्त्र",
-          "split": "शस्त्र + अस्त्र",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "देवी",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the Goddess"
-        },
-        {
-          "word": "निजशस्त्रास्त्रवर्षिणी",
-          "lemma": "निजशस्त्रास्त्रवर्षिणी",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "showering Her own weapons and missiles"
-        },
-        {
-          "word": "अनायस्तानना",
-          "lemma": "अनायस्तानना",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "with an unwearied face"
-        },
-        {
-          "word": "सुरर्षिभिः",
-          "lemma": "सुरर्षि",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by divine sages"
-        },
-        {
-          "word": "स्तूयमाना",
-          "lemma": "स्तूयमान",
-          "grammar": "वर्तमान कर्मणि कृदन्तम्, स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "being praised"
-        },
-        {
-          "word": "लीलया",
-          "lemma": "लीला",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "playfully, effortlessly"
-        },
-        {
-          "word": "एव",
-          "lemma": "एव",
-          "grammar": "अव्ययम्",
-          "meaning": "indeed"
-        },
-        {
-          "word": "तानि",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्; supplied from previous sloka",
-          "meaning": "those weapons"
-        },
-        {
-          "word": "प्रचिच्छेद",
-          "lemma": "प्र-छिद्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "cut apart"
-        }
-      ],
-      "devotional_meaning_english": "The Goddess, showering Her own weapons and missiles, praised by divine sages and with a face free of strain, cut them apart as mere play.",
-      "devotional_meaning_telugu": "తన శస్త్రాస్త్రములను వర్షింపజేయుచూ, దేవర్షులచే స్తుతింపబడుచూ, అలసటలేని ముఖముతో దేవి ఆ ఆయుధములను లీలగా ఛేదించెను."
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నిజశస్త్రాస్త్రవర్షిణీ",
+      "meaning": "తన శస్త్రాస్త్రాలను వర్షించువది",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం; దేవీ పదానికి విశేషణం"
+    },
+    {
+      "word": "అనాయస్తాననా",
+      "meaning": "శ్రమరహితమైన ముఖముగలది",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం; బహువ్రీహి విశేషణం"
+    },
+    {
+      "word": "సురర్షిభిః",
+      "meaning": "దేవతలు మరియు ఋషులచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "స్తూయమానా",
+      "meaning": "స్తుతింపబడుచూ",
+      "grammar": "వర్తమాన కర్మణి కృదంతం, స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "లీలయా",
+      "meaning": "ఆటలాగా, సులభంగా",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "కేవలం, నిజముగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ప్రచిచ్ఛేద",
+      "meaning": "ముక్కలుగా కోసింది",
+      "grammar": "ప్ర + ఛిద్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "నిజశస్త్రాస్త్రవర్షిణీ అనాయస్తాననా సురర్షిభిః స్తూయమానా దేవీ తాని శస్త్రాణి అస్త్రాణి చ లీలయా ఏవ ప్రచిచ్ఛేద।",
+  "tatparyam": {
+    "english": "The Goddess, showering her own weapons and missiles, her face without fatigue, praised by the gods and sages, cut those weapons and missiles apart as if in mere play.",
+    "telugu": "తన శస్త్రాస్త్రాలను వర్షించుచున్న దేవి, అలసటలేని ముఖంతో, దేవతలు మరియు ఋషులచే స్తుతింపబడుతూ, ఆ శస్త్రాస్త్రాలను ఆటలాగానే సులభంగా ఛేదించింది."
+  },
+  "samasas": [
+    {
+      "compound": "నిజశస్త్రాస్త్రవర్షిణీ",
+      "type": "బహువ్రీహి/ఉపపద తత్పురుష భావం — నిజాని శస్త్రాస్త్రాణి వర్షయతి యా సా."
+    },
+    {
+      "compound": "శస్త్రాస్త్ర",
+      "type": "ద్వంద్వ సమాసం — శస్త్రాణి చ అస్త్రాణి చ."
+    },
+    {
+      "compound": "అనాయస్తాననా",
+      "type": "బహువ్రీహి సమాసం — అనాయస్తం ఆననం యస్యాః సా; అలసటలేని ముఖముగలది."
+    },
+    {
+      "compound": "సురర్షిభిః",
+      "type": "ఇతరేతర ద్వంద్వ సమాసం — సురైః చ ఋషిభిః చ."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "లీలయైవ",
+      "split_words": "లీలయా + ఏవ",
+      "sandhi_rule": "వృద్ధి సంధి — ఆ + ఏ = ఐ; పాఠరూపం ‘లీలయైవ’."
+    },
+    {
+      "joined_word": "శస్త్రాస్త్ర",
+      "split_words": "శస్త్ర + అస్త్ర",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "సురర్షిభిః",
+      "split_words": "సుర + ఋషిభిః",
+      "sandhi_rule": "గుణ సంధి — అ + ఋ = అర్."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ‘లీలయైవ’ అనే పదం దేవి పరాక్రమ సౌలభ్యాన్ని అతిశయోక్తిగా చూపుతుంది."
 }

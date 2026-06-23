@@ -1,119 +1,103 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_8",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "8",
-  "source_citation": "",
-  "original_text_telugu": "ఏతద్వః కథితం సర్వమమరారి విచేష్టితమ్ । శరణం వః ప్రపన్నాః స్మో వధస్తన్య విచింత్యతామ్ ॥ 8 ॥",
-  "normalized_sanskrit": "एतद्वः कथितं सर्वममरारिविचेष्टितम् । शरणं वः प्रपन्नाः स्मो वधस्तस्य विचिन्त्यताम् ॥ ८ ॥",
-  "iast": "etad vaḥ kathitaṃ sarvam amarāri-viceṣṭitam | śaraṇaṃ vaḥ prapannāḥ smo vadhas tasya vicintyatām",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "ఏతద్వః కథితం సర్వమమరారివిచేష్టితమ్ ।  \nశరణం వః ప్రపన్నాః స్మో వధస్తస్య విచింత్యతామ్ || 8 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.8.1",
-      "text": "एतद्वः कथितं सर्वममरारिविचेष्टितम्",
-      "anvaya": "अमरारिविचेष्टितम् एतत् सर्वं वः कथितम्।",
-      "sandhi": [
-        {
-          "joined": "एतद्वः",
-          "split": "एतत् + वः",
-          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before व्"
-        },
-        {
-          "joined": "सर्वममरारि",
-          "split": "सर्वम् + अमरारि",
-          "sandhi_name": "म् before vowel retained as म् in continuous recitation"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "एतत्",
-          "lemma": "एतद्",
-          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "this"
-        },
-        {
-          "word": "सर्वम्",
-          "lemma": "सर्व",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा/द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "all"
-        },
-        {
-          "word": "अमरारिविचेष्टितम्",
-          "lemma": "अमरारिविचेष्टित",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the conduct of the enemy of the immortals"
-        },
-        {
-          "word": "वः",
-          "lemma": "युष्मद्",
-          "grammar": "सर्वनाम, चतुर्थी/षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "to you"
-        },
-        {
-          "word": "कथितम्",
-          "lemma": "कथित",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्, क्त-प्रत्ययान्तम्",
-          "meaning": "has been told"
-        }
-      ],
-      "devotional_meaning_english": "All this conduct of the enemy of the gods has been told to you.",
-      "devotional_meaning_telugu": "దేవతల శత్రువైన మహిషాసురుని దుష్చేష్టలన్నియు మీకు చెప్పబడినవి."
+      "word": "ఏతత్",
+      "meaning": "ఇది",
+      "grammar": "సర్వనామం, నపుంసకలింగం, ప్రథమా/ద్వితీయా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.8.2",
-      "text": "शरणं वः प्रपन्नाः स्मो वधस्तस्य विचिन्त्यताम्",
-      "anvaya": "वः शरणं प्रपन्नाः स्मः। तस्य वधः विचिन्त्यताम्।",
-      "sandhi": [
-        {
-          "joined": "स्मो वधः",
-          "split": "स्मः + वधः",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: स्मः before व् becomes स्मो"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "वः",
-          "lemma": "युष्मद्",
-          "grammar": "सर्वनाम, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "your"
-        },
-        {
-          "word": "शरणम्",
-          "lemma": "शरण",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "refuge"
-        },
-        {
-          "word": "प्रपन्नाः",
-          "lemma": "प्रपन्न",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "having taken refuge"
-        },
-        {
-          "word": "स्मः",
-          "lemma": "अस्",
-          "grammar": "लट् लकारः, उत्तमपुरुषः, बहुवचनम्",
-          "meaning": "we are"
-        },
-        {
-          "word": "तस्य",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
-          "meaning": "his"
-        },
-        {
-          "word": "वधः",
-          "lemma": "वध",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "destruction, slaying"
-        },
-        {
-          "word": "विचिन्त्यताम्",
-          "lemma": "वि-चिन्त्",
-          "grammar": "लोट् लकारः, प्रथमपुरुषः, एकवचनम्, कर्मणि प्रयोगः",
-          "meaning": "let it be considered"
-        }
-      ],
-      "devotional_meaning_english": "We have taken refuge in you. Let the means for his destruction be considered.",
-      "devotional_meaning_telugu": "మేము మీ శరణు పొందితిమి. అతని వధకు మార్గం ఆలోచింపబడుగాక."
+      "word": "వః",
+      "meaning": "మీకు; మీ యొద్ద",
+      "grammar": "యుష్మద్ సర్వనామం, చతుర్థీ/షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "సర్వమ్",
+      "meaning": "అన్నీ",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అమరారివిచేష్టితమ్",
+      "meaning": "దేవతల శత్రువు చేసిన చేష్టలు",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కథితమ్",
+      "meaning": "చెప్పబడింది",
+      "grammar": "క్తప్రత్యయాంత భూతకర్మణి రూపం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వః",
+      "meaning": "మిమ్మల్ని; మీ శరణు",
+      "grammar": "యుష్మద్ సర్వనామం, ద్వితీయా/షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శరణమ్",
+      "meaning": "శరణు, ఆశ్రయం",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ప్రపన్నాః",
+      "meaning": "ఆశ్రయించినవారము",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం; క్తప్రత్యయాంత రూపం"
+    },
+    {
+      "word": "స్మః",
+      "meaning": "ఉన్నాము",
+      "grammar": "అస్మద్ ధాతుప్రయోగ సంబంధం; వర్తమాన భావం, ఉత్తమ పురుష, బహువచనం"
+    },
+    {
+      "word": "తస్య",
+      "meaning": "అతని యొక్క",
+      "grammar": "సర్వనామం, షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వధః",
+      "meaning": "వధ, సంహారం",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "విచింత్యతామ్",
+      "meaning": "ఆలోచించబడుగాక",
+      "grammar": "వి + చింత్ ధాతువు, లోట్ లకారం, ప్రథమ పురుష, ఏకవచనం, కర్మణి ప్రయోగం"
     }
-  ]
+  ],
+  "anvaya": "ఏతత్ అమరారివిచేష్టితం సర్వం వః కథితమ్। వః శరణం ప్రపన్నాః స్మః। తస్య వధః విచింత్యతామ్।",
+  "tatparyam": {
+    "english": "We have told you all the actions of the enemy of the gods. We have taken refuge in you; please consider the means for his destruction.",
+    "telugu": "దేవతల శత్రువైన మహిషాసురుని చేష్టలన్నిటిని మీకు చెప్పాము. మేము మీ శరణు పొందాము; అతని వధకు మార్గం ఆలోచించబడుగాక."
+  },
+  "samasas": [
+    {
+      "compound": "అమరారి",
+      "type": "షష్ఠీ తత్పురుష సమాసం — అమరాణాం అరిః = అమరారి; దేవతల శత్రువు."
+    },
+    {
+      "compound": "అమరారివిచేష్టితమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — అమరారేః విచేష్టితం = అమరారివిచేష్టితమ్."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ఏతద్వః",
+      "split_words": "ఏతత్ + వః",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత వకారం రావడంతో త్ కు ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "సర్వమమరారివిచేష్టితమ్",
+      "split_words": "సర్వమ్ + అమరారివిచేష్టితమ్",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని యథాతథంగా కలిసింది."
+    },
+    {
+      "joined_word": "స్మో",
+      "split_words": "స్మః",
+      "sandhi_rule": "విసర్గ రూపాంతరం — పాఠప్రయోగంలో స్మః → స్మో రూపం; సాధు విభాగం ‘స్మః’."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: శరణాగతి భావం ప్రధానంగా వ్యక్తమవుతుంది; భక్తి-రసోచిత ప్రార్థనాశైలి."
 }

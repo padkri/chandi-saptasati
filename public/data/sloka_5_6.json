@@ -1,113 +1,108 @@
 {
-  "id": "5.6",
-  "sloka_text": "तयास्माकं वरो दत्तो यथापत्सु स्मृताखिलाः। भवतां नाशयिष्यामि तत्क्षणात्परमापदः ॥ 6 ॥",
-  "anvaya": "तया अस्माकं वरः दत्तः — यथा आपत्सु स्मृता अहं भवतां परमापदः तत्क्षणात् नाशयिष्यामि।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_6",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "6",
+  "source_citation": "",
+  "sloka_original": "తయాస్మాకం వరో దత్తో యథాపత్సు స్మృతాఖిలాః|\nభవతాం నాశయిష్యామి తత్ క్షణాత్పరమాపదః || 6 ||",
+  "pada_vibhaga": [
     {
-      "word": "तया",
-      "lemma": "तद्",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "तृतीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "by her"
+      "word": "తయా",
+      "meaning": "ఆమెచేత",
+      "grammar": "తృతీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "अस्माकम्",
-      "lemma": "अस्मद्",
-      "case_vibhakti": "षष्ठी विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "to us, for us"
+      "word": "అస్మాకమ్",
+      "meaning": "మాకు",
+      "grammar": "షష్ఠీ విభక్తి, బహువచనం, అస్మద్ శబ్దం"
     },
     {
-      "word": "वरः",
-      "lemma": "वर",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "boon"
+      "word": "వరః",
+      "meaning": "వరం",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "दत्तः",
-      "lemma": "दा",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "was given"
+      "word": "దత్తః",
+      "meaning": "ఇవ్వబడినాడు",
+      "grammar": "దా ధాతువు, క్త ప్రత్యయాంతం, ప్రథమా ఏకవచనం"
     },
     {
-      "word": "यथा",
-      "pos": "अव्ययम्",
-      "meaning": "that, in such a manner"
+      "word": "యథా",
+      "meaning": "ఎలాగైతే",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "आपत्सु",
-      "lemma": "आपद्",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "सप्तमी विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "in calamities"
+      "word": "ఆపత్సు",
+      "meaning": "ఆపదలలో",
+      "grammar": "సప్తమీ విభక్తి, బహువచనం, స్త్రీలింగం"
     },
     {
-      "word": "स्मृता",
-      "lemma": "स्मृ",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "remembered"
+      "word": "స్మృతా",
+      "meaning": "స్మరించబడిన నేను",
+      "grammar": "క్త ప్రత్యయాంతం, ప్రథమా ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "भवताम्",
-      "lemma": "भवत्",
-      "case_vibhakti": "षष्ठी विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "your"
+      "word": "అఖిలాః",
+      "meaning": "సమస్తమైన",
+      "grammar": "ద్వితీయా/ప్రథమా బహువచన సంబంధ విశేషణం"
     },
     {
-      "word": "नाशयिष्यामि",
-      "lemma": "नश्/नाशय्",
-      "pos": "क्रियापदम्",
-      "lakara": "लृट्",
-      "purusha": "उत्तमपुरुषः",
-      "number": "एकवचनम्",
-      "meaning": "I shall destroy"
+      "word": "భవతామ్",
+      "meaning": "మీ యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, బహువచనం"
     },
     {
-      "word": "तत्क्षणात्",
-      "lemma": "तत्-क्षण",
-      "compound": "अव्ययीभाव-सदृशः प्रयोगः",
-      "case_vibhakti": "पञ्चमी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "at that very moment"
+      "word": "నాశయిష్యామి",
+      "meaning": "నాశనం చేస్తాను",
+      "grammar": "నశ్ ధాతువు, ణిచ్, లృట్ లకారం, ఉత్తమ పురుషం, ఏకవచనం"
     },
     {
-      "word": "परमापदः",
-      "lemma": "परम-आपद्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "great calamities"
+      "word": "తత్ క్షణాత్",
+      "meaning": "ఆ క్షణంలోనే",
+      "grammar": "పంచమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పరమాపదః",
+      "meaning": "మహా ఆపదలను",
+      "grammar": "ద్వితీయా విభక్తి, బహువచనం, స్త్రీలింగం"
     }
   ],
-  "sandhi": [
+  "anvaya": "తయా అస్మాకం వరః దత్తః — ఆపత్సు స్మృతా అహం భవతాం అఖిలాః పరమాపదః తత్ క్షణాత్ నాశయిష్యామి।",
+  "tatparyam": {
+    "english": "She had granted us a boon: ‘When remembered in times of distress, I shall immediately destroy all your greatest calamities.’",
+    "telugu": "ఆమె మాకు ఇలా వరం ఇచ్చింది — ‘ఆపదకాలంలో నన్ను స్మరించినప్పుడు, మీ సమస్త మహా ఆపదలను ఆ క్షణమే నాశనం చేస్తాను.’"
+  },
+  "samasas": [
     {
-      "form": "तयास्माकम्",
-      "split": "तया + अस्माकम्",
-      "sandhi_name": "सवर्णदीर्घ-सन्धिः",
-      "rule_description": "आ + अ → आ."
+      "compound": "పరమాపదః",
+      "type": "కర్మధారయ సమాసం — పరమాః ఆపదః"
     },
     {
-      "form": "यथापत्सु",
-      "split": "यथा + आपत्सु",
-      "sandhi_name": "सवर्णदीर्घ-सन्धिः",
-      "rule_description": "आ + आ → आ."
-    },
-    {
-      "form": "तत्क्षणात्परमापदः",
-      "split": "तत्क्षणात् + परमापदः",
-      "sandhi_name": "हल्-सन्धिः",
-      "rule_description": "Final त् remains before प् in close conjunction."
+      "compound": "తత్ క్షణాత్",
+      "type": "కర్మధారయ/అవ్యయీభావసదృశ ప్రయోగం — తస్మిన్ క్షణే"
     }
   ],
-  "overall_meaning": "She had given us a boon: ‘When remembered in calamities, I shall destroy your greatest dangers at that very moment.’"
+  "sandhis": [
+    {
+      "joined_word": "తయాస్మాకం",
+      "split_words": "తయా + అస్మాకమ్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — ఆ + అ = ఆ"
+    },
+    {
+      "joined_word": "యథాపత్సు",
+      "split_words": "యథా + ఆపత్సు",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — ఆ + ఆ = ఆ"
+    },
+    {
+      "joined_word": "స్మృతాఖిలాః",
+      "split_words": "స్మృతా + అఖిలాః",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — ఆ + అ = ఆ"
+    },
+    {
+      "joined_word": "క్షణాత్పరమాపదః",
+      "split_words": "క్షణాత్ + పరమాపదః",
+      "sandhi_rule": "వ్యంజన సంధి — త్ తరువాత ప్ యథాతథంగా కలిసిన రూపం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. దేవి వరప్రదత్వం మరియు భక్తరక్షణ భావం ప్రధానమైనది."
 }

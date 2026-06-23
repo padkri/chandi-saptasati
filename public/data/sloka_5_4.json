@@ -1,97 +1,98 @@
 {
-  "id": "5.4",
-  "sloka_text": "तावेव पवनर्द्धिं च चक्रतुर्वह्निकर्म च। ततो देवा विनिर्धूता भ्रष्टराज्याः पराजिताः ॥ 4 ॥",
-  "anvaya": "तौ एव पवनर्द्धिं च वह्निकर्म च चक्रतुः। ततः देवा विनिर्धूताः भ्रष्टराज्याः पराजिताः अभवन्।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_4",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "4",
+  "source_citation": "",
+  "sloka_original": "తాвеవ పవనర్థిం చ చక్రతుర్వహ్నికర్మ చ।\nతతో దేవా వినిర్ధూతా భ్రష్టరాజ్యాః పరాజితాః || 4 ||",
+  "pada_vibhaga": [
     {
-      "word": "तौ एव",
-      "lemma": "तद् + एव",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "द्विवचनम्",
-      "meaning": "those two themselves"
+      "word": "తౌ",
+      "meaning": "ఆ ఇద్దరూ",
+      "grammar": "ప్రథమా విభక్తి, ద్వివచనం, పుంలింగం"
     },
     {
-      "word": "पवनर्द्धिम्",
-      "lemma": "पवन-ऋद्धि",
-      "compound": "षष्ठी-तत्पुरुषः",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the function/prosperity of Vayu"
+      "word": "ఏవ",
+      "meaning": "తామే",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "च",
-      "pos": "अव्ययम्",
-      "meaning": "and"
+      "word": "పవనార్థిమ్",
+      "meaning": "వాయువు యొక్క కార్యాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం; పాఠభేద/లిప్యంతర దోషసూచనతో"
     },
     {
-      "word": "चक्रतुः",
-      "lemma": "कृ",
-      "pos": "क्रियापदम्",
-      "lakara": "लिट्",
-      "pada": "परस्मैपदम्",
-      "purusha": "प्रथमपुरुषः",
-      "number": "द्विवचनम्",
-      "meaning": "they both performed, assumed"
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "वह्निकर्म",
-      "lemma": "वह्नि-कर्मन्",
-      "compound": "षष्ठी-तत्पुरुषः",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the function of Agni"
+      "word": "చక్రతుః",
+      "meaning": "చేసిరి / స్వీకరించిరి",
+      "grammar": "కృ ధాతువు, లిట్ లకారం, పరస్మైపదం, ప్రథమ పురుషం, ద్వివచనం"
     },
     {
-      "word": "ततः",
-      "pos": "अव्ययम्",
-      "meaning": "thereafter"
+      "word": "వహ్నికర్మ",
+      "meaning": "అగ్నికి సంబంధించిన కార్యం",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, నపుంసకలింగం"
     },
     {
-      "word": "देवाः",
-      "lemma": "देव",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "the gods"
+      "word": "చ",
+      "meaning": "కూడా",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "विनिर्धूताः",
-      "lemma": "वि-निर्-धू",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "driven out, shaken off"
+      "word": "తతః",
+      "meaning": "ఆ తరువాత",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "भ्रष्टराज्याः",
-      "lemma": "भ्रष्ट-राज्य",
-      "compound": "बहुव्रीहि-समासः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "deprived of their kingdoms"
+      "word": "దేవాః",
+      "meaning": "దేవతలు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "पराजिताः",
-      "lemma": "परा-जि",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "defeated"
+      "word": "వినిర్ధూతాః",
+      "meaning": "తొలగింపబడ్డవారు",
+      "grammar": "క్త ప్రత్యయాంత విశేషణం, ప్రథమా బహువచనం, పుంలింగం"
+    },
+    {
+      "word": "భ్రష్టరాజ్యాః",
+      "meaning": "రాజ్యము కోల్పోయినవారు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
+    },
+    {
+      "word": "పరాజితాః",
+      "meaning": "ఓడిపోయినవారు",
+      "grammar": "క్త ప్రత్యయాంత విశేషణం, ప్రథమా బహువచనం, పుంలింగం"
     }
   ],
-  "sandhi": [
+  "anvaya": "తౌ ఏవ పవనార్థిం చ వహ్నికర్మ చ చక్రతుః। తతః దేవాః వినిర్ధూతాః భ్రష్టరాజ్యాః పరాజితాః।",
+  "tatparyam": {
+    "english": "They also assumed the functions of the wind and fire. Then the gods, dispossessed of their kingdoms and defeated, were driven away.",
+    "telugu": "వారు వాయువు మరియు అగ్ని సంబంధమైన కార్యాలను కూడా స్వీకరించారు. ఆ తరువాత రాజ్యాలను కోల్పోయిన దేవతలు పరాజితులై తరిమివేయబడ్డారు."
+  },
+  "samasas": [
     {
-      "form": "तावेव",
-      "split": "तौ + एव",
-      "sandhi_name": "वृद्धि-सन्धिः"
+      "compound": "వహ్నికర్మ",
+      "type": "షష్ఠీ తత్పురుష సమాసం — వహ్నేః కర్మ"
     },
     {
-      "form": "चक्रतुर्वह्निकर्म",
-      "split": "चक्रतुः + वह्निकर्म",
-      "sandhi_name": "विसर्ग-सन्धिः / रेफादेशः",
-      "rule_description": "Final ः before voiced व becomes र्."
+      "compound": "భ్రష్టరాజ్యాః",
+      "type": "బహువ్రీహి సమాసం — భ్రష్టం రాజ్యం యేషాం తే"
     }
   ],
-  "overall_meaning": "Those two also took over the functions of Vayu and Agni. Then the gods, defeated and deprived of their kingdoms, were driven away."
+  "sandhis": [
+    {
+      "joined_word": "తావేవ",
+      "split_words": "తౌ + ఏవ",
+      "sandhi_rule": "అయాదేశ సంధి — ఔ + ఏ సందర్భంలో అవ్ రూపం"
+    },
+    {
+      "joined_word": "చక్రతుర్వహ్నికర్మ",
+      "split_words": "చక్రతుః + వహ్నికర్మ",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత వ్ వచ్చినప్పుడు ర్ ఆదేశం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. ఇక్కడ అసురుల ఆధిపత్యవర్ణన ద్వారా విపరీతభావన ఉద్భవిస్తుంది. పాఠంలో ‘తాвеవ’ వంటి లిప్యంతరదోషం ఉంది; భావం ‘తావేవ’."
 }

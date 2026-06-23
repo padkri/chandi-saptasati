@@ -1,95 +1,96 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_40",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "40",
-  "source_citation": "",
-  "original_text_telugu": "శస్త్రాసైర్బహుధా ముక్తేరాదీపితదిగంతరమ్। మహిషాసురసేనానీశ్చిక్షురాఖ్యో మహాసురః ॥ 40 ॥",
-  "normalized_sanskrit": "शस्त्रास्त्रैर्बहुधा मुक्तैरादीपितदिगन्तरम् । महिषासुरसेनानीश्चिक्षुराख्यो महासुरः ॥ ४० ॥",
-  "iast": "śastrāstrair bahudhā muktair ādīpitadigantaram | mahiṣāsurasenānīś cikṣurākhyo mahāsuraḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "శస్త్రాస్త్రైర్బహుధా ముక్తైరాదీపితదిగంతరమ్।  \nమహిషాసురసేనానీశ్చిక్షురాఖ్యో మహాసురః || 40 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.40.1",
-      "text": "शस्त्रास्त्रैर्बहुधा मुक्तैरादीपितदिगन्तरम्",
-      "anvaya": "बहुधा मुक्तैः शस्त्रास्त्रैः दिगन्तरम् आदीपितम्।",
-      "sandhi": [
-        {
-          "joined": "शस्त्रास्त्रैः",
-          "split": "शस्त्र + अस्त्रैः",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "शस्त्रास्त्रैर्बहुधा",
-          "split": "शस्त्रास्त्रैः + बहुधा",
-          "sandhi_name": "విసర్గ సంధి: ः before ब् becomes र्"
-        },
-        {
-          "joined": "मुक्तैरादीपित",
-          "split": "मुक्तैः + आदीपित",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "शस्त्रास्त्रैः",
-          "lemma": "शस्त्रास्त्र",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by weapons and missiles"
-        },
-        {
-          "word": "बहुधा",
-          "lemma": "बहुधा",
-          "grammar": "अव्ययम्",
-          "meaning": "in many ways"
-        },
-        {
-          "word": "मुक्तैः",
-          "lemma": "मुक्त",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "released, hurled"
-        },
-        {
-          "word": "आदीपितदिगन्तरम्",
-          "lemma": "आदीपितदिगन्तर",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the quarters were illuminated"
-        }
-      ],
-      "devotional_meaning_english": "The spaces of the directions blazed with weapons and missiles hurled in many ways.",
-      "devotional_meaning_telugu": "అనేక విధముగా ప్రయోగింపబడిన శస్త్రాస్త్రములతో దిక్కుల అంతరాళములు ప్రకాశించెను."
+      "word": "బహుధా",
+      "meaning": "అనేక విధములుగా",
+      "grammar": "అవ్యయం"
     },
     {
-      "sentence_id": "2.40.2",
-      "text": "महिषासुरसेनानीश्चिक्षुराख्यो महासुरः",
-      "anvaya": "महिषासुरसेनानीः चिक्षुराख्यः महासुरः...",
-      "sandhi": [
-        {
-          "joined": "सेनानीश्चिक्षुः",
-          "split": "सेनानीः + चिक्षुः",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "महिषासुरसेनानीः",
-          "lemma": "महिषासुरसेनानी",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "commander of Mahishasura’s army"
-        },
-        {
-          "word": "चिक्षुराख्यः",
-          "lemma": "चिक्षुराख्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "named Cikṣura"
-        },
-        {
-          "word": "महासुरः",
-          "lemma": "महासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "great asura"
-        }
-      ],
-      "continuation_note": "The finite verb for this subject appears in the following sloka: युयुधे.",
-      "devotional_meaning_english": "The great asura named Cikṣura, commander of Mahishasura’s army...",
-      "devotional_meaning_telugu": "మహిషాసురుని సేనాధిపతియైన చిక్షురుడు అనే మహాసురుడు..."
+      "word": "ముక్తైః",
+      "meaning": "విడిచిన, ప్రయోగించిన",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం; శస్త్రాస్త్రైః పదానికి విశేషణం"
+    },
+    {
+      "word": "శస్త్రాస్త్రైః",
+      "meaning": "శస్త్రాస్త్రాలతో",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ఆదీపితదిగంతరమ్",
+      "meaning": "దిక్కుల అంతరాళాన్ని ప్రకాశింపజేసిన యుద్ధం",
+      "grammar": "నపుంసకలింగం, ప్రథమా/ద్వితీయా విభక్తి, ఏకవచనం; యుద్ధం పదానికి విశేషణం"
+    },
+    {
+      "word": "మహిషాసురసేనానీ",
+      "meaning": "మహిషాసురుని సేనాపతి",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "చిక్షురాఖ్యః",
+      "meaning": "చిక్షుర్ అని పేరుగల",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మహాసురః",
+      "meaning": "మహా అసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "బహుధా ముక్తైః శస్త్రాస్త్రైః ఆదీపితదిగంతరం యుద్ధం ప్రవవృతే। చిక్షురాఖ్యః మహాసురః మహిషాసురసేనానీ...",
+  "tatparyam": {
+    "english": "The battle blazed across the quarters with weapons and missiles hurled in many ways. Then Chikshura, the great asura and commander of Mahishasura’s army...",
+    "telugu": "అనేక విధాలుగా ప్రయోగించబడిన శస్త్రాస్త్రాలతో దిక్కులన్నీ ప్రకాశించేలా యుద్ధం జ్వలించింది. అప్పుడు మహిషాసురుని సేనాపతియైన చిక్షుర్ అనే మహాసురుడు..."
+  },
+  "samasas": [
+    {
+      "compound": "శస్త్రాస్త్రైః",
+      "type": "ద్వంద్వ సమాసం — శస్త్రైః చ అస్త్రైః చ = శస్త్రాస్త్రైః."
+    },
+    {
+      "compound": "ఆదీపితదిగంతరమ్",
+      "type": "బహువ్రీహి సమాసం — ఆదీపితం దిగంతరం యేన తత్."
+    },
+    {
+      "compound": "మహిషాసురసేనానీ",
+      "type": "షష్ఠీ తత్పురుష సమాసం — మహిషాసురస్య సేనానీ = మహిషాసురుని సేనాపతి."
+    },
+    {
+      "compound": "చిక్షురాఖ్యః",
+      "type": "కర్మధారయ సమాసం — చిక్షుః ఆఖ్యా యస్య సః = చిక్షురాఖ్యః."
+    },
+    {
+      "compound": "మహాసురః",
+      "type": "కర్మధారయ సమాసం — మహాన్ అసురః = మహాసురః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "శస్త్రాస్త్రైః",
+      "split_words": "శస్త్ర + అస్త్రైః",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "ముక్తైరాదీపిత",
+      "split_words": "ముక్తైః + ఆదీపిత",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత ఆ రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "సేనానీశ్చిక్షురాఖ్యః",
+      "split_words": "సేనానీః + చిక్షురాఖ్యః",
+      "sandhi_rule": "విసర్గ సంధి — ఈః తరువాత చకారం రావడంతో శ్చ రూపం."
+    },
+    {
+      "joined_word": "చిక్షురాఖ్యః",
+      "split_words": "చిక్షుః + ఆఖ్యః",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత ఆ రావడంతో ర్ ఆదేశం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ‘ఆదీపితదిగంతరం’ అనే పదంతో యుద్ధపు జ్వలద్రూప దృశ్యచిత్రణ.",
+  "reading_issues_summary": "Uploaded text had ‘శస్త్రాసైః’/‘ముక్తే’ type corruption. Normalized as ‘శస్త్రాస్త్రైర్బహుధా ముక్తైః’."
 }

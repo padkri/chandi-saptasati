@@ -1,118 +1,108 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_61",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "61",
-  "source_citation": "",
-  "original_text_telugu": "శిరాంసి పేతురన్యేషామన్యే మధ్యే విదారితాః॥ విచ్ఛిన్నజఙ్ఘాస్త్వపరే పేతురుర్వ్యాం మహాసురాః ॥ 61 ॥",
-  "normalized_sanskrit": "शिरांसि पेतुरन्येषामन्ये मध्ये विदारिताः । विच्छिन्नजङ्घास्त्वपरे पेतुरुर्व्यां महासुराः ॥ ६१ ॥",
-  "iast": "śirāṃsi petur anyeṣām anye madhye vidāritāḥ | vicchinnajaṅghās tv apare petur urvyāṃ mahāsurāḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "శిరాంసి పేతురన్యేషామన్యే మధ్యే విదారితాః॥  \nవిచ్ఛిన్నజఙ్ఘాస్త్వపరే పేతురుర్వ్యాం మహాసురాః || 61 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.61.1",
-      "text": "शिरांसि पेतुरन्येषामन्ये मध्ये विदारिताः",
-      "anvaya": "अन्येषां शिरांसि पेतुः। अन्ये मध्ये विदारिताः।",
-      "sandhi": [
-        {
-          "joined": "पेतुरन्येषाम्",
-          "split": "पेतुः + अन्येषाम्",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before vowel becomes र्"
-        },
-        {
-          "joined": "अन्येषामन्ये",
-          "split": "अन्येषाम् + अन्ये",
-          "sandhi_name": "म् before vowel retained"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "अन्येषाम्",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of others"
-        },
-        {
-          "word": "शिरांसि",
-          "lemma": "शिरस्",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "heads"
-        },
-        {
-          "word": "पेतुः",
-          "lemma": "पत्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "fell"
-        },
-        {
-          "word": "अन्ये",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "others"
-        },
-        {
-          "word": "मध्ये",
-          "lemma": "मध्य",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in the middle"
-        },
-        {
-          "word": "विदारिताः",
-          "lemma": "विदारित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "torn apart"
-        }
-      ],
-      "devotional_meaning_english": "The heads of others fell; some were torn apart in the middle.",
-      "devotional_meaning_telugu": "ఇతరుల తలలు పడిపోయెను; కొందరు మధ్యలో చీల్చబడిరి."
+      "word": "అన్యేషామ్",
+      "meaning": "ఇతరుల యొక్క",
+      "grammar": "సర్వనామం, షష్ఠీ విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.61.2",
-      "text": "विच्छिन्नजङ्घास्त्वपरे पेतुरुर्व्यां महासुराः",
-      "anvaya": "अपरे महासुराः विच्छिन्नजङ्घाः उर्व्यां पेतुः।",
-      "sandhi": [
-        {
-          "joined": "जङ्घास्त्वपरे",
-          "split": "जङ्घाः + तु + अपरे",
-          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्; तु + अपरे = त्वपरे"
-        },
-        {
-          "joined": "पेतुरुर्व्याम्",
-          "split": "पेतुः + उर्व्याम्",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "अपरे",
-          "lemma": "अपर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "others"
-        },
-        {
-          "word": "महासुराः",
-          "lemma": "महासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "great asuras"
-        },
-        {
-          "word": "विच्छिन्नजङ्घाः",
-          "lemma": "विच्छिन्नजङ्घ",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "with thighs/shanks cut off"
-        },
-        {
-          "word": "उर्व्याम्",
-          "lemma": "उर्वी",
-          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "on the earth"
-        },
-        {
-          "word": "पेतुः",
-          "lemma": "पत्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "fell"
-        }
-      ],
-      "devotional_meaning_english": "Other great asuras, their legs cut off, fell upon the earth.",
-      "devotional_meaning_telugu": "ఇంకొందరు మహాసురులు కాళ్లు తెగి భూమిపై పడిరి."
+      "word": "శిరాంసి",
+      "meaning": "తలలు",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పేతుః",
+      "meaning": "పడిపోయాయి",
+      "grammar": "పత్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "అన్యే",
+      "meaning": "ఇతరులు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "మధ్యే",
+      "meaning": "మధ్యభాగంలో",
+      "grammar": "పుంలింగం/నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "విదారితాః",
+      "meaning": "చీల్చబడ్డారు",
+      "grammar": "వి + దృ ధాతువు, causative/క్తప్రత్యయాంత భూతకర్మణి రూపం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అపరే",
+      "meaning": "మరికొందరు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "విచ్ఛిన్నజఙ్ఘాః",
+      "meaning": "తెగిన జంఘలు గలవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "మహాసురాః",
+      "meaning": "మహా అసురులు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ఉర్వ్యామ్",
+      "meaning": "భూమిపై",
+      "grammar": "స్త్రీలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పేతుః",
+      "meaning": "పడిపోయారు",
+      "grammar": "పత్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "తు",
+      "meaning": "అయితే, మరి",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "అన్యేషాం శిరాంసి పేతుః। అన్యే మధ్యే విదారితాః। అపరే తు విచ్ఛిన్నజఙ్ఘాః మహాసురాః ఉర్వ్యాం పేతుః।",
+  "tatparyam": {
+    "english": "The heads of others fell; some were split through the middle. Still other great asuras, their legs cut off, fell upon the earth.",
+    "telugu": "మరికొందరి తలలు పడిపోయాయి. కొందరు మధ్యభాగంలో చీల్చబడ్డారు. మరికొందరు మహాసురులు జంఘలు తెగిపోయి భూమిపై పడిపోయారు."
+  },
+  "samasas": [
+    {
+      "compound": "విచ్ఛిన్నజఙ్ఘాః",
+      "type": "బహువ్రీహి సమాసం — విచ్ఛిన్నాః జఙ్ఘాః యేషాం తే = తెగిన జంఘలు గలవారు."
+    },
+    {
+      "compound": "మహాసురాః",
+      "type": "కర్మధారయ సమాసం — మహాంతః అసురాః = మహాసురాః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "పేతురన్యేషామ్",
+      "split_words": "పేతుః + అన్యేషామ్",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత అ రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "అన్యేషామన్యే",
+      "split_words": "అన్యేషామ్ + అన్యే",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    },
+    {
+      "joined_word": "జఙ్ఘాస్త్వపరే",
+      "split_words": "జఙ్ఘాః + తు + అపరే",
+      "sandhi_rule": "విసర్గ సంధి — ఆః తరువాత తకారం రావడంతో స్; తు + అపరే లో వ్ ఆదేశసదృశ కలయిక."
+    },
+    {
+      "joined_word": "పేతురుర్వ్యామ్",
+      "split_words": "పేతుః + ఉర్వ్యామ్",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత ఉ రావడంతో ర్ ఆదేశం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: శరీరవిచ్ఛేదన వర్ణన ద్వారా యుద్ధభయానకత్వం."
 }

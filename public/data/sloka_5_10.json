@@ -1,81 +1,84 @@
 {
-  "id": "5.10",
-  "sloka_text": "रौद्रायै नमो नित्यायै गौर्यै धात्र्यै नमो नमः। ज्योत्स्नायै चेन्दुरूपिण्यै सुखायै सततं नमः ॥ 10 ॥",
-  "anvaya": "रौद्रायै नमः। नित्यायै गौर्यै धात्र्यै नमः नमः। ज्योत्स्नायै च इन्दुरूपिण्यै सुखायै सततं नमः।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_10",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "10",
+  "source_citation": "",
+  "sloka_original": "రౌద్రాయై నమో నిత్యాయై గౌర్యై ధాత్ర్యై నమో నమః|\nజ్యోత్స్నాయై చేందురూపిణ్యై సుఖాయై సతతం నమః|10 ||",
+  "pada_vibhaga": [
     {
-      "word": "रौद्रायै",
-      "lemma": "रौद्रा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the fierce one"
+      "word": "రౌద్రాయై",
+      "meaning": "రౌద్రస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "नमः",
-      "pos": "अव्ययम्",
-      "meaning": "salutation"
+      "word": "నమః",
+      "meaning": "నమస్కారం",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "नित्यायै",
-      "lemma": "नित्या",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the eternal one"
+      "word": "నిత్యాయై",
+      "meaning": "నిత్యమైన దేవికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "गौर्यै",
-      "lemma": "गौरी",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to Gauri, the fair/radiant Goddess"
+      "word": "గౌర్యై",
+      "meaning": "గౌరీకి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "धात्र्यै",
-      "lemma": "धात्री",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the sustainer"
+      "word": "ధాత్ర్యై",
+      "meaning": "ధారిణికి / పోషకురాలికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "ज्योत्स्नायै",
-      "lemma": "ज्योत्स्ना",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to moonlight"
+      "word": "జ్యోత్స్నాయై",
+      "meaning": "చంద్రకాంతిస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "च",
-      "pos": "अव्ययम्",
-      "meaning": "and"
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "इन्दुरूपिण्यै",
-      "lemma": "इन्दुरूपिणी",
-      "compound": "बहुव्रीहि/कर्मधारय-भावः",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to her whose form is the moon"
+      "word": "ఇందురూపిణ్యై",
+      "meaning": "చంద్రరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सुखायै",
-      "lemma": "सुखा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to bliss, to the giver of happiness"
+      "word": "సుఖాయై",
+      "meaning": "సుఖస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सततम्",
-      "pos": "अव्ययम्",
-      "meaning": "always"
+      "word": "సతతమ్",
+      "meaning": "ఎల్లప్పుడూ",
+      "grammar": "అవ్యయం"
     }
   ],
-  "sandhi": [
+  "anvaya": "రౌద్రాయై నమః। నిత్యాయై గౌర్యై ధాత్ర్యై నమో నమః। జ్యోత్స్నాయై చ ఇందురూపిణ్యై సుఖాయై సతతం నమః।",
+  "tatparyam": {
+    "english": "Salutations to the fierce one, the eternal one, Gaurī, and the sustainer. Ever salutations to the moonlight-like one, the moon-formed one, and the embodiment of happiness.",
+    "telugu": "రౌద్రస్వరూపిణికి, నిత్యస్వరూపిణికి, గౌరీకి, ధారిణికి నమస్కారం. చంద్రకాంతిస్వరూపిణికి, చంద్రరూపిణికి, సుఖస్వరూపిణికి ఎల్లప్పుడూ నమస్కారం."
+  },
+  "samasas": [
     {
-      "form": "चेन्दुरूपिण्यै",
-      "split": "च + इन्दुरूपिण्यै",
-      "sandhi_name": "गुण-सन्धिः",
-      "rule_description": "अ + इ → ए."
+      "compound": "ఇందురూపిణ్యై",
+      "type": "షష్ఠీ తత్పురుష సమాసం — ఇందోః రూపం యస్యాః సా"
     }
   ],
-  "overall_meaning": "Salutations to the fierce one, the eternal one, Gauri, the sustainer; salutations always to moonlight, to her who has the moon as her form, and to the giver of happiness."
+  "sandhis": [
+    {
+      "joined_word": "నమో",
+      "split_words": "నమః",
+      "sandhi_rule": "విసర్గ సంధి — నమః పదానికి ‘నమో’ రూపప్రయోగం"
+    },
+    {
+      "joined_word": "చేందురూపిణ్యై",
+      "split_words": "చ + ఇందురూపిణ్యై",
+      "sandhi_rule": "గుణ సంధి — అ + ఇ = ఏ"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. ‘నమః’ పునరుక్తి భక్తిరసాన్ని బలపరుస్తుంది."
 }

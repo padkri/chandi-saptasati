@@ -1,73 +1,83 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_5",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "5",
-  "source_citation": "",
-  "original_text_telugu": "యథావృత్తం తయోస్తద్వన్మహిషాసురచేష్టితమ్। త్రిదశాః కథయామాసురేవాభిభవవిస్తరమ్ ॥ 5 ॥",
-  "normalized_sanskrit": "यथावृत्तं तयोस्तद्वन्महिषासुरचेष्टितम् । त्रिदशाः कथयामासुर्देवाभिभवविस्तरम् ॥ ५ ॥",
-  "iast": "yathāvṛttaṃ tayos tadvan mahiṣāsura-ceṣṭitam | tridaśāḥ kathayām āsur devābhibhava-vistaram",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "యథావృత్తం తయోస్తద్వన్మహిషాసురచేష్టితమ్।  \nత్రిదశాః కథయామాసుర్దేవాభిభవవిస్తరమ్ || 5 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.5.1",
-      "text": "यथावृत्तं तयोस्तद्वन्महिषासुरचेष्टितं त्रिदशाः कथयामासुर्देवाभिभवविस्तरम्",
-      "anvaya": "त्रिदशाः तयोः यथावृत्तं तद्वत् महिषासुरचेष्टितं देवाभिभवविस्तरं कथयामासुः।",
-      "sandhi": [
-        {
-          "joined": "तयोस्तद्वत्",
-          "split": "तयोः + तद्वत्",
-          "sandhi_name": "విసర్గ లోప/स् आदेशः: ः before त् becomes स्"
-        },
-        {
-          "joined": "कथयामासुः देव",
-          "split": "कथयामासुः + देव",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before द् becomes र्; कथयामासुर्देव"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "त्रिदशाः",
-          "lemma": "त्रिदश",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "the gods"
-        },
-        {
-          "word": "तयोः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, षष्ठी विभक्ति, द्विवचनम्",
-          "meaning": "to/of those two, Śiva and Viṣṇu"
-        },
-        {
-          "word": "यथावृत्तम्",
-          "lemma": "यथावृत्त",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "as it had happened"
-        },
-        {
-          "word": "तद्वत्",
-          "lemma": "तद्वत्",
-          "grammar": "अव्ययम्",
-          "meaning": "accordingly, likewise"
-        },
-        {
-          "word": "महिषासुरचेष्टितम्",
-          "lemma": "महिषासुरचेष्टित",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "the conduct of Mahishasura"
-        },
-        {
-          "word": "देवाभिभवविस्तरम्",
-          "lemma": "देवाभिभवविस्तर",
-          "grammar": "पुंलिङ्गम्/नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "the detailed account of the gods’ defeat"
-        },
-        {
-          "word": "कथयामासुः",
-          "lemma": "कथ्",
-          "grammar": "लिट्-प्रयोगः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "they narrated"
-        }
-      ],
-      "devotional_meaning_english": "The gods narrated to those two exactly what had happened: Mahishasura’s actions and the full account of the devas’ humiliation.",
-      "devotional_meaning_telugu": "దేవతలు శివవిష్ణువులకు జరిగినదంతటిని, మహిషాసురుని దుష్కార్యములను, దేవతల పరాభవ వివరమును యథార్థంగా వివరించిరి."
+      "word": "యథావృత్తమ్",
+      "meaning": "ఎలా జరిగిందో అట్లే",
+      "grammar": "అవ్యయీభావ సమాసప్రాయ అవ్యయం; వృత్తాంత సూచకం"
+    },
+    {
+      "word": "తయోః",
+      "meaning": "ఆ ఇద్దరికీ",
+      "grammar": "సర్వనామం, షష్ఠీ/చతుర్థీ విభక్తి, ద్వివచనం; ఇక్కడ బ్రహ్మ మరియు శివవిష్ణువుల సందర్భం"
+    },
+    {
+      "word": "తద్వత్",
+      "meaning": "అదేవిధంగా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "మహిషాసురచేష్టితమ్",
+      "meaning": "మహిషాసురుని ప్రవర్తన, దుష్కార్యాలు",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "త్రిదశాః",
+      "meaning": "దేవతలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "కథయామాసుః",
+      "meaning": "వివరించారు",
+      "grammar": "కథ్ ధాతువు, లిట్ లకారం భావంలో పరిభాషా రూపం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "దేవాభిభవవిస్తరమ్",
+      "meaning": "దేవతల పరాభవం యొక్క విస్తృత వర్ణన",
+      "grammar": "పుంలింగ/నపుంసకప్రయోగం, ద్వితీయా విభక్తి, ఏకవచనం; కథన విషయము"
     }
-  ]
+  ],
+  "anvaya": "త్రిదశాః తయోః యథావృత్తం మహిషాసురచేష్టితం, తద్వత్ దేవాభిభవవిస్తరం కథయామాసుః।",
+  "tatparyam": {
+    "english": "The gods then narrated to them, exactly as it had happened, the deeds of Mahishasura and the full account of the defeat suffered by the gods.",
+    "telugu": "దేవతలు మహిషాసురుని దుష్కార్యాలను, దేవతలకు కలిగిన పరాభవాన్ని యథావిధిగా వారికి వివరించారు."
+  },
+  "samasas": [
+    {
+      "compound": "యథావృత్తమ్",
+      "type": "అవ్యయీభావ సమాసం — యథా వృత్తం = జరిగిన విధంగా."
+    },
+    {
+      "compound": "మహిషాసురచేష్టితమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — మహిషాసురస్య చేష్టితం = మహిషాసురుని ప్రవర్తన."
+    },
+    {
+      "compound": "దేవాభిభవవిస్తరమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — దేవానాం అభిభవస్య విస్తరః = దేవతల పరాభవ విస్తారం."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తయోస్తద్వత్",
+      "split_words": "తయోః + తద్వత్",
+      "sandhi_rule": "విసర్గ సంధి — ఓః తరువాత తకారం రావడంతో విసర్గం స్ రూపంగా మారింది."
+    },
+    {
+      "joined_word": "కథయామాసుర్దేవాభిభవవిస్తరమ్",
+      "split_words": "కథయామాసుః + దేవాభిభవవిస్తరమ్",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత దకారం రావడంతో విసర్గం ర్ ఆదేశమైంది."
+    },
+    {
+      "joined_word": "దేవాభిభవ",
+      "split_words": "దేవ + అభిభవ",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: వృత్తాంతాన్ని యథార్థంగా వివరించే కథనశైలి; ప్రత్యేక శబ్దాలంకారం లేదు.",
+  "reading_issues_summary": "Uploaded text has ‘సురేవాభిభవవిస్తరమ్’ type corruption. Normalized reading used: ‘కథయామాసుర్దేవాభిభవవిస్తరమ్’."
 }

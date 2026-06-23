@@ -1,0 +1,119 @@
+{
+  "id": "durga_saptashati_chapter_7_sloka_20",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "7",
+  "sloka_number": "20",
+  "source_citation": "Uploaded source has likely OCR/contextual issue in ‘ఉత్థాయ చ మహాసింహం’; analysis preserves source but interprets contextually as the Goddess springing forth/rushing like a great lion toward Chanda. ",
+  "sloka_original": "ఉత్థాయ చ మహాసింహం దేవీ చండమధావత|\nగృహీత్వా చాస్య కేశేషు శిరస్తేనాసినాచ్ఛినత్ || 20 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఉత్థాయ",
+      "meaning": "లేచి; పైకి ఎగసి",
+      "grammar": "ఉత్ + స్థా ధాతువు, ల్యప్ ప్రత్యయాంత అవ్యయం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "మహాసింహమ్",
+      "meaning": "మహాసింహమువలె; మహా సింహమును",
+      "grammar": "కర్మధారయ సమాసం, పుంలింగం, ద్వితీయా ఏకవచనం; ఇక్కడ ఉపమాన/క్రియావిశేషణ భావం"
+    },
+    {
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "స్త్రీలింగం, ప్రథమా ఏకవచనం"
+    },
+    {
+      "word": "చండమ్",
+      "meaning": "చండుని",
+      "grammar": "పుంలింగం, ద్వితీయా ఏకవచనం"
+    },
+    {
+      "word": "అధావత్",
+      "meaning": "పరుగెత్తెను; దాడి చేసెను",
+      "grammar": "ధావ్ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "గృహీత్వా",
+      "meaning": "పట్టుకొని",
+      "grammar": "గ్రహ్ ధాతువు, క్త్వా ప్రత్యయాంత అవ్యయం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అస్య",
+      "meaning": "అతని యొక్క",
+      "grammar": "ఇదమ్/అదస్ సర్వనామ భావం, పుంలింగం, షష్ఠీ ఏకవచనం"
+    },
+    {
+      "word": "కేశేషు",
+      "meaning": "జుట్టులో; జుట్టుపట్టి",
+      "grammar": "పుంలింగం, సప్తమీ బహువచనం"
+    },
+    {
+      "word": "శిరః",
+      "meaning": "తల",
+      "grammar": "నపుంసకలింగం, ద్వితీయా ఏకవచనం"
+    },
+    {
+      "word": "తేన",
+      "meaning": "ఆ ఆయుధముతో",
+      "grammar": "తద్ సర్వనామం, నపుంసక/పుంలింగం, తృతీయా ఏకవచనం"
+    },
+    {
+      "word": "అసినా",
+      "meaning": "ఖడ్గముచేత",
+      "grammar": "పుంలింగం, తృతీయా ఏకవచనం"
+    },
+    {
+      "word": "అచ్ఛినత్",
+      "meaning": "నరికెను",
+      "grammar": "ఛిద్ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    }
+  ],
+  "anvaya": "దేవీ ఉత్థాయ మహాసింహం చండమ్ అధావత్। అస్య కేశేషు గృహీత్వా తేన అసినా శిరః అచ్ఛినత్।",
+  "tatparyam": {
+    "english": "The Goddess rose and rushed upon Chanda like a great lion. Seizing him by the hair, she cut off his head with that sword.",
+    "telugu": "దేవి లేచి మహాసింహమువలె చండునిపై దూకెను. అతని జుట్టును పట్టుకొని ఆ ఖడ్గముతో అతని తలను నరికెను."
+  },
+  "samasas": [
+    {
+      "compound": "మహాసింహమ్",
+      "type": "కర్మధారయ సమాసం — మహాన్ సింహః; మహాసింహము."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "చండమధావత్",
+      "split_words": "చండమ్ + అధావత్",
+      "sandhi_rule": "అనుస్వార/నాసిక్య సంయోగం — మ్ తరువాత స్వరం వచ్చినందున పదసంయోగం."
+    },
+    {
+      "joined_word": "చాస్య",
+      "split_words": "చ + అస్య",
+      "sandhi_rule": "సవర్ణదీర్ఘసంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "శిరస్తేన",
+      "split_words": "శిరః + తేన",
+      "sandhi_rule": "విసర్గసంధి — అః + త = స్త."
+    },
+    {
+      "joined_word": "తేనాసినా",
+      "split_words": "తేన + అసినా",
+      "sandhi_rule": "సవర్ణదీర్ఘసంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "అసినాచ్ఛినత్",
+      "split_words": "అసినా + అచ్ఛినత్",
+      "sandhi_rule": "సవర్ణదీర్ఘసంధి — ఆ + అ = ఆ; పదసంయోగంలో అచ్ఛినత్ రూపం నిలుస్తుంది."
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. వీరరస–రౌద్రరస ప్రధానము; ‘మహాసింహ’ సూచనలో ఉపమా ఛాయ ఉంది."
+}

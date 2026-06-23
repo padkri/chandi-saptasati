@@ -1,0 +1,69 @@
+{
+  "id": "durga_saptashati_chapter_11_sloka_55",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "11",
+  "sloka_number": "55",
+  "source_citation": "User-provided Chapter 11 text ",
+  "sloka_original": "తదా తదావతీర్యాహం కరిష్యామ్యరిసంక్షయమ్ ॥ ఓం || 55 ||",
+  "pada_vibhaga": [
+    {
+      "word": "తదా",
+      "meaning": "అప్పుడు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తదా",
+      "meaning": "అప్పుడప్పుడు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అవతీర్య",
+      "meaning": "అవతరించి",
+      "grammar": "ల్యబ్ అవ్యయం; అవ + √తృ ధాతువు"
+    },
+    {
+      "word": "అహమ్",
+      "meaning": "నేను",
+      "grammar": "అస్మద్ సర్వనామం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కరిష్యామి",
+      "meaning": "చేస్తాను",
+      "grammar": "√కృ ధాతువు, లృట్ లకారం, ఉత్తమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "అరిసంక్షయమ్",
+      "meaning": "శత్రువుల సంపూర్ణ నాశనం",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; సమాసపదం"
+    },
+    {
+      "word": "ఓం",
+      "meaning": "ప్రణవము; మంగళాంత సూచకము",
+      "grammar": "అవ్యయం"
+    }
+  ],
+  "anvaya": "తదా తదా అహం అవతీర్య అరిసంక్షయం కరిష్యామి। ఓం।",
+  "tatparyam": {
+    "english": "Whenever that happens, I shall descend and bring about the destruction of enemies. Om.",
+    "telugu": "అప్పుడప్పుడు నేను అవతరించి శత్రువుల సంపూర్ణ నాశనాన్ని చేస్తాను. ఓం."
+  },
+  "samasas": [
+    {
+      "compound": "అరిసంక్షయమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — అరీణాం సంక్షయః"
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తదావతీర్యాహమ్",
+      "split_words": "తదా + అవతీర్య + అహమ్",
+      "sandhi_rule": "సవర్ణ దీర్ఘ సంధి — ఆ + అ కలిసినచో ఆ; అవతీర్య + అహమ్ లో ఆ-స్వరసంయోగం."
+    },
+    {
+      "joined_word": "కరిష్యామ్యరిసంక్షయమ్",
+      "split_words": "కరిష్యామి + అరిసంక్షయమ్",
+      "sandhi_rule": "యణ్ సంధి — ఇ + అ ముందు య్ ఆదేశం."
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. ‘తదా తదా’ పునరుక్తితో యదాకాల అవతారప్రతిజ్ఞ స్పష్టమవుతుంది."
+}

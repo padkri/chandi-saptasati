@@ -1,102 +1,99 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_12",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "12",
-  "source_citation": "",
-  "original_text_telugu": "అతీవ తేజసః కూటం జ్వలంతమిన పర్వతమ్। దదృశుస్తే సురాస్తత్ర జ్వాలావ్యాప్తదిగంతరమ్ ॥ 12 ॥",
-  "normalized_sanskrit": "अतीव तेजसः कूटं ज्वलन्तमिव पर्वतम् । ददृशुस्ते सुरास्तत्र ज्वालाव्याप्तदिगन्तरम् ॥ १२ ॥",
-  "iast": "atīva tejasaḥ kūṭaṃ jvalantam iva parvatam | dadṛśus te surās tatra jvālāvyāpta-digantaram",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అతీవ తేజసః కూటం జ్వలంతమివ పర్వతమ్।  \nదదృశుస్తే సురాస్తత్ర జ్వాలావ్యాప్తదిగంతరమ్ || 12 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.12.1",
-      "text": "अतीव तेजसः कूटं ज्वलन्तमिव पर्वतं ददृशुस्ते सुरास्तत्र ज्वालाव्याप्तदिगन्तरम्",
-      "anvaya": "ते सुराः तत्र ज्वालाव्याप्तदिगन्तरम् अतीव तेजसः कूटं ज्वलन्तम् इव पर्वतं ददृशुः।",
-      "sandhi": [
-        {
-          "joined": "ज्वलन्तमिव",
-          "split": "ज्वलन्तम् + इव",
-          "sandhi_name": "म् before vowel retained"
-        },
-        {
-          "joined": "ददृशुस्ते",
-          "split": "ददृशुः + ते",
-          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
-        },
-        {
-          "joined": "सुरास्तत्र",
-          "split": "सुराः + तत्र",
-          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "ते",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "those"
-        },
-        {
-          "word": "सुराः",
-          "lemma": "सुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "gods"
-        },
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there"
-        },
-        {
-          "word": "ज्वालाव्याप्तदिगन्तरम्",
-          "lemma": "ज्वालाव्याप्तदिगन्तर",
-          "grammar": "पुंलिङ्गम्/नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "whose surrounding quarters were pervaded by flames"
-        },
-        {
-          "word": "अतीव",
-          "lemma": "अतीव",
-          "grammar": "अव्ययम्",
-          "meaning": "exceedingly"
-        },
-        {
-          "word": "तेजसः",
-          "lemma": "तेजस्",
-          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
-          "meaning": "of radiance"
-        },
-        {
-          "word": "कूटम्",
-          "lemma": "कूट",
-          "grammar": "पुंलिङ्गम्/नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "mass, peak"
-        },
-        {
-          "word": "ज्वलन्तम्",
-          "lemma": "ज्वलत्",
-          "grammar": "वर्तमान कृदन्तम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "blazing"
-        },
-        {
-          "word": "इव",
-          "lemma": "इव",
-          "grammar": "अव्ययम्",
-          "meaning": "like"
-        },
-        {
-          "word": "पर्वतम्",
-          "lemma": "पर्वत",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "a mountain"
-        },
-        {
-          "word": "ददृशुः",
-          "lemma": "दृश्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "they saw"
-        }
-      ],
-      "devotional_meaning_english": "There the gods beheld an immense mass of radiance, blazing like a mountain and filling all directions with flames.",
-      "devotional_meaning_telugu": "అక్కడ దేవతలు జ్వాలలతో దిక్కులన్నిటిని వ్యాపింపజేసి పర్వతంలా దహించుచున్న మహా తేజోరాశిని చూచిరి."
+      "word": "తే",
+      "meaning": "ఆ",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "సురాః",
+      "meaning": "దేవతలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "అతీవ",
+      "meaning": "అత్యంత",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "తేజసః",
+      "meaning": "తేజస్సు యొక్క",
+      "grammar": "నపుంసకలింగం, షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కూటమ్",
+      "meaning": "రాశిని, సమూహాన్ని",
+      "grammar": "పుంలింగం/నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "జ్వలంతమ్",
+      "meaning": "జ్వలిస్తున్న",
+      "grammar": "వర్తమాన కృదంతం, ద్వితీయా విభక్తి, ఏకవచనం; కూటమ్ పదానికి విశేషణం"
+    },
+    {
+      "word": "పర్వతమ్",
+      "meaning": "పర్వతంలా",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; ఉపమాన పదం"
+    },
+    {
+      "word": "ఇవ",
+      "meaning": "వలె",
+      "grammar": "అవ్యయం; ఉపమార్థకం"
+    },
+    {
+      "word": "జ్వాలావ్యాప్తదిగంతరమ్",
+      "meaning": "జ్వాలలచే దిక్కుల అంతరాళమంతా వ్యాపించినది",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం; కూటమ్ పదానికి విశేషణం"
+    },
+    {
+      "word": "దదృశుః",
+      "meaning": "చూశారు",
+      "grammar": "దృశ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
     }
-  ]
+  ],
+  "anvaya": "తే సురాః తత్ర అతీవ తేజసః కూటం జ్వలంతం పర్వతమ్ ఇవ జ్వాలావ్యాప్తదిగంతరం దదృశుః।",
+  "tatparyam": {
+    "english": "There the gods saw an immense mass of radiance, blazing like a mountain, filling all the quarters with its flames.",
+    "telugu": "అక్కడ దేవతలు జ్వలించే పర్వతంలా ఉన్న, జ్వాలలతో దిక్కులన్నిటినీ వ్యాపించిన మహాతేజస్సు రాశిని చూశారు."
+  },
+  "samasas": [
+    {
+      "compound": "తేజసః కూటమ్",
+      "type": "షష్ఠీ తత్పురుష భావం — తేజసః కూటః = తేజస్సు రాశి."
+    },
+    {
+      "compound": "జ్వాలావ్యాప్తదిగంతరమ్",
+      "type": "తృతీయా తత్పురుష/బహువ్రీహి భావం — జ్వాలాభిః వ్యాప్తం దిగంతరం యేన తత్."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "జ్వలంతమివ",
+      "split_words": "జ్వలంతమ్ + ఇవ",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని యథాతథంగా కలిసింది."
+    },
+    {
+      "joined_word": "దదృశుస్తే",
+      "split_words": "దదృశుః + తే",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత తకారం రావడంతో విసర్గం స్ రూపం."
+    },
+    {
+      "joined_word": "సురాస్తత్ర",
+      "split_words": "సురాః + తత్ర",
+      "sandhi_rule": "విసర్గ సంధి — ఆః తరువాత తకారం రావడంతో స్ రూపం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఉపమా — తేజస్సు ‘జ్వలంతం పర్వతమ్ ఇవ’ అని జ్వలించే పర్వతంతో పోల్చబడింది.",
+  "reading_issues_summary": "Uploaded text contained mixed Devanagari ‘దదృశुस्ते’. Normalized as ‘దదృశుస్తే’."
 }

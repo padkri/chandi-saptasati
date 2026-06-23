@@ -1,125 +1,112 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_51",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "51",
-  "source_citation": "",
-  "original_text_telugu": "ముమోచాసురదేహేషు శస్త్రాణ్యస్త్రాణి చేశ్వరీ। సో పి క్రుద్ధో ధుతసటో దేవ్యా వాహనకేసరీ ॥ 51 ॥",
-  "normalized_sanskrit": "मुमोचासुरदेहेषु शस्त्राण्यस्त्राणि चेश्वरी । सोऽपि क्रुद्धो धुतसटो देव्या वाहनकेसरी ॥ ५१ ॥",
-  "iast": "mumocāsuradeheṣu śastrāṇy astrāṇi ceśvarī | so 'pi kruddho dhutasato devyā vāhanakesarī",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "ముమోచాసురదేహేషు శస్త్రాణ్యస్త్రాణి చేశ్వరీ|  \nసోపి క్రుద్ధో ధుతసటో దేవ్యా వాహనకేసరీ ॥ 51 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.51.1",
-      "text": "मुमोचासुरदेहेषु शस्त्राण्यस्त्राणि चेश्वरी",
-      "anvaya": "ईश्वरी असुरदेहेषु शस्त्राणि अस्त्राणि च मुमोच।",
-      "sandhi": [
-        {
-          "joined": "मुमोचासुरदेहेषु",
-          "split": "मुमोच + असुरदेहेषु",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "शस्त्राण्यस्त्राणि",
-          "split": "शस्त्राणि + अस्त्राणि",
-          "sandhi_name": "యణ్ సంధి: इ before vowel becomes य्"
-        },
-        {
-          "joined": "चेश्वरी",
-          "split": "च + ईश्वरी",
-          "sandhi_name": "గుణ సంధి: अ + ई = ए"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "ईश्वरी",
-          "lemma": "ईश्वरी",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the Supreme Lady"
-        },
-        {
-          "word": "असुरदेहेषु",
-          "lemma": "असुरदेह",
-          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, बहुवचनम्",
-          "meaning": "into the bodies of the asuras"
-        },
-        {
-          "word": "शस्त्राणि",
-          "lemma": "शस्त्र",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "weapons"
-        },
-        {
-          "word": "अस्त्राणि",
-          "lemma": "अस्त्र",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "missiles"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "मुमोच",
-          "lemma": "मुच्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "released, discharged"
-        }
-      ],
-      "devotional_meaning_english": "The Supreme Goddess discharged weapons and missiles into the bodies of the asuras.",
-      "devotional_meaning_telugu": "ఈశ్వరీ దేవి అసురుల శరీరములపై శస్త్రాస్త్రములను ప్రయోగించెను."
+      "word": "ఈశ్వరీ",
+      "meaning": "పరమేశ్వరి అయిన దేవి",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.51.2",
-      "text": "सोऽपि क्रुद्धो धुतसटो देव्या वाहनकेसरी",
-      "anvaya": "देव्याः वाहनकेसरी सः अपि क्रुद्धः धुतसटः...",
-      "sandhi": [
-        {
-          "joined": "सोऽपि",
-          "split": "सः + अपि",
-          "sandhi_name": "విసర్గ సంధి: अः + अ = ओऽ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "देव्याः",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
-          "meaning": "of the Goddess"
-        },
-        {
-          "word": "वाहनकेसरी",
-          "lemma": "वाहनकेसरिन्",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the lion serving as Her vehicle"
-        },
-        {
-          "word": "सः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "he"
-        },
-        {
-          "word": "अपि",
-          "lemma": "अपि",
-          "grammar": "अव्ययम्",
-          "meaning": "also"
-        },
-        {
-          "word": "क्रुद्धः",
-          "lemma": "क्रुद्ध",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "angry"
-        },
-        {
-          "word": "धुतसटः",
-          "lemma": "धुतसट",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "shaking his mane"
-        }
-      ],
-      "continuation_note": "The finite verb continues into sloka 52: चचार.",
-      "devotional_meaning_english": "Her lion-vehicle too, enraged and shaking his mane...",
-      "devotional_meaning_telugu": "దేవి వాహనమైన సింహము కూడ కోపంతో తన కేశరములను కదిలించుచూ..."
+      "word": "అసురదేహేషు",
+      "meaning": "అసురుల శరీరాలలో",
+      "grammar": "పుంలింగం, సప్తమీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శస్త్రాణి",
+      "meaning": "శస్త్రాలను",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అస్త్రాణి",
+      "meaning": "అస్త్రాలను",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ముమోచ",
+      "meaning": "విడిచింది, ప్రయోగించింది",
+      "grammar": "ముచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సః",
+      "meaning": "ఆ సింహం",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అపి",
+      "meaning": "కూడా",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "దేవ్యాః",
+      "meaning": "దేవి యొక్క",
+      "grammar": "స్త్రీలింగం, షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వాహనకేసరీ",
+      "meaning": "వాహనమైన సింహం",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "క్రుద్ధః",
+      "meaning": "కోపించినవాడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ధుతసటః",
+      "meaning": "జుట్టును/కేశరాన్ని కదిలించినవాడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "ఈశ్వరీ అసురదేహేషు శస్త్రాణి అస్త్రాణి చ ముమోచ। దేవ్యాః వాహనకేసరీ సః అపి క్రుద్ధః ధుతసటః...",
+  "tatparyam": {
+    "english": "The Supreme Goddess discharged weapons and missiles into the bodies of the asuras. Her lion-vehicle too, enraged and shaking its mane...",
+    "telugu": "ఈశ్వరీ దేవి అసురుల దేహాలలో శస్త్రాస్త్రాలను ప్రయోగించింది. దేవి వాహనమైన సింహం కూడా కోపంతో తన కేశరాన్ని కదిలిస్తూ..."
+  },
+  "samasas": [
+    {
+      "compound": "అసురదేహేషు",
+      "type": "షష్ఠీ తత్పురుష సమాసం — అసురాణాం దేహేషు = అసురుల శరీరాలలో."
+    },
+    {
+      "compound": "శస్త్రాణ్యస్త్రాణి",
+      "type": "ద్వంద్వ భావం — శస్త్రాణి చ అస్త్రాణి చ."
+    },
+    {
+      "compound": "వాహనకేసరీ",
+      "type": "కర్మధారయ/షష్ఠీ భావం — వాహనం చ అసౌ కేసరీ చ = వాహనసింహం."
+    },
+    {
+      "compound": "ధుతసటః",
+      "type": "బహువ్రీహి సమాసం — ధుతా సటా యేన సః; కేశరాన్ని కదిలించినవాడు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ముమోచాసురదేహేషు",
+      "split_words": "ముమోచ + అసురదేహేషు",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "శస్త్రాణ్యస్త్రాణి",
+      "split_words": "శస్త్రాణి + అస్త్రాణి",
+      "sandhi_rule": "యణ్ సంధి — ఇ + అ కలయికలో య్ ఆదేశం."
+    },
+    {
+      "joined_word": "చేశ్వరీ",
+      "split_words": "చ + ఈశ్వరీ",
+      "sandhi_rule": "గుణ సంధి — అ + ఈ = ఏ."
+    },
+    {
+      "joined_word": "సోపి",
+      "split_words": "సః + అపి",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత అ రావడంతో ఓ రూపం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: సింహవాహన క్రోధవర్ణనలో వీరరస ఉద్ధీపన; భావం తరువాతి శ్లోకంతో పూర్ణం.",
+  "reading_issues_summary": "Uploaded text had ‘సో పి’ spacing; normalized as ‘సోపి’. ‘చేశ్వరీ’ split as ‘చ + ఈశ్వరీ’."
 }

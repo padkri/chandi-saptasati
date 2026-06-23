@@ -1,101 +1,94 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_53",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "53",
-  "source_citation": "",
-  "original_text_telugu": "త ఏవ సద్యః సంభూతా గణాః శతసహస్రశః। యుయుధుస్తే పరశుభిర్బిందిపాలాసిపట్టిశైః ॥ 53 ॥",
-  "normalized_sanskrit": "त एव सद्यः सम्भूता गणाः शतसहस्रशः । युयुधुस्ते परशुभिर्भिन्दिपालासिपट्टिशैः ॥ ५३ ॥",
-  "iast": "ta eva sadyaḥ sambhūtā gaṇāḥ śatasahasraśaḥ | yuyudhus te paraśubhir bhindipālāsipaṭṭiśaiḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "త ఏవ సద్యః సంభూతా గణాః శతసహస్రశః|  \nయుయుధుస్తే పరశుభిర్బిందిపాలాసిపట్టిశైః || 53 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.53.1",
-      "text": "त एव सद्यः सम्भूता गणाः शतसहस्रशः",
-      "anvaya": "ते एव सद्यः शतसहस्रशः गणाः सम्भूताः।",
-      "sandhi": [],
-      "word_analysis": [
-        {
-          "word": "ते",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "they, those breaths"
-        },
-        {
-          "word": "एव",
-          "lemma": "एव",
-          "grammar": "अव्ययम्",
-          "meaning": "indeed"
-        },
-        {
-          "word": "सद्यः",
-          "lemma": "सद्यस्",
-          "grammar": "अव्ययम्",
-          "meaning": "immediately"
-        },
-        {
-          "word": "गणाः",
-          "lemma": "गण",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "attendant hosts"
-        },
-        {
-          "word": "शतसहस्रशः",
-          "lemma": "शतसहस्रशस्",
-          "grammar": "अव्ययम्",
-          "meaning": "by hundreds of thousands"
-        },
-        {
-          "word": "सम्भूताः",
-          "lemma": "सम्भूत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "arose, were born"
-        }
-      ],
-      "devotional_meaning_english": "Those very breaths at once became hosts of attendants by the hundreds of thousands.",
-      "devotional_meaning_telugu": "ఆ నిశ్వాసములే వెంటనే శతసహస్రాల గణములుగా ఉద్భవించెను."
+      "word": "తే",
+      "meaning": "అవి, ఆ నిశ్వాసాలే",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.53.2",
-      "text": "युयुधुस्ते परशुभिर्भिन्दिपालासिपट्टिशैः",
-      "anvaya": "ते परशुभिः भिन्दिपालासिपट्टिशैः युयुधुः।",
-      "sandhi": [
-        {
-          "joined": "युयुधुस्ते",
-          "split": "युयुधुः + ते",
-          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
-        },
-        {
-          "joined": "परशुभिर्भिन्दिपाल",
-          "split": "परशुभिः + भिन्दिपाल",
-          "sandhi_name": "విసర్గ సంధి: ः before भ् becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "ते",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "they"
-        },
-        {
-          "word": "परशुभिः",
-          "lemma": "परशु",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with axes"
-        },
-        {
-          "word": "भिन्दिपालासिपट्टिशैः",
-          "lemma": "भिन्दिपाल-असि-पट्टिश",
-          "grammar": "द्वन्द्वसमासः, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with bhindipālas, swords, and pikes"
-        },
-        {
-          "word": "युयुधुः",
-          "lemma": "युध्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्, आत्मनेपदम्",
-          "meaning": "fought"
-        }
-      ],
-      "devotional_meaning_english": "They fought with axes, bhindipālas, swords, and pikes.",
-      "devotional_meaning_telugu": "ఆ గణములు పరశువులు, భిందిపాలములు, ఖడ్గములు, పట్టిశములతో యుద్ధము చేసిరి."
+      "word": "ఏవ",
+      "meaning": "నిజంగానే, అవే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సద్యః",
+      "meaning": "తక్షణమే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "సంభూతాః",
+      "meaning": "ఉద్భవించినవారు",
+      "grammar": "క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "గణాః",
+      "meaning": "గణాలు, దేవి సైనిక సమూహాలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శతసహస్రశః",
+      "meaning": "లక్షల కొలది",
+      "grammar": "అవ్యయం; సంఖ్యా-శస్ ప్రత్యయాంత రూపం"
+    },
+    {
+      "word": "తే",
+      "meaning": "వారు",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పరశుభిః",
+      "meaning": "పరశువులతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "బిందిపాలాసిపట్టిశైః",
+      "meaning": "బిందిపాలాలు, ఖడ్గాలు, పట్టిశాలతో",
+      "grammar": "పుంలింగం/నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "యుయుధుః",
+      "meaning": "యుద్ధం చేశారు",
+      "grammar": "యుధ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
     }
-  ]
+  ],
+  "anvaya": "తే ఏవ నిఃశ్వాసాః సద్యః శతసహస్రశః గణాః సంభూతాః। తే పరశుభిః బిందిపాలాసిపట్టిశైః యుయుధుః।",
+  "tatparyam": {
+    "english": "Those very breaths immediately became hosts in hundreds of thousands. They fought with axes, bhindipalas, swords, and pikes.",
+    "telugu": "ఆ నిశ్వాసాలే తక్షణమే లక్షల కొలది గణాలుగా ఉద్భవించాయి. అవి పరశువులు, బిందిపాలాలు, ఖడ్గాలు, పట్టిశాలతో యుద్ధం చేశాయి."
+  },
+  "samasas": [
+    {
+      "compound": "శతసహస్రశః",
+      "type": "ద్విగు సంఖ్యా భావం, శస్-ప్రత్యయాంత అవ్యయం — శతసహస్రాల కొలది."
+    },
+    {
+      "compound": "బిందిపాలాసిపట్టిశైః",
+      "type": "ఇతరేతర ద్వంద్వ సమాసం — బిందిపాలైః చ అసిభిః చ పట్టిశైః చ."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "త ఏవ",
+      "split_words": "తే + ఏవ",
+      "sandhi_rule": "సంధి మార్పు లేదు; ఏకారాంత పదం తరువాత ఏకారం."
+    },
+    {
+      "joined_word": "పరశుభిర్బిందిపాల",
+      "split_words": "పరశుభిః + బిందిపాల",
+      "sandhi_rule": "విసర్గ సంధి — ఇః తరువాత బకారం రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "బిందిపాలాసి",
+      "split_words": "బిందిపాల + అసి",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: దేవి నిశ్వాసాల నుంచి గణాల ఉద్భవం రూపకాతిశయోక్తిగా దివ్యశక్తి వైభవాన్ని తెలుపుతుంది.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘యుయుధुस्ते’. Normalized as ‘యుయుధుస్తే’."
 }

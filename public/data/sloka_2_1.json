@@ -1,50 +1,44 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_1",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "1",
-  "source_citation": "",
-  "original_text_telugu": "ఓం హ్రీం ఋషిరువాచ ॥ 1 ॥",
-  "normalized_sanskrit": "ॐ ह्रीं ऋषिरुवाच ॥ १ ॥",
-  "iast": "oṃ hrīṃ ṛṣir uvāca",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "“ఓం హ్రీం” ఋషిరువాచ ॥ 1 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.1.1",
-      "text": "ऋषिरुवाच",
-      "anvaya": "ऋषिः उवाच",
-      "sandhi": [
-        {
-          "joined": "ऋषिरुवाच",
-          "split": "ऋषिः + उवाच",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before उ becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "ॐ",
-          "lemma": "ॐ",
-          "grammar": "ప్రణవము, अव्ययम्",
-          "meaning": "sacred primordial syllable"
-        },
-        {
-          "word": "ह्रीं",
-          "lemma": "ह्रीं",
-          "grammar": "बीजाक्षरम्, अव्ययम्",
-          "meaning": "the sacred seed-syllable of the Goddess"
-        },
-        {
-          "word": "ऋषिः",
-          "lemma": "ऋषि",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the seer/sage"
-        },
-        {
-          "word": "उवाच",
-          "lemma": "वच्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, परस्मैपदम्",
-          "meaning": "said"
-        }
-      ],
-      "devotional_meaning_english": "The sage said.",
-      "devotional_meaning_telugu": "ఋషి పలికెను."
+      "word": "ఓం",
+      "meaning": "ప్రణవము; పరబ్రహ్మస్వరూప సూచకం",
+      "grammar": "అవ్యయం; మంగళారంభార్థక ప్రణవ పదం"
+    },
+    {
+      "word": "హ్రీం",
+      "meaning": "దేవీ బీజమంత్రం; మహామాయా శక్తి సూచకం",
+      "grammar": "బీజాక్షరం; అవ్యయరూప మంత్రపదం"
+    },
+    {
+      "word": "ఋషిః",
+      "meaning": "మహర్షి",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "చెప్పెను",
+      "grammar": "వచ् ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం, పరస్మైపది"
     }
-  ]
+  ],
+  "anvaya": "ఓం హ్రీం। ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "Om Hrīm. The sage said.",
+    "telugu": "ఓం హ్రీం. మహర్షి చెప్పెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — అః తర్వాత స్వరం రావడంతో విసర్గం ర్ ఆదేశమై ‘ఋషిరువాచ’ రూపం ఏర్పడింది."
+    }
+  ],
+  "alamkaram_chandas": "ఇది పూర్తి ఛందోబద్ధ శ్లోకం కాక, కథా ప్రవేశ వాక్యం. అలంకారం ప్రత్యేకంగా లేదు; మంగళార్థంగా ప్రణవం మరియు హ్రీం బీజం ఉన్నాయి."
 }

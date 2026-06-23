@@ -1,101 +1,98 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_25",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "25",
-  "source_citation": "",
-  "original_text_telugu": "క్షీరోదశ్చామలం హారమజరే చ తథాంబరే। చూడామణిం తథా దివ్యం కుండలే కటకాని చ ॥ 25 ॥",
-  "normalized_sanskrit": "क्षीरोदश्चामलं हारमजरे च तथाम्बरे । चूडामणिं तथा दिव्यं कुण्डले कटकानि च ॥ २५ ॥",
-  "iast": "kṣīrodaś cāmalaṃ hāram ajare ca tathāmbare | cūḍāmaṇiṃ tathā divyaṃ kuṇḍale kaṭakāni ca",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "క్షీరోదశ్చామలం హారమజరే చ తథాంబరే।  \nచూడామణిం తథా దివ్యం కుండలే కటకాని చ || 25 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.25.1",
-      "text": "क्षीरोदश्चामलं हारमजरे च तथाम्बरे चूडामणिं तथा दिव्यं कुण्डले कटकानि च",
-      "anvaya": "क्षीरोदः च अमलं हारम्, अजरे अम्बरे च, तथा दिव्यं चूडामणिं, कुण्डले, कटकानि च ददौ।",
-      "sandhi": [
-        {
-          "joined": "क्षीरोदश्च",
-          "split": "क्षीरोदः + च",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        },
-        {
-          "joined": "चामलम्",
-          "split": "च + अमलम्",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "हारमजरे",
-          "split": "हारम् + अजरे",
-          "sandhi_name": "म् before vowel retained"
-        },
-        {
-          "joined": "तथाम्बरे",
-          "split": "तथा + अम्बरे",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "क्षीरोदः",
-          "lemma": "क्षीरोद",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the Ocean of Milk"
-        },
-        {
-          "word": "अमलम्",
-          "lemma": "अमल",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; हारम्-विशेषणम्",
-          "meaning": "spotless"
-        },
-        {
-          "word": "हारम्",
-          "lemma": "हार",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "necklace"
-        },
-        {
-          "word": "अजरे",
-          "lemma": "अजर",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्; अम्बरे-विशेषणम्",
-          "meaning": "undecaying"
-        },
-        {
-          "word": "अम्बरे",
-          "lemma": "अम्बर",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्",
-          "meaning": "two garments"
-        },
-        {
-          "word": "चूडामणिम्",
-          "lemma": "चूडामणि",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "crest-jewel"
-        },
-        {
-          "word": "दिव्यम्",
-          "lemma": "दिव्य",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "divine"
-        },
-        {
-          "word": "कुण्डले",
-          "lemma": "कुण्डल",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, द्विवचनम्",
-          "meaning": "two earrings"
-        },
-        {
-          "word": "कटकानि",
-          "lemma": "कटक",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "bracelets"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; supplied from continuing donation-sequence",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "The Ocean of Milk gave Her a spotless necklace, undecaying garments, a divine crest-jewel, earrings, and bracelets.",
-      "devotional_meaning_telugu": "క్షీరసాగరుడు ఆమెకు నిర్మలమైన హారము, క్షయించని వస్త్రములు, దివ్య చూడామణి, కుండలములు మరియు కటకములు ఇచ్చెను."
+      "word": "క్షీరోదః",
+      "meaning": "క్షీరసాగరుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అమలమ్",
+      "meaning": "నిర్మలమైన",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; హారానికి విశేషణం"
+    },
+    {
+      "word": "హారమ్",
+      "meaning": "హారాన్ని",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అజరే",
+      "meaning": "జరారహితమైన రెండు",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ద్వివచనం; అంబరే పదానికి విశేషణం"
+    },
+    {
+      "word": "అంబరే",
+      "meaning": "రెండు వస్త్రాలను",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ద్వివచనం"
+    },
+    {
+      "word": "చూడామణిమ్",
+      "meaning": "శిరోమణిని",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దివ్యమ్",
+      "meaning": "దివ్యమైన",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; చూడామణి పదానికి విశేషణం"
+    },
+    {
+      "word": "కుండలే",
+      "meaning": "రెండు కుండలాలను",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ద్వివచనం"
+    },
+    {
+      "word": "కటకాని",
+      "meaning": "కంకణాలను",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "క్షీరోదః అమలం హారం, అజరే అంబరే చ, తథా దివ్యం చూడామణిం, కుండలే, కటకాని చ దదౌ।",
+  "tatparyam": {
+    "english": "The Ocean of Milk gave her a spotless necklace, two undecaying garments, a divine crest-jewel, two earrings, and bracelets.",
+    "telugu": "క్షీరసాగరుడు ఆమెకు నిర్మలమైన హారాన్ని, జరారహితమైన రెండు వస్త్రాలను, దివ్యమైన చూడామణిని, రెండు కుండలాలను, కటకాలను ఇచ్చాడు."
+  },
+  "samasas": [
+    {
+      "compound": "క్షీరోదః",
+      "type": "షష్ఠీ తత్పురుష సమాసం — క్షీరస్య ఉదః = క్షీరసముద్రుడు."
+    },
+    {
+      "compound": "చూడామణిమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — చూడాయాః మణిః = శిరస్సుపై ధరించే మణి."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "క్షీరోదశ్చామలం",
+      "split_words": "క్షీరోదః + చ + అమలమ్",
+      "sandhi_rule": "విసర్గ సంధి — అః + చ = శ్చ; చ + అ = చా."
+    },
+    {
+      "joined_word": "హారమజరే",
+      "split_words": "హారమ్ + అజరే",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    },
+    {
+      "joined_word": "తథాంబరే",
+      "split_words": "తథా + అంబరే",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — ఆ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఆభరణ-వస్త్ర సముచ్చయ వర్ణన; దేవి రాజరాజేశ్వరీ స్వరూపం సూచితం."
 }

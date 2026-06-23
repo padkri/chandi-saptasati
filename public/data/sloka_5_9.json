@@ -1,91 +1,84 @@
 {
-  "id": "5.9",
-  "sloka_text": "नमो देव्यै महादेव्यै शिवायै सततं नमः। नमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम् ॥ 9 ॥",
-  "anvaya": "देव्यै महादेव्यै शिवायै सततं नमः। प्रकृत्यै भद्रायै नमः। नियताः प्रणताः स्म ताम्।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_9",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "9",
+  "source_citation": "",
+  "sloka_original": "నమో దేవ్యై మహాదేవ్యై శివాయై సతతం నమః|\nనమః ప్రకүత్యై భద్రాయై నియతాః ప్రణతాః స్మతామ్ || 9 ||",
+  "pada_vibhaga": [
     {
-      "word": "नमः",
-      "lemma": "नमस्",
-      "pos": "अव्ययम्",
-      "meaning": "salutation"
+      "word": "నమః",
+      "meaning": "నమస్కారం",
+      "grammar": "అవ్యయం; చతుర్థీ విభక్తితో యోగం"
     },
     {
-      "word": "देव्यै",
-      "lemma": "देवी",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the Goddess"
+      "word": "దేవ్యై",
+      "meaning": "దేవికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "महादेव्यै",
-      "lemma": "महादेवी",
-      "compound": "कर्मधारयः",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the Great Goddess"
+      "word": "మహాదేవ్యై",
+      "meaning": "మహాదేవికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "शिवायै",
-      "lemma": "शिवा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the auspicious one"
+      "word": "శివాయై",
+      "meaning": "మంగళస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सततम्",
-      "pos": "अव्ययम्",
-      "meaning": "always"
+      "word": "సతతమ్",
+      "meaning": "ఎల్లప్పుడూ",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "प्रकृत्यै",
-      "lemma": "प्रकृति",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to Prakriti, primordial nature"
+      "word": "ప్రకృత్యై",
+      "meaning": "ప్రకృతిరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "भद्रायै",
-      "lemma": "भद्रा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the benevolent one"
+      "word": "భద్రాయై",
+      "meaning": "మంగళప్రదాయినికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "नियताः",
-      "lemma": "नियत",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "restrained, disciplined"
+      "word": "నియతాః",
+      "meaning": "నిగ్రహముగలవారు / స్థిరభక్తులు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "प्रणताः",
-      "lemma": "प्र-नम्",
-      "pos": "कृदन्तम्",
-      "form": "क्त-प्रत्ययान्तः",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "bowed down"
+      "word": "ప్రణతాః",
+      "meaning": "వినమ్రులైనవారు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "स्म",
-      "pos": "अव्ययम्",
-      "meaning": "indeed"
+      "word": "స్మ",
+      "meaning": "నిశ్చయంగా / గతసూచక నిపాతం",
+      "grammar": "నిపాతం"
     },
     {
-      "word": "ताम्",
-      "lemma": "तद्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "her"
+      "word": "తామ్",
+      "meaning": "ఆమెను",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     }
   ],
-  "sandhi": [
+  "anvaya": "దేవ్యై మహాదేవ్యై శివాయై సతతం నమః। ప్రకృత్యై భద్రాయై నమః। నియతాః ప్రణతాః స్మ తామ్।",
+  "tatparyam": {
+    "english": "Salutations to the Goddess, the Great Goddess, the auspicious one. Ever salutations to Prakṛti and to the gracious one; we bow to her with disciplined devotion.",
+    "telugu": "దేవికి, మహాదేవికి, మంగళస్వరూపిణికి నమస్కారం. ప్రకృతిరూపిణికి, భద్రస్వరూపిణికి ఎల్లప్పుడూ నమస్కారం. నియమపరులమై ఆ దేవికి మేము ప్రణమిస్తున్నాము."
+  },
+  "samasas": [
     {
-      "form": "देव्यै",
-      "split": "देवी + ङे",
-      "sandhi_name": "सुप्-प्रत्यय-रूपसिद्धिः",
-      "rule_description": "ई-ending feminine takes चतुर्थी एकवचन ending ऐ."
+      "compound": "మహాదేవ్యై",
+      "type": "కర్మధారయ సమాసం — మహతీ దేవీ"
     }
   ],
-  "overall_meaning": "Salutations to the Goddess, to the Great Goddess, to the auspicious one, always. Salutations to Prakriti and to the benevolent one. Disciplined and devoted, we bow to her."
+  "sandhis": [
+    {
+      "joined_word": "నమో",
+      "split_words": "నమః",
+      "sandhi_rule": "విసర్గ సంధి — నమః పదం తరువాత స్వరం/మృదు సందర్భంలో ‘నమో’ రూపం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. నామావళి శైలిలో అనుప్రాససదృశ పునరుక్తి ఉంది. పాఠంలో ‘ప్రకүత్యై’ లిప్యంతరదోషం; భావం ‘ప్రకృత్యై’."
 }

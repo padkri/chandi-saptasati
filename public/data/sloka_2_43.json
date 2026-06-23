@@ -1,95 +1,85 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_43",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "43",
-  "source_citation": "",
-  "original_text_telugu": "అయుతానాం శతైః షడ్భిర్బాష్కలో యుయుధే రణే గజవాజిసహస్రౌఘైరనేకైః పరివారితః ॥ 43 ॥",
-  "normalized_sanskrit": "अयुतानां शतैः षड्भिर्बाष्कलो युयुधे रणे । गजवाजिसहस्रौघैरनेकैः परिवारितः ॥ ४३ ॥",
-  "iast": "ayutānāṃ śataiḥ ṣaḍbhir bāṣkalo yuyudhe raṇe | gajavājisahasraughair anekaiḥ parivāritaḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అయుతానాం శతైః షడ్భిర్బాష్కలో యుయుధే రణే  \nగజవాజిసహస్రౌఘైరనేకైః పరివారితః ॥ 43 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.43.1",
-      "text": "अयुतानां शतैः षड्भिर्बाष्कलो युयुधे रणे गजवाजिसहस्रौघैरनेकैः परिवारितः",
-      "anvaya": "बाष्कलः अयुतानां षड्भिः शतैः अनेकैः गजवाजिसहस्रौघैः परिवारितः रणे युयुधे।",
-      "sandhi": [
-        {
-          "joined": "षड्भिः",
-          "split": "षट् + भिः",
-          "sandhi_name": "జశ్త్వ సంధి: ट् becomes ड् before भ्"
-        },
-        {
-          "joined": "षड्भिर्बाष्कलः",
-          "split": "षड्भिः + बाष्कलः",
-          "sandhi_name": "విసర్గ సంధి: ः before ब् becomes र्"
-        },
-        {
-          "joined": "सहस्रौघैः",
-          "split": "सहस्र + ओघैः",
-          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: अ + ओ = औ"
-        },
-        {
-          "joined": "ओघैरनेकैः",
-          "split": "ओघैः + अनेकैः",
-          "sandhi_name": "విసర్గ సంధి: ः before vowel becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "बाष्कलः",
-          "lemma": "बाष्कल",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Bāṣkala"
-        },
-        {
-          "word": "अयुतानाम्",
-          "lemma": "अयुत",
-          "grammar": "नपुंसकलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of ten-thousand groups"
-        },
-        {
-          "word": "षड्भिः",
-          "lemma": "षष्",
-          "grammar": "तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with six"
-        },
-        {
-          "word": "शतैः",
-          "lemma": "शत",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "hundreds"
-        },
-        {
-          "word": "गजवाजिसहस्रौघैः",
-          "lemma": "गज-वाजि-सहस्र-ओघ",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with many streams of thousands of elephants and horses"
-        },
-        {
-          "word": "अनेकैः",
-          "lemma": "अनेक",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "many"
-        },
-        {
-          "word": "परिवारितः",
-          "lemma": "परिवारित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "surrounded"
-        },
-        {
-          "word": "रणे",
-          "lemma": "रण",
-          "grammar": "पुंलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in battle"
-        },
-        {
-          "word": "युयुधे",
-          "lemma": "युध्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
-          "meaning": "fought"
-        }
-      ],
-      "devotional_meaning_english": "Bāṣkala fought in battle with six hundred ayutas, surrounded by many masses of thousands of elephants and horses.",
-      "devotional_meaning_telugu": "బాష్కలుడు ఆరు వందల అయుతాల సైన్యముతో, అనేక గజాశ్వసహస్రసమూహములతో చుట్టుముట్టబడి యుద్ధము చేసెను."
+      "word": "బాష్కలః",
+      "meaning": "బాష్కలుడు అనే అసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "రణే",
+      "meaning": "యుద్ధంలో",
+      "grammar": "పుంలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అయుతానామ్",
+      "meaning": "అయుతాల యొక్క",
+      "grammar": "నపుంసకలింగం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "షడ్భిః",
+      "meaning": "ఆరుతో",
+      "grammar": "సంఖ్యావాచక పదం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శతైః",
+      "meaning": "వందలతో",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "యుయుధే",
+      "meaning": "యుద్ధం చేశాడు",
+      "grammar": "యుధ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం, ఆత్మనేపది"
+    },
+    {
+      "word": "అనేకైః",
+      "meaning": "అనేకమైన",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "గజవాజిసహస్రౌఘైః",
+      "meaning": "వేల కొలది ఏనుగులు మరియు గుర్రాల సమూహాలతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పరివారితః",
+      "meaning": "చుట్టుముట్టబడినవాడు",
+      "grammar": "క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "బాష్కలః రణే అయుతానాం షడ్భిః శతైః యుయుధే। అనేకైః గజవాజిసహస్రౌఘైః పరివారితః।",
+  "tatparyam": {
+    "english": "Bashkala fought in battle with six hundred ayutas, surrounded by many masses of thousands of elephants and horses.",
+    "telugu": "బాష్కలుడు యుద్ధంలో ఆరు వందల అయుతాల సైన్యంతో యుద్ధం చేశాడు. అతడు వేల కొలది గజాలు, అశ్వాల అనేక సమూహాలతో చుట్టుముట్టబడి ఉన్నాడు."
+  },
+  "samasas": [
+    {
+      "compound": "గజవాజిసహస్రౌఘైః",
+      "type": "ద్వంద్వ-షష్ఠీ తత్పురుష సమాసం — గజానాం చ వాజినాం చ సహస్రాణాం ఓఘాః = గజవాజిసహస్రౌఘాః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "షడ్భిః",
+      "split_words": "షట్ + భిః",
+      "sandhi_rule": "జశ్త్వ సంధి — ట్ తరువాత భకారం రావడంతో డ్ ఆదేశం."
+    },
+    {
+      "joined_word": "షడ్భిర్బాష్కలః",
+      "split_words": "షడ్భిః + బాష్కలః",
+      "sandhi_rule": "విసర్గ సంధి — ఇః తరువాత బకారం రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "సహస్రౌఘైః",
+      "split_words": "సహస్ర + ఓఘైః",
+      "sandhi_rule": "వృద్ధి సంధి — అ + ఓ = ఔ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: గజవాజి సమూహాల విస్తార వర్ణనలో అతిశయోక్తి.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘గజవాజిసహస్రాгఘైః’. Normalized as ‘గజవాజిసహస్రౌఘైః’."
 }

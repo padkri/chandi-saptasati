@@ -1,0 +1,59 @@
+{
+  "id": "durga_saptashati_chapter_12_sloka_32",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "12",
+  "sloka_number": "32",
+  "source_citation": "Input source: attached JSON file ",
+  "sloka_original": "ఇత్యుక్త్వా సా భగవతీ చండికా చండవిక్రమా || 32 ||",
+  "pada_vibhaga": [
+    {
+      "word": "ఇతి",
+      "meaning": "ఇట్లు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఉక్త్వా",
+      "meaning": "చెప్పి",
+      "grammar": "వచ్ఛ్ ధాతువు; క్త్వా అవ్యయ కృదంతం"
+    },
+    {
+      "word": "సా",
+      "meaning": "ఆమె",
+      "grammar": "తద్ సర్వనామం; ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "భగవతీ",
+      "meaning": "భగవతి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "చండికా",
+      "meaning": "చండికాదేవి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "చండవిక్రమా",
+      "meaning": "ఉగ్రపరాక్రమముగలది",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    }
+  ],
+  "anvaya": "ఇతి ఉక్త్వా సా భగవతీ చండికా చండవిక్రమా...",
+  "tatparyam": {
+    "english": "Having spoken thus, that Blessed Goddess Chandika of fierce valor...",
+    "telugu": "ఇట్లు చెప్పి, ఉగ్రపరాక్రమశాలినియైన ఆ భగవతి చండికా..."
+  },
+  "samasas": [
+    {
+      "compound": "చండవిక్రమా",
+      "type": "బహువ్రీహి సమాసం — చండః విక్రమః యస్యాః సా; ఉగ్రపరాక్రమము గలది."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ఇత్యుక్త్వా",
+      "split_words": "ఇతి + ఉక్త్వా",
+      "sandhi_rule": "యణ్ సంధి — ఇ + ఉ యోగంలో య్."
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుభ్ అర్ధశ్లోకరూపం. వాక్యం 33వ శ్లోకంలో పూర్తవుతుంది."
+}

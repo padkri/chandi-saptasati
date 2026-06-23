@@ -1,112 +1,89 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_54",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "54",
-  "source_citation": "",
-  "original_text_telugu": "నాశయంతో సురగణాన్ దేవీశక్త్యుపబృంహితాః। అవాదయంత పటహాన్ గణాః శఙ్ఞాంస్తథాపరే ॥ 54 ॥",
-  "normalized_sanskrit": "नाशयन्तोऽसुरगणान् देवीशक्त्युपबृंहिताः । अवादयन्त पटहान् गणाः शङ्खांस्तथापरे ॥ ५४ ॥",
-  "iast": "nāśayanto 'suragaṇān devīśaktyupabṛṃhitāḥ | avādayanta paṭahān gaṇāḥ śaṅkhāṃs tathāpare",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "నాశయంతో అసురగణాన్ దేవీశక్త్యుపబృంహితాః।  \nఅవాదయంత పటహాన్ గణాః శంఖాంస్తథాపరే || 54 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.54.1",
-      "text": "नाशयन्तोऽसुरगणान् देवीशक्त्युपबृंहिताः",
-      "anvaya": "देवीशक्त्युपबृंहिताः गणाः असुरगणान् नाशयन्तः...",
-      "sandhi": [
-        {
-          "joined": "नाशयन्तोऽसुरगणान्",
-          "split": "नाशयन्तः + असुरगणान्",
-          "sandhi_name": "విసర్గ సంధి: अः + अ = ओऽ"
-        },
-        {
-          "joined": "देवीशक्त्युपबृंहिताः",
-          "split": "देवीशक्ति + उपबृंहिताः",
-          "sandhi_name": "యణ్ సంధి: इ before उ becomes य्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "गणाः",
-          "lemma": "गण",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्; supplied",
-          "meaning": "the hosts"
-        },
-        {
-          "word": "देवीशक्त्युपबृंहिताः",
-          "lemma": "देवीशक्त्युपबृंहित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "strengthened by the Goddess’s power"
-        },
-        {
-          "word": "असुरगणान्",
-          "lemma": "असुरगण",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "hosts of asuras"
-        },
-        {
-          "word": "नाशयन्तः",
-          "lemma": "नाशयत्",
-          "grammar": "वर्तमान कृदन्तम्, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "destroying"
-        }
-      ],
-      "devotional_meaning_english": "Strengthened by the power of the Goddess, the hosts destroyed the bands of asuras.",
-      "devotional_meaning_telugu": "దేవి శక్తిచేత బలపరచబడిన గణములు అసురగణములను సంహరించుచుండిరి."
+      "word": "దేవీశక్త్యుపబృంహితాః",
+      "meaning": "దేవి శక్తిచే బలపరచబడినవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం; గణాః పదానికి విశేషణం"
     },
     {
-      "sentence_id": "2.54.2",
-      "text": "अवादयन्त पटहान् गणाः शङ्खांस्तथापरे",
-      "anvaya": "गणाः पटहान् अवादयन्त। अपरे तथा शङ्खान् अवादयन्त।",
-      "sandhi": [
-        {
-          "joined": "शङ्खांस्तथा",
-          "split": "शङ्खान् + तथा",
-          "sandhi_name": "నకార సంధి: न् before त् becomes nasalized; written शङ्खांस्"
-        },
-        {
-          "joined": "तथापरे",
-          "split": "तथा + अपरे",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "गणाः",
-          "lemma": "गण",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "the hosts"
-        },
-        {
-          "word": "पटहान्",
-          "lemma": "पटह",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "war-drums"
-        },
-        {
-          "word": "अवादयन्त",
-          "lemma": "अ-वादय्",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, बहुवचनम्, परस्मैपदम्",
-          "meaning": "played, sounded"
-        },
-        {
-          "word": "अपरे",
-          "lemma": "अपर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "others"
-        },
-        {
-          "word": "शङ्खान्",
-          "lemma": "शङ्ख",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "conches"
-        },
-        {
-          "word": "तथा",
-          "lemma": "तथा",
-          "grammar": "अव्ययम्",
-          "meaning": "likewise"
-        }
-      ],
-      "devotional_meaning_english": "The hosts sounded war-drums, while others likewise blew conches.",
-      "devotional_meaning_telugu": "గణములు పటహములను మోగించిరి; మరికొందరు అలాగే శంఖములను పూరించిరి."
+      "word": "అసురగణాన్",
+      "meaning": "అసురగణాలను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "నాశయంతః",
+      "meaning": "నాశనం చేస్తూ",
+      "grammar": "వర్తమాన కృదంతం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "గణాః",
+      "meaning": "దేవి గణాలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పటహాన్",
+      "meaning": "పటహ వాద్యాలను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అవాదయంత",
+      "meaning": "వాయించారు",
+      "grammar": "వద్/వాదయ్ ధాతు, లఙ్ లకారం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "అపరే",
+      "meaning": "ఇతరులు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శంఖాన్",
+      "meaning": "శంఖాలను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "దేవీశక్త్యుపబృంహితాః గణాః అసురగణాన్ నాశయంతః పటహాన్ అవాదయంత। తథా అపరే శంఖాన్ అవాదయంత।",
+  "tatparyam": {
+    "english": "Strengthened by the Goddess’s power, the hosts destroyed the asura groups and beat drums. Others likewise blew conches.",
+    "telugu": "దేవి శక్తిచే బలపరచబడిన గణాలు అసురగణాలను నాశనం చేస్తూ పటహ వాద్యాలను వాయించాయి. మరికొందరు శంఖాలను కూడా మ్రోగించారు."
+  },
+  "samasas": [
+    {
+      "compound": "అసురగణాన్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — అసురాణాం గణాన్ = అసురగణాలను."
+    },
+    {
+      "compound": "దేవీశక్త్యుపబృంహితాః",
+      "type": "తృతీయా తత్పురుష సమాసం — దేవ్యాః శక్త్యా ఉపబృంహితాః = దేవి శక్తిచే బలపరచబడినవారు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "నాశయంతోసురగణాన్",
+      "split_words": "నాశయంతః + అసురగణాన్",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత అ రావడంతో ఓ రూపం; సాధు విభాగం ‘నాశయంతః అసురగణాన్’."
+    },
+    {
+      "joined_word": "దేవీశక్త్యుపబృంహితాః",
+      "split_words": "దేవీశక్తి + ఉపబృంహితాః",
+      "sandhi_rule": "యణ్ సంధి — ఇ + ఉ కలయికలో య్ ఆదేశం."
+    },
+    {
+      "joined_word": "శంఖాంస్తథాపరే",
+      "split_words": "శంఖాన్ + తథా + అపరే",
+      "sandhi_rule": "నకారాంత పదం తరువాత తకారం; తథా + అపరే లో సవర్ణదీర్ఘం ఆ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: యుద్ధమధ్య సంగీతధ్వని వర్ణన; వీరరసంలో ఉత్సాహభావం.",
+  "reading_issues_summary": "Uploaded text read ‘నాశయంతో సురగణాన్’, which contextually conflicts with the battle narrative. Normalized as ‘నాశయంతో అసురగణాన్’. ‘శఙ్ఞాన్’ normalized as ‘శంఖాన్’."
 }

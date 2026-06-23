@@ -1,118 +1,103 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_64",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "64",
-  "source_citation": "",
-  "original_text_telugu": "కబంధాశ్ఛిన్నశిరసః ఖడ్గ శక్త్యృష్టిపాణయః॥ తిష్ఠ తిష్ఠాతి భాషంతో దేవీమన్యే మహాసురాః ॥ 64 ॥",
-  "normalized_sanskrit": "कबन्धाश्छिन्नशिरसः खड्गशक्त्यृष्टिपाणयः । तिष्ठ तिष्ठेति भाषन्तो देवीमन्ये महासुराः ॥ ६४ ॥",
-  "iast": "kabandhāś chinnaśirasaḥ khaḍgaśaktyṛṣṭipāṇayaḥ | tiṣṭha tiṣṭheti bhāṣanto devīm anye mahāsurāḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "కబంధాశ్ఛిన్నశిరసః ఖడ్గశక్త్యృష్టిపాణయః॥  \nతిష్ఠ తిష్ఠేతి భాషంతో దేవీమన్యే మహాసురాః ॥ 64 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.64.1",
-      "text": "कबन्धाश्छिन्नशिरसः खड्गशक्त्यृष्टिपाणयः",
-      "anvaya": "अन्ये महासुराः छिन्नशिरसः कबन्धाः खड्गशक्त्यृष्टिपाणयः...",
-      "sandhi": [
-        {
-          "joined": "कबन्धाश्छिन्नशिरसः",
-          "split": "कबन्धाः + छिन्नशिरसः",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: आः before छ् becomes आश्"
-        },
-        {
-          "joined": "शक्त्यृष्टि",
-          "split": "शक्ति + ऋष्टि",
-          "sandhi_name": "యణ్ సంధి / Yaṇ Sandhi: इ before ऋ becomes य्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "अन्ये",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्; supplied from next pāda",
-          "meaning": "other"
-        },
-        {
-          "word": "महासुराः",
-          "lemma": "महासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्; supplied from next pāda",
-          "meaning": "great asuras"
-        },
-        {
-          "word": "कबन्धाः",
-          "lemma": "कबन्ध",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "headless trunks"
-        },
-        {
-          "word": "छिन्नशिरसः",
-          "lemma": "छिन्नशिरस्",
-          "grammar": "बहुव्रीहिसमासः, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "whose heads were cut off"
-        },
-        {
-          "word": "खड्गशक्त्यृष्टिपाणयः",
-          "lemma": "खड्ग-शक्ति-ऋष्टि-पाणि",
-          "grammar": "बहुव्रीहिसमासः, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "holding swords, spears, and lances in their hands"
-        }
-      ],
-      "devotional_meaning_english": "Other great asuras, headless trunks, held swords, spears, and lances in their hands.",
-      "devotional_meaning_telugu": "ఇంకొందరు మహాసురులు శిరస్సులు తెగిన కబంధములై ఖడ్గాలు, శక్తులు, ఋష్టులు చేత పట్టుకొని ఉండిరి."
+      "word": "కబంధాః",
+      "meaning": "తలలేని మొండెములు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.64.2",
-      "text": "तिष्ठ तिष्ठेति भाषन्तो देवीमन्ये महासुराः",
-      "anvaya": "अन्ये महासुराः देवीम् ‘तिष्ठ तिष्ठ’ इति भाषन्तः।",
-      "sandhi": [
-        {
-          "joined": "तिष्ठेति",
-          "split": "तिष्ठ + इति",
-          "sandhi_name": "గుణ సంధి / Guṇa Sandhi: अ + इ = ए"
-        },
-        {
-          "joined": "देवीमन्ये",
-          "split": "देवीम् + अन्ये",
-          "sandhi_name": "म् before vowel retained"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "अन्ये",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "other"
-        },
-        {
-          "word": "महासुराः",
-          "lemma": "महासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "great asuras"
-        },
-        {
-          "word": "देवीम्",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "to the Goddess"
-        },
-        {
-          "word": "तिष्ठ तिष्ठ",
-          "lemma": "स्था",
-          "grammar": "लोट् लकारः, मध्यमपुरुषः, एकवचनम्, परस्मैपदम्; repeated imperative",
-          "meaning": "stand! stand!"
-        },
-        {
-          "word": "इति",
-          "lemma": "इति",
-          "grammar": "अव्ययम्",
-          "meaning": "thus"
-        },
-        {
-          "word": "भाषन्तः",
-          "lemma": "भाष्",
-          "grammar": "वर्तमान कृदन्तम्, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "speaking, shouting"
-        }
-      ],
-      "devotional_meaning_english": "Other great asuras shouted at the Goddess, “Stand! Stand!”",
-      "devotional_meaning_telugu": "మరిన్ని మహాసురులు దేవిని చూచి ‘నిలువు! నిలువు!’ అని కేకలు వేయుచుండిరి."
+      "word": "ఛిన్నశిరసః",
+      "meaning": "తెగిన తలలుగలవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ఖడ్గశక్త్యృష్టిపాణయః",
+      "meaning": "ఖడ్గం, శక్తి, ఋష్టి ఆయుధాలు చేతుల్లో గలవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అన్యే",
+      "meaning": "ఇతర",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం; మహాసురాః పదానికి విశేషణం"
+    },
+    {
+      "word": "మహాసురాః",
+      "meaning": "మహా అసురులు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "దేవీమ్",
+      "meaning": "దేవిని",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తిష్ఠ",
+      "meaning": "ఆగు, నిలుచు",
+      "grammar": "స్థా ధాతువు, లోట్ లకారం, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "తిష్ఠ",
+      "meaning": "ఆగు, నిలుచు",
+      "grammar": "ఆమ్రేడిత ఆజ్ఞారూపం; లోట్ లకారం, మధ్యమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "ఇతి",
+      "meaning": "అని",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "భాషంతః",
+      "meaning": "మాట్లాడుచూ, పలుకుచూ",
+      "grammar": "భాష్ ధాతువు, వర్తమాన కృదంతం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     }
-  ]
+  ],
+  "anvaya": "ఛిన్నశిరసః ఖడ్గశక్త్యృష్టిపాణయః కబంధాః। అన్యే మహాసురాః దేవీం ‘తిష్ఠ తిష్ఠ’ ఇతి భాషంతః।",
+  "tatparyam": {
+    "english": "The headless trunks, their heads severed, held swords, spears, and lances in their hands. Other great asuras shouted at the Goddess, ‘Stand! Stand!’",
+    "telugu": "తలలు తెగిపోయిన కబంధాలు చేతుల్లో ఖడ్గాలు, శక్తులు, ఋష్టి ఆయుధాలను పట్టుకున్నాయి. మరికొందరు మహాసురులు దేవిని ‘ఆగు! ఆగు!’ అని పలికారు."
+  },
+  "samasas": [
+    {
+      "compound": "ఛిన్నశిరసః",
+      "type": "బహువ్రీహి సమాసం — ఛిన్నాని శిరాంసి యేషాం తే = తెగిన తలలుగలవారు."
+    },
+    {
+      "compound": "ఖడ్గశక్త్యృష్టిపాణయః",
+      "type": "బహువ్రీహి సమాసం — ఖడ్గశక్త్యృష్టయః పాణిషు యేషాం తే; ఖడ్గం, శక్తి, ఋష్టి చేతుల్లో గలవారు."
+    },
+    {
+      "compound": "మహాసురాః",
+      "type": "కర్మధారయ సమాసం — మహాంతః అసురాః = మహాసురాః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "కబంధాశ్ఛిన్నశిరసః",
+      "split_words": "కబంధాః + ఛిన్నశిరసః",
+      "sandhi_rule": "విసర్గ సంధి — ఆః తరువాత ఛకారం రావడంతో శ్ఛ రూపం."
+    },
+    {
+      "joined_word": "శక్త్యృష్టి",
+      "split_words": "శక్తి + ఋష్టి",
+      "sandhi_rule": "యణ్ సంధి — ఇ + ఋ కలయికలో య్ ఆదేశసదృశ రూపం."
+    },
+    {
+      "joined_word": "తిష్ఠేతి",
+      "split_words": "తిష్ఠ + ఇతి",
+      "sandhi_rule": "గుణ సంధి — అ + ఇ = ఏ."
+    },
+    {
+      "joined_word": "దేవీమన్యే",
+      "split_words": "దేవీమ్ + అన్యే",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ‘తిష్ఠ తిష్ఠ’ అనే ఆమ్రేడిత ప్రయోగం యుద్ధోన్మాదాన్ని చూపుతుంది.",
+  "reading_issues_summary": "Uploaded text has ‘తిష్ఠ తిష్ఠాతి’. Normalized as ‘తిష్ఠ తిష్ఠేతి’."
 }

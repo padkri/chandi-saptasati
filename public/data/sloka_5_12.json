@@ -1,82 +1,88 @@
 {
-  "id": "5.12",
-  "sloka_text": "दुर्गायै दुर्गपारायै सारायै सर्वकारिण्यै। ख्यात्यै तथैव कृष्णायै धूम्रायै सततं नमः ॥ 12 ॥",
-  "anvaya": "दुर्गायै दुर्गपारायै सारायै सर्वकारिण्यै ख्यात्यै तथा एव कृष्णायै धूम्रायै सततं नमः।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_12",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "12",
+  "source_citation": "",
+  "sloka_original": "దుర్గాయై దుర్గపారాయై సారాయై సర్వకారిణ్యై।\nఖ్యాత్ర్యై తథైవ కృష్ణాయై ధూమ్రాయై సతతం నమః || 12 ||",
+  "pada_vibhaga": [
     {
-      "word": "दुर्गायै",
-      "lemma": "दुर्गा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to Durga"
+      "word": "దుర్గాయై",
+      "meaning": "దుర్గారూపిణికి / దుర్గతిని తొలగించువారికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "दुर्गपारायै",
-      "lemma": "दुर्ग-पारा",
-      "compound": "तत्पुरुष/बहुव्रीहि-भावः",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to her who carries one beyond difficulties"
+      "word": "దుర్గపారాయై",
+      "meaning": "దుర్గమును దాటించువారికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सारायै",
-      "lemma": "सारा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the essence"
+      "word": "సారాయై",
+      "meaning": "సారస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सर्वकारिण्यै",
-      "lemma": "सर्वकारिणी",
-      "compound": "कर्मधारय/बहुव्रीहि-भावः",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to her who does everything"
+      "word": "సర్వకారిణ్యై",
+      "meaning": "సర్వకార్యకర్తృస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "ख्यात्यै",
-      "lemma": "ख्याति",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to fame, manifestation, knowledge"
+      "word": "ఖ్యాత్యై",
+      "meaning": "కీర్తిస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "तथा एव",
-      "pos": "अव्ययम्",
-      "meaning": "likewise indeed"
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "कृष्णायै",
-      "lemma": "कृष्णा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the dark one"
+      "word": "ఏవ",
+      "meaning": "నిశ్చయంగా",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "धूम्रायै",
-      "lemma": "धूम्रा",
-      "case_vibhakti": "चतुर्थी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "to the smoke-coloured one"
+      "word": "కృష్ణాయై",
+      "meaning": "కృష్ణవర్ణస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "सततम्",
-      "pos": "अव्ययम्",
-      "meaning": "always"
+      "word": "ధూమ్రాయై",
+      "meaning": "ధూమ్రవర్ణస్వరూపిణికి",
+      "grammar": "చతుర్థీ విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "नमः",
-      "pos": "अव्ययम्",
-      "meaning": "salutation"
+      "word": "సతతమ్",
+      "meaning": "ఎల్లప్పుడూ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "నమః",
+      "meaning": "నమస్కారం",
+      "grammar": "అవ్యయం"
     }
   ],
-  "sandhi": [
+  "anvaya": "దుర్గాయై దుర్గపారాయై సారాయై సర్వకారిణ్యై ఖ్యాత్యై తథా ఏవ కృష్ణాయై ధూమ్రాయై సతతం నమః।",
+  "tatparyam": {
+    "english": "Constant salutations to Durgā, to the one who carries beings across difficulties, to the essence, to the doer of all, to fame, to the dark one, and to the smoky-hued one.",
+    "telugu": "దుర్గాదేవికి, కష్టాలను దాటించువారికి, సారస్వరూపిణికి, సమస్తకార్యకర్తృస్వరూపిణికి, కీర్తిరూపిణికి, కృష్ణవర్ణస్వరూపిణికి, ధూమ్రవర్ణస్వరూపిణికి ఎల్లప్పుడూ నమస్కారం."
+  },
+  "samasas": [
     {
-      "form": "तथैव",
-      "split": "तथा + एव",
-      "sandhi_name": "गुण-सन्धिः",
-      "rule_description": "आ + ए → ऐ."
+      "compound": "దుర్గపారాయై",
+      "type": "ఉపపద తత్పురుష సమాసం — దుర్గస్య పారం నయతి యా"
+    },
+    {
+      "compound": "సర్వకారిణ్యై",
+      "type": "కర్మధారయ/తత్పురుష సమాసం — సర్వం కరోతి యా"
     }
   ],
-  "overall_meaning": "Constant salutations to Durga, to the one who carries beings beyond difficulties, to the essence, to the doer of all, to fame or manifestation, to the dark one, and to the smoke-hued one."
+  "sandhis": [
+    {
+      "joined_word": "తథైవ",
+      "split_words": "తథా + ఏవ",
+      "sandhi_rule": "వృద్ధి సంధి — ఆ + ఏ = ఐ"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. నామావళి పద్ధతిలో దేవీ తత్త్వవైచిత్ర్యం చూపబడింది. పాఠంలోని ‘ఖ్యాత్ర్యై’ సాధారణంగా ‘ఖ్యాత్యై’ అని పఠించబడుతుంది."
 }

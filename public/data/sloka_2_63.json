@@ -1,117 +1,98 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_63",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "63",
-  "source_citation": "",
-  "original_text_telugu": "కబంధా యుయుధుర్దేవ్యా గృహీతపరమాయుధాః। ననృతుశ్చాప్సరే తత్ర యుద్ధే తూర్యలయాశ్రితాః ॥ 63 ॥",
-  "normalized_sanskrit": "कबन्धा युयुधुर्देव्या गृहीतपरमायुधाः । ननृतुश्चाप्सरास्तत्र युद्धे तूर्यलयाश्रिताः ॥ ६३ ॥",
-  "iast": "kabandhā yuyudhur devyā gṛhītaparamāyudhāḥ | nanṛtuś cāpsarās tatra yuddhe tūryalayāśritāḥ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "కబంధా యుయుధుర్దేవ్యా గృహీతపరమాయుధాః|  \nననృతుశ్చాప్సరస్తత్ర యుద్ధే తూర్యలయాశ్రితాః || 63 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.63.1",
-      "text": "कबन्धा युयुधुर्देव्या गृहीतपरमायुधाः",
-      "anvaya": "गृहीतपरमायुधाः कबन्धाः देव्या सह युयुधुः।",
-      "sandhi": [
-        {
-          "joined": "युयुधुर्देव्या",
-          "split": "युयुधुः + देव्या",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before द् becomes र्"
-        },
-        {
-          "joined": "परमायुधाः",
-          "split": "परम + आयुधाः",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + आ = आ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "कबन्धाः",
-          "lemma": "कबन्ध",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "headless trunks"
-        },
-        {
-          "word": "गृहीतपरमायुधाः",
-          "lemma": "गृहीतपरमायुध",
-          "grammar": "बहुव्रीहिसमासः, पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "holding excellent weapons"
-        },
-        {
-          "word": "देव्या",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "with the Goddess"
-        },
-        {
-          "word": "युयुधुः",
-          "lemma": "युध्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्, आत्मनेपदम्",
-          "meaning": "fought"
-        }
-      ],
-      "devotional_meaning_english": "Headless trunks, still holding excellent weapons, fought with the Goddess.",
-      "devotional_meaning_telugu": "శిరస్సులేని కబంధములు కూడ ఉత్తమ ఆయుధములను పట్టుకొని దేవితో యుద్ధము చేసిరి."
+      "word": "కబంధాః",
+      "meaning": "తలలేని శరీరాలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.63.2",
-      "text": "ननृतुश्चाप्सरास्तत्र युद्धे तूर्यलयाश्रिताः",
-      "anvaya": "तत्र युद्धे तूर्यलयाश्रिताः अप्सराः च ननृतुः।",
-      "sandhi": [
-        {
-          "joined": "ननृतुश्च",
-          "split": "ननृतुः + च",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        },
-        {
-          "joined": "चाप्सराः",
-          "split": "च + अप्सराः",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "अप्सरास्तत्र",
-          "split": "अप्सराः + तत्र",
-          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there"
-        },
-        {
-          "word": "युद्धे",
-          "lemma": "युद्ध",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in the battle"
-        },
-        {
-          "word": "तूर्यलयाश्रिताः",
-          "lemma": "तूर्यलयाश्रित",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "keeping rhythm with the battle music"
-        },
-        {
-          "word": "अप्सराः",
-          "lemma": "अप्सरस्",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "celestial nymphs"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "ननृतुः",
-          "lemma": "नृत्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "danced"
-        }
-      ],
-      "devotional_meaning_english": "There in the battle, the apsarases danced in rhythm with the martial music.",
-      "devotional_meaning_telugu": "ఆ యుద్ధరంగములో అప్సరసలు తూర్యలయానుసారముగా నృత్యము చేసిరి."
+      "word": "గృహీతపరమాయుధాః",
+      "meaning": "గొప్ప ఆయుధాలను పట్టుకున్నవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం; కబంధాః పదానికి విశేషణం"
+    },
+    {
+      "word": "దేవ్యా",
+      "meaning": "దేవితో",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "యుయుధుః",
+      "meaning": "యుద్ధం చేశారు",
+      "grammar": "యుధ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "అప్సరసః",
+      "meaning": "అప్సరసలు",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "యుద్ధే",
+      "meaning": "యుద్ధంలో",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తూర్యలయాశ్రితాః",
+      "meaning": "వాద్యాల లయను ఆశ్రయించినవారు",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, బహువచనం; అప్సరసః పదానికి విశేషణం"
+    },
+    {
+      "word": "ననృతుః",
+      "meaning": "నాట్యం చేశారు",
+      "grammar": "నృత్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "గృహీతపరమాయుధాః కబంధాః దేవ్యా యుయుధుః। తత్ర యుద్ధే తూర్యలయాశ్రితాః అప్సరసః చ ననృతుః।",
+  "tatparyam": {
+    "english": "Headless trunks, holding supreme weapons, continued to fight with the Goddess. There in the battle, the apsaras danced in rhythm with the martial music.",
+    "telugu": "గొప్ప ఆయుధాలను పట్టుకున్న కబంధాలు దేవితో యుద్ధం చేశాయి. అక్కడ యుద్ధంలో వాద్యలయాన్ని అనుసరించి అప్సరసలు నాట్యం చేశాయి."
+  },
+  "samasas": [
+    {
+      "compound": "గృహీతపరమాయుధాః",
+      "type": "బహువ్రీహి సమాసం — గృహీతాని పరమాయుధాని యైః తే = గొప్ప ఆయుధాలను పట్టుకున్నవారు."
+    },
+    {
+      "compound": "పరమాయుధాః",
+      "type": "కర్మధారయ సమాసం — పరమాణి ఆయుధాని = పరమాయుధాని."
+    },
+    {
+      "compound": "తూర్యలయాశ్రితాః",
+      "type": "తృతీయా/షష్ఠీ తత్పురుష భావం — తూర్యలయం ఆశ్రితాః = వాద్యలయాన్ని ఆశ్రయించినవారు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "యుయుధుర్దేవ్యా",
+      "split_words": "యుయుధుః + దేవ్యా",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత దకారం రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "ననృతుశ్చాప్సరసః",
+      "split_words": "ననృతుః + చ + అప్సరసః",
+      "sandhi_rule": "విసర్గ సంధి — ఉః + చ = శ్చ; చ + అ = చా."
+    },
+    {
+      "joined_word": "లయాశ్రితాః",
+      "split_words": "లయ + ఆశ్రితాః",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + ఆ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: కబంధయుద్ధం ద్వారా అతిశయోక్తి; అప్సరసల నాట్యం ద్వారా యుద్ధం మహోత్సవరూపంగా చిత్రితం.",
+  "reading_issues_summary": "Uploaded text had ‘అప్సరే’. Normalized as ‘అప్సరసః’ for grammatical agreement."
 }

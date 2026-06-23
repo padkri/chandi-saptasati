@@ -1,107 +1,107 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_22",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "22",
-  "source_citation": "",
-  "original_text_telugu": "వజ్రమింద్రః సముత్పాద్య కులిశాదమరాధిపః దదౌ తస్యై సహస్రాక్షో ఘంటామైరావతాద్ గజాత్ ॥ 22 ॥",
-  "normalized_sanskrit": "वज्रमिन्द्रः समुत्पाद्य कुलिशादमराधिपः । ददौ तस्यै सहस्राक्षो घण्टामैरावताद्गजात् ॥ २२ ॥",
-  "iast": "vajram indraḥ samutpādya kuliśād amarādhipaḥ | dadau tasyai sahasrākṣo ghaṇṭām airāvatād gajāt",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "వజ్రమింద్రః సముత్పాద్య కులిశాదమరాధిపః   \nదదౌ తస్యై సహస్రాక్షో ఘంటామైరావతాద్ గజాత్ || 22 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.22.1",
-      "text": "वज्रमिन्द्रः समुत्पाद्य कुलिशादमराधिपः ददौ तस्यै सहस्राक्षो घण्टामैरावताद्गजात्",
-      "anvaya": "अमराधिपः सहस्राक्षः इन्द्रः कुलिशात् वज्रं समुत्पाद्य तस्यै ददौ; ऐरावताद् गजात् घण्टां च ददौ।",
-      "sandhi": [
-        {
-          "joined": "वज्रमिन्द्रः",
-          "split": "वज्रम् + इन्द्रः",
-          "sandhi_name": "म् before vowel retained"
-        },
-        {
-          "joined": "कुलिशादमराधिपः",
-          "split": "कुलिशात् + अमराधिपः",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before vowel"
-        },
-        {
-          "joined": "घण्टामैरावतात्",
-          "split": "घण्टाम् + ऐरावतात्",
-          "sandhi_name": "म् before vowel retained"
-        },
-        {
-          "joined": "ऐरावताद्गजात्",
-          "split": "ऐरावतात् + गजात्",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes द् before ग्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "इन्द्रः",
-          "lemma": "इन्द्र",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Indra"
-        },
-        {
-          "word": "अमराधिपः",
-          "lemma": "अमराधिप",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "lord of the immortals"
-        },
-        {
-          "word": "सहस्राक्षः",
-          "lemma": "सहस्राक्ष",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "thousand-eyed one"
-        },
-        {
-          "word": "कुलिशात्",
-          "lemma": "कुलिश",
-          "grammar": "नपुंसकलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
-          "meaning": "from the thunderbolt"
-        },
-        {
-          "word": "वज्रम्",
-          "lemma": "वज्र",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "thunderbolt"
-        },
-        {
-          "word": "समुत्पाद्य",
-          "lemma": "सम्-उत्-पद्",
-          "grammar": "णिच्-ल्यबन्त अव्ययम्",
-          "meaning": "having produced"
-        },
-        {
-          "word": "ऐरावतात्",
-          "lemma": "ऐरावत",
-          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
-          "meaning": "from Airāvata"
-        },
-        {
-          "word": "गजात्",
-          "lemma": "गज",
-          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
-          "meaning": "from the elephant"
-        },
-        {
-          "word": "घण्टाम्",
-          "lemma": "घण्टा",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "bell"
-        },
-        {
-          "word": "तस्यै",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, चतुर्थी विभक्ति, एकवचनम्",
-          "meaning": "to Her"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "Indra, lord of the immortals and thousand-eyed one, produced a thunderbolt from his own thunderbolt and gave it to Her; he also gave Her a bell from his elephant Airāvata.",
-      "devotional_meaning_telugu": "అమరాధిపుడైన సహస్రాక్ష ఇంద్రుడు తన వజ్రము నుండి వజ్రాయుధమును ఉత్పత్తి చేసి ఆమెకు ఇచ్చెను; ఐరావత గజము నుండి ఘంటను కూడ ఇచ్చెను."
+      "word": "అమరాధిపః",
+      "meaning": "దేవతల అధిపతి",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం; ఇంద్రుని విశేషణం"
+    },
+    {
+      "word": "ఇంద్రః",
+      "meaning": "ఇంద్రుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కులిశాత్",
+      "meaning": "తన వజ్రాయుధం నుండి",
+      "grammar": "నపుంసకలింగం, పంచమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వజ్రమ్",
+      "meaning": "వజ్రాయుధం",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సముత్పాద్య",
+      "meaning": "ఉత్పన్నం చేసి",
+      "grammar": "సం + ఉత్ + పాద్ ధాతువు, ల్యబ్ అవ్యయం"
+    },
+    {
+      "word": "తస్యై",
+      "meaning": "ఆమెకు",
+      "grammar": "సర్వనామం, స్త్రీలింగం, చతుర్థీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దదౌ",
+      "meaning": "ఇచ్చాడు",
+      "grammar": "దా ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "సహస్రాక్షః",
+      "meaning": "వెయ్యి కన్నులుగల ఇంద్రుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం; ఇంద్రుని నామం"
+    },
+    {
+      "word": "ఐరావతాత్",
+      "meaning": "ఐరావతం నుండి",
+      "grammar": "పుంలింగం, పంచమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "గజాత్",
+      "meaning": "ఏనుగు నుండి",
+      "grammar": "పుంలింగం, పంచమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఘంటామ్",
+      "meaning": "ఘంటను",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "అమరాధిపః ఇంద్రః కులిశాత్ వజ్రం సముత్పాద్య తస్యై దదౌ। సహస్రాక్షః ఐరావతాత్ గజాత్ ఘంటాం దదౌ।",
+  "tatparyam": {
+    "english": "Indra, the lord of the immortals, produced a thunderbolt from his own thunderbolt and gave it to her. The thousand-eyed one also gave her a bell from Airavata, his elephant.",
+    "telugu": "దేవతల అధిపతియైన ఇంద్రుడు తన కులిశం నుండి వజ్రాయుధాన్ని సృష్టించి ఆమెకు ఇచ్చాడు. సహస్రాక్షుడైన ఇంద్రుడు తన ఐరావత గజం నుండి ఘంటను కూడా ఆమెకు ఇచ్చాడు."
+  },
+  "samasas": [
+    {
+      "compound": "అమరాధిపః",
+      "type": "షష్ఠీ తత్పురుష సమాసం — అమరాణాం అధిపః = దేవతల ప్రభువు."
+    },
+    {
+      "compound": "సహస్రాక్షః",
+      "type": "బహువ్రీహి సమాసం — సహస్రం అక్షీణి యస్య సః = సహస్రాక్షః; వెయ్యి కన్నులుగలవాడు."
+    },
+    {
+      "compound": "ఐరావతాద్ గజాత్",
+      "type": "సమానాధికరణ ప్రయోగం — ఐరావతం అనే గజం నుండి; సమాసం కాదు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "వజ్రమింద్రః",
+      "split_words": "వజ్రమ్ + ఇంద్రః",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని యథాతథంగా కలిసింది."
+    },
+    {
+      "joined_word": "కులిశాదమరాధిపః",
+      "split_words": "కులిశాత్ + అమరాధిపః",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత స్వరం రావడంతో ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "సహస్రాక్షో ఘంటామ్",
+      "split_words": "సహస్రాక్షః + ఘంటామ్",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత ఘకారం రావడంతో ఓ రూపం."
+    },
+    {
+      "joined_word": "ఘంటామైరావతాత్",
+      "split_words": "ఘంటామ్ + ఐరావతాత్",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగి సంధిరూపం ఏర్పడింది."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఇంద్రుని ‘అమరాధిపః’, ‘సహస్రాక్షః’ అనే నామద్వయంతో దేవి ఆయుధప్రదాన మహిమను గాంభీర్యంగా చూపించారు."
 }

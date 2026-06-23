@@ -1,97 +1,94 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_7",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "7",
-  "source_citation": "",
-  "original_text_telugu": "స్వర్గాన్నిరాకృతాః సర్వే తేన దేవగణా భువి। విచరంతి యథా మర్త్యా మహిషేణ దురాత్మనా ॥ 7 ॥",
-  "normalized_sanskrit": "स्वर्गान्निराकृताः सर्वे तेन देवगणा भुवि । विचरन्ति यथा मर्त्या महिषेण दुरात्मना ॥ ७ ॥",
-  "iast": "svargān nirākṛtāḥ sarve tena devagaṇā bhuvi | vicaranti yathā martyā mahiṣeṇa durātmanā",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "స్వర్గాన్నిరాకృతాః సర్వే తేన దేవగణా భువి।  \nవిచరంతి యథా మర్త్యా మహిషేణ దురాత్మనా ॥ 7 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.7.1",
-      "text": "स्वर्गान्निराकृताः सर्वे तेन देवगणा भुवि विचरन्ति यथा मर्त्या महिषेण दुरात्मना",
-      "anvaya": "तेन दुरात्मना महिषेण स्वर्गात् निराकृताः सर्वे देवगणाः मर्त्याः यथा भुवि विचरन्ति।",
-      "sandhi": [
-        {
-          "joined": "स्वर्गान्निराकृताः",
-          "split": "स्वर्गात् + निराकृताः",
-          "sandhi_name": "अनुनासिक/परसवर्ण संधि: final त् before न् becomes न्"
-        },
-        {
-          "joined": "मर्त्या महिषेण",
-          "split": "मर्त्याः + महिषेण",
-          "sandhi_name": "విసర్గ లోపः before voiced म्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तेन",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by him"
-        },
-        {
-          "word": "दुरात्मना",
-          "lemma": "दुरात्मन्",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by the evil-minded one"
-        },
-        {
-          "word": "महिषेण",
-          "lemma": "महिष",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by Mahisha"
-        },
-        {
-          "word": "स्वर्गात्",
-          "lemma": "स्वर्ग",
-          "grammar": "पुंलिङ्गम्, पञ्चमी विभक्ति, एकवचनम्",
-          "meaning": "from heaven"
-        },
-        {
-          "word": "निराकृताः",
-          "lemma": "निराकृत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "expelled, driven out"
-        },
-        {
-          "word": "सर्वे",
-          "lemma": "सर्व",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "all"
-        },
-        {
-          "word": "देवगणाः",
-          "lemma": "देवगण",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "hosts of gods"
-        },
-        {
-          "word": "मर्त्याः",
-          "lemma": "मर्त्य",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "mortals"
-        },
-        {
-          "word": "यथा",
-          "lemma": "यथा",
-          "grammar": "अव्ययम्",
-          "meaning": "as, like"
-        },
-        {
-          "word": "भुवि",
-          "lemma": "भू",
-          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "on earth"
-        },
-        {
-          "word": "विचरन्ति",
-          "lemma": "वि-चर्",
-          "grammar": "लट् लकारः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "wander"
-        }
-      ],
-      "devotional_meaning_english": "Driven out of heaven by that wicked Mahisha, all the hosts of gods wander on earth like mortals.",
-      "devotional_meaning_telugu": "ఆ దురాత్ముడైన మహిషుడు దేవతలను స్వర్గం నుండి తొలగించగా, దేవగణమంతా మానవులవలె భూమిపై సంచరించుచున్నారు."
+      "word": "తేన",
+      "meaning": "అతని చేత",
+      "grammar": "సర్వనామం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దురాత్మనా",
+      "meaning": "దుష్టాత్ముడైన",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, ఏకవచనం; మహిషేణ పదానికి విశేషణం"
+    },
+    {
+      "word": "మహిషేణ",
+      "meaning": "మహిషాసురునిచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సర్వే",
+      "meaning": "అందరూ",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "దేవగణాః",
+      "meaning": "దేవగణాలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "స్వర్గాత్",
+      "meaning": "స్వర్గం నుండి",
+      "grammar": "పుంలింగ/నపుంసకప్రయోగం, పంచమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నిరాకృతాః",
+      "meaning": "తొలగించబడినవారు",
+      "grammar": "క్తప్రత్యయాంత భూతకర్మణి రూపం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "భువి",
+      "meaning": "భూమిపై",
+      "grammar": "స్త్రీలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "మర్త్యాః",
+      "meaning": "మానవులు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "యథా",
+      "meaning": "ఎలాగైతే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "విచరంతి",
+      "meaning": "తిరుగుతున్నారు",
+      "grammar": "వి + చర్ ధాతువు, లట్ లకారం, ప్రథమ పురుష, బహువచనం"
     }
-  ]
+  ],
+  "anvaya": "తేన దురాత్మనా మహిషేణ స్వర్గాత్ నిరాకృతాః సర్వే దేవగణాః భువి మర్త్యాః యథా విచరంతి।",
+  "tatparyam": {
+    "english": "Driven out of heaven by that wicked Mahisha, all the hosts of gods now wander upon the earth like mortals.",
+    "telugu": "ఆ దురాత్ముడైన మహిషాసురునిచే స్వర్గం నుండి వెలివేయబడిన దేవగణాలందరూ భూమిపై మానవులవలె తిరుగుతున్నారు."
+  },
+  "samasas": [
+    {
+      "compound": "దేవగణాః",
+      "type": "షష్ఠీ తత్పురుష సమాసం — దేవానాం గణాః = దేవగణాః."
+    },
+    {
+      "compound": "దురాత్మనా",
+      "type": "బహువ్రీహి సమాసం — దుష్టః ఆత్మా యస్య సః = దురాత్మా; దుష్టస్వభావుడు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "స్వర్గాన్నిరాకృతాః",
+      "split_words": "స్వర్గాత్ + నిరాకృతాః",
+      "sandhi_rule": "వ్యంజన సంధి — త్ తరువాత నకారం రావడంతో నకారసన్నిహిత ద్విత్వరూపం ‘న్న్’."
+    },
+    {
+      "joined_word": "యథా మర్త్యాః",
+      "split_words": "యథా + మర్త్యాః",
+      "sandhi_rule": "సంధి మార్పు లేదు; స్వరాంత పదం తరువాత వ్యంజనారంభ పదం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఉపమా — దేవతలు ‘మర్త్యాః యథా’ అని మానవులతో పోల్చబడ్డారు.",
+  "reading_issues_summary": "Uploaded text contained mixed Latin ‘yథా’. Normalized as ‘యథా’."
 }

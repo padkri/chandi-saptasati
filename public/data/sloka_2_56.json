@@ -1,108 +1,92 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_56",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "56",
-  "source_citation": "",
-  "original_text_telugu": "ఖడ్గాదిభిశ్చ శతశో నిజఘాన మహాసురాన్। పాతయామాస చైవాన్యాన్ ఘంటాస్వనవిమోహితాన్ ॥ 56 ॥",
-  "normalized_sanskrit": "खड्गादिभिश्च शतशो निजघान महासुरान् । पातयामास चैवान्यान् घण्टास्वनविमोहितान् ॥ ५६ ॥",
-  "iast": "khaḍgādibhiś ca śataśo nijaghāna mahāsurān | pātayām āsa caivānyān ghaṇṭāsvanavimohitān",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "ఖడ్గాదిభిశ్చ శతశో నిజఘాన మహాసురాన్।  \nపాతయామాస చైవాన్యాన్ ఘంటాస్వనవిమోహితాన్ || 56 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.56.1",
-      "text": "खड्गादिभिश्च शतशो निजघान महासुरान्",
-      "anvaya": "देवी त्रिशूलेन गदया शक्तिवृष्टिभिः खड्गादिभिः च शतशः महासुरान् निजघान।",
-      "sandhi": [
-        {
-          "joined": "खड्गादिभिश्च",
-          "split": "खड्गादिभिः + च",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before च् becomes श्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "देवी",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्; supplied from previous sloka",
-          "meaning": "the Goddess"
-        },
-        {
-          "word": "खड्गादिभिः",
-          "lemma": "खड्गादि",
-          "grammar": "पुंलिङ्ग/नपुंसकलिङ्ग, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with swords and other weapons"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "शतशः",
-          "lemma": "शतशस्",
-          "grammar": "अव्ययम्",
-          "meaning": "by hundreds"
-        },
-        {
-          "word": "महासुरान्",
-          "lemma": "महासुर",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "great asuras"
-        },
-        {
-          "word": "निजघान",
-          "lemma": "नि-हन्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "slew, struck down"
-        }
-      ],
-      "devotional_meaning_english": "With the trident, mace, showers of spears, swords, and other weapons, the Goddess slew hundreds of great asuras.",
-      "devotional_meaning_telugu": "త్రిశూలము, గద, శక్తివర్షములు, ఖడ్గాదియాయుధములతో దేవి శతశః మహాసురులను సంహరించెను."
+      "word": "ఖడ్గాదిభిః",
+      "meaning": "ఖడ్గాది ఆయుధాలతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.56.2",
-      "text": "पातयामास चैवान्यान् घण्टास्वनविमोहितान्",
-      "anvaya": "घण्टास्वनविमोहितान् अन्यान् च एव पातयामास।",
-      "sandhi": [
-        {
-          "joined": "चैव",
-          "split": "च + एव",
-          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: अ + ए = ऐ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "घण्टास्वनविमोहितान्",
-          "lemma": "घण्टास्वनविमोहित",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "bewildered by the sound of the bell"
-        },
-        {
-          "word": "अन्यान्",
-          "lemma": "अन्य",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "others"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "एव",
-          "lemma": "एव",
-          "grammar": "अव्ययम्",
-          "meaning": "indeed"
-        },
-        {
-          "word": "पातयामास",
-          "lemma": "पत् causative",
-          "grammar": "णिच्-लिट् प्रयोगः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "caused to fall, felled"
-        }
-      ],
-      "devotional_meaning_english": "Others, bewildered by the sound of Her bell, She struck down.",
-      "devotional_meaning_telugu": "ఆమె ఘంటానాదముచేత మోహితులైన ఇతర అసురులను కూడ దేవి కూలద్రోయెను."
+      "word": "శతశః",
+      "meaning": "వందల కొలది",
+      "grammar": "అవ్యయం; సంఖ్యా-శస్ ప్రత్యయాంత రూపం"
+    },
+    {
+      "word": "మహాసురాన్",
+      "meaning": "మహా అసురులను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "నిజఘాన",
+      "meaning": "సంహరించింది",
+      "grammar": "హన్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "అన్యాన్",
+      "meaning": "ఇతరులను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ఘంటాస్వనవిమోహితాన్",
+      "meaning": "ఘంటానాదంతో మోహింపబడినవారిని",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పాతయామాస",
+      "meaning": "పడగొట్టింది",
+      "grammar": "పత్ ధాతువు, causative భావం, లిట్/పెరిఫ్రాస్టిక్ భూతప్రయోగం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఏవ",
+      "meaning": "కూడా",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "దేవీ త్రిశూలేన గదయా శక్తివృష్టిభిః ఖడ్గాదిభిః చ శతశః మహాసురాన్ నిజఘాన। ఘంటాస్వనవిమోహితాన్ అన్యాన్ చ ఏవ పాతయామాస।",
+  "tatparyam": {
+    "english": "With her trident, mace, showers of spears, swords, and other weapons, the Goddess slew great asuras by the hundreds. She also struck down others who had been bewildered by the sound of her bell.",
+    "telugu": "దేవి త్రిశూలం, గద, శక్తివర్షాలు, ఖడ్గాది ఆయుధాలతో వందల కొలది మహాసురులను సంహరించింది. ఘంటానాదంతో మోహితులైన ఇతరులను కూడా పడగొట్టింది."
+  },
+  "samasas": [
+    {
+      "compound": "ఖడ్గాదిభిః",
+      "type": "బహువ్రీహి/తత్పురుష భావం — ఖడ్గః ఆదిః యేషాం తైః = ఖడ్గాది ఆయుధాలతో."
+    },
+    {
+      "compound": "శతశః",
+      "type": "శస్-ప్రత్యయాంత అవ్యయం — శతాలవారీగా, వందల కొలది."
+    },
+    {
+      "compound": "మహాసురాన్",
+      "type": "కర్మధారయ సమాసం — మహాంతః అసురాః = మహాసురాః."
+    },
+    {
+      "compound": "ఘంటాస్వనవిమోహితాన్",
+      "type": "తృతీయా తత్పురుష సమాసం — ఘంటాస్వనేన విమోహితాః = ఘంటానాదంతో మోహింపబడినవారు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "ఖడ్గాదిభిశ్చ",
+      "split_words": "ఖడ్గాదిభిః + చ",
+      "sandhi_rule": "విసర్గ సంధి — ఇః తరువాత చకారం రావడంతో శ్చ రూపం."
+    },
+    {
+      "joined_word": "చైవాన్యాన్",
+      "split_words": "చ + ఏవ + అన్యాన్",
+      "sandhi_rule": "వృద్ధి సంధి — అ + ఏ = ఐ; ఏవ + అన్యాన్ పూర్వరూప భావం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: దేవి ఆయుధవైభవ సముచ్చయ వర్ణన; వీరరసం ప్రధానము.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘ఖడ్గాदि’. Normalized as ‘ఖడ్గాది’."
 }

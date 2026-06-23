@@ -1,0 +1,39 @@
+{
+  "id": "durga_saptashati_chapter_6_sloka_1",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "6",
+  "sloka_number": "1",
+  "source_citation": "",
+  "sloka_original": "**\"ఓం\" ఋషిరువాచ || 1 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "ఓం",
+      "meaning": "ప్రణవము; మంగళారంభ సూచకము",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "ఋషిః",
+      "meaning": "మహర్షి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "చెప్పెను",
+      "grammar": "√వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "ఓం ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "The sage said.",
+    "telugu": "మహర్షి ఇలా పలికెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత ఉకారం వచ్చినందున విసర్గం ర్ రూపమై కలిసింది."
+    }
+  ],
+  "alamkaram_chandas": "ఇది వక్తృ-సూచక గద్యభాగం; శ్లోక ఛందస్సు లేదు. అలంకారం ప్రత్యేకంగా లేదు."
+}

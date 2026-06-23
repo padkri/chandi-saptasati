@@ -1,96 +1,92 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_17",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "17",
-  "source_citation": "",
-  "original_text_telugu": "తస్యాస్తు దంతాః సంభూతాః ప్రాజాపత్యేన తేజసా। నయనత్రితయం జజ్ఞే తథా పావకతేజసా ॥ 17 ॥",
-  "normalized_sanskrit": "तस्यास्तु दन्ताः सम्भूताः प्राजापत्येन तेजसा । नयनत्रितयं जज्ञे तथा पावकतेजसा ॥ १७ ॥",
-  "iast": "tasyās tu dantāḥ sambhūtāḥ prājāpatyena tejasā | nayanatritayaṃ jajñe tathā pāvakatejasā",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "తస్యాస్తు దంతాః సంభూతాః ప్రాజాపత్యేన తేజసా।  \nనయనత్రితయం జజ్ఞే తథా పావకతేజసా || 17 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.17.1",
-      "text": "तस्यास्तु दन्ताः सम्भूताः प्राजापत्येन तेजसा",
-      "anvaya": "तस्याः तु दन्ताः प्राजापत्येन तेजसा सम्भूताः।",
-      "sandhi": [
-        {
-          "joined": "तस्यास्तु",
-          "split": "तस्याः + तु",
-          "sandhi_name": "విసర్గ సంధి: आः before त् becomes आस्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तस्याः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, षष्ठी विभक्ति, एकवचनम्",
-          "meaning": "of her"
-        },
-        {
-          "word": "तु",
-          "lemma": "तु",
-          "grammar": "अव्ययम्",
-          "meaning": "indeed, but"
-        },
-        {
-          "word": "दन्ताः",
-          "lemma": "दन्त",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "teeth"
-        },
-        {
-          "word": "प्राजापत्येन",
-          "lemma": "प्राजापत्य",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by Prajāpati’s energy"
-        },
-        {
-          "word": "तेजसा",
-          "lemma": "तेजस्",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by radiance"
-        },
-        {
-          "word": "सम्भूताः",
-          "lemma": "सम्भूत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्, क्त-प्रत्ययान्तम्",
-          "meaning": "were produced"
-        }
-      ],
-      "devotional_meaning_english": "Her teeth were produced from the radiance of Prajāpati.",
-      "devotional_meaning_telugu": "ప్రజాపతి తేజస్సుతో ఆమె దంతములు ఏర్పడెను."
+      "word": "తస్యాః",
+      "meaning": "ఆమె యొక్క",
+      "grammar": "స్త్రీలింగం, షష్ఠీ విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.17.2",
-      "text": "नयनत्रितयं जज्ञे तथा पावकतेजसा",
-      "anvaya": "तथा पावकतेजसा नयनत्रितयं जज्ञे।",
-      "sandhi": [],
-      "word_analysis": [
-        {
-          "word": "तथा",
-          "lemma": "तथा",
-          "grammar": "अव्ययम्",
-          "meaning": "similarly"
-        },
-        {
-          "word": "पावकतेजसा",
-          "lemma": "पावकतेजस्",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by Agni’s radiance"
-        },
-        {
-          "word": "नयनत्रितयम्",
-          "lemma": "नयनत्रितय",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the three eyes"
-        },
-        {
-          "word": "जज्ञे",
-          "lemma": "जन्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्, आत्मनेपदम्",
-          "meaning": "was born"
-        }
-      ],
-      "devotional_meaning_english": "Likewise, her three eyes were born from the radiance of Fire.",
-      "devotional_meaning_telugu": "అలాగే అగ్ని తేజస్సుతో ఆమె మూడు నేత్రములు జనించెను."
+      "word": "తు",
+      "meaning": "అయితే, మరియూ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "దంతాః",
+      "meaning": "దంతాలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ప్రాజాపత్యేన",
+      "meaning": "ప్రజాపతి తేజస్సుచేత",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తేజసా",
+      "meaning": "తేజస్సుచేత",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సంభూతాః",
+      "meaning": "ఉద్భవించాయి",
+      "grammar": "సం + భూ ధాతువు నుండి క్తప్రత్యయాంత రూపం, పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "నయనత్రితయం",
+      "meaning": "మూడు కన్నులు",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పావకతేజసా",
+      "meaning": "అగ్ని తేజస్సుచేత",
+      "grammar": "నపుంసకలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "జజ్ఞే",
+      "meaning": "పుట్టింది",
+      "grammar": "జన్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం, ఆత్మనేపది"
     }
-  ]
+  ],
+  "anvaya": "తస్యాః తు దంతాః ప్రాజాపత్యేన తేజసా సంభూతాః। తథా నయనత్రితయం పావకతేజసా జజ్ఞే।",
+  "tatparyam": {
+    "english": "Her teeth were born from the radiance of Prajapati; likewise, her three eyes arose from the radiance of Fire.",
+    "telugu": "ఆమె దంతాలు ప్రజాపతి తేజస్సుతో ఉద్భవించాయి. అలాగే ఆమె మూడు నేత్రాలు అగ్ని తేజస్సుతో పుట్టాయి."
+  },
+  "samasas": [
+    {
+      "compound": "ప్రాజాపత్యేన",
+      "type": "తద్ధితాంత పదం — ప్రజాపతేః ఇదం ప్రాజాపత్యమ్; ప్రజాపతికి సంబంధించినది."
+    },
+    {
+      "compound": "నయనత్రితయం",
+      "type": "ద్విగు సమాసం — త్రీణి నయనాని = నయనత్రితయం; మూడు కన్నుల సముదాయం."
+    },
+    {
+      "compound": "పావకతేజసా",
+      "type": "షష్ఠీ తత్పురుష సమాసం — పావకస్య తేజసా = అగ్ని తేజస్సుచేత."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తస్యాస్తు",
+      "split_words": "తస్యాః + తు",
+      "sandhi_rule": "విసర్గ సంధి — ఆః తరువాత తకారం రావడంతో స్ రూపం."
+    },
+    {
+      "joined_word": "పావకతేజసా",
+      "split_words": "పావక + తేజసా",
+      "sandhi_rule": "సమాసరూప కలయిక; స్వరసంధి మార్పు లేదు."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: త్రినేత్రత్వ వర్ణనలో దేవీ మహిమ యొక్క సూచన; సముచ్చయ వర్ణన ప్రధానము."
 }

@@ -1,0 +1,34 @@
+{
+  "id": "durga_saptashati_chapter_10_sloka_1",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "10",
+  "sloka_number": "1",
+  "source_citation": "Stotra Nidhi, Durga Saptasati Chapter 10, Śumbhavadha; speaker line.",
+  "sloka_original": "ఋషిరువాచ ॥ ౧ ॥",
+  "pada_vibhaga": [
+    {
+      "word": "ఋషిః",
+      "meaning": "ఋషి, మేధస మహర్షి",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "చెప్పెను",
+      "grammar": "వచ् ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "The sage said.",
+    "telugu": "ఋషి ఇలా చెప్పెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — అ/ఆదిస్వరానికి ముందు విసర్గం ర్-ఆదేశం పొంది ‘ఋషిరువాచ’ రూపం."
+    }
+  ],
+  "alamkaram_chandas": "ఇది ఉవాచవాక్యం; సాధారణ శ్లోకఛందస్సు కాదు."
+}

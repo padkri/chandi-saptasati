@@ -1,101 +1,103 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_28",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "28",
-  "source_citation": "",
-  "original_text_telugu": "అస్త్రాణ్యనేకరూపాణి తథాభేద్యం చ దంశనమ్। అమ్లానపఙ్కజాం మాలాం శిరస్యురసి చాపరామ్ ॥ 28 ॥",
-  "normalized_sanskrit": "अस्त्राण्यनेकरूपाणि तथाभेद्यं च दंशनम् । अम्लानपङ्कजां मालां शिरस्युरसि चापराम् ॥ २८ ॥",
-  "iast": "astrāṇy anekarūpāṇi tathābhedyaṃ ca daṃśanam | amlānapaṅkajāṃ mālāṃ śirasy urasi cāparām",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అస్త్రాణ్యనేకరూపాణి తథాభేద్యం చ దంశనమ్।  \nఅమ్లానపఙ్కజాం మాలాం శిరస్యురసి చాపరామ్ || 28 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.28.1",
-      "text": "अस्त्राण्यनेकरूपाणि तथाभेद्यं च दंशनम् अम्लानपङ्कजां मालां शिरस्युरसि चापराम्",
-      "anvaya": "सः अनेकरूपाणि अस्त्राणि, तथा अभेद्यं दंशनं च, शिरसि अम्लानपङ्कजां मालां, उरसि च अपरां मालां ददौ।",
-      "sandhi": [
-        {
-          "joined": "अस्त्राण्यनेकरूपाणि",
-          "split": "अस्त्राणि + अनेकरूपाणि",
-          "sandhi_name": "యణ్ సంధి / Yaṇ Sandhi: इ before vowel becomes य्"
-        },
-        {
-          "joined": "तथाभेद्यम्",
-          "split": "तथा + अभेद्यम्",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: आ + अ = आ"
-        },
-        {
-          "joined": "शिरस्युरसि",
-          "split": "शिरसि + उरसि",
-          "sandhi_name": "యణ్ సంధి: इ before उ becomes य्"
-        },
-        {
-          "joined": "चापराम्",
-          "split": "च + अपराम्",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "अस्त्राणि",
-          "lemma": "अस्त्र",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "missile weapons"
-        },
-        {
-          "word": "अनेकरूपाणि",
-          "lemma": "अनेकरूप",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "of many forms"
-        },
-        {
-          "word": "अभेद्यम्",
-          "lemma": "अभेद्य",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "impenetrable"
-        },
-        {
-          "word": "दंशनम्",
-          "lemma": "दंशन",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "armour"
-        },
-        {
-          "word": "अम्लानपङ्कजाम्",
-          "lemma": "अम्लानपङ्कजा",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्; मालाम्-विशेषणम्",
-          "meaning": "made of unfading lotuses"
-        },
-        {
-          "word": "मालाम्",
-          "lemma": "माला",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "garland"
-        },
-        {
-          "word": "शिरसि",
-          "lemma": "शिरस्",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "on the head"
-        },
-        {
-          "word": "उरसि",
-          "lemma": "उरस्",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "on the chest"
-        },
-        {
-          "word": "अपराम्",
-          "lemma": "अपरा",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "another"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; supplied from previous donor-context",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "He gave Her many kinds of weapons, impenetrable armour, a garland of unfading lotuses for Her head, and another for Her chest.",
-      "devotional_meaning_telugu": "అనేక రూపములైన అస్త్రములు, అభేద్య కవచము, శిరస్సుకై అమ్లాన పద్మమాల, వక్షస్థలమునకై మరొక మాలను ఇచ్చెను."
+      "word": "అస్త్రాణి",
+      "meaning": "అస్త్రాలను",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "అనేకరూపాణి",
+      "meaning": "అనేక రూపాలుగల",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, బహువచనం; అస్త్రాణి పదానికి విశేషణం"
+    },
+    {
+      "word": "అభేద్యమ్",
+      "meaning": "భేదించలేనిది",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దంశనమ్",
+      "meaning": "కవచం",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అమ్లానపఙ్కజామ్",
+      "meaning": "వాడిపోని పద్మాలతో కూడిన",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం; మాలాం పదానికి విశేషణం"
+    },
+    {
+      "word": "మాలామ్",
+      "meaning": "మాలను",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "శిరసి",
+      "meaning": "తలపై",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఉరసి",
+      "meaning": "వక్షస్థలంపై",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అపరామ్",
+      "meaning": "మరోకదాన్ని",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "అనేకరూపాణి అస్త్రాణి, తథా అభేద్యం దంశనం చ, శిరసి అమ్లానపఙ్కజాం మాలాం, ఉరసి అపరాం మాలాం చ దదౌ।",
+  "tatparyam": {
+    "english": "He gave her weapons of many kinds, an impenetrable armor, a garland of unfading lotuses for her head, and another for her chest.",
+    "telugu": "అనేక రూపాలుగల అస్త్రాలను, భేదించలేని కవచాన్ని, తలపై ధరించుటకు వాడిపోని పద్మమాలను, వక్షస్థలానికి మరొక మాలను ఇచ్చాడు."
+  },
+  "samasas": [
+    {
+      "compound": "అనేకరూపాణి",
+      "type": "బహువ్రీహి సమాసం — అనేకాని రూపాణి యేషాం తాని = అనేకరూపాణి."
+    },
+    {
+      "compound": "అమ్లానపఙ్కజామ్",
+      "type": "కర్మధారయ-షష్ఠీ తత్పురుష భావం — అమ్లానాని పఙ్కజాని యస్యాం సా."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "అస్త్రాణ్యనేకరూపాణి",
+      "split_words": "అస్త్రాణి + అనేకరూపాణి",
+      "sandhi_rule": "యణ్ సంధి — ఇ + అ కలయికలో య్ ఆదేశం."
+    },
+    {
+      "joined_word": "తథాభేద్యమ్",
+      "split_words": "తథా + అభేద్యమ్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — ఆ + అ = ఆ."
+    },
+    {
+      "joined_word": "శిరస్యురసి",
+      "split_words": "శిరసి + ఉరసి",
+      "sandhi_rule": "యణ్ సంధి — ఇ + ఉ కలయికలో య్ ఆదేశం."
+    },
+    {
+      "joined_word": "చాపరామ్",
+      "split_words": "చ + అపరామ్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఆయుధ-ఆభరణ సముచ్చయవర్ణన; వీరశోభ మరియు శృంగారశోభ కలయిక."
 }

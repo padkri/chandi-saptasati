@@ -33,6 +33,92 @@ document.addEventListener("DOMContentLoaded", () => {
             .replaceAll("'", '&#039;');
     }
 
+    function renderInlineMarkdown(value) {
+        return escapeHtml(value).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    }
+
+    function renderMetadataMarkdown(content) {
+        const blocks = [];
+        let paragraph = [];
+        let quote = [];
+        let list = null;
+
+        const flushParagraph = () => {
+            if (!paragraph.length) return;
+            blocks.push(`<p>${renderInlineMarkdown(paragraph.join(" "))}</p>`);
+            paragraph = [];
+        };
+
+        const flushList = () => {
+            if (!list) return;
+            blocks.push(`<${list.type}>${list.items.map(item => `<li>${renderInlineMarkdown(item)}</li>`).join("")}</${list.type}>`);
+            list = null;
+        };
+
+        const flushQuote = () => {
+            if (!quote.length) return;
+            blocks.push(`<blockquote>${quote.map(line => `<p>${renderInlineMarkdown(line)}</p>`).join("")}</blockquote>`);
+            quote = [];
+        };
+
+        String(content || "").split(/\r?\n/).forEach(rawLine => {
+            const line = rawLine.trim();
+            if (!line) {
+                flushParagraph();
+                flushList();
+                flushQuote();
+                return;
+            }
+
+            const heading = line.match(/^(#{1,6})\s+(.+)$/);
+            if (heading) {
+                flushParagraph();
+                flushList();
+                flushQuote();
+                const level = Math.min(Math.max(Number(heading[1].length), 2), 4);
+                blocks.push(`<h${level}>${renderInlineMarkdown(heading[2])}</h${level}>`);
+                return;
+            }
+
+            if (/^-{3,}$/.test(line)) {
+                flushParagraph();
+                flushList();
+                flushQuote();
+                blocks.push("<hr>");
+                return;
+            }
+
+            if (line.startsWith(">")) {
+                flushParagraph();
+                flushList();
+                quote.push(line.replace(/^>\s?/, ""));
+                return;
+            }
+
+            const unorderedItem = line.match(/^[-*]\s+(.+)$/);
+            const orderedItem = line.match(/^\d+\.\s+(.+)$/);
+            if (unorderedItem || orderedItem) {
+                flushParagraph();
+                flushQuote();
+                const type = unorderedItem ? "ul" : "ol";
+                if (list?.type !== type) flushList();
+                if (!list) list = { type, items: [] };
+                list.items.push(unorderedItem?.[1] || orderedItem[1]);
+                return;
+            }
+
+            flushList();
+            flushQuote();
+            paragraph.push(line);
+        });
+
+        flushParagraph();
+        flushList();
+        flushQuote();
+
+        return blocks.join("");
+    }
+
     function normalizeWhitespace(value) {
         return String(value || "").replace(/\s+/g, " ").trim();
     }
@@ -409,19 +495,20 @@ document.addEventListener("DOMContentLoaded", () => {
             const response = await fetch(`/api/chapter_metadata?chapter=${chapter}&type=${type}`);
             if (!response.ok) throw new Error("Failed to load metadata");
             const data = await response.json();
-            
-            // Convert simple markdown-like text to HTML
-            // Just wrap lines in <p> tags and bold text between **
-            let htmlContent = data.content
-                .split('\\n')
-                .map(line => `<p>${line.replace(/\\*\\*(.*?)\\*\\*/g, '<strong>$1</strong>')}</p>`)
-                .join('');
+            const item = tocIndex.get(getTodoKey(chapter, type));
+            const sectionTitle = item?.title || data.title || readerChapterLabel({ chapter });
+            const pageLabel = type === "header" ? "Introduction" : item?.label || data.type || type;
+            const htmlContent = renderMetadataMarkdown(data.content);
                 
             slokaView.innerHTML = `
-                <div class="metadata-card">
-                    <h2 style="color: var(--primary); margin-bottom: 1rem; border-bottom: 2px solid var(--primary); padding-bottom: 0.5rem; text-transform: capitalize;">${type}</h2>
-                    <div style="line-height: 1.8; color: var(--text-color); font-size: 1.1rem;">
-                        ${htmlContent}
+                <div class="sloka-card reader-card metadata-card">
+                    <div class="reader-book-heading">
+                        <span class="chapter-pill">${escapeHtml(sectionTitle)}</span>
+                        <span class="separator-mark">॥</span>
+                        <span class="chapter-pill">${escapeHtml(pageLabel)}</span>
+                    </div>
+                    <div class="metadata-body">
+                        ${htmlContent || '<p>No header content is available for this section.</p>'}
                     </div>
                 </div>
             `;

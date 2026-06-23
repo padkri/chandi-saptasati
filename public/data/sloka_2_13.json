@@ -1,113 +1,102 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_13",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "13",
-  "source_citation": "",
-  "original_text_telugu": "అతులం తత్ర తత్తేజః సర్వదేవశరీరజమ్। ఏకస్థం తదభూన్నారీ వ్యాప్తలోకత్రయం త్విషా ॥ 13 ॥",
-  "normalized_sanskrit": "अतुलं तत्र तत्तेजः सर्वदेवशरीरजम् । एकस्थं तदभून्नारी व्याप्तलोकत्रयं त्विषा ॥ १३ ॥",
-  "iast": "atulaṃ tatra tat tejaḥ sarva-deva-śarīrajam | ekasthaṃ tad abhūn nārī vyāpta-lokatrayaṃ tviṣā",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అతులం తత్ర తత్తేజః సర్వదేవశరీరజమ్।  \nఏకస్థం తదభూన్నారీ వ్యాప్తలోకత్రయం త్విషా || 13 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.13.1",
-      "text": "अतुलं तत्र तत्तेजः सर्वदेवशरीरजम्",
-      "anvaya": "तत्र तत् सर्वदेवशरीरजं तेजः अतुलम्।",
-      "sandhi": [
-        {
-          "joined": "तत्तेजः",
-          "split": "तत् + तेजः",
-          "sandhi_name": "వ్యంజన సంధి: त् before त् doubles"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there"
-        },
-        {
-          "word": "तत्",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "that"
-        },
-        {
-          "word": "सर्वदेवशरीरजम्",
-          "lemma": "सर्वदेवशरीरज",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्; विशेषणम्",
-          "meaning": "born from the bodies of all the gods"
-        },
-        {
-          "word": "तेजः",
-          "lemma": "तेजस्",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "radiance"
-        },
-        {
-          "word": "अतुलम्",
-          "lemma": "अतुल",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "incomparable"
-        }
-      ],
-      "devotional_meaning_english": "That radiance, born from the bodies of all the gods, was incomparable.",
-      "devotional_meaning_telugu": "సకల దేవతల శరీరములనుండి పుట్టిన ఆ తేజస్సు అసమానమైనది."
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "అవ్యయం"
     },
     {
-      "sentence_id": "2.13.2",
-      "text": "एकस्थं तदभून्नारी व्याप्तलोकत्रयं त्विषा",
-      "anvaya": "तत् एकस्थं नारी अभूत्, त्विषा लोकत्रयं व्याप्तम्।",
-      "sandhi": [
-        {
-          "joined": "तदभूत्",
-          "split": "तत् + अभूत्",
-          "sandhi_name": "జశ్త్వ సంధి / Jaśtva Sandhi: त् becomes द् before vowel"
-        },
-        {
-          "joined": "अभून्नारी",
-          "split": "अभूत् + नारी",
-          "sandhi_name": "अनुनासिक/परसवर्ण संधि: final त् before न् becomes न्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तत्",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "that"
-        },
-        {
-          "word": "एकस्थम्",
-          "lemma": "एकस्थ",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "gathered in one place"
-        },
-        {
-          "word": "नारी",
-          "lemma": "नारी",
-          "grammar": "स्त्रीलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "a divine woman"
-        },
-        {
-          "word": "अभूत्",
-          "lemma": "भू",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "became"
-        },
-        {
-          "word": "त्विषा",
-          "lemma": "त्विष्",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by brilliance"
-        },
-        {
-          "word": "व्याप्तलोकत्रयम्",
-          "lemma": "व्याप्तलोकत्रय",
-          "grammar": "स्त्रीलिङ्ग-नारी विशेषणम् in sense: one whose splendour pervaded the three worlds",
-          "meaning": "pervading the three worlds"
-        }
-      ],
-      "devotional_meaning_english": "Gathered into one, that radiance became a divine woman whose splendour pervaded the three worlds.",
-      "devotional_meaning_telugu": "ఒకచోట చేరిన ఆ తేజస్సు మూడు లోకములను తన కాంతితో వ్యాపింపజేసిన దివ్యనారిగా అవతరించెను."
+      "word": "తత్",
+      "meaning": "ఆ",
+      "grammar": "సర్వనామం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అతులమ్",
+      "meaning": "సాటిలేనిది",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం; తేజః పదానికి విశేషణం"
+    },
+    {
+      "word": "తేజః",
+      "meaning": "తేజస్సు",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సర్వదేవశరీరజమ్",
+      "meaning": "సర్వ దేవతల శరీరాల నుండి పుట్టినది",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఏకస్థమ్",
+      "meaning": "ఒక చోట ఏకీభవించినది",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "నారీ",
+      "meaning": "స్త్రీరూపం, దేవి",
+      "grammar": "స్త్రీలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తత్",
+      "meaning": "అది",
+      "grammar": "సర్వనామం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అభూత్",
+      "meaning": "అయింది",
+      "grammar": "భూ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "త్విషా",
+      "meaning": "కాంతిచేత",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వ్యాప్తలోకత్రయమ్",
+      "meaning": "మూడు లోకాలనూ వ్యాపించినది",
+      "grammar": "నపుంసకలింగం/స్త్రీలింగ విశేషణార్థం; దేవీ తేజస్సు గుణవర్ణన"
     }
-  ]
+  ],
+  "anvaya": "తత్ర సర్వదేవశరీరజం అతులం తత్ తేజః ఏకస్థం అభూత్। తత్ త్విషా వ్యాప్తలోకత్రయం నారీ అభూత్।",
+  "tatparyam": {
+    "english": "That incomparable radiance, born from the bodies of all the gods, gathered into one form. It became a woman, whose brilliance pervaded the three worlds.",
+    "telugu": "సర్వదేవతల శరీరాల నుండి పుట్టిన ఆ సాటిలేని తేజస్సు ఒకే రూపంగా ఏకమైంది. మూడు లోకాలనూ తన కాంతితో వ్యాపించిన నారీ రూపమైన దేవిగా అది అవతరించింది."
+  },
+  "samasas": [
+    {
+      "compound": "సర్వదేవశరీరజమ్",
+      "type": "పంచమీ తత్పురుష సమాసం — సర్వేషాం దేవానాం శరీరేభ్యః జాతం = సర్వదేవశరీరజమ్."
+    },
+    {
+      "compound": "ఏకస్థమ్",
+      "type": "కర్మధారయ/తత్పురుష సమాసం — ఏకస్మిన్ స్థితం = ఏకస్థమ్."
+    },
+    {
+      "compound": "వ్యాప్తలోకత్రయమ్",
+      "type": "బహువ్రీహి సమాసం — వ్యాప్తం లోకత్రయం యయా సా."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తత్తేజః",
+      "split_words": "తత్ + తేజః",
+      "sandhi_rule": "వ్యంజన సంధి — త్ + త్ కలయికతో త్త ద్విత్వం."
+    },
+    {
+      "joined_word": "తదభూత్",
+      "split_words": "తత్ + అభూత్",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత స్వరం రావడంతో ద్ ఆదేశం."
+    },
+    {
+      "joined_word": "అభూన్నారీ",
+      "split_words": "అభూత్ + నారీ",
+      "sandhi_rule": "వ్యంజన సంధి — త్ తరువాత నకారం రావడంతో న్ సాదృశ్యరూపం; పాఠంలో ‘అభూన్నారీ’."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: రూపకమయ అవతారవర్ణన; తేజస్సు నారీ రూపంగా మారుటలో ఆధ్యాత్మిక రూపాంతర చిత్రణ."
 }

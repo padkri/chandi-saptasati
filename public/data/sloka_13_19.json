@@ -1,0 +1,34 @@
+{
+  "id": "durga_saptashati_chapter_13_sloka_19",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "13",
+  "sloka_number": "19",
+  "source_citation": "",
+  "sloka_original": "**దేవ్యువాచ || 19 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "దేవీ",
+      "meaning": "దేవి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, స్త్రీలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "పలికెను",
+      "grammar": "వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "దేవీ ఉవాచ।",
+  "tatparyam": {
+    "english": "The Goddess said.",
+    "telugu": "దేవి పలికెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "దేవ్యువాచ",
+      "split_words": "దేవీ + ఉవాచ",
+      "sandhi_rule": "యణ్ సంధి — ఈ + ఉ సంయోగంలో ఇకారవర్ణానికి యకారాదేశం వచ్చి ‘దేవ్యువాచ’ రూపం ఏర్పడింది."
+    }
+  ],
+  "alamkaram_chandas": "వక్తృనిర్దేశ గద్యవాక్యం; ఛందస్సు, అలంకారం వర్తించవు."
+}

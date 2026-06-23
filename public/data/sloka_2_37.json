@@ -1,125 +1,108 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_37",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "37",
-  "source_citation": "",
-  "original_text_telugu": "అభ్యధావత తం శబ్దమశేషైరసురైర్వృతః। స దదర్శ తతో దేవీం వ్యాప్యలోకత్రయాం త్విషా ॥ 37 ॥",
-  "normalized_sanskrit": "अभ्यधावत तं शब्दमशेषैरसुरैर्वृतः । स ददर्श ततो देवीं व्याप्यलोकत्रयां त्विषा ॥ ३७ ॥",
-  "iast": "abhyadhāvata taṃ śabdam aśeṣair asurair vṛtaḥ | sa dadarśa tato devīṃ vyāpyalokatrayāṃ tviṣā",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అభ్యధావత తం శబ్దమశేషైరసురైర్వృతః|  \nస దదర్శ తతో దేవీం వ్యాప్యలోకత్రయాం త్విషా || 37 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.37.1",
-      "text": "अभ्यधावत तं शब्दमशेषैरसुरैर्वृतः",
-      "anvaya": "अशेषैः असुरैः वृतः सः तं शब्दम् अभ्यधावत।",
-      "sandhi": [
-        {
-          "joined": "शब्दमशेषैः",
-          "split": "शब्दम् + अशेषैः",
-          "sandhi_name": "म् before vowel retained"
-        },
-        {
-          "joined": "असुरैर्वृतः",
-          "split": "असुरैः + वृतः",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before व् becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "सः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "he, Mahishasura"
-        },
-        {
-          "word": "अशेषैः",
-          "lemma": "अशेष",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by all, without remainder"
-        },
-        {
-          "word": "असुरैः",
-          "lemma": "असुर",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "asuras"
-        },
-        {
-          "word": "वृतः",
-          "lemma": "वृत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्, क्त-प्रत्ययान्तम्",
-          "meaning": "surrounded"
-        },
-        {
-          "word": "तम्",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "that"
-        },
-        {
-          "word": "शब्दम्",
-          "lemma": "शब्द",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "sound"
-        },
-        {
-          "word": "अभ्यधावत",
-          "lemma": "अभि-धा/धाव्",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्, परस्मैपदम्",
-          "meaning": "ran toward, charged toward"
-        }
-      ],
-      "devotional_meaning_english": "Surrounded by all the asuras, Mahishasura rushed toward that sound.",
-      "devotional_meaning_telugu": "సమస్త అసురులతో చుట్టుముట్టబడి మహిషాసురుడు ఆ శబ్దము వైపు దూసుకెళ్లెను."
+      "word": "సః",
+      "meaning": "అతడు, మహిషాసురుడు",
+      "grammar": "సర్వనామం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.37.2",
-      "text": "स ददर्श ततो देवीं व्याप्यलोकत्रयां त्विषा",
-      "anvaya": "ततः सः त्विषा लोकत्रयं व्याप्य स्थितां देवीं ददर्श।",
-      "sandhi": [
-        {
-          "joined": "व्याप्यलोकत्रयाम्",
-          "split": "व्याप्य + लोकत्रयाम्",
-          "sandhi_name": "no external sandhi; compound-like continuous reading"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "ततः",
-          "lemma": "ततः",
-          "grammar": "अव्ययम्",
-          "meaning": "then"
-        },
-        {
-          "word": "सः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "he"
-        },
-        {
-          "word": "देवीम्",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "the Goddess"
-        },
-        {
-          "word": "त्विषा",
-          "lemma": "त्विष्",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by radiance"
-        },
-        {
-          "word": "व्याप्यलोकत्रयाम्",
-          "lemma": "व्याप्यलोकत्रया",
-          "grammar": "स्त्रीलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "pervading the three worlds"
-        },
-        {
-          "word": "ददर्श",
-          "lemma": "दृश्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "saw"
-        }
-      ],
-      "devotional_meaning_english": "Then he saw the Goddess whose brilliance pervaded the three worlds.",
-      "devotional_meaning_telugu": "తరువాత తన కాంతితో మూడు లోకములను వ్యాపించిన దేవిని అతడు చూచెను."
+      "word": "అశేషైః",
+      "meaning": "సమస్తమైన",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం; అసురైః పదానికి విశేషణం"
+    },
+    {
+      "word": "అసురైః",
+      "meaning": "అసురులచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "వృతః",
+      "meaning": "చుట్టుముట్టబడినవాడు",
+      "grammar": "క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తమ్",
+      "meaning": "ఆ",
+      "grammar": "సర్వనామం, పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; శబ్దం పదానికి విశేషణం"
+    },
+    {
+      "word": "శబ్దమ్",
+      "meaning": "శబ్దం వైపు",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అభ్యధావత",
+      "meaning": "దూసుకెళ్లాడు",
+      "grammar": "అభి + ధావ్ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "తతః",
+      "meaning": "ఆ తరువాత",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "త్విషా",
+      "meaning": "కాంతితో",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వ్యాప్యలోకత్రయామ్",
+      "meaning": "మూడు లోకాలను వ్యాపించిన ఆమెను",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం; దేవీం పదానికి విశేషణం"
+    },
+    {
+      "word": "దేవీమ్",
+      "meaning": "దేవిని",
+      "grammar": "స్త్రీలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "దదర్శ",
+      "meaning": "చూశాడు",
+      "grammar": "దృశ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, ఏకవచనం"
     }
-  ]
+  ],
+  "anvaya": "సః అశేషైః అసురైః వృతః తం శబ్దం అభ్యధావత। తతః త్విషా వ్యాప్యలోకత్రయాం దేవీం దదర్శ।",
+  "tatparyam": {
+    "english": "Surrounded by all the asuras, he rushed toward that sound. Then he saw the Goddess, whose radiance pervaded the three worlds.",
+    "telugu": "సమస్త అసురులచే చుట్టుముట్టబడి మహిషాసురుడు ఆ శబ్దం వైపు దూసుకెళ్లాడు. తరువాత తన కాంతితో త్రిలోకాలను వ్యాపించిన దేవిని చూశాడు."
+  },
+  "samasas": [
+    {
+      "compound": "వ్యాప్యలోకత్రయామ్",
+      "type": "బహువ్రీహి సమాసం — వ్యాప్తం లోకత్రయం యయా సా = మూడు లోకాలను వ్యాపించినది."
+    },
+    {
+      "compound": "లోకత్రయామ్",
+      "type": "ద్విగు సమాసం — త్రీణి లోకాని = లోకత్రయం."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "శబ్దమశేషైః",
+      "split_words": "శబ్దమ్ + అశేషైః",
+      "sandhi_rule": "మ్ తరువాత స్వరం రావడంతో మకార ధ్వని కొనసాగింది."
+    },
+    {
+      "joined_word": "అశేషైరసురైః",
+      "split_words": "అశేషైః + అసురైః",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత అ రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "అసురైర్వృతః",
+      "split_words": "అసురైః + వృతః",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత వకారం రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "వ్యాప్యలోకత్రయామ్",
+      "split_words": "వ్యాప్య + లోకత్రయామ్",
+      "sandhi_rule": "సంధి మార్పు లేదు; కృదంతపదం తరువాత వ్యంజనారంభ పదం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: దేవి కాంతి త్రైలోక్య వ్యాప్తిగా అతిశయోక్తి."
 }

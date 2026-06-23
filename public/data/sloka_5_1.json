@@ -1,47 +1,44 @@
 {
-  "batch": "Chapter 5 - next 18",
+  "id": "durga_saptashati_chapter_5_sloka_1",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "1",
   "source_citation": "",
-  "id": "5.1",
-  "speaker": "ऋषिः उवाच",
-  "sloka_text": "ॐ क्लीं ऋषिरुवाच ॥ 1 ॥",
-  "anvaya": "ऋषिः उवाच।",
-  "word_by_word": [
+  "sloka_original": "**“ఓం క్లీం“ ఋషిరువాచ || 1 ||**",
+  "pada_vibhaga": [
     {
-      "word": "ॐ",
-      "type": "प्रणवः",
-      "meaning": "sacred primordial syllable"
+      "word": "ఓం",
+      "meaning": "ప్రణవము; పరబ్రహ్మసూచక మంగళాక్షరము",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "क्लीं",
-      "type": "बीजाक्षरम्",
-      "meaning": "Kleem bija of the Goddess, invoking attraction and divine power"
+      "word": "క్లీం",
+      "meaning": "కామబీజము; దేవీబీజము",
+      "grammar": "బీజాక్షరం, అవ్యయస్వరూపం"
     },
     {
-      "word": "ऋषिः",
-      "lemma": "ऋषि",
-      "pos": "नाम",
-      "gender": "पुंलिङ्गम्",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the sage"
+      "word": "ఋషిః",
+      "meaning": "ఋషి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "उवाच",
-      "lemma": "वच्",
-      "pos": "क्रियापदम्",
-      "lakara": "लिट्",
-      "purusha": "प्रथमपुरुषः",
-      "number": "एकवचनम्",
-      "meaning": "said"
+      "word": "ఉవాచ",
+      "meaning": "చెప్పెను",
+      "grammar": "వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
     }
   ],
-  "sandhi": [
+  "anvaya": "ఓం క్లీం। ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "Om Klīm. The sage said.",
+    "telugu": "ఓం క్లీం। ఋషి ఇలా చెప్పెను."
+  },
+  "samasas": [],
+  "sandhis": [
     {
-      "form": "ऋषिरुवाच",
-      "split": "ऋषिः + उवाच",
-      "sandhi_name": "विसर्ग-सन्धिः / रेफादेशः",
-      "rule_description": "अः before a vowel becomes र् in this traditional recitation form."
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — అః తరువాత స్వరం వచ్చినప్పుడు ర్ ఆదేశం"
     }
   ],
-  "overall_meaning": "The sage said."
+  "alamkaram_chandas": "ఇది కథనసూచక వాక్యం; పూర్తి శ్లోకఛందస్సు కాదు. అలంకారం ప్రత్యేకంగా లేదు."
 }

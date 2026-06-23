@@ -1,129 +1,115 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_47",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "47",
-  "source_citation": "",
-  "original_text_telugu": "హయానాం చ వృతో యుద్దే తత్రాభూన్మహిషాసురః। తోమరైర్బిందిపాలైశ్చ శక్తిభిర్ముసలైస్తథా ॥ 47 ॥",
-  "normalized_sanskrit": "हयानां च वृतो युद्धे तत्राभून्महिषासुरः । तोमरैर्भिन्दिपालैश्च शक्तिभिर्मुसलैस्तथा ॥ ४७ ॥",
-  "iast": "hayānāṃ ca vṛto yuddhe tatrābhūn mahiṣāsuraḥ | tomarair bhindipālaiś ca śaktibhir musalais tathā",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "హయానాం చ వృతో యుద్ధే తత్రాభూన్మహిషాసురః|  \nతోమరైర్బిందిపాలైశ్చ శక్తిభిర్ముసలైస్తథా || 47 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.47.1",
-      "text": "हयानां च वृतो युद्धे तत्राभून्महिषासुरः",
-      "anvaya": "तत्र युद्धे महिषासुरः हयानां च कोटिकोटिसहस्रैः वृतः अभूत्।",
-      "sandhi": [
-        {
-          "joined": "तत्राभूत्",
-          "split": "तत्र + अभूत्",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        },
-        {
-          "joined": "अभून्महिषासुरः",
-          "split": "अभूत् + महिषासुरः",
-          "sandhi_name": "अनुनासिक/परसवर्ण संधि: त् before म् becomes न्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there"
-        },
-        {
-          "word": "युद्धे",
-          "lemma": "युद्ध",
-          "grammar": "नपुंसकलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in battle"
-        },
-        {
-          "word": "महिषासुरः",
-          "lemma": "महिषासुर",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Mahishasura"
-        },
-        {
-          "word": "हयानाम्",
-          "lemma": "हय",
-          "grammar": "पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of horses"
-        },
-        {
-          "word": "वृतः",
-          "lemma": "वृत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "surrounded"
-        },
-        {
-          "word": "अभूत्",
-          "lemma": "भू",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "was"
-        }
-      ],
-      "devotional_meaning_english": "There in the battle, Mahishasura was surrounded by countless horses as well.",
-      "devotional_meaning_telugu": "ఆ యుద్ధములో మహిషాసురుడు అనేక హయసైన్యములతో కూడి ఉండెను."
+      "word": "మహిషాసురః",
+      "meaning": "మహిషాసురుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.47.2",
-      "text": "तोमरैर्भिन्दिपालैश्च शक्तिभिर्मुसलैस्तथा",
-      "anvaya": "तोमरैः भिन्दिपालैः च शक्तिभिः मुसलैः तथा...",
-      "sandhi": [
-        {
-          "joined": "तोमरैर्भिन्दिपालैः",
-          "split": "तोमरैः + भिन्दिपालैः",
-          "sandhi_name": "విసర్గ సంధి: ः before भ् becomes र्"
-        },
-        {
-          "joined": "भिन्दिपालैश्च",
-          "split": "भिन्दिपालैः + च",
-          "sandhi_name": "విసర్గ సంధి: ः before च् becomes श्"
-        },
-        {
-          "joined": "शक्तिभिर्मुसलैः",
-          "split": "शक्तिभिः + मुसलैः",
-          "sandhi_name": "విసర్గ సంధి: ः before म् becomes र्"
-        },
-        {
-          "joined": "मुसलैस्तथा",
-          "split": "मुसलैः + तथा",
-          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तोमरैः",
-          "lemma": "तोमर",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with javelins"
-        },
-        {
-          "word": "भिन्दिपालैः",
-          "lemma": "भिन्दिपाल",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with bhindipāla weapons"
-        },
-        {
-          "word": "शक्तिभिः",
-          "lemma": "शक्ति",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with spears"
-        },
-        {
-          "word": "मुसलैः",
-          "lemma": "मुसल",
-          "grammar": "नपुंसकलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with clubs/pestles"
-        },
-        {
-          "word": "तथा",
-          "lemma": "तथा",
-          "grammar": "अव्ययम्",
-          "meaning": "also"
-        }
-      ],
-      "continuation_note": "The instrumental list continues into sloka 48 with खड्गैः परशुपट्टिशैः.",
-      "devotional_meaning_english": "They fought with javelins, bhindipālas, spears, and maces...",
-      "devotional_meaning_telugu": "వారు తోమరములు, భిందిపాలములు, శక్తులు, ముసలములతో..."
+      "word": "యుద్ధే",
+      "meaning": "యుద్ధంలో",
+      "grammar": "నపుంసకలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "హయానామ్",
+      "meaning": "గుర్రాల యొక్క",
+      "grammar": "పుంలింగం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "వృతః",
+      "meaning": "చుట్టుముట్టబడి ఉన్నాడు",
+      "grammar": "క్తప్రత్యయాంతం, పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అభూత్",
+      "meaning": "ఉన్నాడు, అయ్యాడు",
+      "grammar": "భూ ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "తోమరైః",
+      "meaning": "తోమరాయుధాలతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "బిందిపాలైః",
+      "meaning": "బిందిపాల ఆయుధాలతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "శక్తిభిః",
+      "meaning": "శక్తి ఆయుధాలతో",
+      "grammar": "స్త్రీలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "ముసలైః",
+      "meaning": "ముసలాలతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "మహిషాసురః యుద్ధే తత్ర హయానాం చ వృతః అభూత్। తోమరైః బిందిపాలైః చ శక్తిభిః ముసలైః తథా...",
+  "tatparyam": {
+    "english": "In that battle Mahishasura stood surrounded by horses as well. With tomaras, bhindipalas, spears, and maces too...",
+    "telugu": "ఆ యుద్ధంలో మహిషాసురుడు గుర్రాల సమూహాలతో కూడా చుట్టుముట్టబడి ఉన్నాడు. తోమరాలు, బిందిపాలాలు, శక్తులు, ముసలాలతో కూడా..."
+  },
+  "samasas": [
+    {
+      "compound": "మహిషాసురః",
+      "type": "కర్మధారయ సమాసం — మహిషరూపః అసురః = మహిషాసురః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "తత్రాభూత్",
+      "split_words": "తత్ర + అభూత్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    },
+    {
+      "joined_word": "అభూన్మహిషాసురః",
+      "split_words": "అభూత్ + మహిషాసురః",
+      "sandhi_rule": "వ్యంజన సంధి — త్ తరువాత మకారం రావడంతో న్ సాదృశ్య పాఠరూపం."
+    },
+    {
+      "joined_word": "తోమరైర్బిందిపాలైః",
+      "split_words": "తోమరైః + బిందిపాలైః",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత బకారం రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "బిందిపాలైశ్చ",
+      "split_words": "బిందిపాలైః + చ",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత చకారం రావడంతో శ్చ రూపం."
+    },
+    {
+      "joined_word": "శక్తిభిర్ముసలైః",
+      "split_words": "శక్తిభిః + ముసలైః",
+      "sandhi_rule": "విసర్గ సంధి — ఇః తరువాత మకారం రావడంతో ర్ ఆదేశం."
+    },
+    {
+      "joined_word": "ముసలైస్తథా",
+      "split_words": "ముసలైః + తథా",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత తకారం రావడంతో స్ రూపం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: ఆయుధసముచ్చయ వర్ణన; తరువాతి శ్లోకంతో భావం పూర్ణమవుతుంది.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘तोమరైః’. Normalized as ‘తోమరైః’."
 }

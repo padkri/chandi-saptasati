@@ -1,97 +1,102 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_4",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "4",
-  "source_citation": "",
-  "original_text_telugu": "తతః పరాజితా దేవాః పద్మయోనిం ప్రజాపతిమ్। పురస్కృత్య గతాస్తత్ర యత్రేశగరుడధ్వజౌ ॥ 4 ॥",
-  "normalized_sanskrit": "ततः पराजिता देवाः पद्मयोनिं प्रजापतिम् । पुरस्कृत्य गतास्तत्र यत्रेशगरुडध्वजौ ॥ ४ ॥",
-  "iast": "tataḥ parājitā devāḥ padmayoniṃ prajāpatim | puraskṛtya gatās tatra yatreśa-garuḍadhvajau",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text contains OCR/script-corruption in this verse; normalized reading used for analysis. ",
+  "sloka_original": "తతః పరాజితా దేవాః పద్మయోనిం ప్రజాపతిమ్।  \nపురస్కృత్య గతాస్తత్ర యత్రేశగరుడధ్వజౌ || 4 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.4.1",
-      "text": "ततः पराजिता देवाः पद्मयोनिं प्रजापतिं पुरस्कृत्य गतास्तत्र यत्रेशगरुडध्वजौ",
-      "anvaya": "ततः पराजिताः देवाः पद्मयोनिं प्रजापतिं पुरस्कृत्य तत्र गताः यत्र ईश-गरुडध्वजौ।",
-      "sandhi": [
-        {
-          "joined": "गतास्तत्र",
-          "split": "गताः + तत्र",
-          "sandhi_name": "విసర్గ లోప/स् आदेशः: final आः before त् becomes आस्"
-        },
-        {
-          "joined": "यत्रेश",
-          "split": "यत्र + ईश",
-          "sandhi_name": "గుణ సంధి / Guṇa Sandhi: अ + ई = ए"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "ततः",
-          "lemma": "ततः",
-          "grammar": "अव्ययम्",
-          "meaning": "then"
-        },
-        {
-          "word": "पराजिताः",
-          "lemma": "पराजित",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "defeated"
-        },
-        {
-          "word": "देवाः",
-          "lemma": "देव",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "the gods"
-        },
-        {
-          "word": "पद्मयोनिम्",
-          "lemma": "पद्मयोनि",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "Brahmā, lotus-born"
-        },
-        {
-          "word": "प्रजापतिम्",
-          "lemma": "प्रजापति",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "the lord of creatures"
-        },
-        {
-          "word": "पुरस्कृत्य",
-          "lemma": "पुरस्-कृ",
-          "grammar": "ल्यबन्त अव्ययम्",
-          "meaning": "placing in front, taking as leader"
-        },
-        {
-          "word": "गताः",
-          "lemma": "गत",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्, क्त-प्रत्ययान्तम्",
-          "meaning": "went"
-        },
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there"
-        },
-        {
-          "word": "यत्र",
-          "lemma": "यत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "where"
-        },
-        {
-          "word": "ईश",
-          "lemma": "ईश",
-          "grammar": "पुंलिङ्गम्, प्रथमा द्विवचनार्थः in compound",
-          "meaning": "Śiva"
-        },
-        {
-          "word": "गरुडध्वजौ",
-          "lemma": "गरुडध्वज",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, द्विवचनम्; ईश-गरुडध्वजौ = Śiva and Viṣṇu",
-          "meaning": "Viṣṇu, whose banner bears Garuḍa"
-        }
-      ],
-      "devotional_meaning_english": "Then the defeated gods, taking lotus-born Prajāpati Brahmā before them, went to the place where Śiva and Viṣṇu were.",
-      "devotional_meaning_telugu": "తరువాత ఓడిపోయిన దేవతలు పద్మయోని ప్రజాపతియైన బ్రహ్మను ముందుంచుకొని, శివుడు మరియు గరుడధ్వజుడైన విష్ణువు ఉన్నచోటికి వెళ్లిరి."
+      "word": "తతః",
+      "meaning": "అనంతరం",
+      "grammar": "అవ్యయం; కాలక్రమ సూచకం"
+    },
+    {
+      "word": "పరాజితాః",
+      "meaning": "ఓడిపోయినవారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం; దేవాః పదానికి విశేషణం"
+    },
+    {
+      "word": "దేవాః",
+      "meaning": "దేవతలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "పద్మయోనిమ్",
+      "meaning": "పద్మం నుండి జన్మించిన బ్రహ్మను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ప్రజాపతిమ్",
+      "meaning": "ప్రజల ప్రభువైన బ్రహ్మను",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం; పద్మయోనిమ్ పదానికి సమానాధికరణం"
+    },
+    {
+      "word": "పురస్కృత్య",
+      "meaning": "ముందుంచుకొని; నాయకునిగా చేసుకొని",
+      "grammar": "ల్యబ్ అవ్యయం; పురస్ + కృ ధాతు భావం"
+    },
+    {
+      "word": "తత్ర",
+      "meaning": "అక్కడికి",
+      "grammar": "అవ్యయం; దేశ సూచకం"
+    },
+    {
+      "word": "గతాః",
+      "meaning": "వెళ్లారు",
+      "grammar": "క్తప్రత్యయాంత రూపం; పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "యత్ర",
+      "meaning": "ఎక్కడైతే",
+      "grammar": "అవ్యయం; సంబంధవాచక దేశ సూచకం"
+    },
+    {
+      "word": "ఈశగరుడధ్వజౌ",
+      "meaning": "ఈశ్వరుడు మరియు గరుడధ్వజుడైన విష్ణువు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ద్వివచనం; ద్వంద్వ సమాసం"
     }
-  ]
+  ],
+  "anvaya": "తతః పరాజితాః దేవాః పద్మయోనిం ప్రజాపతిం పురస్కృత్య, యత్ర ఈశగరుడధ్వజౌ, తత్ర గతాః।",
+  "tatparyam": {
+    "english": "Then the defeated gods placed Prajapati Brahma, the lotus-born one, at their head and went to the place where Isha and Garudadhvaja were present.",
+    "telugu": "అనంతరం ఓడిపోయిన దేవతలు పద్మయోని, ప్రజాపతి అయిన బ్రహ్మదేవుని ముందుంచుకొని, ఈశ్వరుడు మరియు గరుడధ్వజుడైన విష్ణువు ఉన్న ప్రదేశానికి వెళ్లారు."
+  },
+  "samasas": [
+    {
+      "compound": "పద్మయోనిమ్",
+      "type": "బహువ్రీహి సమాసం — పద్మం యోనిః యస్య సః = పద్మయోనిః; పద్మం జన్మస్థానంగా కలవాడు, బ్రహ్మ."
+    },
+    {
+      "compound": "ప్రజాపతిమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — ప్రజానాం పతిః = ప్రజాపతిః; ప్రజల ప్రభువు."
+    },
+    {
+      "compound": "ఈశగరుడధ్వజౌ",
+      "type": "ఇతరేతర ద్వంద్వ సమాసం — ఈశః చ గరుడధ్వజః చ = ఈశగరుడధ్వజౌ; శివుడు మరియు విష్ణువు."
+    },
+    {
+      "compound": "గరుడధ్వజః",
+      "type": "బహువ్రీహి సమాసం — గరుడః ధ్వజే యస్య సః = గరుడధ్వజః; గరుడ చిహ్నిత ధ్వజముగలవాడు, విష్ణువు."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "గతాస్తత్ర",
+      "split_words": "గతాః + తత్ర",
+      "sandhi_rule": "విసర్గ సంధి — ఆః తర్వాత తకారం రావడంతో విసర్గం స్ రూపంలో వ్యక్తమై ‘గతాస్తత్ర’."
+    },
+    {
+      "joined_word": "యత్రేశగరుడధ్వజౌ",
+      "split_words": "యత్ర + ఈశగరుడధ్వజౌ",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + ఈ సందర్భంలో సంధ్యనుసారంగా దీర్ఘస్వరసంబంధి కలయిక; సాధు విభాగం ‘యత్ర ఈశగరుడధ్వజౌ’."
+    },
+    {
+      "joined_word": "పురస్కృత్య",
+      "split_words": "పురస్ + కృత్య",
+      "sandhi_rule": "విసర్గ/సత్వ నిలుపు — పురస్ ఉపపదం కృత్య రూపంతో కలిసి ‘పురస్కృత్య’ అవ్యయరూపం ఏర్పడింది."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్ శ్లోకము. అలంకారం: దేవతల వినయస్థితి మరియు త్రిమూర్తుల శరణాగమన సందర్భం ద్వారా భావగాంభీర్యం వ్యక్తమైంది.",
+  "reading_issues_summary": "Uploaded line for sloka 4 showed mixed-script corruption: ‘పరాజితา’, ‘ప్రజాпатиమ్’, and ‘yత్రేశ...’. Analysis uses the normalized reading: ‘పరాజితాః’, ‘ప్రజాపతిమ్’, ‘యత్రేశగరుడధ్వజౌ’."
 }

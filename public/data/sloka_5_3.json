@@ -1,112 +1,121 @@
 {
-  "id": "5.3",
-  "sloka_text": "तावेव सूर्यतां तद्वदधिकारं तथैन्दवम्। कौबेरमथ याम्यं च चक्राते वरुणस्य च ॥ 3 ॥",
-  "anvaya": "तौ एव सूर्यतां तद्वत् ऐन्दवम् अधिकारं तथा कौबेरम् अथ याम्यं च वरुणस्य च अधिकारं चक्राते।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_3",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "3",
+  "source_citation": "",
+  "sloka_original": "తావేవ సూర్యతాం తద్వదధికారం తథైందవమ్।\nకౌబేరమథ యామ్యం చ చక్రాతే వరుణస్య చ || 3 ||",
+  "pada_vibhaga": [
     {
-      "word": "तौ",
-      "lemma": "तद्",
-      "pos": "सर्वनाम",
-      "gender": "पुंलिङ्गम्",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "द्विवचनम्",
-      "meaning": "those two"
+      "word": "తౌ",
+      "meaning": "ఆ ఇద్దరూ",
+      "grammar": "ప్రథమా విభక్తి, ద్వివచనం, పుంలింగం"
     },
     {
-      "word": "एव",
-      "pos": "अव्ययम्",
-      "meaning": "indeed, themselves"
+      "word": "ఏవ",
+      "meaning": "తామే",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "सूर्यताम्",
-      "lemma": "सूर्यता",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the office/state of the Sun"
+      "word": "సూర్యతామ్",
+      "meaning": "సూర్యపదవిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "तद्वत्",
-      "pos": "अव्ययम्",
-      "meaning": "similarly"
+      "word": "తద్వత్",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "अधिकारम्",
-      "lemma": "अधिकार",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "authority, dominion"
+      "word": "అధికారమ్",
+      "meaning": "అధికారాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "तथा",
-      "pos": "अव्ययम्",
-      "meaning": "also, likewise"
+      "word": "తథా",
+      "meaning": "అలాగే",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "ऐन्दवम्",
-      "lemma": "ऐन्दव",
-      "gender": "पुंलिङ्गम्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the lunar authority"
+      "word": "ఐందవమ్",
+      "meaning": "చంద్రునికి సంబంధించిన అధికారాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "कौबेरम्",
-      "lemma": "कौबेर",
-      "gender": "पुंलिङ्गम्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the authority of Kubera"
+      "word": "కౌబేరమ్",
+      "meaning": "కుబేరుని అధికారాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "अथ",
-      "pos": "अव्ययम्",
-      "meaning": "and then, also"
+      "word": "అథ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "याम्यम्",
-      "lemma": "याम्य",
-      "gender": "पुंलिङ्गम्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the authority of Yama"
+      "word": "యామ్యం",
+      "meaning": "యమనికి సంబంధించిన అధికారాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "चक्राते",
-      "lemma": "कृ",
-      "pos": "क्रियापदम्",
-      "lakara": "लिट्",
-      "pada": "आत्मनेपदम्",
-      "purusha": "प्रथमपुरुषः",
-      "number": "द्विवचनम्",
-      "meaning": "they both assumed, took over"
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "वरुणस्य",
-      "lemma": "वरुण",
-      "case_vibhakti": "षष्ठी विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "of Varuna"
+      "word": "చక్రాతే",
+      "meaning": "స్వీకరించిరి / చేసుకొనిరి",
+      "grammar": "కృ ధాతువు, లిట్ లకారం, ఆత్మనేపదం, ప్రథమ పురుషం, ద్వివచనం"
+    },
+    {
+      "word": "వరుణస్య",
+      "meaning": "వరుణుని యొక్క",
+      "grammar": "షష్ఠీ విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "చ",
+      "meaning": "కూడా",
+      "grammar": "అవ్యయం"
     }
   ],
-  "sandhi": [
+  "anvaya": "తౌ ఏవ సూర్యతాం తద్వత్ ఐందవం కౌబేరం యామ్యం చ వరుణస్య చ అధికారమ్ చక్రాతే।",
+  "tatparyam": {
+    "english": "Those two themselves assumed the functions and authority of the sun, the moon, Kubera, Yama, and Varuṇa.",
+    "telugu": "ఆ ఇద్దరూ సూర్యుడు, చంద్రుడు, కుబేరుడు, యముడు, వరుణుడు మొదలైన దేవతల అధికారాలను తామే స్వీకరించుకున్నారు."
+  },
+  "samasas": [
     {
-      "form": "तावेव",
-      "split": "तौ + एव",
-      "sandhi_name": "वृद्धि-सन्धिः",
-      "rule_description": "औ + ए combines as आवे in continuous form: तौ एव → तावेव."
+      "compound": "సూర్యతామ్",
+      "type": "భావప్రత్యయాంత రూపం — సూర్యస్య భావః"
     },
     {
-      "form": "तद्वदधिकारम्",
-      "split": "तद्वत् + अधिकारम्",
-      "sandhi_name": "जश्त्व-सन्धिः",
-      "rule_description": "Final त् before vowel becomes द्."
+      "compound": "ఐందవమ్",
+      "type": "తద్ధితరూపం — ఇందోః సంబంధి"
     },
     {
-      "form": "तथैन्दवम्",
-      "split": "तथा + ऐन्दवम्",
-      "sandhi_name": "वृद्धि-सन्धिः",
-      "rule_description": "आ + ऐ → ऐ."
+      "compound": "కౌబేరమ్",
+      "type": "తద్ధితరూపం — కుబేరస్య సంబంధి"
+    },
+    {
+      "compound": "యామ్యం",
+      "type": "తద్ధితరూపం — యమస్య సంబంధి"
     }
   ],
-  "overall_meaning": "Those two themselves took over the functions of the Sun, the Moon, Kubera, Yama, and Varuna."
+  "sandhis": [
+    {
+      "joined_word": "తావేవ",
+      "split_words": "తౌ + ఏవ",
+      "sandhi_rule": "అయాదేశ సంధి — ఔ + ఏ సందర్భంలో అవ్ రూపప్రవృత్తి"
+    },
+    {
+      "joined_word": "తద్వదధికారం",
+      "split_words": "తద్వత్ + అధికారమ్",
+      "sandhi_rule": "జశ్త్వ/వ్యంజన సంధి — త్ ధ్వని తరువాత స్వరం వచ్చినందున ద్ రూపం"
+    },
+    {
+      "joined_word": "తథైందవమ్",
+      "split_words": "తథా + ఐందవమ్",
+      "sandhi_rule": "వృద్ధి సంధి — ఆ + ఐ = ఐ"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. దేవాధికారాల వరుసవర్ణనలో గణనాత్మక శైలి కనిపిస్తుంది."
 }

@@ -1,100 +1,93 @@
 {
-  "id": "5.7",
-  "sloka_text": "इति कृत्वा मतिं देवा हिमवन्तं नगेश्वरम्। जग्मुस्तत्र ततो देवीं विष्णुमायां प्रतुष्टुवुः ॥ 7 ॥",
-  "anvaya": "इति मतिं कृत्वा देवाः हिमवन्तं नगेश्वरं जग्मुः। ततः तत्र विष्णुमायां देवीं प्रतुष्टुवुः।",
-  "word_by_word": [
+  "id": "durga_saptashati_chapter_5_sloka_7",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "5",
+  "sloka_number": "7",
+  "source_citation": "",
+  "sloka_original": "ఇతి కృత్వా మతిం దేవా హిమవంతం నగేశ్వరమ్।\nజగ్ముస్తత్ర తతో దేవీం విష్ణుమాయాం ప్రతుష్టువుః || 7 ||",
+  "pada_vibhaga": [
     {
-      "word": "इति",
-      "pos": "अव्ययम्",
-      "meaning": "thus"
+      "word": "ఇతి",
+      "meaning": "ఇట్లు",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "कृत्वा",
-      "lemma": "कृ",
-      "pos": "क्त्वान्त-अव्ययम्",
-      "meaning": "having made"
+      "word": "కృత్వా",
+      "meaning": "చేసి",
+      "grammar": "క్త్వా ప్రత్యయాంత అవ్యయం, కృ ధాతువు"
     },
     {
-      "word": "मतिम्",
-      "lemma": "मति",
-      "gender": "स्त्रीलिङ्गम्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "thought, resolve"
+      "word": "మతిమ్",
+      "meaning": "సంకల్పాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "देवाः",
-      "lemma": "देव",
-      "case_vibhakti": "प्रथमा विभक्तिः",
-      "number": "बहुवचनम्",
-      "meaning": "the gods"
+      "word": "దేవాః",
+      "meaning": "దేవతలు",
+      "grammar": "ప్రథమా విభక్తి, బహువచనం, పుంలింగం"
     },
     {
-      "word": "हिमवन्तम्",
-      "lemma": "हिमवत्",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "Himavan, the Himalaya"
+      "word": "హిమవంతమ్",
+      "meaning": "హిమవంత పర్వతాన్ని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "नगेश्वरम्",
-      "lemma": "नगेश्वर",
-      "compound": "षष्ठी-तत्पुरुषः",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "lord of mountains"
+      "word": "నగేశ్వరమ్",
+      "meaning": "పర్వతరాజును",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, పుంలింగం"
     },
     {
-      "word": "जग्मुः",
-      "lemma": "गम्",
-      "pos": "क्रियापदम्",
-      "lakara": "लिट्",
-      "purusha": "प्रथमपुरुषः",
-      "number": "बहुवचनम्",
-      "meaning": "went"
+      "word": "జగ్ముః",
+      "meaning": "వెళ్లిరి",
+      "grammar": "గమ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, బహువచనం"
     },
     {
-      "word": "तत्र",
-      "pos": "अव्ययम्",
-      "meaning": "there"
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "ततः",
-      "pos": "अव्ययम्",
-      "meaning": "then"
+      "word": "తతః",
+      "meaning": "తరువాత",
+      "grammar": "అవ్యయం"
     },
     {
-      "word": "देवीम्",
-      "lemma": "देवी",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the Goddess"
+      "word": "దేవీమ్",
+      "meaning": "దేవిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "विष्णुमायाम्",
-      "lemma": "विष्णुमाया",
-      "compound": "षष्ठी-तत्पुरुषः",
-      "case_vibhakti": "द्वितीया विभक्तिः",
-      "number": "एकवचनम्",
-      "meaning": "the Maya-power of Vishnu"
+      "word": "విష్ణుమాయామ్",
+      "meaning": "విష్ణుమాయగా ఉన్న దేవిని",
+      "grammar": "ద్వితీయా విభక్తి, ఏకవచనం, స్త్రీలింగం"
     },
     {
-      "word": "प्रतुष्टुवुः",
-      "lemma": "प्र-स्तु",
-      "pos": "क्रियापदम्",
-      "lakara": "लिट्",
-      "purusha": "प्रथमपुरुषः",
-      "number": "बहुवचनम्",
-      "meaning": "praised"
+      "word": "ప్రతుష్టువుః",
+      "meaning": "స్తుతించారు",
+      "grammar": "ప్ర + స్తు ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, బహువచనం"
     }
   ],
-  "sandhi": [
+  "anvaya": "దేవాః ఇతి మతిం కృత్వా నగేశ్వరం హిమవంతం జగ్ముః। తతః తత్ర విష్ణుమాయాం దేవీం ప్రతుష్టువుః।",
+  "tatparyam": {
+    "english": "Having resolved thus, the gods went to Himavat, the lord of mountains, and there praised the Goddess, the power of Viṣṇu’s Māyā.",
+    "telugu": "ఇట్లు సంకల్పించి దేవతలు పర్వతరాజైన హిమవంతుని వద్దకు వెళ్లి, అక్కడ విష్ణుమాయారూపిణి దేవిని స్తుతించారు."
+  },
+  "samasas": [
     {
-      "form": "जग्मुस्तत्र",
-      "split": "जग्मुः + तत्र",
-      "sandhi_name": "विसर्ग-सन्धिः",
-      "rule_description": "Final ः before त् becomes स्."
+      "compound": "నగేశ్వరమ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — నగానామ్ ఈశ్వరః"
+    },
+    {
+      "compound": "విష్ణుమాయామ్",
+      "type": "షష్ఠీ తత్పురుష సమాసం — విష్ణోః మాయా"
     }
   ],
-  "overall_meaning": "Having resolved thus, the gods went to Himavan, lord of mountains. There they praised the Goddess, Vishnumaya."
+  "sandhis": [
+    {
+      "joined_word": "జగ్ముస్తత్ర",
+      "split_words": "జగ్ముః + తత్ర",
+      "sandhi_rule": "విసర్గ సంధి — ఉః + త్ సందర్భంలో స్ రూపం"
+    }
+  ],
+  "alamkaram_chandas": "అనుష్టుప్ ఛందస్సు. దేవిని ‘విష్ణుమాయా’గా సంబోధించుటలో తాత్త్విక సూచన ఉంది."
 }

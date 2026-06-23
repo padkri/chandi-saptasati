@@ -1,152 +1,128 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_69",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "69",
-  "source_citation": "",
-  "original_text_telugu": "దేవ్యు గణైశ్చ తైస్తత్ర కృతం యుద్ధం మహాసురైః। యథైషాం తుతుషుర్దేవాః పుష్పవృష్టిముచో దివి ॥ ఓం ॥ 69 ॥",
-  "normalized_sanskrit": "देव्या गणैश्च तैस्तत्र कृतं युद्धं महासुरैः । यथैषां तुतुषुर्देवाः पुष्पवृष्टिमुचो दिवि ॥ ॐ ॥ ६९ ॥",
-  "iast": "devyā gaṇaiś ca tais tatra kṛtaṃ yuddhaṃ mahāsuraiḥ | yathaiṣāṃ tutuṣur devāḥ puṣpavṛṣṭimuco divi | oṃ",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "దేవ్యా గణైశ్చ తైస్తత్ర కృతం యుద్ధం మహాసురైః|  \nయథైషాం తుతుషుర్దేవాః పుష్పవృష్టిముచో దివి || ఓం || 69 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.69.1",
-      "text": "देव्या गणैश्च तैस्तत्र कृतं युद्धं महासुरैः",
-      "anvaya": "तत्र देव्या तैः गणैः च महासुरैः युद्धं कृतम्।",
-      "sandhi": [
-        {
-          "joined": "गणैश्च",
-          "split": "गणैः + च",
-          "sandhi_name": "విసర్గ సంధి / Visarga Sandhi: ः before च् becomes श्"
-        },
-        {
-          "joined": "तैस्तत्र",
-          "split": "तैः + तत्र",
-          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "तत्र",
-          "lemma": "तत्र",
-          "grammar": "अव्ययम्",
-          "meaning": "there"
-        },
-        {
-          "word": "देव्या",
-          "lemma": "देवी",
-          "grammar": "स्त्रीलिङ्गम्, तृतीया विभक्ति, एकवचनम्",
-          "meaning": "by/with the Goddess"
-        },
-        {
-          "word": "तैः",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "by those"
-        },
-        {
-          "word": "गणैः",
-          "lemma": "गण",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "hosts, attendants"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "महासुरैः",
-          "lemma": "महासुर",
-          "grammar": "पुंलिङ्गम्, तृतीया विभक्ति, बहुवचनम्",
-          "meaning": "with the great asuras"
-        },
-        {
-          "word": "युद्धम्",
-          "lemma": "युद्ध",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "battle"
-        },
-        {
-          "word": "कृतम्",
-          "lemma": "कृत",
-          "grammar": "नपुंसकलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "was done, was fought"
-        }
-      ],
-      "devotional_meaning_english": "There, the Goddess and those hosts fought a battle with the great asuras.",
-      "devotional_meaning_telugu": "అక్కడ దేవి మరియు ఆ గణములు మహాసురులతో యుద్ధము చేసిరి."
+      "word": "తత్ర",
+      "meaning": "అక్కడ",
+      "grammar": "అవ్యయం"
     },
     {
-      "sentence_id": "2.69.2",
-      "text": "यथैषां तुतुषुर्देवाः पुष्पवृष्टिमुचो दिवि",
-      "anvaya": "दिवि पुष्पवृष्टिमुचः देवाः एषां यथा तुतुषुः।",
-      "sandhi": [
-        {
-          "joined": "यथैषाम्",
-          "split": "यथा + एषाम्",
-          "sandhi_name": "వృద్ధి సంధి / Vṛddhi Sandhi: आ + ए = ऐ"
-        },
-        {
-          "joined": "तुतुषुर्देवाः",
-          "split": "तुतुषुः + देवाः",
-          "sandhi_name": "విసర్గ సంధి: ः before द् becomes र्"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "दिवि",
-          "lemma": "दिव्",
-          "grammar": "स्त्रीलिङ्गम्, सप्तमी विभक्ति, एकवचनम्",
-          "meaning": "in heaven"
-        },
-        {
-          "word": "पुष्पवृष्टिमुचः",
-          "lemma": "पुष्पवृष्टिमुच्",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "releasing showers of flowers"
-        },
-        {
-          "word": "देवाः",
-          "lemma": "देव",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, बहुवचनम्",
-          "meaning": "the gods"
-        },
-        {
-          "word": "एषाम्",
-          "lemma": "एतद्",
-          "grammar": "सर्वनाम, पुंलिङ्गम्, षष्ठी विभक्ति, बहुवचनम्",
-          "meaning": "of these, with them"
-        },
-        {
-          "word": "यथा",
-          "lemma": "यथा",
-          "grammar": "अव्ययम्",
-          "meaning": "so greatly, in such a manner"
-        },
-        {
-          "word": "तुतुषुः",
-          "lemma": "तुष्",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, बहुवचनम्",
-          "meaning": "were pleased, rejoiced"
-        }
-      ],
-      "devotional_meaning_english": "The gods in heaven rejoiced greatly and released showers of flowers.",
-      "devotional_meaning_telugu": "దివిలో దేవతలు ఎంతో సంతోషించి పుష్పవృష్టిని కురిపించిరి."
+      "word": "తైః",
+      "meaning": "ఆ",
+      "grammar": "సర్వనామం, పుంలింగం, తృతీయా విభక్తి, బహువచనం"
     },
     {
-      "sentence_id": "2.69.3",
-      "text": "ॐ",
-      "anvaya": "ॐ",
-      "sandhi": [],
-      "word_analysis": [
-        {
-          "word": "ॐ",
-          "lemma": "ॐ",
-          "grammar": "प्रणवः, अव्ययम्",
-          "meaning": "sacred primordial syllable"
-        }
-      ],
-      "devotional_meaning_english": "Om.",
-      "devotional_meaning_telugu": "ఓం."
+      "word": "దేవ్యాః",
+      "meaning": "దేవి యొక్క",
+      "grammar": "స్త్రీలింగం, షష్ఠీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "గణైః",
+      "meaning": "గణాలతో, గణాలచే",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "మహాసురైః",
+      "meaning": "మహా అసురులతో",
+      "grammar": "పుంలింగం, తృతీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "యుద్ధమ్",
+      "meaning": "యుద్ధం",
+      "grammar": "నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "కృతమ్",
+      "meaning": "చేయబడింది",
+      "grammar": "కృ ధాతువు, క్తప్రత్యయాంతం, నపుంసకలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "ఏషామ్",
+      "meaning": "వీరి, ఈ గణాల",
+      "grammar": "సర్వనామం, షష్ఠీ విభక్తి, బహువచనం"
+    },
+    {
+      "word": "యథా",
+      "meaning": "ఎలాగైతే, దానిచేత",
+      "grammar": "అవ్యయం"
+    },
+    {
+      "word": "దేవాః",
+      "meaning": "దేవతలు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "తుతుషుః",
+      "meaning": "సంతోషించారు",
+      "grammar": "తుష్ ధాతువు, లిట్ లకారం, ప్రథమ పురుష, బహువచనం"
+    },
+    {
+      "word": "దివి",
+      "meaning": "ఆకాశంలో",
+      "grammar": "స్త్రీలింగం, సప్తమీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పుష్పవృష్టిముచః",
+      "meaning": "పుష్పవృష్టిని కురిపించువారు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, బహువచనం; దేవాః పదానికి విశేషణం"
+    },
+    {
+      "word": "ఓం",
+      "meaning": "ప్రణవము, మంగళసూచకం",
+      "grammar": "అవ్యయం; మంత్రపదం"
     }
-  ]
+  ],
+  "anvaya": "తత్ర తైః దేవ్యాః గణైః మహాసురైః యుద్ధం కృతమ్। ఏషాం యుద్ధేన దేవాః దివి పుష్పవృష్టిముచః తుతుషుః। ఓం।",
+  "tatparyam": {
+    "english": "There, the Goddess’s hosts fought with the great asuras. The gods in heaven, showering flowers, rejoiced at their battle. Om.",
+    "telugu": "అక్కడ దేవి గణాలు మహాసురులతో యుద్ధం చేశాయి. వారి యుద్ధాన్ని చూసి ఆకాశంలో దేవతలు పుష్పవృష్టి కురిపిస్తూ సంతోషించారు. ఓం."
+  },
+  "samasas": [
+    {
+      "compound": "మహాసురైః",
+      "type": "కర్మధారయ సమాసం — మహద్భిః అసురైః = మహాసురైః."
+    },
+    {
+      "compound": "పుష్పవృష్టిముచః",
+      "type": "ఉపపద తత్పురుష/బహువ్రీహి భావం — పుష్పవృష్టిం ముంచంతి యే తే = పుష్పవృష్టిముచః."
+    },
+    {
+      "compound": "పుష్పవృష్టి",
+      "type": "షష్ఠీ తత్పురుష సమాసం — పుష్పాణాం వృష్టిః = పుష్పవృష్టిః."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "దేవ్యా గణైః",
+      "split_words": "దేవ్యాః + గణైః",
+      "sandhi_rule": "విసర్గ సంధి — ఆః తరువాత గకారం రావడంతో విసర్గలుప్త/ఆకారాంత పాఠరూపం; సాధు విభాగం ‘దేవ్యాః గణైః’."
+    },
+    {
+      "joined_word": "గణైశ్చ",
+      "split_words": "గణైః + చ",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత చకారం రావడంతో శ్చ రూపం."
+    },
+    {
+      "joined_word": "తైస్తత్ర",
+      "split_words": "తైః + తత్ర",
+      "sandhi_rule": "విసర్గ సంధి — ఐః తరువాత తకారం రావడంతో స్ రూపం."
+    },
+    {
+      "joined_word": "యథైషామ్",
+      "split_words": "యథా + ఏషామ్",
+      "sandhi_rule": "వృద్ధి సంధి — ఆ + ఏ = ఐ."
+    },
+    {
+      "joined_word": "తుతుషుర్దేవాః",
+      "split_words": "తుతుషుః + దేవాః",
+      "sandhi_rule": "విసర్గ సంధి — ఉః తరువాత దకారం రావడంతో ర్ ఆదేశం."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: పుష్పవృష్టి ద్వారా దేవతల ఆనందం, విజయసూచన వ్యక్తమవుతుంది; శాంత-వీరరస సమ్మేళనం.",
+  "reading_issues_summary": "Uploaded text contained mixed Latin ‘yథైషాం’ and likely typo ‘దేవ్యు’. Normalized as ‘యథైషాం’ and ‘దేవ్యా/దేవ్యాః గణైః’ according to grammar."
 }

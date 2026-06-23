@@ -1,0 +1,34 @@
+{
+  "id": "durga_saptashati_chapter_6_sloka_12",
+  "source": "Durga Saptashati / Devi Mahatmyam",
+  "chapter": "6",
+  "sloka_number": "12",
+  "source_citation": "",
+  "sloka_original": "**ఋషిరువాచ || 12 ||**",
+  "pada_vibhaga": [
+    {
+      "word": "ఋషిః",
+      "meaning": "మహర్షి",
+      "grammar": "ప్రథమా విభక్తి, ఏకవచనం, పుంలింగం"
+    },
+    {
+      "word": "ఉవాచ",
+      "meaning": "చెప్పెను",
+      "grammar": "√వచ్ ధాతువు, లిట్ లకారం, ప్రథమ పురుషం, ఏకవచనం"
+    }
+  ],
+  "anvaya": "ఋషిః ఉవాచ।",
+  "tatparyam": {
+    "english": "The sage said.",
+    "telugu": "మహర్షి ఇలా పలికెను."
+  },
+  "samasas": [],
+  "sandhis": [
+    {
+      "joined_word": "ఋషిరువాచ",
+      "split_words": "ఋషిః + ఉవాచ",
+      "sandhi_rule": "విసర్గ సంధి — విసర్గం ర్ రూపమై ఉవాచతో కలిసింది."
+    }
+  ],
+  "alamkaram_chandas": "వక్తృసూచక గద్యభాగం; ఛందస్సు లేదు."
+}

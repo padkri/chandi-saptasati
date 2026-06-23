@@ -1,118 +1,103 @@
 {
+  "id": "durga_saptashati_chapter_2_sloka_29",
+  "source": "Durga Saptashati / Devi Mahatmyam",
   "chapter": "2",
   "sloka_number": "29",
-  "source_citation": "",
-  "original_text_telugu": "అదదజ్జలధిస్తస్యై పఙ్కజం చాతిశోభనమ్। హిమవాన్ వాహనం సింహం రత్నాని వివిధాని చ ॥ 29 ॥",
-  "normalized_sanskrit": "अददज्जलधिस्तस्यै पङ्कजं चातिशोभनम् । हिमवान् वाहनं सिंहं रत्नानि विविधानि च ॥ २९ ॥",
-  "iast": "adadaj jaladhis tasyai paṅkajaṃ cātiśobhanam | himavān vāhanaṃ siṃhaṃ ratnāni vividhāni ca",
-  "sentence_split": [
+  "source_citation": "Uploaded chapter text: ",
+  "sloka_original": "అదదజ్జలధిస్తస్యై పఙ్కజం చాతిశోభనమ్।  \nహిమవాన్ వాహనం సింహం రత్నాని వివిధాని చ || 29 ||",
+  "pada_vibhaga": [
     {
-      "sentence_id": "2.29.1",
-      "text": "अददज्जलधिस्तस्यै पङ्कजं चातिशोभनम्",
-      "anvaya": "जलधिः तस्यै अतिशोभनं पङ्कजं च अददत्।",
-      "sandhi": [
-        {
-          "joined": "अददज्जलधिः",
-          "split": "अददत् + जलधिः",
-          "sandhi_name": "జశ్త్వ సంధి: त् becomes ज् before ज्"
-        },
-        {
-          "joined": "जलधिस्तस्यै",
-          "split": "जलधिः + तस्यै",
-          "sandhi_name": "విసర్గ సంధి: ः before त् becomes स्"
-        },
-        {
-          "joined": "चातिशोभनम्",
-          "split": "च + अतिशोभनम्",
-          "sandhi_name": "సవర్ణ దీర్ఘ సంధి: अ + अ = आ"
-        }
-      ],
-      "word_analysis": [
-        {
-          "word": "जलधिः",
-          "lemma": "जलधि",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "the ocean"
-        },
-        {
-          "word": "तस्यै",
-          "lemma": "तद्",
-          "grammar": "सर्वनाम, स्त्रीलिङ्गम्, चतुर्थी विभक्ति, एकवचनम्",
-          "meaning": "to Her"
-        },
-        {
-          "word": "अतिशोभनम्",
-          "lemma": "अतिशोभन",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "exceedingly beautiful"
-        },
-        {
-          "word": "पङ्कजम्",
-          "lemma": "पङ्कज",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "lotus"
-        },
-        {
-          "word": "अददत्",
-          "lemma": "दा",
-          "grammar": "लङ् लकारः, प्रथमपुरुषः, एकवचनम्",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "The ocean gave Her an exceedingly beautiful lotus.",
-      "devotional_meaning_telugu": "సముద్రుడు ఆమెకు అతి శోభనమైన పద్మమును ఇచ్చెను."
+      "word": "జలధిః",
+      "meaning": "సముద్రుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
     },
     {
-      "sentence_id": "2.29.2",
-      "text": "हिमवान् वाहनं सिंहं रत्नानि विविधानि च",
-      "anvaya": "हिमवान् वाहनं सिंहं विविधानि रत्नानि च ददौ।",
-      "sandhi": [],
-      "word_analysis": [
-        {
-          "word": "हिमवान्",
-          "lemma": "हिमवत्",
-          "grammar": "पुंलिङ्गम्, प्रथमा विभक्ति, एकवचनम्",
-          "meaning": "Himavān, the Himalaya"
-        },
-        {
-          "word": "वाहनम्",
-          "lemma": "वाहन",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "vehicle"
-        },
-        {
-          "word": "सिंहम्",
-          "lemma": "सिंह",
-          "grammar": "पुंलिङ्गम्, द्वितीया विभक्ति, एकवचनम्",
-          "meaning": "lion"
-        },
-        {
-          "word": "विविधानि",
-          "lemma": "विविध",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "various"
-        },
-        {
-          "word": "रत्नानि",
-          "lemma": "रत्न",
-          "grammar": "नपुंसकलिङ्गम्, द्वितीया विभक्ति, बहुवचनम्",
-          "meaning": "gems"
-        },
-        {
-          "word": "च",
-          "lemma": "च",
-          "grammar": "अव्ययम्",
-          "meaning": "and"
-        },
-        {
-          "word": "ददौ",
-          "lemma": "दा",
-          "grammar": "लिट् लकारः, प्रथमपुरुषः, एकवचनम्; supplied from context",
-          "meaning": "gave"
-        }
-      ],
-      "devotional_meaning_english": "Himavān gave Her a lion as vehicle and many kinds of jewels.",
-      "devotional_meaning_telugu": "హిమవాన్ ఆమెకు వాహనముగా సింహమును మరియు వివిధ రత్నములను ఇచ్చెను."
+      "word": "తస్యై",
+      "meaning": "ఆమెకు",
+      "grammar": "సర్వనామం, స్త్రీలింగం, చతుర్థీ విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "పఙ్కజమ్",
+      "meaning": "పద్మాన్ని",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "అతిశోభనమ్",
+      "meaning": "అత్యంత శోభనమైన",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం; పఙ్కజం పదానికి విశేషణం"
+    },
+    {
+      "word": "అదదత్",
+      "meaning": "ఇచ్చాడు",
+      "grammar": "దా ధాతువు, లఙ్ లకారం, ప్రథమ పురుష, ఏకవచనం"
+    },
+    {
+      "word": "హిమవాన్",
+      "meaning": "హిమాలయుడు",
+      "grammar": "పుంలింగం, ప్రథమా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "సింహమ్",
+      "meaning": "సింహాన్ని",
+      "grammar": "పుంలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వాహనమ్",
+      "meaning": "వాహనముగా",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, ఏకవచనం"
+    },
+    {
+      "word": "వివిధాని",
+      "meaning": "వివిధమైన",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "రత్నాని",
+      "meaning": "రత్నాలను",
+      "grammar": "నపుంసకలింగం, ద్వితీయా విభక్తి, బహువచనం"
+    },
+    {
+      "word": "చ",
+      "meaning": "మరియు",
+      "grammar": "అవ్యయం"
     }
-  ]
+  ],
+  "anvaya": "జలధిః తస్యై అతిశోభనం పఙ్కజం చ అదదత్। హిమవాన్ వాహనం సింహం, వివిధాని రత్నాని చ అదదత్।",
+  "tatparyam": {
+    "english": "The ocean gave her a most beautiful lotus. Himavan gave her a lion as her vehicle and various jewels.",
+    "telugu": "సముద్రుడు ఆమెకు అత్యంత శోభనమైన పద్మాన్ని ఇచ్చాడు. హిమాలయుడు వాహనంగా సింహాన్ని మరియు వివిధ రత్నాలను ఇచ్చాడు."
+  },
+  "samasas": [
+    {
+      "compound": "జలధిః",
+      "type": "ఉపపద తత్పురుష సమాసం — జలం ధత్తే ఇతి జలధిః; సముద్రుడు."
+    },
+    {
+      "compound": "పఙ్కజమ్",
+      "type": "ఉపపద తత్పురుష సమాసం — పఙ్కే జాయతే ఇతి పఙ్కజమ్; పద్మం."
+    },
+    {
+      "compound": "అతిశోభనమ్",
+      "type": "కర్మధారయ సమాసం — అతిశయేన శోభనం = అతిశోభనమ్."
+    }
+  ],
+  "sandhis": [
+    {
+      "joined_word": "అదదజ్జలధిః",
+      "split_words": "అదదత్ + జలధిః",
+      "sandhi_rule": "జశ్త్వ సంధి — త్ తరువాత జకారం రావడంతో జ్ ఆదేశం."
+    },
+    {
+      "joined_word": "జలధిస్తస్యై",
+      "split_words": "జలధిః + తస్యై",
+      "sandhi_rule": "విసర్గ సంధి — ఇః తరువాత తకారం రావడంతో స్ రూపం."
+    },
+    {
+      "joined_word": "చాతిశోభనమ్",
+      "split_words": "చ + అతిశోభనమ్",
+      "sandhi_rule": "సవర్ణదీర్ఘ సంధి — అ + అ = ఆ."
+    }
+  ],
+  "alamkaram_chandas": "ఛందస్సు: అనుష్టుప్. అలంకారం: సింహవాహనత్వ వర్ణనలో దేవి వీరరూప గాంభీర్యం స్పష్టమవుతుంది.",
+  "reading_issues_summary": "Uploaded text contained mixed-script ‘రत्నాని’. Normalized as ‘రత్నాని’."
 }
