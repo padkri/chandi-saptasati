@@ -855,6 +855,94 @@ body {
     margin-bottom: 18px;
 }
 
+.metadata-card {
+    height: auto;
+    min-height: calc(100vh - 120px);
+    overflow: visible;
+}
+
+.metadata-body {
+    color: var(--text-primary);
+    font-family: var(--font-sanskrit);
+    font-size: 1.1rem;
+    line-height: 1.85;
+    margin: 0 auto;
+    max-width: 860px;
+    overflow-wrap: anywhere;
+    padding-top: 6px;
+    width: 100%;
+}
+
+.metadata-body h2,
+.metadata-body h3,
+.metadata-body h4 {
+    color: var(--accent-hover);
+    font-family: var(--font-sanskrit);
+    font-weight: 800;
+    line-height: 1.35;
+    margin: 24px 0 10px;
+    text-align: center;
+}
+
+.metadata-body h2:first-child,
+.metadata-body h3:first-child,
+.metadata-body h4:first-child {
+    margin-top: 0;
+}
+
+.metadata-body h2 {
+    font-size: 1.55rem;
+}
+
+.metadata-body h3 {
+    font-size: 1.32rem;
+}
+
+.metadata-body h4 {
+    font-size: 1.16rem;
+}
+
+.metadata-body p {
+    margin: 0 0 14px;
+}
+
+.metadata-body ul,
+.metadata-body ol {
+    display: grid;
+    gap: 8px;
+    margin: 0 0 16px 24px;
+    padding: 0;
+}
+
+.metadata-body li {
+    padding-left: 4px;
+}
+
+.metadata-body strong {
+    color: var(--lotus-color);
+    font-weight: 800;
+}
+
+.metadata-body blockquote {
+    background: rgba(248, 229, 194, 0.42);
+    border-left: 4px solid var(--accent-color);
+    border-radius: var(--radius-sm);
+    color: var(--text-primary);
+    margin: 16px 0;
+    padding: 14px 18px;
+}
+
+.metadata-body blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+.metadata-body hr {
+    border: 0;
+    border-top: 1px solid var(--border-color);
+    margin: 22px auto;
+    max-width: 280px;
+}
+
 .chandas-meter {
     align-items: center;
     background: var(--bg-color);
